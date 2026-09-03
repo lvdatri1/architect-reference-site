@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+13:X
+18:X
+18:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"ERP systems\",\"description\":\"Order-to-cash, source-to-pay, plan-to-produce: the integrated module core behind SAP, Oracle, and Dynamics — and where the suite ends and the ecosystem begins.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/enterprise-resource-planning\",\"inLanguage\":\"en\",\"keywords\":\"erp, enterprise, integration, workflow, solution-architect, enterprise-architect, data-architect, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"erp\"},{\"@type\":\"Thing\",\"name\":\"enterprise\"},{\"@type\":\"Thing\",\"name\":\"integration\"},{\"@type\":\"Thing\",\"name\":\"workflow\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ERP systems\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/enterprise-resource-planning\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"ERP systems"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"ERP systems"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Order-to-cash, source-to-pay, plan-to-produce: the integrated module core behind SAP, Oracle, and Dynamics — and where the suite ends and the ecosystem begins."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],"$L3","$L4"]}],"Enterprise Architect"]}],"$L5","$L6"],["$L7","$L8","$L9","$La"]]}]]}],"$Lb","$Lc"]}],["$Ld","$Le","$Lf","$L10"],"$L11"]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$13","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$13","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$13","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+24:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+25:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+26:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","path",null,{"d":"M9 21v-4h6v4"}]
+4:["$","path",null,{"d":"M9 10V9m-2 1h4"}]
+5:["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}]
+6:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+7:["$","$L2","erp",{"href":"/tags/erp","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","erp"]}]
+8:["$","$L2","enterprise",{"href":"/tags/enterprise","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-emerald-50 text-emerald-700 ring-emerald-200","children":["#","enterprise"]}]
+9:["$","$L2","integration",{"href":"/tags/integration","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","integration"]}]
+a:["$","$L2","workflow",{"href":"/tags/workflow","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","workflow"]}]
+1e:T11a1,
+## What this system is
+
+An ERP is not a single app — it is a **suite of modules** (finance, procurement, manufacturing, inventory, HR) that share **one database and one master-data model**. The value proposition is brutally simple: one record of truth for the whole company, so the sales order the front office sees is the same sales order finance invoices and the warehouse ships. The price is equally simple: you configure within a package's boundaries instead of building your own.
+
+```mermaid
+flowchart LR
+  MO[Master data - customers, vendors, materials, GL accounts] --> F[Finance]
+  MO --> S[Supply chain]
+  MO --> M[Manufacturing]
+  MO --> P[Procurement]
+  MO --> H[Human resources]
+```
+
+## The process chains that define ERP
+
+Every module exists to serve one of five end-to-end chains. When someone says "ERP", they mean these five:
+
+| Chain | Starts with | Ends with | Touches |
+| --- | --- | --- | --- |
+| **Order-to-cash** | Customer order | Cash in the bank | Sales, inventory, logistics, AR, GL |
+| **Source-to-pay** | Purchase requisition | Supplier paid | Procurement, receiving, AP, GL |
+| **Plan-to-produce** | Demand forecast | Finished goods in stock | Supply planning, manufacturing, inventory |
+| **Record-to-report** | Business event | Financial statements | All modules, GL, reporting |
+| **Hire-to-retire** | Job requisition | Ex-employee offboarded | HR, payroll, identity |
+
+## Order-to-cash, the canonical chain
+
+```mermaid
+flowchart LR
+  SO[Sales order] --> AC[Availability check]
+  AC --> DL[Delivery / shipping]
+  DL --> IN[Invoice to customer]
+  IN --> AR[Accounts receivable]
+  AR --> GL[General ledger posting]
+```
+
+Each arrow is a **state change on shared documents** (order status, delivery status, invoice status). An ERP forces those states to agree; a mess of point-to-point systems lets each step drift. This is why the ERP wins on process integrity and loses on agility — changing the chain means changing the whole suite.
+
+## Config vs code
+
+| Decision | In an ERP | In custom code |
+| --- | --- | --- |
+| Business rules | Configuration tables, workflows | If/else in a service |
+| Changing a rule | Config change, retest the impact | Code change, redeploy |
+| The famous trap | Config drift nobody can explain | Customizations that block upgrades |
+| Best posture | Tune in-app config, keep custom code minimal and isolated | Only for true differentiators |
+
+The upgrade problem is where architectures are decided: **every customization becomes an upgrade tax**. The architects' rule is *configure, then extend via APIs — don't modify the package*.
+
+## The happy path, step by step
+
+```mermaid
+flowchart LR
+  SO["Sales order"] -->|validate + ATP| ATP["ATP check"]
+  ATP -->|fulfill| Del["Delivery"]
+  Del -->|invoice| Inv["Invoice + GL"]
+  Inv -->|settle AR| Cash["Payment received"]
+```
+
+## Tester checklist
+
+- Chain integrity: create an order, fulfill, invoice, and pay — every downstream document must pick up the upstream state automatically (no manual re-keying).
+- Master-data consistency: an address change on the customer master must propagate everywhere it is referenced, without duplicates.
+- Kit/multi-location: a single order split across warehouses must reconcile to one invoice and one GL posting.
+- Upgrade exposure: confirm no custom code bypasses standard validation posts (fields the suite expects).
+
+## Related systems
+
+- [Procurement (source-to-pay)](../procurement-source-to-pay) — the buying half of the same suite
+- [Warehouse management systems](../warehouse-management-systems) — where ERP inventory becomes physical movement
+- [Supply chain management](../supply-chain-management) — the planning layer above the ERP execution core
+- [HR systems](../hr-and-talent-systems) — the people module and its downstream feeds
+- [CRM systems](../crm-systems) — the front office that hands off to order-to-cash
+- [Housing management systems](../housing-management-systems) — asset-side property management outside the suite
+- [Tenancy management systems](../tenancy-management-systems) — the rental cash stream that posts to finance
+- [Integration patterns](../integration-patterns) — how the suite talks to everything outside it
+- [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) — where record-to-report data goes to be analyzed
+- [Business process modeling and management](../business-process-modeling-and-management) — the order-to-cash and procure-to-pay processes this suite executesb:["$","$L1d",null,{"source":"$1e"}]
+c:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","erp-finance-and-record-to-report",{"href":"/systems/erp-finance-and-record-to-report","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"ERP finance and record-to-report"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The finance heart of the ERP: general ledger, AP/AR, inventory valuation, period close, and how every operational transaction becomes a journal entry and a report."}]]}],["$","$L2","housing-management-systems",{"href":"/systems/housing-management-systems","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Housing management systems"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Units, occupancy, maintenance, and vendors: the property-asset side of residential real estate — where a building becomes a set of managed, marketable units."}]]}],["$","$L2","hr-and-talent-systems",{"href":"/systems/hr-and-talent-systems","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"HR systems"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Hire-to-retire: HRIS, payroll, talent, and the identity feeds that turn a new hire into a logged-in, paid employee — and a leaver into a deprovisioned one."}]]}]]}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+e:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+f:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+10:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+11:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+14:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ERP systems · System Reference"}],["$","meta","1",{"name":"description","content":"Order-to-cash, source-to-pay, plan-to-produce: the integrated module core behind SAP, Oracle, and Dynamics — and where the suite ends and the ecosystem begins."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"erp,enterprise,integration,workflow,solution-architect,enterprise-architect,data-architect,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/enterprise-resource-planning/"}],["$","meta","8",{"property":"og:title","content":"ERP systems · System Reference"}],["$","meta","9",{"property":"og:description","content":"Order-to-cash, source-to-pay, plan-to-produce: the integrated module core behind SAP, Oracle, and Dynamics — and where the suite ends and the ecosystem begins."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/enterprise-resource-planning/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"ERP systems · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Order-to-cash, source-to-pay, plan-to-produce: the integrated module core behind SAP, Oracle, and Dynamics — and where the suite ends and the ecosystem begins."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L24","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+1c:true
+21:null
+13:300
+13:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+12:"$undefined"

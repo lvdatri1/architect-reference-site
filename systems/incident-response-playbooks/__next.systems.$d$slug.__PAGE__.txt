@@ -1,0 +1,139 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Incident response playbooks\",\"description\":\"The prepared scripts that turn 'something is wrong' into a calm, repeatable response — phases, roles, decision trees, and the post-incident loop that makes the next one faster.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/incident-response-playbooks\",\"inLanguage\":\"en\",\"keywords\":\"security, incident-response, operations, workflow, security-architect, cloud-engineer, devops-engineer, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"incident-response\"},{\"@type\":\"Thing\",\"name\":\"operations\"},{\"@type\":\"Thing\",\"name\":\"workflow\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Incident response playbooks\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/incident-response-playbooks\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Incident response playbooks"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Incident response playbooks"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The prepared scripts that turn 'something is wrong' into a calm, repeatable response — phases, roles, decision trees, and the post-incident loop that makes the next one faster."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}],["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":"$L3"}],"Cloud Engineer"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]
+4:["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}]
+5:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+6:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+7:["$","$L2","incident-response",{"href":"/tags/incident-response","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","incident-response"]}]
+8:["$","$L2","operations",{"href":"/tags/operations","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","operations"]}]
+9:["$","$L2","workflow",{"href":"/tags/workflow","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","workflow"]}]
+1d:T1c0d,
+## What this system is
+
+An incident response (IR) playbook is a **prepared, rehearsed runbook** for a specific class of bad day: ransomware, phishing, credential compromise, data breach, DDoS, insider threat. Its purpose is to remove *thinking under panic* — when the page fires, people execute a known script instead of improvising. Unlike an alert or a ticket, a playbook is **scenario-shaped**, has **owners per step**, and ends with a **lessons-learned loop**. The IR team's real product is not "response" — it's the book of playbooks.
+
+```mermaid
+flowchart TB
+  DET[Detect] --> TRI[Initial triage]
+  TRI -->|confirmed incident?| ESC[Declare + escalate]
+  TRI -->|false positive| CLOSE[Close as no-incident]
+  ESC --> CON[Contain - slow the bleeding]
+  CON --> ERA[Eradicate - remove the cause]
+  ERA --> REC[Recover - restore verified service]
+  REC --> LES[Lessons learned - update the playbook]
+  LES --> DET
+```
+
+## The phase model (whatever framework you use)
+
+| Phase | The question | What happens | Typical owner |
+| --- | --- | --- | --- |
+| **Preparation** | What will we do before? | Playbooks, tools, access, comms channels, contacts | Security leadership |
+| **Detection & triage** | Is this real and how bad? | Verify the alert, assess scope, assign a severity/pager | SOC / on-call |
+| **Containment** | How do we stop the spread *now*? | Isolate hosts, kill access, revoke creds, cut egress | IR team + network |
+| **Eradication** | What is the root cause to remove? | Remove malware, close the path, patch, change secrets | Security engineering |
+| **Recovery** | When is it safe to come back? | Restore from verified back-ups, re-enable services, validate | Service owners |
+| **Lessons learned** | What changes before the next one? | Root-cause review, playbook edits, training, budgets | The whole team |
+
+The mental model: **detect is cheap to perform and expensive to get wrong; contain is the hour that saves the estate.** Most of a playbook's value sits in triage (who decides) and containment (the first concrete actions), because those run while everything is still on fire.
+
+## A concrete playbook skeleton (credential compromise)
+
+```mermaid
+flowchart TD
+  A[Cred leak / token theft detected] --> B{Scope: user, app, or admin?}
+  B -->|user| C[Revoke user sessions + force password reset]
+  B -->|app / token| D[Rotate app credentials + invalidate tokens]
+  B -->|admin / privileged| E[Crime-scene: isolate host, kill sessions]
+  C --> F[Audit recent sign-ins + unusual actions]
+  D --> F
+  E --> F
+  F --> G{Any evidence of wider breach?}
+  G -->|yes| H[Declare elevated incident - engage full IR]
+  G -->|no| I[Contain closed - monitor + document]
+```
+
+Good playbooks share a skeleton even when the scenario differs:
+
+1. **Trigger conditions** — exactly which alerts/tickets start this playbook.
+2. **Initial actions (5–15 min)** — revoke, isolate, kill, reset: the steps that buy time.
+3. **Decision gates** — branching logic ("if admin → different path") with named deciders.
+4. **Escalation tree** — who gets engaged at which severity, with a page tree not a guessing game.
+5. **Evidence preservation** — what to collect and where, before anyone "fixes" the evidence away.
+6. **Verification + handoff** — how everyone knows containment actually worked and who's running recovery.
+7. **Retrospective hooks** — where lessons feed back (and the playbook gets edited for next time).
+
+## Why playbooks fail in the real world
+
+| Failure | The real reason | The fix |
+| --- | --- | --- |
+| **Written, not rehearsed** | A playbook nobody has ever run in a drill | Tabletop exercises and fire drills on a schedule |
+| **No named owners** | "Security team" is a meeting, not a person | Every step gets a named owner + a back-up |
+| **Tools aren't provisioned** | The playbook says "revoke" but the revoke tool isn't accessible to on-call | DRY-RUN the access: can the on-call person actually do the step? |
+| **Stale playbooks** | Systems changed, playbook didn't | Version inside the [CMDB](../cmdb-and-configuration-management) and re-validate on infra change |
+| **Communications gap** | Ransomware raced the playbook; nobody told the business | A comms tree and template messages as part of the playbook |
+| **Recovery without verification** | Service "restored" from backups that were also encrypted/laggy | Verified restores (test the backup, not just believe the copy) |
+
+The deepest rule: **a playbook is a living document, not a deliverable.** If it's not edited after every incident and exercised between them, it's shelfware with a security branding.
+
+## The post-incident loop (where teams actually improve)
+
+```mermaid
+flowchart LR
+  INC[Incident closed] --> R[Retrospective]
+  R --> FB[Findings: people / process / tech]
+  FB --> PLAY[Update the playbook]
+  PLAY --> DRILL[Drill / tabletop]
+  DRILL --> PREP[Shorter time-to-contain next time]
+```
+
+The retrospective must separate blame from cause, then turn findings into **three concrete edits**: the playbook (steps), the tooling (access/automation gaps), and the training (who wasn't ready). An incident response capability that doesn't measure time-to-contain across incidents isn't learning — it's just documenting.
+
+## Tester checklist
+
+- **Trigger fidelity**: raise the exact alert a playbook starts on and confirm the playbook's trigger conditions match reality (no "we don't use that alert anymore").
+- **5-minute test**: hand a fresh on-call person the playbook and the tools, and time them to the *first concrete containment action* — it must be under the target, unaided.
+- **Decision-gate walk**: simulate both branches of a gate (user vs admin credential hit) and confirm each path resolves with its named decider, not an abandoned thread.
+- **Tool reality check**: for each step claiming "revoke/reset/isolate," confirm the on-call role actually has that permission in production — the playbook must match the [RBAC](../rbac-and-authorization) reality.
+- **Backup verification**: restores in the playbook come from backups that have been *test-restored* to a known-good point, not merely "scheduled."
+- **Playbook CX after an incident**: after a drill or real incident, the retrospective produced a measurable edit (step, tool, or owner) — not just a meeting's minutes.
+
+## Related systems
+
+- [Security operations center (SOC)](../security-operations-center-soc) — where detection runs and where playbook execution is orchestrated
+- [Endpoint security architecture](../endpoint-security-architecture) — the containment layer (isolate host, kill process, revoke) that playbooks trigger
+- [Zero trust architecture](../zero-trust-architecture) — the posture model that makes containment "revoke once, everywhere"
+- [Threat modeling (STRIDE)](../threat-modeling-stride) — where the scenarios a playbook must cover come from
+- [DevOps delivery loop](../devops-delivery-loop) and [ITIL incident management](../itil-incident-and-problem-management) — the sibling operations loops playbooks share a rhythm with
+- [CMDB and configuration management](../cmdb-and-configuration-management) — where playbook owners and affected CIs get versioneda:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","endpoint-security-architecture",{"href":"/systems/endpoint-security-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Endpoint security architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The layered stack that protects every device — enrollment, posture, EDR/AV, patching, encryption, and policy — and how zero trust turns each endpoint into a verifiable identity."}]]}],["$","$L2","itil-incident-and-problem-management",{"href":"/systems/itil-incident-and-problem-management","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"ITIL incident and problem management"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Restore fast, then stop it recurring: the incident lifecycle and priority matrix, problem management's chase after root cause, and how the known-error pipeline shrinks the next outage."}]]}],["$","$L2","joiner-mover-leaver",{"href":"/systems/joiner-mover-leaver","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Joiner-mover-leaver (JML)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The identity lifecycle as a system: every hire, transfer, and exit is an event that adds or strips access — automatically."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Incident response playbooks · System Reference"}],["$","meta","1",{"name":"description","content":"The prepared scripts that turn 'something is wrong' into a calm, repeatable response — phases, roles, decision trees, and the post-incident loop that makes the next one faster."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"security,incident-response,operations,workflow,security-architect,cloud-engineer,devops-engineer,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/incident-response-playbooks/"}],["$","meta","8",{"property":"og:title","content":"Incident response playbooks · System Reference"}],["$","meta","9",{"property":"og:description","content":"The prepared scripts that turn 'something is wrong' into a calm, repeatable response — phases, roles, decision trees, and the post-incident loop that makes the next one faster."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/incident-response-playbooks/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Incident response playbooks · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The prepared scripts that turn 'something is wrong' into a calm, repeatable response — phases, roles, decision trees, and the post-incident loop that makes the next one faster."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

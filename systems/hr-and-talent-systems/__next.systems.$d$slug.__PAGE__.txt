@@ -1,0 +1,115 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"HR systems\",\"description\":\"Hire-to-retire: HRIS, payroll, talent, and the identity feeds that turn a new hire into a logged-in, paid employee — and a leaver into a deprovisioned one.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/hr-and-talent-systems\",\"inLanguage\":\"en\",\"keywords\":\"hr, identity, integration, workflow, solution-architect, enterprise-architect, data-architect, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"hr\"},{\"@type\":\"Thing\",\"name\":\"identity\"},{\"@type\":\"Thing\",\"name\":\"integration\"},{\"@type\":\"Thing\",\"name\":\"workflow\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"HR systems\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/hr-and-talent-systems\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"HR systems"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"HR systems"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Hire-to-retire: HRIS, payroll, talent, and the identity feeds that turn a new hire into a logged-in, paid employee — and a leaver into a deprovisioned one."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],"$L3"]}],"Enterprise Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","path",null,{"d":"M9 10V9m-2 1h4"}]
+4:["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}]
+5:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+6:["$","$L2","hr",{"href":"/tags/hr","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","hr"]}]
+7:["$","$L2","identity",{"href":"/tags/identity","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","identity"]}]
+8:["$","$L2","integration",{"href":"/tags/integration","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","integration"]}]
+9:["$","$L2","workflow",{"href":"/tags/workflow","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","workflow"]}]
+1d:T1184,
+## What this system is
+
+HR systems cover the second-most-sensitive master data a company owns — **people**. The core is the HRIS/HCM: the authoritative employee record (hire date, org, job, comp, location). Around it orbit payroll, benefits, time & attendance, recruiting (ATS), and learning. Below it sits the integration that matters most operationally: **every HR event fanning out to identity, access, and finance**.
+
+```mermaid
+flowchart LR
+  H[Hire event] --> R[HRIS - employee record]
+  R --> P[Payroll]
+  R --> B[Benefits + time]
+  R --> I[Identity provisioning]
+  R --> F[Finance - cost center postings]
+```
+
+## The hire-to-retire chain
+
+```mermaid
+flowchart LR
+  J[Job requisition] --> Recruit[Recruiting - ATS]
+  Recruit --> Offer[Hire - HRIS record]
+  Offer --> Provision[Provision identity + accounts]
+  Provision --> Move[Transfers and changes over time]
+  Move --> Term[Termination / offboarding]
+  Term --> Deprovision[Deprovision identity + access]
+  Term --> Pay[Final pay + compliance records]
+```
+
+The chain is an **event bus with states**: the terminal states matter as much as the happy path. A leaver whose identity is never deprovisioned is the classic insider-threat hole. This guide deliberately pairs with [joiner-mover-leaver](../joiner-mover-leaver) — that page owns the access half.
+
+## The HR systems landscape
+
+| System | Owns | Master data | Common failure mode |
+| --- | --- | --- | --- |
+| HRIS / HCM | Authoritative employee record, org, jobs | Name, ID, hire/term dates, org, comp, location | Corrections never propagate downstream |
+| Payroll | Pay runs, taxes, banking | Pay rates, bank details, tax jurisdiction | Wrong file released on cutoff day |
+| ATS (talent) | Candidates, requisitions, interviews | Candidate + applicant trackers | Duplicate candidate records |
+| Benefits / time | Enrollment, leave, attendance | Plan elections, time balances | Missed yearly open-enrollment sync |
+| Learning / performance | Courses, goals, reviews | Course IDs, reviewer links | Orphaned learning plans |
+
+## The field of derivatives
+
+Almost every downstream system is a **derived copy** of the HRIS record: identity systems, single sign-on, directories, finance cost-center postings, benefits carriers, learning platforms. The HRIS is the source of truth; everything else subscribes. Two integration truths follow:
+
+- **Identity provisioning is correctness, not convenience.** Provisioners (SCIM) turn HR events into directory/SSO/application access mechanically. Verifiable either way: the new hire can sign in before the first day, or the mystery of why they can't is traced here first.
+- **Payroll is the highest-consequence batch.** A single run touches thousands of bank movements and statutory filings. Nobody "fixes it in the next release" without regulatory impact.
+
+## The hire → first paycheck path
+
+```mermaid
+flowchart LR
+  Hire["Hire event"] -->|create| HRIS["HRIS record"]
+  HRIS -->|SCIM provision| ID["Identity + directory"]
+  ID -->|first login| SSO["Single sign-on"]
+  HRIS -->|payroll setup| Pay["Payroll setup"]
+  Pay -->|run payroll| Bank["Bank + compliance"]
+  SSO -->|access| Ready["Productive employee"]
+  Bank -->|pay| Ready
+```
+
+## Tester checklist
+
+- Joiner: with only an HR event dated in the future, confirm the identity record exists and is *disabled* until the effective date, and the correct SSO/app grants activate on it.
+- Mover: a transfer changing cost center must post to finance with the new org, not silently keep the old one.
+- Leaver: termination date passes → accounts deprovisioned, sessions revoked, licenses reclaimed, payroll closed out.
+- Payroll cutoff: a change arriving after the payroll batch snapshot must NOT mutate that already-closed run.
+- Data quality: a corrected SSN/name in HRIS must flow to every derivative with no stale duplicate.
+
+## Related systems
+
+- [Joiner-mover-leaver](../joiner-mover-leaver) — the access lifecycle that HR events trigger
+- [SCIM identity provisioning](../scim-identity-provisioning) — the wire protocol that propagates HR to identity
+- [Single sign-on (SSO)](../single-sign-on-sso) — the session layer the employee logs into
+- [Privileged identity management](../privileged-identity-management) — elevated access for HR admins themselves
+- [ERP systems](../enterprise-resource-planning) — hire-to-retire is one of the five ERP chains
+- [Data governance and catalog](../data-governance-and-catalog) — HR data is PII-heavy and heavily governeda:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","enterprise-resource-planning",{"href":"/systems/enterprise-resource-planning","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"ERP systems"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Order-to-cash, source-to-pay, plan-to-produce: the integrated module core behind SAP, Oracle, and Dynamics — and where the suite ends and the ecosystem begins."}]]}],["$","$L2","housing-management-systems",{"href":"/systems/housing-management-systems","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Housing management systems"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Units, occupancy, maintenance, and vendors: the property-asset side of residential real estate — where a building becomes a set of managed, marketable units."}]]}],["$","$L2","procurement-source-to-pay",{"href":"/systems/procurement-source-to-pay","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Procurement (source-to-pay)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Requisition, purchase order, goods receipt, invoice, 3-way match: the source-to-pay chain and where spend turns into a controlled financial process."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"HR systems · System Reference"}],["$","meta","1",{"name":"description","content":"Hire-to-retire: HRIS, payroll, talent, and the identity feeds that turn a new hire into a logged-in, paid employee — and a leaver into a deprovisioned one."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"hr,identity,integration,workflow,solution-architect,enterprise-architect,data-architect,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/hr-and-talent-systems/"}],["$","meta","8",{"property":"og:title","content":"HR systems · System Reference"}],["$","meta","9",{"property":"og:description","content":"Hire-to-retire: HRIS, payroll, talent, and the identity feeds that turn a new hire into a logged-in, paid employee — and a leaver into a deprovisioned one."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/hr-and-talent-systems/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"HR systems · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Hire-to-retire: HRIS, payroll, talent, and the identity feeds that turn a new hire into a logged-in, paid employee — and a leaver into a deprovisioned one."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

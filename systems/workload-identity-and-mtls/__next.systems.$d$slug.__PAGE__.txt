@@ -1,0 +1,114 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+10:X
+15:X
+15:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Workload identity and mTLS\",\"description\":\"Machines get identities too: SPIFFE/SPIRE, sidecar proxies, service meshes, and how east-west traffic stops service impersonation.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/workload-identity-and-mtls\",\"inLanguage\":\"en\",\"keywords\":\"identity, security, architecture, zero-trust, backend, security-architect, solution-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"identity\"},{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"zero-trust\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Workload identity and mTLS\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/workload-identity-and-mtls\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Workload identity and mTLS"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Workload identity and mTLS"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Machines get identities too: SPIFFE/SPIRE, sidecar proxies, service meshes, and how east-west traffic stops service impersonation."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}],["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Solution Architect"]}]],["$L4","$L5","$L6","$L7"]]}]]}],"$L8","$L9"]}],["$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":"$@f","staleTime":"$10","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$10","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$10","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$10","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1c:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+21:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+22:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+23:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}]
+4:["$","$L2","identity",{"href":"/tags/identity","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","identity"]}]
+5:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+6:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+7:["$","$L2","zero-trust",{"href":"/tags/zero-trust","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","zero-trust"]}]
+1b:Tf63,
+## What this system is
+
+Users have identities; so do workloads. **Workload identity** gives every service, container, and pod a cryptographic identity, and **mTLS** uses it to encrypt *and* authenticate calls between services — closing the east-west traffic hole that firewalls never saw.
+
+```mermaid
+flowchart LR
+  A["Service A<br/>spiffe://corp/catalog/a"] -->|sidecar| X1[Sidecar proxy]
+  X1 -->|mTLS + SPIFFE trust| X2[Sidecar proxy]
+  X2 -->|labeled untrusted unless verified| B["Service B<br/>spiffe://corp/orders/b"]
+```
+
+## User identity vs workload identity
+
+| | User identity | Workload identity |
+| --- | --- | --- |
+| Proves | A human logged in | A workload *is* what it claims (its SPIFFE ID) |
+| Carried in | Tokens / cookies | Short-lived X.509 certs presented on the connection |
+| For you | SSO, OIDC, MFA | SPIFFE/SPIRE, service mesh, cloud SA (Workload Identity) |
+| Expiry | Minutes-to-hours sessions | Hours-to-minutes certs, rotated continuously |
+
+The mental model: **mTLS proves the *service*, tokens prove the *request*.** Both must hold — "known service" alone must never equate to "allowed to read everything."
+
+## SPIFFE and SPIRE
+
+```mermaid
+sequenceDiagram
+  participant W as Workload (pod)
+  participant A as SPIRE agent
+  participant S as SPIFFE server
+
+  W->>A: request identity for spiffe://corp/catalog/a (attested by k8s metadata)
+  A->>S: attestation check (agent valid, node trusted)
+  S-->>A: short-lived identity (SVID cert + key)
+  A-->>W: hand to workload, burned into sidecar memory
+  Note over W,S: SVIDs rotate automatically - no human, no static keys
+```
+
+**SPIRE** is the reference implementation of producing short-lived service identities from the platform's own attestation (pod labels, node trust, instance metadata). The identity is whatever the platform says, per policy — no stored secrets, auto-rotating certs.
+
+## The sequence of a secure call
+
+```mermaid
+sequenceDiagram
+  participant SA as Service A (orders)
+  participant SX as Sidecar X
+  participant SY as Sidecar Y
+  participant SB as Service B (payments)
+
+  SA->>SX: local connection
+  SX->>SY: TLS with client cert (spiffe://corp/orders/a), server cert (spiffe://corp/payments/b)
+  SY->>SX: certs validated - both X.509 chain to the SPIFFE trust root
+  SX->>SY: allow (or policy: only orders may call payments with v2 header)
+  SY->>SB: plaintext into the pod
+  SB-->>SA: response returns
+```
+
+Service meshes (Istio, Linkerd) implement this as zero-code: the sidecar proxies intercept all traffic, present/validate the identities, and apply L7 policy (who may call whom, with what).
+
+## Why not just encrypt everything at the wall
+
+A firewall/LB terminates TLS at the edge — inside the cluster it's usually plaintext. mTLS between every pair matters because **attackers are already inside** (assume breach): they land in one pod, and without workload identity they can impersonate any caller to any service. mTLS turns a one-command pivot into "attackers would need to steal a live rotated key from a trusted pod."
+
+## Tester checklist
+
+- Call service B impersonating service C's SPIFFE ID and confirm the handshake/client-cert validation fails.
+- Kill a pod; its SVID must be invalidated quickly (short expiry, tight rotation, no golden access).
+- Check that a *known* workload still cannot call endpoints policy forbids (identity grants authenticity, not authority).
+- Rotate the trust bundle and verify all running workloads re-trust without downtime.
+
+## Related systems
+
+- [Zero Trust architecture](../zero-trust-architecture) — the umbrella for live identity + micro-segmentation
+- [Secrets, certificates and PKI](../secrets-certificates-and-pki) — the crypto backbone these certs hang on
+- [Conditional access and policy engines](../conditional-access-and-policy-engines) — policy applied to workload calls too
+- [TCP/IP and TLS](../tcp-ip-and-tls) — the transport protocol doing the actual encryption8:["$","$L1a",null,{"source":"$1b"}]
+9:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","government-identity-piv-ficam",{"href":"/systems/government-identity-piv-ficam","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Government identity: PIV/CAC and NIST 800-63"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Federal identity done right: PIV and CAC cards, FICAM architecture, NIST 800-63 identity assurance levels (IAL/AAL), and how agencies, contractors, and citizens get verified once and federate everywhere."}]]}],["$","$L2","zero-trust-architecture",{"href":"/systems/zero-trust-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Zero Trust architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Never trust, always verify — identity-aware, micro-segmented networks that assume breach instead of defending a perimeter."}]]}],["$","$L2","conditional-access-and-policy-engines",{"href":"/systems/conditional-access-and-policy-engines","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Conditional access and policy engines"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The PDP/PEP decision loop, the signals that feed it, per-request vs continuous evaluation, and just-in-time privilege."}]]}]]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+c:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+d:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+e:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+11:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Workload identity and mTLS · System Reference"}],["$","meta","1",{"name":"description","content":"Machines get identities too: SPIFFE/SPIRE, sidecar proxies, service meshes, and how east-west traffic stops service impersonation."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"identity,security,architecture,zero-trust,backend,security-architect,solution-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/workload-identity-and-mtls/"}],["$","meta","8",{"property":"og:title","content":"Workload identity and mTLS · System Reference"}],["$","meta","9",{"property":"og:description","content":"Machines get identities too: SPIFFE/SPIRE, sidecar proxies, service meshes, and how east-west traffic stops service impersonation."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/workload-identity-and-mtls/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Workload identity and mTLS · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Machines get identities too: SPIFFE/SPIRE, sidecar proxies, service meshes, and how east-west traffic stops service impersonation."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L21","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+19:true
+1e:null
+10:300
+10:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+f:"$undefined"

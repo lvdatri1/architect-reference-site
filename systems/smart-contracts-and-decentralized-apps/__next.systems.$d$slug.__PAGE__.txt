@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+16:X
+1b:X
+1b:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Smart Contracts and Decentralized Apps\",\"description\":\"Smart contracts, wallets, tokens, and dApp frontends — how programmable logic and self-custody put application state on an open, incentive-aligned blockchain.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/smart-contracts-and-decentralized-apps\",\"inLanguage\":\"en\",\"keywords\":\"web3, smart-contracts, tokens, wallets, decentralization, blockchain, developer, frontend, backend, tester, solution-architect, security-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"web3\"},{\"@type\":\"Thing\",\"name\":\"smart-contracts\"},{\"@type\":\"Thing\",\"name\":\"tokens\"},{\"@type\":\"Thing\",\"name\":\"wallets\"},{\"@type\":\"Thing\",\"name\":\"decentralization\"},{\"@type\":\"Thing\",\"name\":\"blockchain\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Smart Contracts and Decentralized Apps\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/smart-contracts-and-decentralized-apps\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Smart Contracts and Decentralized Apps"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Smart Contracts and Decentralized Apps"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Smart contracts, wallets, tokens, and dApp frontends — how programmable logic and self-custody put application state on an open, incentive-aligned blockchain."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","frontend",{"href":"/jobs/frontend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Frontend icon","children":"$L3"}],"Frontend"]}],"$L4","$L5","$L6","$L7"],["$L8","$L9","$La","$Lb","$Lc","$Ld"]]}]]}],"$Le","$Lf"]}],["$L10","$L11","$L12","$L13"],"$L14"]}],"isPartial":"$@15","staleTime":"$16","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$16","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$16","varyParams":"$1b"},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$16","varyParams":"$1b"}],"isUpgradeableISRFallback":false,"a":"$@1e","rootVaryParams":null,"needsRuntimeRequest":"$@1f"}
+20:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+23:"$Sreact.suspense"
+25:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+26:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+27:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+28:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+29:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","path",null,{"d":"M3 5.5A2.5 2.5 0 0 1 5.5 3h13A2.5 2.5 0 0 1 21 5.5v13a2.5 2.5 0 0 1-2.5 2.5h-13A2.5 2.5 0 0 1 3 18.5v-13Z"}],["$","line",null,{"x1":3,"y1":8.5,"x2":21,"y2":8.5}],["$","line",null,{"x1":8,"y1":5.5,"x2":8,"y2":8.5}],["$","line",null,{"x1":12,"y1":5.5,"x2":12,"y2":8.5}]]
+4:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+5:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+6:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+7:["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}]
+8:["$","$L2","web3",{"href":"/tags/web3","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-sky-50 text-sky-700 ring-sky-200","children":["#","web3"]}]
+9:["$","$L2","smart-contracts",{"href":"/tags/smart-contracts","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-rose-50 text-rose-700 ring-rose-200","children":["#","smart-contracts"]}]
+a:["$","$L2","tokens",{"href":"/tags/tokens","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-orange-50 text-orange-700 ring-orange-200","children":["#","tokens"]}]
+b:["$","$L2","wallets",{"href":"/tags/wallets","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","wallets"]}]
+c:["$","$L2","decentralization",{"href":"/tags/decentralization","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","decentralization"]}]
+d:["$","$L2","blockchain",{"href":"/tags/blockchain","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-orange-50 text-orange-700 ring-orange-200","children":["#","blockchain"]}]
+21:T17f6,
+## What this system is
+
+**Smart contracts** are programs deployed onto a blockchain that execute deterministically on every node — code becomes a shared, verifiable public API. A **decentralized application (dApp)** is the combination of a smart contract (the back end, living on-chain) and a normal web front end (off-chain), plus a **wallet** the user uses to sign transactions.
+
+Where a traditional app trusts a server, a dApp trusts *everyone running the contract*. There is no admin account that can edit the ledger's history for a public chain; rules are enforced by the consensus rules described in [Blockchain fundamentals](../blockchain-fundamentals), not by an operator.
+
+```mermaid
+flowchart LR
+    U[User in a browser] --> F[dApp front end<br/>plain HTML/JS]
+    F --> W[Wallet<br/>holds private keys]
+    W -->|signed transaction| R[RPC endpoint<br/>gateway to chain]
+    R --> C[Smart contract<br/>on-chain logic + state]
+    C --> E[Blockchain consensus<br/>validates and executes]
+```
+
+## What problem it solves
+
+| Classic flow | dApp counterpart |
+| --- | --- |
+| A server holds a database of balances and a ledger | Balances and state live in the contract's storage, visible to all |
+| Back-end logic can be changed or hot-patched at will | Deployed on-chain code is immutable; upgrades are explicit and auditable |
+| Users trust the operator not to freeze or censor them | No operator can silently censor a transaction that pays the fee |
+| Ownership is "whoever controls the server" | Ownership is "whoever controls the private keys" (self-custody) |
+
+The trade-off is real: the same transparency that removes the operator a trust also removes user privacy (everyone can read all balances) and places strict limits on throughput, so contracts keep only *essential* logic and state on-chain.
+
+## Anatomy of a transaction
+
+```mermaid
+sequenceDiagram
+    participant WAL as "Wallet"
+    participant DAPP as "dApp front end"
+    participant RPC as "RPC provider"
+    participant MEM as "Mempool"
+    participant EXEC as "Contract execution"
+    participant FINAL as "Confirmed in a block"
+    WAL->>DAPP: authorize call
+    DAPP->>RPC: submit tx
+    RPC->>MEM: queue
+    MEM->>EXEC: included in block
+    EXEC->>FINAL: committed
+```
+
+## Tokens: fungible and non-fungible
+
+| Token type | Example standard | Behavior |
+| --- | --- | --- |
+| **Fungible** | ERC-20 (Ethereum) | Every unit is interchangeable — currency, staking rewards, governance votes |
+| **Non-fungible (NFT)** | ERC-721 | Each token is unique — deeds, collectibles, digital art, licenses |
+| **Semi-fungible / soulbound** | ERC-1155 / custom | Mixes or non-transferable credentials — the bridge to [decentralized identity](../decentralized-identity-and-verifiable-credentials) |
+
+A token contract is itself just a smart contract keeping a mapping of addresses to balances, with rules like emit an event, transfer, approve, and mint/burn. Any contract or wallet can read those transfers — which is why [Data pipelines (ETL/ELT)](../data-pipelines-etl-elt) indexers exist to normalize on-chain events into analytics tables.
+
+## Wallets and key custody
+
+- **Self-custody**: the wallet holds the private keys; losing them is losing the funds. No "I forgot my password — reset me" path exists.
+- **Seed phrase**: keys are derived from a BIP-039 mnemonic; it *is* the account, so it must be handled like [Secrets, certificates and PKI](../secrets-certificates-and-pki) secrets.
+- **Hierarchical deterministic (HD) wallets**: one seed derives many addresses, so a dApp can request sub-accounts per session.
+- **Contracts as wallets**: multi-sig and smart wallets enforce rules like "need 2 of 3 signers" — moving account policy from a human to code.
+
+## When dApps make sense
+
+- **Open financial primitives** — lending, swaps, stablecoins where transparency and composability beat operator trust.
+- **Governance and DAOs** — tokens give votes, and the treasury is a contract, so spending is verifiable by anyone.
+- **Protocols that other developers build on** — composability: your contract can call my contract, both serving the same shared state.
+- **Self-custody products** — users genuinely control their assets rather than a company's account table.
+
+When in doubt, prefer a normal app: dApps trade performance, privacy, and upgradeability for decentralization. If the "trust third party removed" is a feature you do not actually need, a traditional architecture is cheaper and faster.
+
+## Tester checklist
+
+- Verify the front end never holds keys: signing happens in the wallet, and the dApp only sees the signed payload.
+- Test gas/revert paths: confirm the UI reflects a failed transaction (state rollback) instead of silently reporting success.
+- Validate access control: call admin-only contract functions as a non-admin and confirm they revert.
+- Check reentrancy and integer-overflow behavior with a dedicated security review — these are the classic exploit classes.
+- Confirm the UI reads fresh state (post-confirmation) and does not show optimistic stale balances.
+- Exercise multi-sig wallets: a transaction authorized by fewer than the quorum must remain pending and unexecutable.
+- Verify wallet disconnect/revocation: permissions granted to the dApp are revocable and never persist keys.
+
+## Related systems
+
+- [Blockchain fundamentals](../blockchain-fundamentals) — the ledger and consensus the contract runs on
+- [Decentralized identity and verifiable credentials](../decentralized-identity-and-verifiable-credentials) — wallets as identity, credentials as claims
+- [Data pipelines (ETL/ELT)](../data-pipelines-etl-elt) — indexing on-chain events for analytics
+
+## Deep dives
+
+- [Secrets, certificates and PKI](../secrets-certificates-and-pki) — key generation, custody, and hardware wallets
+- [OWASP Top 10](../owasp-top-10) — adapting web app risk assessment to on-chain code
+- [API request lifecycle](../api-request-lifecycle) — how RPC gateways and indexers act as the "API layer" of the chain
+- [MCP and A2A protocols](../mcp-and-a2a-protocols) — connecting agent workflows to on-chain servicese:["$","$L20",null,{"source":"$21"}]
+f:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","decentralized-identity-and-verifiable-credentials",{"href":"/systems/decentralized-identity-and-verifiable-credentials","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Decentralized Identity and Verifiable Credentials"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Self-sovereign identity: Decentralized Identifiers (DIDs), verifiable credentials, and the issuer-holder-verifier triangle replacing centralized account databases."}]]}],["$","$L2","blockchain-fundamentals",{"href":"/systems/blockchain-fundamentals","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Blockchain Fundamentals"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Distributed ledgers, cryptographic hashes, consensus mechanisms, and immutability — the primitives that let mutually distrusting nodes share state without a central authority."}]]}],["$","$L2","ecommerce-platform-architecture",{"href":"/systems/ecommerce-platform-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"E-commerce platform architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Storefront to store room: catalog, cart, checkout, payments, order management, fulfillment, and the returns loop — and where the money lands in the ERP."}]]}]]}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+11:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+12:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+13:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+14:["$","$L22",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+17:["$","$1","h",{"children":[null,["$","$L25",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L26",null,{"children":["$","$23",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Smart Contracts and Decentralized Apps · System Reference"}],["$","meta","1",{"name":"description","content":"Smart contracts, wallets, tokens, and dApp frontends — how programmable logic and self-custody put application state on an open, incentive-aligned blockchain."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"web3,smart-contracts,tokens,wallets,decentralization,blockchain,developer,frontend,backend,tester,solution-architect,security-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/smart-contracts-and-decentralized-apps/"}],["$","meta","8",{"property":"og:title","content":"Smart Contracts and Decentralized Apps · System Reference"}],["$","meta","9",{"property":"og:description","content":"Smart contracts, wallets, tokens, and dApp frontends — how programmable logic and self-custody put application state on an open, incentive-aligned blockchain."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/smart-contracts-and-decentralized-apps/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Smart Contracts and Decentralized Apps · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Smart contracts, wallets, tokens, and dApp frontends — how programmable logic and self-custody put application state on an open, incentive-aligned blockchain."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L27","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+19:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+1c:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+1f:true
+24:null
+16:300
+16:C
+1e:0
+18:"$undefined"
+1a:"$undefined"
+1d:"$undefined"
+15:"$undefined"

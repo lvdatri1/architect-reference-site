@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+11:X
+16:X
+16:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Business process modeling and management\",\"description\":\"From process maps to running workflows: BPMN notation, process decomposition, the process lifecycle — model, automate, measure, improve — and where a process ends and a software system begins.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/business-process-modeling-and-management\",\"inLanguage\":\"en\",\"keywords\":\"bpm, workflow, process, architecture, enterprise-architect, solution-architect, backend\",\"about\":[{\"@type\":\"Thing\",\"name\":\"bpm\"},{\"@type\":\"Thing\",\"name\":\"workflow\"},{\"@type\":\"Thing\",\"name\":\"process\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Business process modeling and management\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/business-process-modeling-and-management\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Business process modeling and management"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Business process modeling and management"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"From process maps to running workflows: BPMN notation, process decomposition, the process lifecycle — model, automate, measure, improve — and where a process ends and a software system begins."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":"$L3"}],"Solution Architect"]}],"$L4"],["$L5","$L6","$L7","$L8"]]}]]}],"$L9","$La"]}],["$Lb","$Lc","$Ld","$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$11","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$11","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1d:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+22:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+23:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+24:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]
+4:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+5:["$","$L2","bpm",{"href":"/tags/bpm","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-sky-50 text-sky-700 ring-sky-200","children":["#","bpm"]}]
+6:["$","$L2","workflow",{"href":"/tags/workflow","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","workflow"]}]
+7:["$","$L2","process",{"href":"/tags/process","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","process"]}]
+8:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1c:T179a,
+## What this system is
+
+A **business process** is the sequence of activities, decisions, and hand-offs that turns an input into an outcome the business cares about — *a lead becomes a signed order*, *a goods receipt becomes a payment*. **Business process management (BPM)** is the discipline of making those processes *visible, measured, and improvable*: you cannot improve a process you cannot see.
+
+```mermaid
+flowchart LR
+  M[Model the process] --> A[Automate or enable]
+  A --> R[Run - events + records]
+  R --> S[Measure - KPIs]
+  S --> I[Improve - redesign]
+  I --> M
+```
+
+A process is **not** the software that supports it. The process is the shared understanding of *who does what, when, and what if*; the software (a CRM, an ERP, an approval engine) is one possible mechanism for carrying it out. When the process and the system disagree, you have a live process bug.
+
+## The anatomy of a process
+
+Every process can be decomposed into a few load-bearing elements:
+
+| Element | Question it answers | Failure mode |
+| --- | --- | --- |
+| **Activity** | What gets done? | Activity with no named owner |
+| **Event** | What starts/stops it? | Process waiting on an event nobody publishes |
+| **Decision** | Which branch do we take? | Rules hidden in someone's head |
+| **Actor / role** | Who does it? | Hand-off to a role that has no inbox |
+| **SLA / deadline** | How long is acceptable? | Deadline with no escalation |
+| **Data / artifact** | What passes between steps? | "We always knew it" — but no system knows it |
+
+The **flow** is the skeleton; the **decision rules** are the organs; the **escalation** is the immune system. A process modeled without deadlines and escalations is a diagram, not a process.
+
+## Process decomposition
+
+```mermaid
+flowchart TB
+  L1[Level 1 - value chain<br/>e.g. order-to-cash] --> L2a[Level 2 - process<br/>e.g. credit check]
+  L1 --> L2b[Level 2 - process<br/>e.g. warehouse dispatch]
+  L2a --> L3a[Level 3 - sub-process / task<br/>e.g. run credit report]
+  L2a --> L3b[Level 3 - decision<br/>e.g. approve / reject]
+  L3b --> L4[Level 4 - system step<br/>e.g. ERP approval workflow]
+```
+
+Decomposition answers a practical question: **who owns which level?** Executives own the value chain, process owners own level 2, teams own tasks, and system owners own the automated steps. The classic failure is modeling everything at one level — too abstract for the implementer, too granular for the decision-maker.
+
+## The process lifecycle
+
+1. **Model** — draw the current (as-is) process in BPMN, with swimlanes per role and explicit decisions. If a step has no swimlane, it has no owner.
+2. **Automate or enable** — decide what the system does (rules, approvals, notifications) versus what a human must still judge. Over-automating a human-judgment step is how you build a bad workflow.
+3. **Run** — the process executes; every step leaves a *process record* (who did it, when, how long) so the process is audit-able.
+4. **Measure** — KPIs: cycle time, hand-off count, first-pass yield, wait time between steps. *The process record is the source of the KPI.*
+5. **Improve** — the measured pain points get redesigned; the new process is modeled, automated, and run again.
+
+## Where the process meets the system
+
+```mermaid
+flowchart LR
+  Event[Business event - e.g. order placed] -->|triggers| Rules[Decision rules + policy]
+  Rules -->|automate the routine| System[Workflow engine / ERP]
+  Rules -->|route the judgement| Human[Human task - approvals, judgment]
+  System -->|step executed| Record[Process record - audit trail]
+  Human -->|decision logged| Record
+  Record -->|aggregate| KPI[KPIs - cycle time, yield]
+```
+
+The integration pattern to teach: **the business event starts the process, the rules decide the route, the system automates the routine steps, the humans handle the judgment, and every step lands in a process record.** The record is what turns "we think it works" into "we measured it."
+
+## Business Process Model and Notation (BPMN)
+
+BPMN is the drawing language of processes: **events** (circles), **activities** (rounded rectangles), **gateways** (diamonds), **swimlanes** (who does what). Its superpower is precision — a BPMN diagram can be so unambiguous that an engine can *execute* it directly (BPMN is both diagram and code). The pitfalls are the same as any modeling:
+
+- Model **decisions as gateways with named conditions**, not as arrows with vibes.
+- Model **exceptions explicitly** — "what if the vendor rejects?" is a normal path, not an edge case.
+- Keep the diagram **executable-or-explainable**: if an engine would get stuck, a human will too.
+
+## Tester checklist
+
+- Swimlane audit: walk the as-is process and confirm every activity sits in a named role's lane with a named owner.
+- Exception drill: run the process with the rejection / error path (vendor rejects, customer cancels) and confirm the exception route exists and escalates.
+- KPI provenance: pick one measured KPI and trace it back to specific fields in the process record — it must be computable, not asserted.
+- Decision honesty: check that every gateway condition is explicit enough that a new analyst and the workflow engine would both pick the same branch.
+- Hand-off latency: measure wait time between two swimlanes — the place most processes actually lose their time.
+
+## Related systems
+
+- [Software development lifecycle (SDLC)](../software-development-lifecycle) — where process requirements become software, phase by phase
+- [System acquisition lifecycle](../system-acquisition-lifecycle) — the build-vs-buy gate that decides whether SDLC or procurement follows
+- [ERP systems](../enterprise-resource-planning) — the system that carries many core processes (order-to-cash, procure-to-pay)
+- [Integration patterns](../integration-patterns) — how the events that start and advance processes move between systems
+- [ITIL change and release management](../itil-change-and-release-management) — the change-process that governs process software, itself a process9:["$","$L1b",null,{"source":"$1c"}]
+a:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","devops-delivery-loop",{"href":"/systems/devops-delivery-loop","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"DevOps delivery loop"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The closed loop from ticket to running code to feedback: where git, Jira, and CI/CD meet, and the metrics that prove it works."}]]}],["$","$L2","llm-agents-and-workflows",{"href":"/systems/llm-agents-and-workflows","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"LLM agents and workflows"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Agent loops, tool calling, memory, and guardrails: the orchestration patterns that turn a single LLM call into a multi-step workflow."}]]}],["$","$L2","software-development-lifecycle",{"href":"/systems/software-development-lifecycle","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Software development lifecycle (SDLC)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"From a vague ask to a running system: the phases — requirements, analysis, design, build, test, deploy, operate — with the entry/exit criteria and artifacts each phase must produce before the next is allowed to start."}]]}]]}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+c:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+d:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+e:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+f:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+12:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Business process modeling and management · System Reference"}],["$","meta","1",{"name":"description","content":"From process maps to running workflows: BPMN notation, process decomposition, the process lifecycle — model, automate, measure, improve — and where a process ends and a software system begins."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"bpm,workflow,process,architecture,enterprise-architect,solution-architect,backend"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/business-process-modeling-and-management/"}],["$","meta","8",{"property":"og:title","content":"Business process modeling and management · System Reference"}],["$","meta","9",{"property":"og:description","content":"From process maps to running workflows: BPMN notation, process decomposition, the process lifecycle — model, automate, measure, improve — and where a process ends and a software system begins."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/business-process-modeling-and-management/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Business process modeling and management · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"From process maps to running workflows: BPMN notation, process decomposition, the process lifecycle — model, automate, measure, improve — and where a process ends and a software system begins."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L22","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+1a:true
+1f:null
+11:300
+11:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+10:"$undefined"

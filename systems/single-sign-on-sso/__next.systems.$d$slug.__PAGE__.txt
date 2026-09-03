@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+11:X
+16:X
+16:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Single sign-on (SSO)\",\"description\":\"One corporate login, many apps: how OIDC and SAML carry your session from the IdP, and how logout really works.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/single-sign-on-sso\",\"inLanguage\":\"en\",\"keywords\":\"identity, security, api, developer, backend, security-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"identity\"},{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"api\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Single sign-on (SSO)\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/single-sign-on-sso\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Single sign-on (SSO)"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Single sign-on (SSO)"}],["$","span",null,{"className":"mt-2 inline-block rounded-full bg-emerald-100 px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-emerald-700 ring-1 ring-inset ring-emerald-200 dark:bg-emerald-900/40 dark:text-emerald-300 dark:ring-emerald-800","children":"Framework"}],["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"One corporate login, many apps: how OIDC and SAML carry your session from the IdP, and how logout really works."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],"$L3","$L4"]}],"Backend"]}],"$L5"],["$L6","$L7","$L8"]]}]]}],"$L9","$La"]}],["$Lb","$Lc","$Ld","$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$11","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$11","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1d:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+22:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+23:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+24:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}]
+4:["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]
+5:["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}]
+6:["$","$L2","identity",{"href":"/tags/identity","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","identity"]}]
+7:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+8:["$","$L2","api",{"href":"/tags/api","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","api"]}]
+1c:Tee9,
+## What this system is
+
+SSO means the **identity provider (IdP)** authenticates you once, and every connected app trusts its assertion — no more N passwords, no more shadow accounts, and revoke-at-the-IdP ends access everywhere. Two protocols pull this off: **SAML** (older, XML, enterprise/SaaS legacy) and **OIDC** (modern, JSON, web/native).
+
+```mermaid
+sequenceDiagram
+  participant B as Browser / user
+  participant A as App - relying party
+  participant P as Identity provider - holds the session
+
+  B->>A: open protected page
+  A->>P: redirect auth request
+  P-->>A: authorization code
+  A->>A: exchange code for tokens - id_token + access
+  Note over A: app session minted
+  Note over A,P: SLO kills both sessions
+```
+
+```mermaid
+flowchart LR
+  User[User] -->|one login| IdP[Corporate IdP - holds the session]
+  IdP -->|assertions/tokens| A1[App A - SAML]
+  IdP -->|assertions/tokens| A2[App B - OIDC]
+  IdP -->|assertions/tokens| A3[App C - OIDC]
+  IdP -->|kill session - everywhere at once| Revoke[Logout / deprovision]
+```
+
+## The flow your browser lives in (SP-initiated OIDC)
+
+```mermaid
+sequenceDiagram
+  participant B as Browser
+  participant A as App (RP)
+  participant I as Identity provider
+
+  B->>A: open protected page
+  A->>B: redirect + auth request to IdP
+  B->>I: already has IdP session - no prompt
+  I->>B: authorization code back to App
+  A->>I: exchange code + client secret for tokens
+  I-->>A: ID token + access token
+  A->>A: validate signature, lifetime, audience
+  A-->>B: session granted on the app side too
+```
+
+Two sessions actually exist: the **IdP session** (your "logged in" at the IdP) and each **app's local session**. SSO saved you the IdP login; the app still mints its own cookie/token per login via the IdP.
+
+## OIDC vs SAML — which road are you on
+
+| | OIDC | SAML |
+| --- | --- | --- |
+| Format | JSON / JWT-friendly | XML assertions |
+| Modern fit | Web, mobile, APIs, SPAs | SaaS platforms, legacy enterprise |
+| Sits on | OAuth 2.0 | Standalone |
+| Nit | IdP roles (authorize) and scopes | Assertion conditions, federation |
+
+Two different protocols solving the same job; if you're building greenfield, OIDC wins. If your SaaS buyer only speaks SAML, you integrate SAML.
+
+## What everyone forgets: logout
+
+SSO that can't log out everywhere is a myth. **Single Logout (SLO)** tells every app's session to die when the IdP session dies. OIDC adds **RP-initiated logout** (app tells IdP, IdP tells the rest). Test it, because the default state of most stacks is: *the IdP session ends, the apps' sessions quietly survive* — a real exposure after a shared-computer session.
+
+## SSO is authentication, not authorization
+
+SSO proves *who*; it says nothing about *what you may do*. The ID token's scopes/claims seed the app's session, and the app's own [RBAC](../rbac-and-authorization)/policy decides access. "Trusting employee email" ≠ "employee may see the payroll ledger."
+
+## Tester checklist
+
+- Round-trip a full login and logout through every app: after SLO, hitting a protected page must bounce to the IdP login.
+- Validate a token beyond its signature: expiry, audience, issuer, `nonce` — a well-signed spoof is still a forgery.
+- Confirm no app keeps its own credential store (shadow identity = SSO divot).
+- Kill the IdP session mid-flight and confirm each connected app loses it within expected bounds (session + refresh lifetimes).
+
+## Related systems
+
+- [OAuth 2.0 and OpenID Connect](../oauth2-openid-connect) — the protocol detail behind modern SSO
+- [Role-based access control](../rbac-and-authorization) — the authorization layer SSO feeds
+- [SCIM provisioning](../scim-identity-provisioning) — SSO handles login, SCIM handles accounts
+- [Identity and access management](../identity-and-access-management) — the IAM whole this is half of9:["$","$L1b",null,{"source":"$1c"}]
+a:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","oauth-grant-types",{"href":"/systems/oauth-grant-types","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"OAuth grant types"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Authorization code with PKCE, client credentials, device flow, and refresh — the five ways to get an OAuth token, who each is for, and how to pick (and test) the right one."}]]}],["$","$L2","owasp-top-10",{"href":"/systems/owasp-top-10","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"The OWASP Top 10"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The ten riskiest web-application security weaknesses, the attacks that trigger them, and the fixes that stop them before a pentest finds them."}]]}],["$","$L2","authentication-vs-authorization",{"href":"/systems/authentication-vs-authorization","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Authentication vs authorization"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The two questions every request must answer — who are you, and what are you allowed to do — and why conflating them is a classic breach."}]]}]]}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+c:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+d:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+e:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+f:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+12:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Single sign-on (SSO) · System Reference"}],["$","meta","1",{"name":"description","content":"One corporate login, many apps: how OIDC and SAML carry your session from the IdP, and how logout really works."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"identity,security,api,developer,backend,security-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/single-sign-on-sso/"}],["$","meta","8",{"property":"og:title","content":"Single sign-on (SSO) · System Reference"}],["$","meta","9",{"property":"og:description","content":"One corporate login, many apps: how OIDC and SAML carry your session from the IdP, and how logout really works."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/single-sign-on-sso/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Single sign-on (SSO) · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"One corporate login, many apps: how OIDC and SAML carry your session from the IdP, and how logout really works."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L22","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+1a:true
+1f:null
+11:300
+11:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+10:"$undefined"

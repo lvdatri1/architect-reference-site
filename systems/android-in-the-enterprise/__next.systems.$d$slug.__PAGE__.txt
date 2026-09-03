@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Android in the enterprise\",\"description\":\"EMM and work profiles: separating personal from corporate on BYOD, fully managed COPE devices, and provisioning via QR/NFC.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/android-in-the-enterprise\",\"inLanguage\":\"en\",\"keywords\":\"endpoint, security, mobile, endpoint-device-engineer, security-architect, developer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"endpoint\"},{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"mobile\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Android in the enterprise\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/android-in-the-enterprise\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Android in the enterprise"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Android in the enterprise"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"EMM and work profiles: separating personal from corporate on BYOD, fully managed COPE devices, and provisioning via QR/NFC."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","endpoint-device-engineer",{"href":"/jobs/endpoint-device-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Endpoint Device Engineer icon","children":[["$","path",null,{"d":"M5 4.5h14A1.5 1.5 0 0 1 20.5 6v10a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 16V6A1.5 1.5 0 0 1 5 4.5Z"}],["$","path",null,{"d":"m2 19.5 4-1.5h12l4 1.5"}]]}],"Endpoint Device Engineer"]}],["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}],"$L3"],["$L4","$L5","$L6"]]}]]}],"$L7","$L8"]}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1b:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+20:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+21:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+22:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}]
+4:["$","$L2","endpoint",{"href":"/tags/endpoint","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","endpoint"]}]
+5:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+6:["$","$L2","mobile",{"href":"/tags/mobile","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","mobile"]}]
+1a:Tea3,
+## What this system is
+
+Android corporate management is built around one idea: **separation of worlds**. Android's enterprise APIs split a single device into a *personal* side and a *managed* *work profile* side (or a fully-managed single profile for company-owned). Corporate apps, data, config, and wipe live entirely inside the work container — the personal side stays the user's.
+
+```mermaid
+flowchart LR
+  Device[Device<br/>factory reset] -->|scan once| Enroll[QR scan / NFC<br/>enrollment token]
+  Enroll -->|enroll DPC| EMM[EMM server<br/>DPC installed]
+  EMM -->|managed Google Play| Work[Work profile<br/>corporate apps]
+  Work -->|hard isolation| Personal[Personal space<br/>user data]
+  EMM -->|compliant| Managed[Managed and isolated]
+```
+
+```mermaid
+flowchart LR
+  E[EMM: Intune / Workspace One / MobileIron] -->|managed Google Play + policy| D[Device]
+  D --> W[Work profile<br/>corporate apps + data]
+  D --> P[Personal space<br/>user's apps + photos]
+  W -->|isolation| P
+```
+
+## The three management models
+
+| Model | BYOD (work profile) | COPE (fully managed) | Dedicated (kiosk) |
+| --- | --- | --- | --- |
+| Ownership | User's device | Company-owned | Company-owned |
+| Corporate apps | In work profile | Whole device is corporate | Single/multi-app kiosk mode |
+| User privacy | Personal side untouched | Personal apps possible but weaker promise | No personal use |
+| Wipe | Wipes only work profile | Full factory reset | Full reset |
+| Best fit | Employee phones | Sales/field fleets | POS, signage, rugged devices |
+
+## Provisioning a device (no user input needed)
+
+```mermaid
+sequenceDiagram
+  participant Dev as Device (factory reset)
+  participant QR as QR / provision network
+  participant EMM as EMM server
+  participant G as Managed Google Play
+
+  Dev->>QR: scan QR (or boot to hotspot / NFC tap)
+  QR-->>Dev: EMM endpoint + enrollment token
+  Dev->>EMM: enroll DPC
+  EMM->>G: claim device in managed Play
+  EMM->>Dev: push work profile + managed config
+  Dev->>Dev: corporate apps install into work profile only
+```
+
+Provisioning bypasses typing: factory-reset a device, scan a QR code (or tap an NFC tag in Android 10+), and the EMM takes over within minutes. This is how fleets get onboarded in warehouses and clinics without IT hands.
+
+## How the work profile really isolates
+
+- Android runs the personal and work sides as **separate users** under one OS; the work container is encrypted and permission-scoped.
+- **Managed config** (per-app JSON-like settings) pushes policies directly into apps via Google Play — no MDM agent inside each app required.
+- IT can `wipe the work profile only` on BYOD, leaving photos and personal apps intact — the legal/UX reason employees accept corporate EMM.
+- Work apps' **network** can be forced through always-on VPN and DPC-managed certificates; data does not cross profiles without managed-mode paths.
+
+## Tester checklist
+
+- Enroll twice (BYOD work profile + a COPE device) and verify which management capabilities each exposes in the EMM console.
+- Confirm work-profile wipe removes corporate apps/data but preserves personal data, and that the device rejoins cleanly.
+- Push a managed config to an app and verify it arrives without user action, and that only work-side instances read it.
+- Check kiosk/dedicated mode locks correctly: no home button escape, no personal apps, auto-restart on crash.
+
+## Related systems
+
+- [iOS and macOS in the enterprise](../ios-macos-in-the-enterprise) — Apple's supervised-for-corporate counterpart
+- [Zero trust architecture](../zero-trust-architecture) — work-profile posture is a condition of access
+- [Authentication vs authorization](../authentication-vs-authorization) — work-profile identity gate for corporate apps7:["$","$L19",null,{"source":"$1a"}]
+8:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","ios-macos-in-the-enterprise",{"href":"/systems/ios-macos-in-the-enterprise","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"iOS and macOS in the enterprise"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Apple Business Manager, MDM enrollment, supervised devices, config profiles, managed Apple IDs, and why App Store-only is a security feature."}]]}],["$","$L2","mobile-device-management-mdm",{"href":"/systems/mobile-device-management-mdm","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Mobile device management (MDM)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The management plane for phones and tablets — enrollment, profiles, app delivery, compliance — and how MDM turns a fleet of mobile devices into governed endpoints."}]]}],["$","$L2","endpoint-security-architecture",{"href":"/systems/endpoint-security-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Endpoint security architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The layered stack that protects every device — enrollment, posture, EDR/AV, patching, encryption, and policy — and how zero trust turns each endpoint into a verifiable identity."}]]}]]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+a:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+b:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+c:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+d:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+10:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Android in the enterprise · System Reference"}],["$","meta","1",{"name":"description","content":"EMM and work profiles: separating personal from corporate on BYOD, fully managed COPE devices, and provisioning via QR/NFC."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"endpoint,security,mobile,endpoint-device-engineer,security-architect,developer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/android-in-the-enterprise/"}],["$","meta","8",{"property":"og:title","content":"Android in the enterprise · System Reference"}],["$","meta","9",{"property":"og:description","content":"EMM and work profiles: separating personal from corporate on BYOD, fully managed COPE devices, and provisioning via QR/NFC."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/android-in-the-enterprise/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Android in the enterprise · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"EMM and work profiles: separating personal from corporate on BYOD, fully managed COPE devices, and provisioning via QR/NFC."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L20","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+18:true
+1d:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

@@ -1,0 +1,131 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"ITIL change and release management\",\"description\":\"From request to production safely: change types and the CAB, change windows, release vs deployment, the service catalog, and the SLA/OLA/UC stack that makes service promises real.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/itil-change-and-release-management\",\"inLanguage\":\"en\",\"keywords\":\"itsm, change, workflow, service-catalog, devops-engineer, cloud-engineer, enterprise-architect, solution-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"itsm\"},{\"@type\":\"Thing\",\"name\":\"change\"},{\"@type\":\"Thing\",\"name\":\"workflow\"},{\"@type\":\"Thing\",\"name\":\"service-catalog\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ITIL change and release management\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/itil-change-and-release-management\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"ITIL change and release management"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"ITIL change and release management"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"From request to production safely: change types and the CAB, change windows, release vs deployment, the service catalog, and the SLA/OLA/UC stack that makes service promises real."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}],["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":"$L3"}],"Cloud Engineer"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]
+4:["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}]
+5:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+6:["$","$L2","itsm",{"href":"/tags/itsm","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","itsm"]}]
+7:["$","$L2","change",{"href":"/tags/change","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","change"]}]
+8:["$","$L2","workflow",{"href":"/tags/workflow","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","workflow"]}]
+9:["$","$L2","service-catalog",{"href":"/tags/service-catalog","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-emerald-50 text-emerald-700 ring-emerald-200","children":["#","service-catalog"]}]
+1d:T19fc,
+## What this system is
+
+Change enablement is the governance layer that lets an organisation **modify a service without breaking it**. It decides *who may authorise what*, when, and with how much ceremony, then release and deployment management carries the approved change into production. The question every change answers: *what risk do we absorb, and who signs for it?*
+
+```mermaid
+flowchart LR
+  R[Change request] --> A[Assess - impact + risk]
+  A --> C[CAB or pre-authorised]
+  C --> W[Dispatch - schedule + backout]
+  W --> B[Build + test]
+  B --> D[Deploy to production]
+  D --> P[Post-implementation review]
+```
+
+A change is **not** the same as a release. The change is the *decision and the plan* (what changes, with what risk, on whose authority); the release is the *assembly* (a build that bundles one or more approved changes); the deployment is the *act* of putting that release into a live environment. Governance lives on the change; mechanics live on the release.
+
+## Change types: three paths, three weights
+
+| Type | Authority | Ceremony | Use for |
+| --- | --- | --- | --- |
+| **Standard** | Pre-approved (in the catalogue) | None per change — it's already authorised | Password resets, adding a user to a group, routine patching runs |
+| **Normal** | Change Advisory Board (CAB) | Assess, approve, schedule, review | Service or infra changes with real blast radius |
+| **Emergency** | Emergency CAB (ECAB), or after-the-fact if time-critical | Compressed or retroactive | Fixing a P1 outage, critical security patch, urgent data recovery |
+
+Standard changes are the design goal: **if a change is routine, you shouldn't need a meeting every time** — pre-authorise once and let it flow. Normal changes are where the risk conversation happens. Emergency changes exist to be broken by design; the discipline is the mandatory post-implementation review, where an emergency that becomes a habit is diagnosed.
+
+## The change lifecycle
+
+1. **Request** — a ticket with description, rationale, owner, and target environment. Vague requests get bounced before the CAB ever sees them.
+2. **Assess** — impact and probability, what could break, and — critically — the **backout plan**: how you get back to the previous state.
+3. **Authorise** — the CAB (or the pre-authorised standard path) signs off with conditions. The keyword in the minutes is always "approved **with** the named mitigations".
+4. **Dispatch** — schedule into a change window with a start, an end, and an **owner of the window**; late overruns are failures.
+5. **Build + test** — the release is assembled (via [CI/CD pipelines](../ci-cd-pipelines)) and verified against the plan.
+6. **Deploy** — the change leaves the CAB's hands; the deployment team executes with freeze discipline.
+7. **Review** — post-implementation review confirms what actually happened, what deviated, and whether the change page learned anything for the next one.
+
+## The CAB: who signs for risk
+
+A Change Advisory Board is **not a rubber stamp and not a bottleneck** — it's the calibrated, delegated decision point. It works best when it's small and relevant: a service owner, the team whose environment is changing, an ops or infra lead, a security or architecture rep when the risk says so, and the change manager as facilitator. Its output is a decision the record can point to: date, attendees, conditions, and the named accountable owner. Emergencies get the ECAB — or documented after-the-fact authorisation when the window cannot wait.
+
+```mermaid
+stateDiagram-v2
+  [*] --> Request
+  Request: Change request
+  Request --> Assess: ticket
+  Assess: Assess risk + backout
+  Assess --> CAB: change record
+  CAB: CAB / pre-authorised
+  CAB --> Build: approved - build
+  CAB --> Deploy: approved - load
+  Build: Build + test release
+  Build --> Deploy: release ready
+  Deploy: Deploy in change window
+  Deploy --> Review: verify + learn
+  Review: Post-implementation review
+  Review --> [*]
+```
+
+## The service catalog and service requests
+
+**Service catalog** is the menu of what IT actually sells — the user-visible catalog (email, VPN, CRM) mapped to the technical catalog that delivers it (Exchange, gateway, the CRM app). Every catalog item should state its price in business terms: *availability, capacity, continuity, security*.
+
+**Service requests** (a new laptop, an account unlock, a software install) are the **standard-change** pathway made visible to users — pre-authorised, no CAB, fulfilled against SLAs. The catalog and the request catalogue are the same lever: what you're willing to *promise* and what you're willing to *do quickly without a meeting*.
+
+## SLAs, OLAs, and UCs — making promises real
+
+The service-level stack is the contract ladder between "what we promise" and "who actually has to deliver it":
+
+| Layer | Between | Example |
+| --- | --- | --- |
+| **SLA** | Service provider and customer | 99.9% availability; P1 response in 15 minutes |
+| **OLA** | Two internal teams | Networking resolves tickets within 4 hours of escalation |
+| **UC** | Provider and external supplier | Vendor patches the firewall within 3 business days |
+
+Tracing this ladder is how "the SA promised 99.9%" becomes a real, auditable, assigned obligation — and it's exactly where most SLA brokenness hides: the OLA and UC limbs of the chain were never written down.
+
+## Tester checklist
+
+- Take an approved normal change and confirm the backout plan is concrete: who to call, what command, how long to revert, and a test for "we are back".
+- Verify the standard-change catalogue actually covers the routine things people do, and that a standard change never needs a CAB meeting.
+- Drill an emergency change: trigger it during the outage, confirm the retro-authorisation got recorded and a post-implementation review is mandatory, not optional.
+- Audit change windows: does the deployment record show the window's real start and end, and who was accountable for the overrun?
+- Walk an SLA to its UC: pick one public promise and confirm an OLA + UC exist that would actually be breached first.
+
+## Related systems
+
+- [ITIL incident and problem management](../itil-incident-and-problem-management) — where change fixes land after root cause, and where war-room changes originate
+- [CI/CD pipelines](../ci-cd-pipelines) — the build/test/release mechanics behind step 5 of the lifecycle
+- [DevOps delivery loop](../devops-delivery-loop) — the cadence that wants standard changes automated, not CAB'd
+- [Monitoring and observability](../monitoring-and-observability) — the alerting baseline that post-implementation review borrows to verify a change is cleana:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","servicenow-esm",{"href":"/systems/servicenow-esm","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"ServiceNow ESM"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"ServiceNow's anatomy as enterprise service management — ITSM tables, the CMDB, its platform logic, and why governance beats glamour in production."}]]}],["$","$L2","itil-incident-and-problem-management",{"href":"/systems/itil-incident-and-problem-management","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"ITIL incident and problem management"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Restore fast, then stop it recurring: the incident lifecycle and priority matrix, problem management's chase after root cause, and how the known-error pipeline shrinks the next outage."}]]}],["$","$L2","cmdb-and-configuration-management",{"href":"/systems/cmdb-and-configuration-management","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"CMDB and configuration management"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"What a CMDB actually is — the CIs, relationships, and attributes that model your estate — and why most fail for cultural reasons before technical ones."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ITIL change and release management · System Reference"}],["$","meta","1",{"name":"description","content":"From request to production safely: change types and the CAB, change windows, release vs deployment, the service catalog, and the SLA/OLA/UC stack that makes service promises real."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"itsm,change,workflow,service-catalog,devops-engineer,cloud-engineer,enterprise-architect,solution-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/itil-change-and-release-management/"}],["$","meta","8",{"property":"og:title","content":"ITIL change and release management · System Reference"}],["$","meta","9",{"property":"og:description","content":"From request to production safely: change types and the CAB, change windows, release vs deployment, the service catalog, and the SLA/OLA/UC stack that makes service promises real."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/itil-change-and-release-management/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"ITIL change and release management · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"From request to production safely: change types and the CAB, change windows, release vs deployment, the service catalog, and the SLA/OLA/UC stack that makes service promises real."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

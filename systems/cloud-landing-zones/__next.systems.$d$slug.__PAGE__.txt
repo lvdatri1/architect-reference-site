@@ -1,0 +1,118 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Cloud landing zones\",\"description\":\"The foundation every workload stands on: multi-account structure, identity, shared networking, and guardrails — so teams deploy compliant instead of reinventing.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/cloud-landing-zones\",\"inLanguage\":\"en\",\"keywords\":\"cloud, architecture, security, cloud-engineer, enterprise-architect, security-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"cloud\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"security\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Cloud landing zones\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/cloud-landing-zones\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Cloud landing zones"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Cloud landing zones"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The foundation every workload stands on: multi-account structure, identity, shared networking, and guardrails — so teams deploy compliant instead of reinventing."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}],"$L3"],["$L4","$L5","$L6"]]}]]}],"$L7","$L8"]}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1b:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+20:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+21:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+22:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}]
+4:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+5:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+6:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+1a:T101c,
+## What this system is
+
+A **landing zone** is the scaffolding below your cloud: the account/subscription structure, shared identity, central networking hub, and governance guardrails that every new team consumes instead of rebuilding. Its job is to make *"deploy something new in the cloud"* a safe, fast, repetitive action — not a blank check.
+
+```mermaid
+flowchart TB
+  Root[Organization / root] --> Mgmt[Management account]
+  Root --> Security[Security account]
+  Root --> Infra[Network account]
+  Root --> Prod[Prod workload accounts]
+  Root --> NonProd[Non-prod workload accounts]
+  Mgmt -->|guardrails pushed down| Prod
+  Mgmt -->|guardrails pushed down| NonProd
+  Infra -->|shared VPC/VNet + egress| Prod
+  Infra -->|shared VPC/VNet + egress| NonProd
+```
+
+## The pattern in one picture
+
+```mermaid
+flowchart LR
+  A[Team: we need a workload] --> B[Pipeline asks for a new account/subscription]
+  B --> C{Pre-built scaffolding applies}
+  C --> D[Identity: SSO + least-privilege roles]
+  C --> E[Network: landing zone VPC/VNet + peering]
+  C --> F[Policy: encryption, budget, tagging]
+  C --> G[Monitoring: logging + alert baseline]
+  D --> H[Workload runs compliant from day one]
+  E --> H
+  F --> H
+  G --> H
+```
+
+## The core building blocks
+
+| Layer | What it provides | Without it |
+| --- | --- | --- |
+| Account/subscription structure | Separation between prod and non-prod, per-business-unit | One shared account with everything in it |
+| Identity foundation | SSO, sign-on roles, break-glass, role per workload | Shared root keys, admin-role-everything |
+| Network hub | Shared transit VPC/VNet, egress, private endpoints, on-prem links | Every team re-creates IP space, VPNs multiply |
+| Guardrails | Policy (encryption, compliance), budgets, tagging | Config drift you discover in audits |
+| Observability baseline | Central logging/audit trail, alert channels | Teams fly blind, incidents are archaeology |
+
+## The identity and network seams
+
+```mermaid
+flowchart LR
+  subgraph Seams["Workload seams"]
+    ID["Identity:<br/>SSO + RBAC"]
+    NW["Network hub:<br/>VPC / VNet"]
+    GR["Policy + budgets + tagging"]
+  end
+  Root[Organization root] -- structure --> W[Workload accounts / subscriptions]
+  W -- "least privilege" --> ID
+  W -- "peering / private links" --> NW
+  W -- "enforced on deploy" --> GR
+  GR -- "audit-clean baseline" --> OK[Compliant from day one]
+```
+
+## Rules of the game
+
+- **Guardrails beat documentation.** Policy turning a wrong config into a deploy failure beats a 40-page "cloud conventions" doc that nobody reads.
+- **Every workload is its own isolated unit.** A future incident in one account can't pivot through the landing zone into the rest (the same logic as [micro-segmentation](../zero-trust-architecture)).
+- **The landing zone is a product with an owner**, continuously versioned — not a one-time setup you did and forgot.
+- **Break-glass stays boring.** Emergency access exists, sealed, rotated, and tested — used only when the normal path fails.
+
+## Tester checklist
+
+- Create a fresh workload account/subscription from the pipeline and verify it inherits policy, encryption, budget, and monitoring *before* any resource exists.
+- Try to bypass: can a lone dev create a resource with no owner tag, or an unencrypted bucket, or an external VPN? The guardrails must block, not warn.
+- Verify identity: the new account's only admin path is SSO + MFA; there is no long-lived root key in use.
+- Break-glass drill: emergency admin credentials work, alert on use, and can be rotated/revoked afterwards.
+
+## Related systems
+
+- [AWS core services](../aws-core-services) — the service-level detail the landing zone organizes
+- [Azure core services](../azure-core-services) — management groups, subscriptions, and policy
+- [Cloud computing fundamentals](../cloud-computing-fundamentals) — the region/AZ reality the landing zone runs on
+- [Cloud networking and hybrid connectivity](../cloud-networking-and-hybrid-connectivity) — the shared network hub pattern
+- [Disaster recovery and backup](../disaster-recovery-and-backup) — what the landing zone must prepare for7:["$","$L19",null,{"source":"$1a"}]
+8:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","sase",{"href":"/systems/sase","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"SASE and SSE"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Secure Access Service Edge: SD-WAN plus cloud-native security (SWG, CASB, ZTNA, FWaaS) delivered as a global cloud service from nearby Points of Presence."}]]}],["$","$L2","security-operations-center-soc",{"href":"/systems/security-operations-center-soc","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Security operations center (SOC)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Detect, triage, respond: SIEM correlation, SOAR playbooks, threat hunting, and the incident-response pipeline that turns telemetry into containment."}]]}],["$","$L2","fedramp-nist-rmf",{"href":"/systems/fedramp-nist-rmf","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"FedRAMP and NIST Risk Management Framework"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"How government systems get authority to operate: the NIST RMF lifecycle, SP 800-53 control families and impact levels, FedRAMP for cloud services, and the ATO decision."}]]}]]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+a:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+b:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+c:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+d:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+10:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cloud landing zones · System Reference"}],["$","meta","1",{"name":"description","content":"The foundation every workload stands on: multi-account structure, identity, shared networking, and guardrails — so teams deploy compliant instead of reinventing."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"cloud,architecture,security,cloud-engineer,enterprise-architect,security-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/cloud-landing-zones/"}],["$","meta","8",{"property":"og:title","content":"Cloud landing zones · System Reference"}],["$","meta","9",{"property":"og:description","content":"The foundation every workload stands on: multi-account structure, identity, shared networking, and guardrails — so teams deploy compliant instead of reinventing."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/cloud-landing-zones/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Cloud landing zones · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The foundation every workload stands on: multi-account structure, identity, shared networking, and guardrails — so teams deploy compliant instead of reinventing."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L20","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+18:true
+1d:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

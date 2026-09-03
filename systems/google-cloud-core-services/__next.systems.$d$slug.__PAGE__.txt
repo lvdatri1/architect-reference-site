@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+10:X
+15:X
+15:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Google Cloud core services\",\"description\":\"VPC, Compute Engine, GKE, Cloud Run, Cloud Functions, Cloud Storage, Cloud SQL, BigQuery, Pub/Sub, IAM — the map of Google Cloud's core services and how a web app fits inside them.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/google-cloud-core-services\",\"inLanguage\":\"en\",\"keywords\":\"cloud, gcp, architecture, cloud-engineer, backend, solution-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"cloud\"},{\"@type\":\"Thing\",\"name\":\"gcp\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Google Cloud core services\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/google-cloud-core-services\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Google Cloud core services"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Google Cloud core services"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"VPC, Compute Engine, GKE, Cloud Run, Cloud Functions, Cloud Storage, Cloud SQL, BigQuery, Pub/Sub, IAM — the map of Google Cloud's core services and how a web app fits inside them."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],"$L3"]}],"Backend"]}],"$L4"],["$L5","$L6","$L7"]]}]]}],"$L8","$L9"]}],["$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":"$@f","staleTime":"$10","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$10","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$10","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$10","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1c:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+21:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+22:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+23:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]
+4:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+5:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+6:["$","$L2","gcp",{"href":"/tags/gcp","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","gcp"]}]
+7:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1b:T265f,
+## What this system is
+
+Google Cloud (GCP) is a catalog of services; the art is knowing the ~15 that matter and how they compose. Its identity differs from the other clouds in three ways: **Kubernetes-first** (GKE was Google's own creation, so containers are native), **serverless-grade managed services** (Cloud Run, BigQuery, Spanner were built by the company that runs them at Google scale), and **data/ML as a first-class story** (BigQuery, Dataflow, Vertex AI are its strongest draw). The canonical reference deployment: a **VPC** with public/private subnets across regions, a load balancer up front, compute on GKE or Cloud Run in private subnets, managed databases, object storage, and everything gated by **IAM**.
+
+```mermaid
+flowchart LR
+  In[Internet] --> LB[Global load balancer<br/>regional backends]
+  LB --> CR[Cloud Run - container<br/>scale to zero]
+  LB --> GKE[GKE - Kubernetes<br/>cluster]
+  CR --> SQL[(Cloud SQL<br/>regional HA)]
+  GKE --> SQL
+  CR --> GCS[(Cloud Storage - bucket)]
+  GKE --> GCS
+  Pub[Pub/Sub topic] --> CF[Cloud Functions -<br/>event handler]
+  CF --> SQL
+```
+
+## The services that matter, in one map
+
+| Category | The workhorses | When to reach for them |
+| --- | --- | --- |
+| Compute | **Compute Engine**, **GKE**, **Cloud Run**, Cloud Functions | VMs; Kubernetes (native); serverless containers; event functions |
+| Storage | **Cloud Storage**, Persistent Disk, Filestore | Object storage hot+cold; volumes; shared fs |
+| Network | **VPC**, Cloud Load Balancing, Cloud CDN, Cloud DNS | Private networks; global LB; edge caching; DNS |
+| Database | **Cloud SQL**, **Spanner**, **BigQuery**, Firestore | Relational HA; planetary-scale relational; warehouse; NoSQL |
+| Streaming | **Pub/Sub**, Dataflow | Async messages; event streams |
+| Identity | **Cloud IAM**, Identity-Aware Proxy (IAP), Workforce pools | Access control; user identity |
+| Orchestration | Terraform, Cloud Deployment Manager | Everything defined as code |
+
+## The key architecture: serverless-first compute
+
+```mermaid
+flowchart TB
+  Q[How to run this workload?] --> R{Shape?}
+  R -->|container, autoscaled, scale-to-zero| RUN[Cloud Run -<br/>your default for services]
+  R -->|event function| FNS[Cloud Functions -<br/>glue, small handlers]
+  R -->|Kubernetes needed| GKE[GKE -<br/>native k8s, full control]
+  R -->|stateful / very custom| VM[Compute Engine -<br/>VMs]
+```
+
+GCP's default posture is **Cloud Run first**: a container that scales to zero, autoscales, gives you a URL and canary versions, and bills only while serving. It's the "containers without Kubernetes" story. Reach for **GKE** when you need k8s-native features (stateful sets, node pools, specialized scheduling, GPU/TPU workloads), and **Cloud Functions** for event glue. Compute Engine is the escape hatch for anything that needs a plain VM. The decision, condensed: **container? Cloud Run. Needs k8s? GKE. Tiny event? Cloud Functions. Everything else? Compute Engine.**
+
+## GKE: Kubernetes as a native service
+
+```mermaid
+flowchart TB
+  subgraph Cluster["GKE cluster"]
+    subgraph Control["Control plane (managed)"]
+      API[API server -<br/>fully managed]
+    end
+    subgraph Nodes["Node pools"]
+      N1[Autoscaled node pool]
+      N2[GPU / TPU pool]
+    end
+  end
+  API --> N1
+  API --> N2
+```
+
+GKE is Google's own Kubernetes as a managed service: the control plane is Google-managed (you never patch the API server), and node pools autoscale. The k8s fundamentals — deployments, services, probes, scheduling, scaling — all apply ([Kubernetes and container orchestration](../kubernetes-and-container-orchestration) is the mechanics). The GCP-specific decisions: **which node pool** (standard VMs vs Spot vs GPU/TPU), **regional vs zonal cluster**, and **Autopilot vs Standard** (Autopilot = fully managed nodes and less tuning; Standard = you own node pools).
+
+## The data crown jewels
+
+| Service | What it is | When it wins |
+| --- | --- | --- |
+| **Cloud SQL** | Managed MySQL/Postgres/SQL Server with HA + backups | Your default relational database, single-region needs |
+| **Spanner** | Horizontally scalable relational with external consistency | Need *global* relational: multi-region writes, no leader election problem |
+| **BigQuery** | Serverless columnar data warehouse | The [warehouse](../data-warehouse-lakehouse-architecture) for big analytics; no servers, pay per query |
+| **Firestore** | Managed NoSQL document store, realtime sync | Mobile/web realtime apps, game state, IoT |
+| **Cloud Storage** | Object storage with classes (hot/cold/archive) | The universal "files and artifacts" layer |
+
+The pattern that marks a GCP estate: **BigQuery as the analytics center**. Because it's serverless and fast, it becomes the destination for events (via Pub/Sub → Dataflow or BigQuery Storage Write), replacing a self-hosted warehouse. The common trap is *choosing Spanner when Cloud SQL suffices* — Spanner's power costs real money and operational nuance, and single-region relational apps are usually fine on Cloud SQL.
+
+## Pub/Sub and the async spine
+
+```mermaid
+flowchart LR
+  Prod[Producer - app / function / GKE] -->|publish| TOPIC[Pub/Sub topic]
+  TOPIC -->|push / pull| SUB[Subscription]
+  SUB --> C1[Cloud Run / Functions consumer]
+  SUB --> C2[Dataflow / BigQuery sink]
+```
+
+Pub/Sub is Google's managed [pub/sub messaging](../pub-sub-event-streaming): topics, subscriptions with push/pull delivery, exactly-once-ish via message IDs plus at-least-once semantics, and ordering per ordering key. It's the spine that decouples GCP services (storage events → Cloud Functions, streaming data → Dataflow → BigQuery) and its serverless nature means consumers scale without you provisioning brokers.
+
+## IAM and Identity-Aware Proxy
+
+```mermaid
+flowchart LR
+  U[User / service account] --> Role[IAM role -<br/>what action on what resource]
+  Role --> Res[Cloud Run service,<br/>bucket, BigQuery dataset]
+  Ext[End-user - via Google / external identity] --> IAP[Identity-Aware Proxy -<br/>checks identity before reach]
+  IAP --> App[Your app - no VPN needed]
+```
+
+- **Cloud IAM** is role-based: roles (owner/editor/viewer, plus fine-grained roles like `roles/run.invoker`) attach to principals (users, groups, **service accounts**) and grant actions on resources. Service accounts are the "workload identity" of GCP — every compute instance/Cloud Run revision runs as one. The rules are the same least-privilege discipline as everywhere: roles scoped as tight as possible, no "editor on everything."
+- **Identity-Aware Proxy (IAP)** is GCP's zero-trust application gate: it checks identity + context *before* traffic reaches your app, so internal apps don't need a VPN or public exposure. It's the GCP-native [zero trust](../zero-trust-architecture) move — put IAP in front of private apps and lock the rest of the network down.
+
+## The mistake repeatedly remembered
+
+- **Public exposure of the database** — a Cloud SQL instance with an external IP and open auth, discovered by a scanner in a day.
+- **Default-to-VM** — reaching for Compute Engine when Cloud Run would do; you pay for an always-on machine to run a service that idles 90% of the time.
+- **Spanner "because it scales"** — planetary-scale relational that a single-region Cloud SQL would serve at a fraction of the cost and complexity.
+- **Wide IAM** — a service account with `roles/editor` "so it's not annoying," leaking the blast radius across every project.
+- **One region, no HA story** — everything in a single zone/region "for simplicity," violating the [cloud fundamentals](../cloud-computing-fundamentals) bar.
+- **Pub/Sub duplicate blindness** — consumers that don't handle at-least-once, so a retried message creates a duplicate downstream.
+
+## Tester checklist
+
+- **IAM least privilege**: confirm the app's service account can only reach its own bucket prefix, its DB, and what it needs — no editor/owner anywhere.
+- **Cloud Run scale-to-zero**: idle a service and confirm it scales to zero (no running instance, no billing), then a request warms it back up.
+- **GKE node-pool autonomy**: drain/cordon a node and confirm the cluster re-schedules pods to a healthy pool without downtime.
+- **Load balancer failover**: stop the primary backend region and confirm the global LB routes to the secondary with no client-visible outage.
+- **Pub/Sub delivery**: publish a message, kill a consumer mid-delivery, and confirm redelivery (at-least-once) and that your consumer dedupes.
+- **BigQuery cost guard**: run a query over a large table and confirm the bytes-scanned estimate and cost controls (no unbounded scans).
+- **IAP gate**: attempt to reach a private app without IAP identity and confirm it's blocked before your app even sees the request.
+
+## Related systems
+
+- [Cloud computing fundamentals](../cloud-computing-fundamentals) — the regions/Zones/availability model behind these services
+- [AWS core services](../aws-core-services) and [Azure core services](../azure-core-services) — the identical job with different names (map the vocabulary: VPC/VNet/GCE, S3/Blob/GCS, RDS/SQL/Cloud SQL)
+- [Kubernetes and container orchestration](../kubernetes-and-container-orchestration) — the mechanics GKE packages as a service
+- [Pub/Sub and event streaming](../pub-sub-event-streaming) — the model Cloud Pub/Sub implements
+- [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) — where BigQuery sits
+- [Data pipelines (ETL/ELT)](../data-pipelines-etl-elt) — the pipelines Dataflow runs into BigQuery
+- [Cloud networking and hybrid connectivity](../cloud-networking-and-hybrid-connectivity) — VPC peering, interconnect, and private links
+- [Horizontal vs vertical scaling](../horizontal-vs-vertical-scaling) — the scaling math behind autoscaled node pools and Cloud Run8:["$","$L1a",null,{"source":"$1b"}]
+9:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","aws-core-services",{"href":"/systems/aws-core-services","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"AWS core services"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"VPC, EC2, Lambda, S3, RDS, IAM — the map of core AWS services and how a web app fits inside them."}]]}],["$","$L2","azure-core-services",{"href":"/systems/azure-core-services","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Azure core services"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Resource groups, subnets/VNet, VMs, App Service, Functions, Storage, SQL Database — the map of core Azure services and how an app composes them."}]]}],["$","$L2","horizontal-vs-vertical-scaling",{"href":"/systems/horizontal-vs-vertical-scaling","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Horizontal vs vertical scaling"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The two scaling axes, what each actually buys you, the way each axis fails, and the decision rules for choosing — plus where statelessness and load distribution fit."}]]}]]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+c:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+d:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+e:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+11:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Google Cloud core services · System Reference"}],["$","meta","1",{"name":"description","content":"VPC, Compute Engine, GKE, Cloud Run, Cloud Functions, Cloud Storage, Cloud SQL, BigQuery, Pub/Sub, IAM — the map of Google Cloud's core services and how a web app fits inside them."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"cloud,gcp,architecture,cloud-engineer,backend,solution-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/google-cloud-core-services/"}],["$","meta","8",{"property":"og:title","content":"Google Cloud core services · System Reference"}],["$","meta","9",{"property":"og:description","content":"VPC, Compute Engine, GKE, Cloud Run, Cloud Functions, Cloud Storage, Cloud SQL, BigQuery, Pub/Sub, IAM — the map of Google Cloud's core services and how a web app fits inside them."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/google-cloud-core-services/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Google Cloud core services · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"VPC, Compute Engine, GKE, Cloud Run, Cloud Functions, Cloud Storage, Cloud SQL, BigQuery, Pub/Sub, IAM — the map of Google Cloud's core services and how a web app fits inside them."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L21","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+19:true
+1e:null
+10:300
+10:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+f:"$undefined"

@@ -1,0 +1,156 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Oracle Cloud Infrastructure (OCI)\",\"description\":\"The Oracle cloud map: compartments, VCN, compute/Exadata, Autonomous Database, OCI Object Storage, and IAM — and how Oracle database fits natively in OCI unlike anywhere else.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/oracle-cloud-infrastructure\",\"inLanguage\":\"en\",\"keywords\":\"cloud, oracle, database, architecture, cloud-engineer, data-architect, solution-architect, backend\",\"about\":[{\"@type\":\"Thing\",\"name\":\"cloud\"},{\"@type\":\"Thing\",\"name\":\"oracle\"},{\"@type\":\"Thing\",\"name\":\"database\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Oracle Cloud Infrastructure (OCI)\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/oracle-cloud-infrastructure\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Oracle Cloud Infrastructure (OCI)"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Oracle Cloud Infrastructure (OCI)"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The Oracle cloud map: compartments, VCN, compute/Exadata, Autonomous Database, OCI Object Storage, and IAM — and how Oracle database fits natively in OCI unlike anywhere else."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}],["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":"$L3"}],"Data Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]
+4:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+5:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+6:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+7:["$","$L2","oracle",{"href":"/tags/oracle","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-orange-50 text-orange-700 ring-orange-200","children":["#","oracle"]}]
+8:["$","$L2","database",{"href":"/tags/database","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","database"]}]
+9:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1d:T1b73,
+## What this system is
+
+Oracle Cloud Infrastructure (OCI) is Oracle's public cloud — its reason to exist is running **Oracle database**. Where AWS and Azure are generic clouds, OCI is the only one where a managed Oracle database (Autonomous Database / Exadata) is a first-class native service rather than a port. The rest of OCI (VCNs, compute, storage, IAM) exists to support that core use case — and increasingly to host generic workloads too.
+
+Everything in OCI hangs off **tenancy → compartment** organization. You don't deploy "into a region" so much as "into a compartment inside your tenancy," with IAM policies deciding who can touch which compartment tree.
+
+```mermaid
+flowchart LR
+  subgraph Pub["Public layer"]
+    In[Internet] -- edge --> IGW[Internet gateway]
+    IGW -- public route --> LB[Load balancer<br/>public subnet]
+  end
+  subgraph App["App layer - private subnets"]
+    C1[Compute - AZ a<br/>private subnet]
+    C2[Compute - AZ b<br/>private subnet]
+  end
+  subgraph Data["Data layer"]
+    ADB[(Autonomous DB<br/>or RAC/Exadata)]
+    OST[(Object Storage<br/>bucket)]
+  end
+  LB -- route --> C1
+  LB -- route --> C2
+  C1 -- "SQL - private line" --> ADB
+  C2 -- "SQL - private line" --> ADB
+  C1 -- "backups / assets" --> OST
+  C2 -- "backups / assets" --> OST
+```
+
+```mermaid
+flowchart LR
+  In[Internet] --> IGW[Internet gateway]
+  IGW --> LB[Load balancer - public subnet]
+  LB --> C1[Compute - AZ a private subnet]
+  LB --> C2[Compute - AZ b private subnet]
+  C1 --> ADB[(Autonomous Database / RAC)]
+  C2 --> ADB
+  C1 --> OS[(Object Storage bucket)]
+  C2 --> OS
+```
+
+## The OCI mental model
+
+| Concept | What it is | The closest AWS/Azure idea |
+| --- | --- | --- |
+| **Tenancy** | Your root isolation boundary in OCI | AWS account / Azure subscription root |
+| **Compartment** | Logical container for resources; IAM grants access to compartments | Resource group / organizational unit |
+| **Region + AD** | Region = data center geography; availability domains inside | Region / availability zone |
+| **VCN** | Your virtual network, sliced into subnets | VPC / VNet |
+| **OCI IAM** | Policies (`allow group X to manage ... in compartment Y`) that are *statement-based*, not role-based | IAM policies (permission-based) / Azure RBAC |
+| **OCI Object Storage** | Buckets with namespaces; `oci s3`-compatible API | S3 / Blob storage |
+
+The big OCI difference: **IAM is statement-based, written in plain language.** You write `Allow group app_team to manage all-resources in compartment app-prod` — it reads like a sentence and composes from the root. The failure mode of this is overly-permissive sentences written once and copied forever.
+
+## Compartments and IAM: the tree you govern
+
+```mermaid
+flowchart TB
+  Root[Tenancy root] --> C1[Compartment: prod]
+  C1 --> C1a[Compartment: app]
+  C1 --> C1b[Compartment: data - Autonomous DB pool]
+  Root --> C2[Compartment: non-prod]
+  C2 --> C2a[Compartment: sandbox]
+  Policy[allow group app_dev manage all-resources<br/>in compartment app] --> C1a
+```
+
+Policies attach to compartments; resources inherit placement inside a compartment's tree. Rules of thumb: **one compartment per cost owner**, never put prod and non-prod under the same grant, and put the database pool in its own compartment so "manage app" never means "manage the DB."
+
+## The real OCI: running Oracle database natively
+
+| Offering | What it is | When you reach for it |
+| --- | --- | --- |
+| **Autonomous Database (ADB-S)** | Fully managed Oracle DB: auto-patching, auto-backup, auto-scaling, tooling for DBAs is gone | "We want Oracle without hiring a DBA team" — the flagship |
+| **DB Systems (RAC)** | Classic Exadata/DB on managed VMs, full RAC, upgrade windows you control | Lift-and-shift of an existing Oracle estate |
+| **Exadata Cloud Service** | Oracle's engineered hardware as a service (RAC + flash + storage servers) | Heavy OLTP that needs the engineered stack |
+| **Autonomous JSON / NoSQL** | Different data models on the same infra | Document or key-value needs |
+
+The architectural point: **Autonomous DB removes the DBA doing the same boring tasks** — patching, backup, tuning knobs are serverless behaviors, not jobs. But what it doesn't remove is *design*: schema, indexing, partitioning, RAC topology, and capacity still live in the same [Oracle database architecture](../oracle-database-ecosystem) conversation. "Autonomous" controls the machinery, not your data model.
+
+## Networking: VCNs, subnets, and getting Oracle DB privacy
+
+```mermaid
+flowchart TB
+  VCN[VCN 10.0.0.0/16] --> SubPub[Public subnet - LB]
+  VCN --> SubPriv[Private subnet - compute]
+  VCN --> SubData[Private subnet - DB subnet]
+  SubPub --> RT[Route table: IGW for public only]
+  SubPriv --> NSG[Network security groups / SL]
+  SubData --> P[Peering / IPSec to on-prem]
+```
+
+- **Public vs private subnets** behave like AWS: public route table with an internet gateway; private subnets with no internet route, egress via NAT.
+- **Security lists** (stateless-ish rules per subnet) and **NSGs** (stateful, per-NIC) both exist; the newer NSG model is the one to build on.
+- **DB should be in a private subnet** reached over private IPs — the same lesson as every other cloud. The private line to Autonomous DB or the on-prem-to-OCI tunnel is where your database traffic should live.
+
+## The mistake repeatedly remembered
+
+- Exposing the database subnet to the internet because "it's only control plane." (It's not.)
+- Writing one enormous `allow group engineers manage all-resources in tenancy` policy and calling it simpler.
+- Cross-cloud hybrid: Oracle DB landing in OCI while its direct consumers live in AWS/Azure with no private interconnect — the latency and egress bill write the memo.
+- Treating Autonomous DB as "no design needed" — it's fully managed, not self-organizing.
+
+## Tester checklist
+
+- Validate compartment isolation: an app-role principal attempting to `create database` in the `data` compartment must be denied by policy, not by a friendly guard.
+- On Autonomous DB: run a restore to a point-in-time (flashback) and time it; confirm backups are automatic and the restore target is a fresh instance.
+- Confirm DB traffic never crosses a public endpoint: check the app's connection string and route table for a private path only.
+- Expose an NSG mis-rule deliberately and verify the security list / NSG actually blocks it (rules are evaluated, don't assume).
+- Scale a compute shape and an ADB service level and watch cost change — know what auto-scaling is and is not doing.
+
+## Related systems
+
+- [Oracle database ecosystem](../oracle-database-ecosystem) — the engine OCI is built to run
+- [Cloud computing fundamentals](../cloud-computing-fundamentals) — regions, AZs, shared responsibility in one view
+- [Cloud landing zones](../cloud-landing-zones) — the compartment/policy structure is your landing zone
+- [Cloud networking and hybrid connectivity](../cloud-networking-and-hybrid-connectivity) — peering, transit, and private links into OCIa:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","oracle-database-ecosystem",{"href":"/systems/oracle-database-ecosystem","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Oracle database ecosystem"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Past the PL/SQL myth: Oracle database's real architecture — redo logs, undo segments, the buffer cache, RAC, and Data Guard — and why 'it's just a database' is never true in practice."}]]}],["$","$L2","data-warehouse-lakehouse-architecture",{"href":"/systems/data-warehouse-lakehouse-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Data warehouse and lakehouse architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Warehouse vs data lake vs lakehouse: where curated, governed, analytical data lives, how they differ on storage and schema, and the decisions that make one the right home for your data."}]]}],["$","$L2","horizontal-vs-vertical-scaling",{"href":"/systems/horizontal-vs-vertical-scaling","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Horizontal vs vertical scaling"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The two scaling axes, what each actually buys you, the way each axis fails, and the decision rules for choosing — plus where statelessness and load distribution fit."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Oracle Cloud Infrastructure (OCI) · System Reference"}],["$","meta","1",{"name":"description","content":"The Oracle cloud map: compartments, VCN, compute/Exadata, Autonomous Database, OCI Object Storage, and IAM — and how Oracle database fits natively in OCI unlike anywhere else."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"cloud,oracle,database,architecture,cloud-engineer,data-architect,solution-architect,backend"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/oracle-cloud-infrastructure/"}],["$","meta","8",{"property":"og:title","content":"Oracle Cloud Infrastructure (OCI) · System Reference"}],["$","meta","9",{"property":"og:description","content":"The Oracle cloud map: compartments, VCN, compute/Exadata, Autonomous Database, OCI Object Storage, and IAM — and how Oracle database fits natively in OCI unlike anywhere else."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/oracle-cloud-infrastructure/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Oracle Cloud Infrastructure (OCI) · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The Oracle cloud map: compartments, VCN, compute/Exadata, Autonomous Database, OCI Object Storage, and IAM — and how Oracle database fits natively in OCI unlike anywhere else."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

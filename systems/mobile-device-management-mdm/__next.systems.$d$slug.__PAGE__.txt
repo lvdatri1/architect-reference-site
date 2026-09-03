@@ -1,0 +1,150 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Mobile device management (MDM)\",\"description\":\"The management plane for phones and tablets — enrollment, profiles, app delivery, compliance — and how MDM turns a fleet of mobile devices into governed endpoints.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/mobile-device-management-mdm\",\"inLanguage\":\"en\",\"keywords\":\"mobile, endpoint, security, operations, endpoint-device-engineer, security-architect, enterprise-architect, cloud-engineer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"mobile\"},{\"@type\":\"Thing\",\"name\":\"endpoint\"},{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"operations\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mobile device management (MDM)\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/mobile-device-management-mdm\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Mobile device management (MDM)"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Mobile device management (MDM)"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The management plane for phones and tablets — enrollment, profiles, app delivery, compliance — and how MDM turns a fleet of mobile devices into governed endpoints."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","endpoint-device-engineer",{"href":"/jobs/endpoint-device-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Endpoint Device Engineer icon","children":[["$","path",null,{"d":"M5 4.5h14A1.5 1.5 0 0 1 20.5 6v10a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 16V6A1.5 1.5 0 0 1 5 4.5Z"}],["$","path",null,{"d":"m2 19.5 4-1.5h12l4 1.5"}]]}],"Endpoint Device Engineer"]}],["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":"$L3"}],"Security Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]
+4:["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}]
+5:["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}]
+6:["$","$L2","mobile",{"href":"/tags/mobile","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","mobile"]}]
+7:["$","$L2","endpoint",{"href":"/tags/endpoint","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","endpoint"]}]
+8:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+9:["$","$L2","operations",{"href":"/tags/operations","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","operations"]}]
+1d:T1f36,
+## What this system is
+
+Mobile Device Management (MDM) is the control plane for the **phones and tablets** employees carry: it enrolls the device, pushes configuration profiles, delivers apps, enforces passcodes and encryption, and reports compliance. In the [endpoint security](../endpoint-security-architecture) stack it plays the enrollment + policy role for mobile, and in the [zero trust](../zero-trust-architecture) model it is what a phone must prove to get access to corporate data. The promise is a phrase every admin has repeated: **"corporate data on the device, managed."**
+
+```mermaid
+flowchart TB
+  subgraph Platform["MDM platform - the control plane"]
+    ENR[Enrollment -<br/>ID + token + attestation]
+    PROF[Profiles -<br/>Wi-Fi, VPN, certs, passcode]
+    APP[App delivery -<br/>VPP / managed apps]
+    POL[Compliance policies]
+  end
+  subgraph Devices["The fleet"]
+    P1[Corporate phone]
+    P2[BYOD phone]
+    P3[Tablet]
+  end
+  ENR --> P1
+  ENR --> P2
+  ENR --> P3
+  PROF --> P1
+  APP --> P2
+  POL --> P3
+```
+
+## The enrollment split that changes everything
+
+Before anything else, MDM decisions hinge on one question: **who owns the device?**
+
+| Mode | Device ownership | What MDM can do | What MDM won't touch |
+| --- | --- | --- | --- |
+| **Corporate-owned (COPE / fully managed)** | The org | Full profile control, app forcing, remote wipe of whole device | Nothing — entirely company-controlled |
+| **BYOD (personally enabled)** | The employee | A managed-work-profile container | Personal apps, photos, SMS, location — the company enforces policy only *inside* its container |
+| **Dedicated (Kiosk)** | The org, single-app | Lock the device to one app | Everything else — it's a purpose-built appliance |
+
+The platform boundary is the entire governance story: **in a BYOD world the company manages the work container (profiles, apps, compliance inside it) but must not reach into the personal side.** Android does this via **work profiles**, iOS/macOS via **User Enrollment / managed app installation**. The architecture failure is treating BYOD as if it were corporate-owned — pushing broad "all-out" commands (full wipe) onto personal devices, which is both a legal problem and a user revolt.
+
+## The device lifecycle
+
+```mermaid
+sequenceDiagram
+  participant U as User
+  participant D as Device
+  participant M as MDM platform
+  participant P as Policy engine
+
+  U->>M: enroll (email + registration)
+  M->>D: issue enrollment profile + identity token
+  D->>M: attest device + report capabilities
+  M->>D: push profiles, certs, managed apps
+  D->>P: request data access (with posture)
+  P->>P: check compliance (passcode, OS version, container health)
+  alt compliant
+    P-->>D: allow app + data access
+  else device compromised / non-compliant
+    P-->>D: block or restrict to remediation
+  end
+```
+
+Each stage is a step in a continuous loop, not a one-time setup: enroll → configure → deliver apps → check compliance → remediate → repeat. The management plane owns the "current state" truth and the phone spends its life proving it.
+
+## What MDM actually pushes
+
+| Capability | What it looks like in practice | The failure mode |
+| --- | --- | --- |
+| **Configuration profiles** | Wi-Fi, VPN, email, certs, passcode policy pushed silently | A profile that quietly weakens settings (long passcode, no timeout) |
+| **Managed app delivery** | Business apps pushed/updated from VPP/app stores, app config XML | Apps in the personal store that nobody can force-update or configure |
+| **Compliance policies** | Require passcode, current OS, no jailbreak/root, container health | Compliance checks that pass on install date, not current state |
+| **Remote actions** | Wipe, lock, remove work data, retire device | Wipe fired on a BYOD device (legally + reputationally toxic) |
+| **Cert/identity issuance** | A device identity/cert so Conditional Access trusts it | Expired certs silently kill access with no remediation path |
+| **Telemetry & inventory** | OS, model, apps, compliance status in one pane | Gaps in enrollment make the dashboard a fiction |
+
+## MDM vs the alternatives you'll confuse it with
+
+| Thing | What it actually is | Versus MDM |
+| --- | --- | --- |
+| **EMM** (enterprise mobility management) | The superset: MDM + MAM (app-level) + app config + identity | MDM is the device branch; EMM is the umbrella |
+| **MAM** (mobile app management) | Manage *apps and data inside them* rather than the device | Only makes sense for BYOD — doesn't need to control the OS |
+| **UEM** (unified endpoint management) | One pane for PCs *and* mobile (Intune, Workspace ONE) | The convergence trend: mobile isn't a separate silo anymore |
+| **App wrapping / SDK** | Embed app-level controls (VPN in app, DLP) | Heavier than MDM config; used when you must govern app-level behavior |
+
+The strategic read: pure MDM is increasingly folded into **UEM** (one platform for Windows/macOS/iOS/Android — precisely the [endpoint security](../endpoint-security-architecture) management plane). A modern mobile strategy asks "does the same pane manage the laptop and the phone?" rather than running a separate mobility team per OS.
+
+## The failure modes an architect owns
+
+- **BYOD treated as corporate-owned** — broad remote-wipe commands and deep profiles on personal devices = legal exposure and user revolt.
+- **Container leak** — the managed work profile and the personal side share storage/backups, so "managed" data escapes the container into personal iCloud/Drive.
+- **Compliance theater** — checks confirm *a* passcode/OS but not *the enforced current* state; jailbroken devices pass because the check looks at install-time evidence.
+- **Enrollment coverage gaps** — legacy devices or shadow phones were never enrolled, so the posture and inventory story has holes that nobody tracks.
+- **Expired identities** — device certs/identity tokens expire and access dies without a remediation loop, so every renewal window is an outage.
+- **Human-centered drift** — pushing overly aggressive lockouts in the name of "now," until genuine users are locked out of work and find their own way around ("just use personal Gmail").
+
+## Tester checklist
+
+- **Enrollment round trip**: enroll a fresh device and confirm it receives the profile, certificates, and managed apps without a user manually configuring anything.
+- **BYOD boundary**: on a BYOD device, confirm the company can wipe/restrict the *work container only*, that personal data survives a work wipe, and that MDM cannot see personal photos/messages.
+- **Compliance realness**: set a short passcode policy; instrument the device to bypass it; confirm the policy engine actually gates access rather than trusting install-time metadata.
+- **Jailbreak/root detection**: root/jailbreak a test device and confirm posture flips to non-compliant and access degrades to remediation.
+- **Remote wipe drill**: wipe a corporate device and confirm the data (not just the apps) is gone and the device is unenrolled cleanly.
+- **Expiry drill**: expire a device identity/cert in test and confirm the user hits a clear remediation path, not a silent black-hole of access.
+
+## Related systems
+
+- [Endpoint security architecture](../endpoint-security-architecture) — the stack MDM's enrollment and policy branch runs inside
+- [Zero trust architecture](../zero-trust-architecture) — the model where a phone must prove posture on every request
+- [Identity and access management](../identity-and-access-management) — the user identity MDM binds the device to
+- [Conditional access and policy engines](../conditional-access-and-policy-engines) — where the phone's compliance actually gates access
+- [Android in the enterprise](../android-in-the-enterprise) and [iOS/macOS in the enterprise](../ios-macos-in-the-enterprise) — the per-OS enrollment and profile models MDM drives
+- [Windows in the enterprise](../windows-in-the-enterprise) — when MDM grows into UEM and manages laptops tooa:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","endpoint-security-architecture",{"href":"/systems/endpoint-security-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Endpoint security architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The layered stack that protects every device — enrollment, posture, EDR/AV, patching, encryption, and policy — and how zero trust turns each endpoint into a verifiable identity."}]]}],["$","$L2","android-in-the-enterprise",{"href":"/systems/android-in-the-enterprise","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Android in the enterprise"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"EMM and work profiles: separating personal from corporate on BYOD, fully managed COPE devices, and provisioning via QR/NFC."}]]}],["$","$L2","ios-macos-in-the-enterprise",{"href":"/systems/ios-macos-in-the-enterprise","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"iOS and macOS in the enterprise"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Apple Business Manager, MDM enrollment, supervised devices, config profiles, managed Apple IDs, and why App Store-only is a security feature."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mobile device management (MDM) · System Reference"}],["$","meta","1",{"name":"description","content":"The management plane for phones and tablets — enrollment, profiles, app delivery, compliance — and how MDM turns a fleet of mobile devices into governed endpoints."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"mobile,endpoint,security,operations,endpoint-device-engineer,security-architect,enterprise-architect,cloud-engineer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/mobile-device-management-mdm/"}],["$","meta","8",{"property":"og:title","content":"Mobile device management (MDM) · System Reference"}],["$","meta","9",{"property":"og:description","content":"The management plane for phones and tablets — enrollment, profiles, app delivery, compliance — and how MDM turns a fleet of mobile devices into governed endpoints."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/mobile-device-management-mdm/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Mobile device management (MDM) · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The management plane for phones and tablets — enrollment, profiles, app delivery, compliance — and how MDM turns a fleet of mobile devices into governed endpoints."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

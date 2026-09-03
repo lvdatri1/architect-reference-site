@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+15:X
+1a:X
+1a:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"ServiceNow ESM\",\"description\":\"ServiceNow's anatomy as enterprise service management — ITSM tables, the CMDB, its platform logic, and why governance beats glamour in production.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/servicenow-esm\",\"inLanguage\":\"en\",\"keywords\":\"itsm, esm, workflow, enterprise-architecture, asset, enterprise-architect, solution-architect, devops-engineer, cloud-engineer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"itsm\"},{\"@type\":\"Thing\",\"name\":\"esm\"},{\"@type\":\"Thing\",\"name\":\"workflow\"},{\"@type\":\"Thing\",\"name\":\"enterprise-architecture\"},{\"@type\":\"Thing\",\"name\":\"asset\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ServiceNow ESM\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/servicenow-esm\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"ServiceNow ESM"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"ServiceNow ESM"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"ServiceNow's anatomy as enterprise service management — ITSM tables, the CMDB, its platform logic, and why governance beats glamour in production."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":["$L3","$L4","$L5"]}],"Solution Architect"]}],"$L6","$L7"],["$L8","$L9","$La","$Lb","$Lc"]]}]]}],"$Ld","$Le"]}],["$Lf","$L10","$L11","$L12"],"$L13"]}],"isPartial":"$@14","staleTime":"$15","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$15","varyParams":null},{"rsc":"$L18","isPartial":"$@19","staleTime":"$15","varyParams":"$1a"},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$15","varyParams":"$1a"}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+22:"$Sreact.suspense"
+24:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+25:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+26:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+27:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+28:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}]
+4:["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}]
+5:["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]
+6:["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}]
+7:["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}]
+8:["$","$L2","itsm",{"href":"/tags/itsm","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","itsm"]}]
+9:["$","$L2","esm",{"href":"/tags/esm","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","esm"]}]
+a:["$","$L2","workflow",{"href":"/tags/workflow","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","workflow"]}]
+b:["$","$L2","enterprise-architecture",{"href":"/tags/enterprise-architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","enterprise-architecture"]}]
+c:["$","$L2","asset",{"href":"/tags/asset","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","asset"]}]
+20:T1714,
+## What this system is
+
+ServiceNow is the market's dominant **enterprise service management (ESM) platform**: it hosts ITIL modules (incident, problem, change, request), a CMDB, a service catalog, and — via its low-code platform — any workflow you can model (HR, finance, facilities, security). The mental model is a **platform, not an app**: a database of tables (with a hidden `sys_id` per record), a workflow engine, a notification engine, and a UI layer. "Building in ServiceNow" means defining tables, fields, flows, and service portal pages — not writing services.
+
+```mermaid
+flowchart LR
+  subgraph ITSM["ITSM / IT operations"]
+    IN[Incident management]
+    PR[Problem management]
+    CH[Change management]
+    RQ[Request + catalog]
+  end
+  subgraph Platform["The platform"]
+    T[(Tables - sys_id per record)]
+    F[Flow designer - workflows]
+    N[Notifications + SLAs]
+    E[Integration Hub - spokes]
+  end
+  subgraph Enterprise["Enterprise service management"]
+    HR[HR service delivery]
+    FP[Finance & procurement]
+    SEC[Security operations]
+  end
+  ITSM --> Platform
+  Enterprise --> Platform
+  CH --> CMDB[(CMDB - in the same system)]
+```
+
+## The platform logic: tables, sys_id, CMDB
+
+```mermaid
+flowchart LR
+  A[Incident table] --> S[Common schema<br/>- sys_id, created, state]
+  B[Change table] --> S
+  C[Request table] --> S
+  D[CMDB CI table] --> S
+  S --> UI[Service portal]
+  S --> API[ServiceNow API - REST]
+  S --> IM[Integration Hub -<br/>OAuth spokes to other tools]
+```
+
+- **Tables are the schema**: incidents, problems, changes, requests, and the CMDB all live as tables in one database, each record carrying a globally unique `sys_id`.
+- **The CMDB is native** — ServiceNow's does not sit adjacent to the platform; CI relationships are tables, which is why incident-to-impact lookups are one query, not an export.
+- **Business rules, notifications, SLA definitions** are platform primitives attached to tables, so "re-open the P1 incident to its owner when SLA breaches" is configuration, not code.
+- **The API+Integration Hub** makes ServiceNow a spoke in *other* systems too — it both receives webhooks and pushes to ticketing, chat, and clouds.
+
+The strategy trap is forgetting it's a platform: ServiceNow *can* do almost anything, so teams model every process and ship an over-engineered, hard-to-run system. The production discipline is to configure the **minimum tables and flows that satisfy the process**, then govern "can this be a simple notification instead of a flow?"
+
+## ESM as a term
+
+ServiceNow calls ITSM's backyard "enterprise service management" because the same records-and-workflow engine serves every department. The architectural identity of ESM: **one platform, many siled tables, shared plumbing** — shared notification, shared SLA clock, shared service portal, shared CMDB that incident and security both consult. The shared plumbing is the value: HR's leave request and IT's password reset run the same engine, so governance is uniform.
+
+## The governance patterns that make it work
+
+| Pattern | Why it matters | The failure mode |
+| --- | --- | --- |
+| **Keep it configured, not coded** | Platform stability & upgrade path | Custom scripts multiply until an upgrade breaks the instance |
+| **CI ownership + discovery** | CMDB stays trustworthy like a [CMDB](../cmdb-and-configuration-management) must | Stale records poison incident triage |
+| **SLA via definitions, not scripts** | Timers live in the platform | Teams hand-roll SLA logic and it drifts |
+| **Minimal tables** | Every table is an ops surface | A field-per-whim = ungoverned sprawl |
+| **API-first integration** | Other tools consume the platform by contract | Point-to-point PowerShell/scripts replaced wholesale with no contract |
+
+## ServiceNow vs the alternatives
+
+| Need | ServiceNow | Excel / homegrown | Jira ITSM | A generic CMS |
+| --- | --- | --- | --- | --- |
+| Expressive CMDB relationships | ✓ native | ✗ | partial | ✗ |
+| Multi-department platform | ✓ ESM | ✗ | ~ dev/IT only | ✗ |
+| Cost & ops burden | high | low | medium | depends |
+| Fit when "it's already bought" | strong | — | strong if dev-led | — |
+
+ServiceNow wins decisively where a **managed, auditable, multi-department service backbone** is the requirement (typical mid/large enterprise). It is expensive and has a learning curve; a lightweight team gets comparable value from Jira plus a spreadsheet-plus-docs CMDB — the choice is portfolio-level, not feature-per-feature.
+
+## Tester checklist
+
+- **Record lifecycle**: create an incident, run it through state (new → in progress → resolved → closed) and confirm the state-history and SLA timers behave.
+- **CI impact drill**: attach a CI to an incident and confirm the CMDB shows affected services; break the relationship and confirm the lookup no longer misleads.
+- **SLA breach**: set a short SLA, let it breach, and verify a notification + business rule fire as defined (not as a script).
+- **Portal fidelity**: a catalog request created in the Service Portal must produce the correct request record with the right workflow.
+- **API contract**: push an event via Integration Hub OAuth and confirm it lands as the right table record; verify outbound webhooks carry the expected payload shape.
+
+## Related systems
+
+- [CMDB and configuration management](../cmdb-and-configuration-management) — the model ServiceNow ships natively
+- [ITIL incident and problem management](../itil-incident-and-problem-management) — the incident/problem track ServiceNow automates
+- [ITIL change and release management](../itil-change-and-release-management) — the change workflow living alongside them
+- [Monitoring and observability](../monitoring-and-observability) — alerts feed incident records via the API/Integration Hub
+- [CRM systems](../crm-systems) — the sibling departmental platform for customer-side workflowsd:["$","$L1f",null,{"source":"$20"}]
+e:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","cmdb-and-configuration-management",{"href":"/systems/cmdb-and-configuration-management","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"CMDB and configuration management"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"What a CMDB actually is — the CIs, relationships, and attributes that model your estate — and why most fail for cultural reasons before technical ones."}]]}],["$","$L2","itil-change-and-release-management",{"href":"/systems/itil-change-and-release-management","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"ITIL change and release management"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"From request to production safely: change types and the CAB, change windows, release vs deployment, the service catalog, and the SLA/OLA/UC stack that makes service promises real."}]]}],["$","$L2","itil-incident-and-problem-management",{"href":"/systems/itil-incident-and-problem-management","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"ITIL incident and problem management"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Restore fast, then stop it recurring: the incident lifecycle and priority matrix, problem management's chase after root cause, and how the known-error pipeline shrinks the next outage."}]]}]]}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+10:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+11:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+12:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+13:["$","$L21",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+16:["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L25",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ServiceNow ESM · System Reference"}],["$","meta","1",{"name":"description","content":"ServiceNow's anatomy as enterprise service management — ITSM tables, the CMDB, its platform logic, and why governance beats glamour in production."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"itsm,esm,workflow,enterprise-architecture,asset,enterprise-architect,solution-architect,devops-engineer,cloud-engineer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/servicenow-esm/"}],["$","meta","8",{"property":"og:title","content":"ServiceNow ESM · System Reference"}],["$","meta","9",{"property":"og:description","content":"ServiceNow's anatomy as enterprise service management — ITSM tables, the CMDB, its platform logic, and why governance beats glamour in production."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/servicenow-esm/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"ServiceNow ESM · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"ServiceNow's anatomy as enterprise service management — ITSM tables, the CMDB, its platform logic, and why governance beats glamour in production."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L26","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+18:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+1b:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+1e:true
+23:null
+15:300
+15:C
+1d:0
+17:"$undefined"
+19:"$undefined"
+1c:"$undefined"
+14:"$undefined"

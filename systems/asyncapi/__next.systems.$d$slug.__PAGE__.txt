@@ -1,0 +1,338 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+13:X
+18:X
+18:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"AsyncAPI\",\"description\":\"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/asyncapi\",\"inLanguage\":\"en\",\"keywords\":\"api, architecture, messaging, event-driven, developer, backend, enterprise-architect, solution-architect, data-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"api\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"messaging\"},{\"@type\":\"Thing\",\"name\":\"event-driven\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"AsyncAPI\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/asyncapi\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"AsyncAPI"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"AsyncAPI"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],"$L3"]}],"Backend"]}],"$L4","$L5","$L6"],["$L7","$L8","$L9","$La"]]}]]}],"$Lb","$Lc"]}],["$Ld","$Le","$Lf","$L10"],"$L11"]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$13","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$13","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$13","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+24:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+25:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+26:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]
+4:["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}]
+5:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+6:["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}]
+7:["$","$L2","api",{"href":"/tags/api","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","api"]}]
+8:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+9:["$","$L2","messaging",{"href":"/tags/messaging","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","messaging"]}]
+a:["$","$L2","event-driven",{"href":"/tags/event-driven","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","event-driven"]}]
+1e:T2536,
+## What this system is
+
+**AsyncAPI** is the industry-standard specification for describing **event-driven APIs** — the same role OpenAPI plays for REST. It captures:
+
+- **Channels** (topics, queues, exchanges) and direction (publish/subscribe)
+- **Message schemas** (payloads, headers, correlations)
+- **Protocol bindings** (Kafka, AMQP, MQTT, WebSocket, HTTP, SNS/SQS, Solace, IBM MQ, etc.)
+- **Servers** (broker clusters, connection details, security)
+- **Components** (reusable schemas, parameters, traits, correlations)
+
+```mermaid
+flowchart LR
+  Spec[AsyncAPI Document\nYAML/JSON] --> Gen[Code Generators]
+  Spec --> Doc[Interactive Docs\nHTML/Markdown]
+  Spec --> Gov[Governance\nLinting, CI checks]
+  Spec --> Mock[Mock Servers\nTest Consumers]
+  Gen --> Prod[Producer SDKs]
+  Gen --> Cons[Consumer SDKs]
+```
+
+## Why it exists
+
+REST + OpenAPI assumes **request/response**. Modern systems are **event-driven**:
+
+| REST/OpenAPI | AsyncAPI |
+|---|---|
+| Synchronous, client pulls | Asynchronous, broker pushes |
+| One schema per endpoint | Many messages per channel |
+| HTTP verbs | Protocol-agnostic (Kafka, AMQP, MQTT, WS, ...) |
+| Stateless | Stateful consumers, durable subscriptions |
+| `GET /orders` | `orders.created` event on `orders` topic |
+
+AsyncAPI gives you a **single source of truth** for the contract between event producers and consumers — across teams, languages, and brokers.
+
+## Core concepts
+
+```mermaid
+flowchart TB
+  A[AsyncAPI Document] --> B[info: title, version, contact, license]
+  A --> C[servers: broker endpoints + protocol]
+  A --> D[channels: topics/queues + messages]
+  A --> E[components: schemas, parameters, traits, correlations, securitySchemes]
+  A --> F[operations: publish/subscribe + traits]
+  A --> G[tags, externalDocs]
+```
+
+### Channels
+
+A **channel** is a logical pathway (Kafka topic, RabbitMQ queue, MQTT topic, etc.). Each channel defines:
+
+- `publish` — what a producer may send
+- `subscribe` — what a consumer receives
+- `parameters` — path/templated parts (e.g., `orders/{region}/{tenant}`)
+- `bindings` — protocol-specific metadata (Kafka partition key, MQTT QoS, etc.)
+
+```yaml
+channels:
+  orders.created:
+    description: "Emitted when an order is placed"
+    publish:
+      operationId: publishOrderCreated
+      summary: "Publish new order event"
+      message:
+        $ref: '#/components/messages/OrderCreated'
+    bindings:
+      kafka:
+        topic: orders.created
+        partitions: 12
+        replicationFactor: 3
+```
+
+### Messages
+
+A **message** defines the payload + headers + correlations:
+
+```yaml
+components:
+  messages:
+    OrderCreated:
+      name: OrderCreated
+      title: "Order Created Event"
+      summary: "Published when a customer places an order"
+      contentType: application/json
+      payload:
+        $ref: '#/components/schemas/Order'
+      headers:
+        type: object
+        properties:
+          correlationId:
+            type: string
+            format: uuid
+          causationId:
+            type: string
+            format: uuid
+          traceparent:
+            type: string
+      bindings:
+        kafka:
+          key: '{correlationId}'
+```
+
+### Schemas
+
+Payloads use **JSON Schema** (draft-07/2019-09 or 2020-12) — same as OpenAPI:
+
+```yaml
+components:
+  schemas:
+    Order:
+      type: object
+      required: [orderId, customerId, items, totalAmount, currency, placedAt]
+      properties:
+        orderId:
+          type: string
+          format: uuid
+        customerId:
+          type: string
+          format: uuid
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/OrderItem'
+        totalAmount:
+          type: number
+          minimum: 0
+        currency:
+          type: string
+          pattern: '^[A-Z]{3}$'
+        placedAt:
+          type: string
+          format: date-time
+```
+
+### Protocol bindings
+
+AsyncAPI is **protocol-agnostic**. Bindings map the abstract channel/message to a concrete protocol:
+
+| Protocol | Binding covers |
+|---|---|
+| **Kafka** | topic, partitions, replication, key, headers, schema registry |
+| **AMQP 0-9-1** | exchange, queue, routingKey, deliveryMode, TTL, dead-letter |
+| **MQTT 3/5** | topic, QoS, retain, session expiry, user properties |
+| **WebSocket** | subprotocol, headers, ping/pong |
+| **HTTP** | webhook POST, CloudEvents mapping |
+| **SNS/SQS** | topic ARN, queue URL, FIFO, message group ID |
+| **Solace** | topic, queue, TTL, priority, DMQ |
+| **IBM MQ** | queue, correlationId, messageId, persistence |
+
+```yaml
+servers:
+  production:
+    url: kafka://kafka.prod.example.com:9092
+    protocol: kafka
+    description: "Production Kafka cluster"
+    security:
+      - saslScram: []
+    bindings:
+      kafka:
+        clientId: order-service
+        groupId: order-consumer-group
+```
+
+### Security
+
+Reuses OpenAPI security schemes + adds protocol-specific:
+
+```yaml
+components:
+  securitySchemes:
+    saslScram:
+      type: http
+      scheme: bearer
+      bearerFormat: SCRAM-SHA-512
+    mtls:
+      type: http
+      scheme: bearer
+      description: "Mutual TLS with client certificates"
+    apiKey:
+      type: apiKey
+      in: header
+      name: X-API-Key
+```
+
+## Tooling ecosystem
+
+```mermaid
+flowchart LR
+  Editor[AsyncAPI Studio\nEditor + Preview] --> Spec
+  Spec[.asyncapi.yaml] --> Generator[@asyncapi/generator]
+  Generator --> Templates[Built-in + Custom Templates]
+  Templates --> Code[Node, Python, Go, Java, Spring, .NET, Kotlin, ...]
+  Templates --> Docs[HTML, Markdown, Postman, OpenAPI]
+  Templates --> Infra[Docker Compose, K8s, Helm, Terraform]
+  Spec --> Lint[@asyncapi/linter]
+  Spec --> Diff[@asyncapi/diff]
+  Spec --> Mock[@asyncapi/mock]
+```
+
+### Key tools
+
+| Tool | Purpose |
+|---|---|
+| **AsyncAPI Studio** | Browser-based editor with live preview, validation, mock server |
+| **@asyncapi/generator** | Code gen: SDKs, server stubs, docs, infra-as-code |
+| **@asyncapi/parser** | Parse/validate/normalize documents in Node/TS |
+| **@asyncapi/linter** | Style + semantic rules (naming, required fields, breaking changes) |
+| **@asyncapi/diff** | Compare two specs, detect breaking/non-breaking changes |
+| **@asyncapi/mock** | Run a mock broker from the spec for consumer testing |
+| **AsyncAPI CLI** | `asyncapi validate`, `generate`, `diff`, `new`, `preview` |
+
+### Generate a Node.js consumer
+
+```bash
+npx @asyncapi/generator \
+  -t @asyncapi/nodejs-template \
+  -o ./generated \
+  ./asyncapi.yaml
+```
+
+Produces:
+- Typed message interfaces (TypeScript)
+- Kafka/AMQP/MQTT client wrappers
+- Validation middleware (AJV)
+- OpenTelemetry instrumentation hooks
+
+## Versioning strategy
+
+AsyncAPI documents **have a version** (`info.version`), but **event schemas** evolve independently. Best practices:
+
+1. **Schema version in topic** → `orders.v1.created`, `orders.v2.created`
+2. **Schema registry** (Confluent, Apicurio, Karapace) — enforce compatibility (BACKWARD, FORWARD, FULL, NONE)
+3. **AsyncAPI `components.schemas`** versioned per release; use `x-deprecated` + `deprecation` headers
+4. **Consumer-driven contract testing** (Pact, Spring Cloud Contract) — verify consumers before deploying producers
+
+```mermaid
+flowchart LR
+  V1[orders.v1.created] --> Reg[Schema Registry\nBACKWARD compat]
+  V2[orders.v2.created] --> Reg
+  Reg --> Prod[Producer deploys v2]
+  Prod --> Cons[Consumers migrate\non their schedule]
+```
+
+## Governance in CI
+
+```yaml
+# .github/workflows/asyncapi.yml
+name: AsyncAPI Governance
+on: [pull_request]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: asyncapi/actions/lint@v1
+        with:
+          files: "asyncapi/**/*.yaml"
+  diff:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: asyncapi/actions/diff@v1
+        with:
+          old: "asyncapi/prod.yaml"
+          new: "asyncapi/staging.yaml"
+      - run: echo "Breaking changes detected" && exit 1
+        if: ${{ steps.diff.outputs.breaking == 'true' }}
+```
+
+## Tester checklist
+
+- Validate spec: `asyncapi validate asyncapi.yaml` passes
+- Lint: naming conventions, required descriptions, no `any` schemas
+- Diff against production: no breaking changes without version bump
+- Generate consumer SDK → compile + unit test against schema
+- Mock server: `asyncapi mock asyncapi.yaml` → run contract tests
+- Verify protocol bindings match actual broker config (Kafka partitions, MQTT QoS, etc.)
+- Check `correlationId` / `traceparent` propagation in generated code
+- Confirm security schemes match deployed auth (SASL, mTLS, API keys)
+
+## Related systems
+
+- [Message queue delivery](../message-queue-delivery) — how brokers deliver events reliably
+- [Pub/Sub event streaming](../pub-sub-event-streaming) — patterns and topologies
+- [Kafka and container orchestration](../kubernetes-and-container-orchestration) — running Kafka on K8s
+- [Change data capture](../change-data-capture) — DB → event stream pipelines
+- [OpenAPI / RESTful API design](../restful-api-design) — the synchronous counterpart
+
+## Further reading
+
+- [AsyncAPI Specification v3.0](https://www.asyncapi.com/docs/specification/v3.0.0)
+- [AsyncAPI Studio](https://studio.asyncapi.com/)
+- [Generator templates](https://github.com/asyncapi/generator#available-templates)
+- [Schema Registry compatibility](https://docs.confluent.io/platform/current/schema-registry/fundamentals/schema-evolution.html)
+- [CloudEvents spec](https://cloudevents.io/) — complementary event envelope standardb:["$","$L1d",null,{"source":"$1e"}]
+c:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","azure-api-management-apim",{"href":"/systems/azure-api-management-apim","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Azure API Management (APIM)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"APIM's anatomy — gateway, publisher portal, developer portal, subscriptions, policies, and identity — and the request path every request takes through it."}]]}],["$","$L2","azure-integration-services",{"href":"/systems/azure-integration-services","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Azure integration services"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Service Bus, Event Grid, Logic Apps, Event Hubs, and the API Management front door — the toolkit that connects Azure workloads to each other and to the rest of the enterprise."}]]}],["$","$L2","dns-and-load-balancing",{"href":"/systems/dns-and-load-balancing","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"DNS and load balancing"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"From typing a name to opening a connection: recursive resolution, caching and TTLs, then L4 vs L7 load balancing with health checks."}]]}]]}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+e:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+f:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+10:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+11:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+14:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AsyncAPI · System Reference"}],["$","meta","1",{"name":"description","content":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"api,architecture,messaging,event-driven,developer,backend,enterprise-architect,solution-architect,data-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/asyncapi/"}],["$","meta","8",{"property":"og:title","content":"AsyncAPI · System Reference"}],["$","meta","9",{"property":"og:description","content":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/asyncapi/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"AsyncAPI · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L24","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+1c:true
+21:null
+13:300
+13:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+12:"$undefined"

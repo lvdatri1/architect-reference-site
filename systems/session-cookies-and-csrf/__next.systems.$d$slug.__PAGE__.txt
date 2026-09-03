@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+10:X
+15:X
+15:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Session cookies, CSRF and CSRF tokens\",\"description\":\"How cookies remember you, why the SameSite / HttpOnly flags matter, and how a forged cross-site request sneaks past your login.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/session-cookies-and-csrf\",\"inLanguage\":\"en\",\"keywords\":\"security, api, frontend, developer, frontend, backend, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"api\"},{\"@type\":\"Thing\",\"name\":\"frontend\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Session cookies, CSRF and CSRF tokens\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/session-cookies-and-csrf\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Session cookies, CSRF and CSRF tokens"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Session cookies, CSRF and CSRF tokens"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"How cookies remember you, why the SameSite / HttpOnly flags matter, and how a forged cross-site request sneaks past your login."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","frontend",{"href":"/jobs/frontend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Frontend icon","children":[["$","path",null,{"d":"M3 5.5A2.5 2.5 0 0 1 5.5 3h13A2.5 2.5 0 0 1 21 5.5v13a2.5 2.5 0 0 1-2.5 2.5h-13A2.5 2.5 0 0 1 3 18.5v-13Z"}],["$","line",null,{"x1":3,"y1":8.5,"x2":21,"y2":8.5}],["$","line",null,{"x1":8,"y1":5.5,"x2":8,"y2":8.5}],["$","line",null,{"x1":12,"y1":5.5,"x2":12,"y2":8.5}]]}],"Frontend"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Backend"]}],"$L4"],["$L5","$L6","$L7"]]}]]}],"$L8","$L9"]}],["$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":"$@f","staleTime":"$10","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$10","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$10","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$10","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1c:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+21:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+22:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+23:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}]
+4:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+5:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+6:["$","$L2","api",{"href":"/tags/api","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","api"]}]
+7:["$","$L2","frontend",{"href":"/tags/frontend","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","frontend"]}]
+1b:Tc27,
+## What this system is
+
+Cookies are the web's default "remember me". The browser stores a **session id** in a cookie and sends it on every request to your origin. That is powerful — and it opens the door to **CSRF**: a *different* site (or an HTML email) that makes the *same-origin-trusted* browser send a forged request on your victim's behalf.
+
+```mermaid
+flowchart LR
+  A[User logs in] --> B[Server stores session<br/>id  →  user_id]
+  B -->|Set-Cookie: session_id<br/>HttpOnly, Secure, SameSite| C[Browser cookie jar]
+  C -->|every request carries cookie| D[Your API]
+```
+
+## The cookie flags that matter
+
+| Flag | Effect | If you skip it |
+| --- | --- | --- |
+| `HttpOnly` | JS can't read the cookie | Any XSS reads the session cookie and hijacks accounts |
+| `Secure` | Only sent over HTTPS | Cookie travels in cleartext over HTTP |
+| `SameSite=Lax` | Blocks cross-site sends except top-level navigation | CSRF succeeds silently |
+| `SameSite=Strict` | Blocks even top-level cross-site sends | Slightly worse UX (broken external links while logged-in) |
+| `Path`/`Domain` | Restricts where it's sent | Cookie sent to unintended host → leak |
+
+## The CSRF attack, step by step
+
+```mermaid
+sequenceDiagram
+  participant V as Victim's browser
+  participant A as Attacker's page
+  participant B as Victim's banking app
+
+  V->>B: login (gets session cookie)
+  V->>A: visits evil.example (cookie NOT shared — but that doesn't matter!)
+  A->>V: <img src="https://bank.com/transfer?to=attacker&amount=9999">
+  V->>B: GET transfer... with session_id cookie (auto-sent!)
+  B-->>V: transfers money
+```
+
+The mean trick: the attacker's site never *reads* your cookie (and doesn't need to). The **browser** attaches the cookie to the request because it's going to `bank.com` — the victim is logged in, so the forged request is "authenticated".
+
+## Defenses, in the order to apply them
+
+1. **`SameSite=Lax`** (default in modern browsers) — kills the common cross-site POST form/image CSRF.
+2. **CSRF tokens** — a per-session unpredictable token the server requires in forms / `X-CSRF-Token` fetch headers; the attacker's page can't read or forge it.
+3. **`Origin` / `Host` header checks** on state-changing endpoints — cheap extra layer.
+4. **Double-submit cookie** — server expects the CSRF value both in a cookie and a header; they must match, so a foreign page can't supply both.
+
+## Tester checklist
+
+- Confirm `HttpOnly` + `Secure` + `SameSite=Lax` are set on session cookies.
+- From a *second* origin, attempt POST / transfer-type endpoints — they must fail without a valid CSRF token.
+- Confirm state-changing endpoints (not just GET) are CSRF-protected.
+- Check logout actually invalidates the session server-side (cookie delete is not enough).
+
+## Related systems
+
+- [Authentication vs authorization](../authentication-vs-authorization) — session = authn result
+- [JWT access tokens](../jwt-tokens) — the stateless alternative to cookie sessions
+- [OAuth 2.0 and OpenID Connect](../oauth2-openid-connect) — modern login-with-IDP flows and the login-related CSRF (`state`) protections8:["$","$L1a",null,{"source":"$1b"}]
+9:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","jwt-tokens",{"href":"/systems/jwt-tokens","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"JWT access tokens"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The three base64 parts of a JWT, how signature verification works, and the stateless-vs-stateful trade-off behind token-based APIs."}]]}],["$","$L2","oauth2-openid-connect",{"href":"/systems/oauth2-openid-connect","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"OAuth 2.0 and OpenID Connect"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The authorization code flow with PKCE, explained as a conversation between a browser, the app, and an identity provider."}]]}],["$","$L2","oauth-grant-types",{"href":"/systems/oauth-grant-types","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"OAuth grant types"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Authorization code with PKCE, client credentials, device flow, and refresh — the five ways to get an OAuth token, who each is for, and how to pick (and test) the right one."}]]}]]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+c:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+d:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+e:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+11:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Session cookies, CSRF and CSRF tokens · System Reference"}],["$","meta","1",{"name":"description","content":"How cookies remember you, why the SameSite / HttpOnly flags matter, and how a forged cross-site request sneaks past your login."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"security,api,frontend,developer,frontend,backend,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/session-cookies-and-csrf/"}],["$","meta","8",{"property":"og:title","content":"Session cookies, CSRF and CSRF tokens · System Reference"}],["$","meta","9",{"property":"og:description","content":"How cookies remember you, why the SameSite / HttpOnly flags matter, and how a forged cross-site request sneaks past your login."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/session-cookies-and-csrf/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Session cookies, CSRF and CSRF tokens · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"How cookies remember you, why the SameSite / HttpOnly flags matter, and how a forged cross-site request sneaks past your login."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L21","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+19:true
+1e:null
+10:300
+10:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+f:"$undefined"

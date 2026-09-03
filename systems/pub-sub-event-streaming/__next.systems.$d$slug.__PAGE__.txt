@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Pub/Sub and event streaming\",\"description\":\"From one publisher to many consumers: topics, partitions, consumer groups, and why at-least-once delivery means your handler must be idempotent.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/pub-sub-event-streaming\",\"inLanguage\":\"en\",\"keywords\":\"integration, architecture, api, developer, backend, solution-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"integration\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"api\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Pub/Sub and event streaming\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/pub-sub-event-streaming\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Pub/Sub and event streaming"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Pub/Sub and event streaming"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"From one publisher to many consumers: topics, partitions, consumer groups, and why at-least-once delivery means your handler must be idempotent."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Solution Architect"]}]],["$L4","$L5","$L6"]]}]]}],"$L7","$L8"]}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1b:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+20:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+21:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+22:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}]
+4:["$","$L2","integration",{"href":"/tags/integration","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","integration"]}]
+5:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+6:["$","$L2","api",{"href":"/tags/api","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","api"]}]
+1a:Te7b,
+## What this system is
+
+A **topic** in a pub/sub broker (Kafka, GCP Pub/Sub, SNS, RabbitMQ topic exchanges) decouples the thing that *happens* from everything that *reacts*. The moment an event lands, every subscriber that cares gets a copy — checkout service listeners, analytics pipelines, email senders, AI feature stores.
+
+```mermaid
+flowchart LR
+  P[Checkout service] -->|publish order.placed| B[Broker: order.placed topic]
+  B -->|fan-out copy| EM[Consumer: emailer]
+  B -->|fan-out copy| AN[Consumer: analytics]
+  B -->|fan-out copy| RE[Consumer: recommender]
+  EM -->|at-least-once → dedupe| C[Persist id + commit offset]
+```
+
+```mermaid
+flowchart LR
+  P[Publisher<br/>checkout service] -->|event: order.placed| T{Order.placed<br/>topic}
+  T --> C1[Email service]
+  T --> C2[Inventory update]
+  T --> C3[Analytics sink]
+  T --> C4[AI recommender]
+```
+
+## Queue vs pub/sub
+
+| | Queue (SQS, Rabbit work queue) | Pub/Sub (Kafka topics, SNS) |
+| --- | --- | --- |
+| Semantics | One consumer takes each message (competing consumers) | Every subscribed consumer group gets its own copy |
+| Suits | Work distribution — jobs, tasks | Fan-out — events many systems must react to |
+| State | Message deleted on ack | Retained in the topic (by retention/compaction) |
+
+## Partitions and consumer groups
+
+```mermaid
+flowchart TB
+  subgraph Topic["Topic: order.placed · 3 partitions"]
+    P1[partition 0]
+    P2[partition 1]
+    P3[partition 2]
+  end
+
+  subgraph Group["Consumer group: recommender"]
+    W1[consumer 1]
+    W2[consumer 2]
+  end
+
+  P1 --> W1
+  P2 --> W1
+  P3 --> W2
+```
+
+Brokers scale a topic by splitting it into **partitions** (segments). Within a partition, order is preserved; across partitions it is not. A **consumer group** splits partitions among its members for parallel processing — but if you read in groups, you trade global order for throughput.
+
+## The full journey of one event
+
+```mermaid
+sequenceDiagram
+  participant P as Checkout service
+  participant B as Broker
+  participant C as Email consumer
+  participant S as Email API
+
+  P->>B: publish order.placed (key=order-42)
+  B->>B: append to partition by key
+  C->>B: poll (groupId=emailer)
+  B-->>C: event + offset 481
+  C->>S: send confirmation email
+  C->>C: persist processed id order-42
+  C->>B: commit offset 481
+```
+
+Note the guard: the consumer **commits the offset only after the side effect and its idempotency marker are persisted**. Crash between send and commit → redelivery → the `order-42` dedupe marker prevents the second email.
+
+## Design questions that decide everything
+
+| Question | Trade-off it exposes |
+| --- | --- |
+| One consumer or many consumers per topic? | Queue vs pub/sub semantics |
+| Required ordering across all events or per key? | Partitioning strategy |
+| Read-again or read-once? | Retention, replay, compaction |
+| Deadline when a consumer stalls? | Rebalance, dead-letter, lag alerting |
+| What happens to a poison event? | When it retries infinitely |
+
+## Tester checklist
+
+- Publish one event and confirm *all* subscribed groups receive it (fan-out), not just one.
+- Crash a consumer mid-processing and confirm redelivery plus no duplicate side effect.
+- Verify ordering guarantees you actually promised: same-partition ordered, cross-partition not.
+- Check consumer lag is visible and alerting exists before queues grow unbounded.
+
+## Related systems
+
+- [Message queue delivery](../message-queue-delivery) — the competing-consumer counterpart to publish/subscribe
+- [Change data capture](../change-data-capture) — how databases publish events without application changes
+- [Webhook integrations](../webhook-integrations) — the pull-based cousin of pushing events7:["$","$L19",null,{"source":"$1a"}]
+8:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","mcp-and-a2a-protocols",{"href":"/systems/mcp-and-a2a-protocols","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"MCP and A2A protocols"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Model Context Protocol for agent-to-tool, Agent2Agent for agent-to-agent: discovery, message flow, task lifecycle, and how the two interoperability layers compose."}]]}],["$","$L2","asyncapi",{"href":"/systems/asyncapi","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"AsyncAPI"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}]]}],["$","$L2","azure-api-management-apim",{"href":"/systems/azure-api-management-apim","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Azure API Management (APIM)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"APIM's anatomy — gateway, publisher portal, developer portal, subscriptions, policies, and identity — and the request path every request takes through it."}]]}]]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+a:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+b:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+c:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+d:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+10:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pub/Sub and event streaming · System Reference"}],["$","meta","1",{"name":"description","content":"From one publisher to many consumers: topics, partitions, consumer groups, and why at-least-once delivery means your handler must be idempotent."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"integration,architecture,api,developer,backend,solution-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/pub-sub-event-streaming/"}],["$","meta","8",{"property":"og:title","content":"Pub/Sub and event streaming · System Reference"}],["$","meta","9",{"property":"og:description","content":"From one publisher to many consumers: topics, partitions, consumer groups, and why at-least-once delivery means your handler must be idempotent."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/pub-sub-event-streaming/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Pub/Sub and event streaming · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"From one publisher to many consumers: topics, partitions, consumer groups, and why at-least-once delivery means your handler must be idempotent."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L20","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+18:true
+1d:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

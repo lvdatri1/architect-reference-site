@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+13:X
+18:X
+18:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Payments, clearing, and settlement\",\"description\":\"The rails that move money between banks: payment schemes, clearing house mechanics, netting, settlement risk, and ISO 20022 messages.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/payments-clearing-and-settlement\",\"inLanguage\":\"en\",\"keywords\":\"banking, payments, settlement, iso20022, finance, solution-architect, enterprise-architect, backend, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"banking\"},{\"@type\":\"Thing\",\"name\":\"payments\"},{\"@type\":\"Thing\",\"name\":\"settlement\"},{\"@type\":\"Thing\",\"name\":\"iso20022\"},{\"@type\":\"Thing\",\"name\":\"finance\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Payments, clearing, and settlement\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/payments-clearing-and-settlement\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Payments, clearing, and settlement"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Payments, clearing, and settlement"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The rails that move money between banks: payment schemes, clearing house mechanics, netting, settlement risk, and ISO 20022 messages."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":"$L3"}],"Enterprise Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9","$La"]]}]]}],"$Lb","$Lc"]}],["$Ld","$Le","$Lf","$L10"],"$L11"]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$13","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$13","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$13","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+24:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+25:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+26:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]
+4:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+5:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+6:["$","$L2","banking",{"href":"/tags/banking","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-orange-50 text-orange-700 ring-orange-200","children":["#","banking"]}]
+7:["$","$L2","payments",{"href":"/tags/payments","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-rose-50 text-rose-700 ring-rose-200","children":["#","payments"]}]
+8:["$","$L2","settlement",{"href":"/tags/settlement","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-sky-50 text-sky-700 ring-sky-200","children":["#","settlement"]}]
+9:["$","$L2","iso20022",{"href":"/tags/iso20022","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","iso20022"]}]
+a:["$","$L2","finance",{"href":"/tags/finance","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","finance"]}]
+1e:T19f3,
+## What this system is
+
+A bank's own ledger is local truth — but money moves between banks through **payment schemes**: shared rulebooks and message networks that let Bank A move value to Bank B on another ledger. The journey has three distinct phases, and confusing them is the classic error in payments architecture:
+
+| Phase | What happens | Risk it bears |
+| --- | --- | --- |
+| **Initiation** | The customer orders a payment; the bank checks funds and sends a message | Rejects, AML, limits |
+| **Clearing** | Schemes exchange and match messages, net positions between banks | Message loss, dual processing |
+| **Settlement** | Final transfer of value between bank accounts at the central bank (or via nostro accounts) | Settlement risk, liquidity |
+
+```mermaid
+flowchart LR
+    C[Customer / corporate] --> O[Sender bank]
+    O --> CH[Clearing house - message exchange + netting]
+    CH --> R1[Recipient bank - credit account]
+    O --> S1[Settlement at central bank<br/>debit sender's reserve]
+    CH --> S1
+    S1 --> S2[Settlement at central bank<br/>credit recipient's reserve]
+    R1 --> BW[Beneficiary paid]
+```
+
+## The message is the money
+
+Payments run on *messages*, not on moving files of cash. The modern standard is **ISO 20022**: XML messages (`pacs.008` credit transfer, `pacs.002` status, `camt.05X` statements) that carry a real payment and its lifecycle status. Legacy systems used format-per-rail (SWIFT MT10x, SEPA files, domestic files); ISO 20022 unifies them, which is why the industry calls it the language of the future rails. For an architect the practical consequence is: **design your payment domain model around statuses and idempotency keys, not around one wire format.**
+
+```mermaid
+sequenceDiagram
+    participant SENDER as "Sender bank"
+    participant SCHEME as "Scheme"
+    participant CLEAR as "Clearing house"
+    participant CB as "Central bank"
+    participant BEN as "Beneficiary"
+    SENDER->>SENDER: authorize - funds check + AML
+    SENDER->>SCHEME: dispatch pacs.008
+    SCHEME->>CLEAR: clear
+    CLEAR->>CB: net + settle
+    CLEAR->>BEN: advise credit
+```
+
+## Netting, and why settlement risk is the real enemy
+
+If every payment settled the instant it cleared, a day with 100,000 transfers between the same two banks would move that many individual balances. **Netting** collapses them: each bank nets its per-counterparty position and settles *one* number. This is what makes modern payments volume possible — but it concentrates risk into settlement time:
+
+- **Herstatt / settlement risk**: Bank A pays out on the agreed value date and Bank B fails before paying back. The classical mitigation is **delivery versus payment** (settlement only when the backing transfer is guaranteed) — the same principle as atomic commit in a distributed system.
+- **Liquidity**: to net, a bank must fund its account at the central bank; running out is the operational nightmare that real-time gross settlement (RTGS) was invented to support — each payment settles individually against central-bank reserves, immediate and final, at the cost of needing more liquidity.
+
+## The main rails compared
+
+| Rail | Peer | Finality | Typical use |
+| --- | --- | --- | --- |
+| **RTGS** (Fedwire, TARGET2) | High-value interbank | Real-time, irrevocable | Corporate wires, settlement of other rails |
+| **ACH / SEPA** | Batch, low-value | Deferred (next day or two) | Salaries, direct debits, consumer transfers |
+| **Instant / RTP** (FedNow, SEPA Instant, UPI) | Real-time, low-value, 24/7 | Immediate | Retail payments, the mobile-app payment |
+| **Card schemes** (Visa/MC) | Authorize-then-capture | Clearing after capture | E-commerce and point-of-sale |
+| **SWIFT / cross-border** | Correspondent messaging | Two- or three-day correspondent chain | International wires, securities settlement |
+
+The architectural pattern repeats across every rail: **idempotency on the outbound message → status tracking on the inbound status → a reconciliation feed from the clearing house**. Build that pattern once, and adding a new rail is a connector change, not a rearchitecture.
+
+## When this shape shows up
+
+- **Payments hub / enterprise middleware** — one internal service owns outbound schemes, dedupes, and retries, so the core ledger never sends a payment twice.
+- **Instant payments**: 24/7 availability, real-time screening, and *the messaging moves at human speed* — a customer aborts a transfer before it "settles" at the speed of thought, so UX and rails must separate *intent* from *irrevocable*.
+- **ISO 20022 migration**: the dreaded legacy-to-standard cutover, where the funding challenge is mapping corporate references and address code lists, not the XML.
+
+## Tester checklist
+
+- Idempotency: double-send the same payment request with the same key — exactly one message leaves the bank.
+- Status flow: drive a payment through every status (initiated, rejected, cleared, settled, failed, returned) and confirm the internal state march matches the scheme's.
+- Rejection path: a customer whose account has insufficient funds is rejected *before* a message is dispatched, with a clean customer-facing status.
+- Netting correctness: simulate a day of both-way pairs between two banks and confirm per-counterparty nets and the central-bank settlement sum to zero.
+- Reconciliation: the scheme statement (`camt.05X`) ties to internal postings line-by-line, including fees and technical returns.
+- Settlement risk: fund the liquidity run solo (one party unfunded) and confirm settlement stalls cleanly, not half-settles.
+- Message integrity: one malformed reference or code list value is caught at schema validation and routed to exception handling, not silently dropped.
+
+## Related systems
+
+- [Core banking systems](../core-banking-systems) — the ledger these rails connect
+- [ERP finance and record-to-report](../erp-finance-and-record-to-report) — settlement feeds landing in the GL
+- [E-commerce platform architecture](../ecommerce-platform-architecture) — authorization-vs-capture on the card rails
+- [Banking risk, fraud, and AML controls](../banking-risk-fraud-and-aml) — the screening every payment passes
+
+## Deep dives
+
+- [Message queue delivery](../message-queue-delivery) — the reliable dispatch of outbound payment messages
+- [Integration patterns](../integration-patterns) — how scheme connectors plug into the payments hub
+- [Monitoring and observability](../monitoring-and-observability) — status and reconciliation monitoring of payment streams
+- [Secrets, certificates and PKI](../secrets-certificates-and-pki) — signing and message security on the scheme networkb:["$","$L1d",null,{"source":"$1e"}]
+c:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","card-networks-at-scale",{"href":"/systems/card-networks-at-scale","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Card networks at scale"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"How Visa and Mastercard process tens of thousands of transactions per second: the switch, ISO 8583, authorization latency budgets, clearing and settlement at volume."}]]}],["$","$L2","core-banking-systems",{"href":"/systems/core-banking-systems","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Core banking systems"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The account-and-ledger backbone of a bank: who owns what money, how a transaction moves it, double-entry posting, and the difference between real-time and overnight processing."}]]}],["$","$L2","ecommerce-platform-architecture",{"href":"/systems/ecommerce-platform-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"E-commerce platform architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Storefront to store room: catalog, cart, checkout, payments, order management, fulfillment, and the returns loop — and where the money lands in the ERP."}]]}]]}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+e:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+f:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+10:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+11:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+14:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Payments, clearing, and settlement · System Reference"}],["$","meta","1",{"name":"description","content":"The rails that move money between banks: payment schemes, clearing house mechanics, netting, settlement risk, and ISO 20022 messages."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"banking,payments,settlement,iso20022,finance,solution-architect,enterprise-architect,backend,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/payments-clearing-and-settlement/"}],["$","meta","8",{"property":"og:title","content":"Payments, clearing, and settlement · System Reference"}],["$","meta","9",{"property":"og:description","content":"The rails that move money between banks: payment schemes, clearing house mechanics, netting, settlement risk, and ISO 20022 messages."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/payments-clearing-and-settlement/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Payments, clearing, and settlement · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The rails that move money between banks: payment schemes, clearing house mechanics, netting, settlement risk, and ISO 20022 messages."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L24","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+1c:true
+21:null
+13:300
+13:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+12:"$undefined"

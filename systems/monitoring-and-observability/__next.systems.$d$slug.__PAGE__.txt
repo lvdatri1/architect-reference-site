@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Monitoring and observability\",\"description\":\"Metrics, logs, and traces: the three pillars, SLOs and alerting, and how CloudWatch, Azure Monitor, Prometheus, and OpenTelemetry fit together.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/monitoring-and-observability\",\"inLanguage\":\"en\",\"keywords\":\"devops, cloud, architecture, devops-engineer, cloud-engineer, backend\",\"about\":[{\"@type\":\"Thing\",\"name\":\"devops\"},{\"@type\":\"Thing\",\"name\":\"cloud\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Monitoring and observability\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/monitoring-and-observability\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Monitoring and observability"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Monitoring and observability"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Metrics, logs, and traces: the three pillars, SLOs and alerting, and how CloudWatch, Azure Monitor, Prometheus, and OpenTelemetry fit together."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}],["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}],"$L3"],["$L4","$L5","$L6"]]}]]}],"$L7","$L8"]}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1b:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+20:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+21:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+22:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+4:["$","$L2","devops",{"href":"/tags/devops","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-sky-50 text-sky-700 ring-sky-200","children":["#","devops"]}]
+5:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+6:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1a:Tdf0,
+## What this system is
+
+Monitoring answers *"is it broken?"* Observability answers *"why?"* The toolkit is the **three pillars** — **metrics** (numbers over time), **logs** (events with context), and **traces** (how one request traveled across services). Alerting converts them into pages; SLOs convert pages into numbers your product understands.
+
+```mermaid
+flowchart LR
+  S[Your services] -->|OpenTelemetry SDK| I[Instrumentation]
+  I --> M[Metrics - counters, gauges]
+  I --> L[Logs - structured events]
+  I --> T[Traces - distributed spans]
+  M --> Store[(Time-series store<br/>Prometheus / CloudWatch / Azure Monitor)]
+  L --> Store
+  T --> Store
+  Store --> Alert[Alert rules / SLO burn]
+  Alert --> Page[On-call pages you actually act on]
+  Store --> Dash[Dashboards - human eyes]
+```
+
+## The three pillars in practice
+
+| Pillar | What it answers | Cloud home | Star resource when |
+| --- | --- | --- | --- |
+| **Metrics** | *How many / how fast / how full* | CloudWatch, Azure Monitor, Prometheus | Alerting, capacity, SLOs |
+| **Logs** | *What exactly happened* | CloudWatch Logs, Log Analytics, Loki | Debugging, audit, forensics |
+| **Traces** | *Where the time went* | X-Ray, App Insights, Jaeger/Tempo, OTEL | Slow calls across services |
+
+**OpenTelemetry (OTEL)** is the standard instrumentation SDK — your app emits spans/metrics once, exporters send them anywhere. Instrument once, vendor later.
+
+## The flow from service to page to runbook
+
+```mermaid
+flowchart LR
+  Service[Your service] -->|instrument| OTel[OTel SDK - emit]
+  OTel -->|counters| Metrics[Metrics]
+  OTel -->|structured| Logs[Logs]
+  OTel -->|spans| Traces[Traces]
+  Metrics -->|push/pull| Store[Monitoring store]
+  Logs -->|ingest| Store
+  Traces -->|correlate| Store
+  Store -->|alert rules| Alert[Alerts + runbooks]
+  Store -->|aggregate| Dash[Dashboards + SLO]
+```
+
+## SLOs and the alert triage that matters
+
+- **SLO / SLI / SLI burn**: an SLO ("99.9% of checkout requests under 300ms") is built on SLIs. Alert on **error-budget burn** (how fast you're spending it) rather than raw thresholds — that catches "slow but not dead" pain without paging on every blip.
+- **Alert → runbook → owner**: an alert with no runbook is noise. Every alert should name its owning ticket and the play to try first.
+- **The warning signs**: alerts that never fire (guard-dog not barking), and alert fatigue from ones that always fire. Both are bugs in the alerting system itself.
+
+## Tester checklist
+
+- Sink a background bad deploy: keep requests failing 5% and confirm an SLO-burn alert pages before users complain.
+- Trace drill: pick one slow API call and walk its trace spans to the actual bottleneck service.
+- Verify log structure: a structured-log query finds a UUID across all three pillars (metrics named + logs + trace ids).
+- Measure the alert pipeline latency: from metric breach to on-call page — fix the chain if that's minutes long.
+
+## Related systems
+
+- [DevOps delivery loop](../devops-delivery-loop) — observability is the observe stage of the loop
+- [Disaster recovery and backup](../disaster-recovery-and-backup) — failover is meaningless without telemetry to confirm it
+- [Security operations center (SOC)](../security-operations-center-soc) — the same telemetry, viewed for attacks instead of outages
+- [ITIL incident and problem management](../itil-incident-and-problem-management) — where alerts become incidents, priorities, and SLA clocks
+- [Message queue delivery](../message-queue-delivery) — queue depth is a metric; worker behavior is a trace7:["$","$L19",null,{"source":"$1a"}]
+8:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","disaster-recovery-and-backup",{"href":"/systems/disaster-recovery-and-backup","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Disaster recovery and backup"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"RTO, RPO, and the four DR strategies — backup/restore, pilot light, warm standby, active-active — plus the drills that make the plan true."}]]}],["$","$L2","kubernetes-and-container-orchestration",{"href":"/systems/kubernetes-and-container-orchestration","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Kubernetes and container orchestration"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The control plane and data plane of running containers at scale: pods, deployments, services, scheduling and self-healing, networking, storage, and when Kubernetes is the right (and wrong) answer."}]]}],["$","$L2","cpu-gpu-and-silicon-choices",{"href":"/systems/cpu-gpu-and-silicon-choices","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"CPU and GPU, ARM and x86"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Why CPUs win on latency and GPUs on throughput, why ARM is eating the data center, and how to match the right silicon to the workload."}]]}]]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+a:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+b:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+c:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+d:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+10:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Monitoring and observability · System Reference"}],["$","meta","1",{"name":"description","content":"Metrics, logs, and traces: the three pillars, SLOs and alerting, and how CloudWatch, Azure Monitor, Prometheus, and OpenTelemetry fit together."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"devops,cloud,architecture,devops-engineer,cloud-engineer,backend"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/monitoring-and-observability/"}],["$","meta","8",{"property":"og:title","content":"Monitoring and observability · System Reference"}],["$","meta","9",{"property":"og:description","content":"Metrics, logs, and traces: the three pillars, SLOs and alerting, and how CloudWatch, Azure Monitor, Prometheus, and OpenTelemetry fit together."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/monitoring-and-observability/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Monitoring and observability · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Metrics, logs, and traces: the three pillars, SLOs and alerting, and how CloudWatch, Azure Monitor, Prometheus, and OpenTelemetry fit together."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L20","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+18:true
+1d:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

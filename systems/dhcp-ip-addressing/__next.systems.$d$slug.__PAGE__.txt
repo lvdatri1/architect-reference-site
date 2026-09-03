@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+10:X
+15:X
+15:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"DHCP and IP address management\",\"description\":\"The DORA dance that gives every device its address: how DHCP servers lease IPs, hand out default gateway and DNS, and keep networks stable when hardware is ephemeral.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/dhcp-ip-addressing\",\"inLanguage\":\"en\",\"keywords\":\"network, cloud, architecture, network-engineer, cloud-engineer, developer, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"network\"},{\"@type\":\"Thing\",\"name\":\"cloud\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"DHCP and IP address management\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/dhcp-ip-addressing\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"DHCP and IP address management"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"DHCP and IP address management"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The DORA dance that gives every device its address: how DHCP servers lease IPs, hand out default gateway and DNS, and keep networks stable when hardware is ephemeral."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","network-engineer",{"href":"/jobs/network-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Network Engineer icon","children":[["$","circle",null,{"cx":12,"cy":4.5,"r":2.5}],["$","circle",null,{"cx":5,"cy":18,"r":2.5}],["$","circle",null,{"cx":19,"cy":18,"r":2.5}],["$","path",null,{"d":"M10.7 6.5 6.7 15.7M13.3 6.5l4 9.2"}],["$","line",null,{"x1":7.5,"y1":18,"x2":16.5,"y2":18}]]}],"Network Engineer"]}],["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}],"$L3","$L4"],["$L5","$L6","$L7"]]}]]}],"$L8","$L9"]}],["$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":"$@f","staleTime":"$10","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$10","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$10","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$10","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1c:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+21:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+22:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+23:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}]
+4:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+5:["$","$L2","network",{"href":"/tags/network","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","network"]}]
+6:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+7:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1b:T15b8,
+## What this system is
+
+DHCP (Dynamic Host Configuration Protocol) automates the boring-but-critical job of turning a blank network interface into a configured host: IP address, subnet mask, default gateway, DNS servers, NTP, domain suffix. A fleet of devices, printers, and phones that changes daily would be unmanageable if every address had to be typed by hand — DHCP leases each device an address and *reclaims* it when it's done.
+
+It works over UDP: clients broadcast on **port 67/68**. No initiator address yet, so the client's first messages are broadcast `255.255.255.255` — the "election" that only the DHCP server wins.
+
+```mermaid
+sequenceDiagram
+  participant C as Client - no IP yet
+  participant R as L2 broadcast switch / relay agent
+  participant S as DHCP server - scope + lease pool
+
+  C->>R: DHCP DISCOVER - broadcast
+  R->>S: forwarded via relay agent or on-link
+  S-->>C: DHCP OFFER, REQUEST, ACK
+  Note over C: configured - IP + gateway + DNS
+```
+
+## The DORA conversation
+
+```mermaid
+sequenceDiagram
+  participant C as Client
+  participant R as Relay agent (optional)
+  participant S as DHCP server
+
+  C->>R: DHCP DISCOVER (broadcast)
+  R->>S: forward with giaddr (relay's address)
+  S->>R: DHCP OFFER (offered IP + options)
+  R->>C: broadcast OFFER on the segment
+  C->>R: DHCP REQUEST (I choose this offer)
+  R->>S: forward to the server
+  S->>R: DHCP ACK (confirmed, lease starts)
+  R->>C: ACK delivered to the client
+```
+
+That's **DORA**: **D**iscover, **O**ffer, **R**equest, **A**ck. It's four messages in two exchanges (broadcast round-trip for offer, then explicit request+ack for the chosen lease). Modern cases collapse things: when a client reconnects before its lease expires, it can go straight to `REQUEST` (renewal at T1/T2 timer thresholds) — no full DORA needed.
+
+## Scopes, pools, leases, reservations
+
+```mermaid
+flowchart LR
+  S[DHCP scope: 10.20.0.0/24] --> P[Pool 10.20.0.100 - 10.20.0.200]
+  P --> L[Lease: given IP + options, for 8h]
+  S --> R[Reservation: printer MAC → 10.20.0.50 fixed]
+  L --> R
+```
+
+| Concept | What it is | Gotcha |
+| --- | --- | --- |
+| **Scope** | Boundary of addresses a server manages (a subnet) | Define via the network's subnet mask, not a guess |
+| **Pool** | Range of addresses the server may assign | Overlapping pools → duplicate IPs across servers |
+| **Lease** | Address + options valid for a duration | Too-short leases churn DNS; too-long stalls IP-pool reuse |
+| **Reservation** | MAC → fixed IP binding | `binding clients` only works per MAC; printers & servers use these |
+| **Exclusion** | Addresses the server won't assign (fixed hosts must live here) | Without exclusions the pool eats your static stats |
+
+## Options that make an address actually useful
+
+```mermaid
+flowchart LR
+  S[DHCP ACK] --> O1[Option 1: subnet mask]
+  S --> O2[Option 3: default gateway]
+  S --> O3[Option 6: DNS servers]
+  S --> O4[Option 15: domain suffix]
+  S --> O5[Option 51: lease time]
+```
+
+An IP alone is useless — the **options** are the real payload. The server is authoritative for the whole config: gateway, DNS, NTP, and even the domain search suffix. That's why "I can ping the server but DNS is broken" often turns out to be "the DHCP scope points at the wrong DNS server."
+
+## DHCP relay: one server, many segments
+
+A DHCP server answers broadcasts on its own subnet — but offices typically have many VLANs. The **relay agent** (often the router/switch, or `ip helper-address` on Cisco / `dhcp-relay` on Linux) catches the broadcast, stamps its own address in `giaddr`, and forwards the request **unicast** to the server. The server uses `giaddr` to pick which scope to answer from — that's why a relayed client's IP comes from the *right* subnet without any client-side config.
+
+## Security and stability
+
+- **DHCP starvation**: exhaust the pool with fake `DISCOVER`s so legitimate devices get nothing. Guard with DHCP snooping (trust switch ports only) and pool monitoring.
+- **Rogue DHCP**: a rogue server offering `10.10.10.1` as gateway gets all traffic. Prevent with DHCP snooping; detect by watching for unexpected servers.
+- **Lease hygiene**: clients renew at T1 (50% of lease) and T2 (87.5%); a client that vanishes keeps its IP until the lease lapses. After a network redesign, flush stale leases (`dhcpd lease` files / IPAM cleanup).
+- **Across clouds**: in AWS/Azure, DHCP is invisible — the VPC hands each NIC an address from the VNet/VPC CIDR and your "DHCP options set" replaces options 3/6/15 (gateway is implicit, DNS is the VPC resolver, domain is the option set).
+
+## Tester checklist
+
+- Change the scope's gateway or DNS option and confirm a renewed client picks it up immediately (`ipconfig /renew`, `dhclient -r && dhclient`).
+- Verify reservations: reboot a printer and check it still owns its fixed IP, while other devices around it get pool addresses.
+- Confirm lease timers behave: set a 2-minute lease, note the T1 renewal traffic, and confirm the server reclaims the address after expiry (`release` then no renewal).
+- Test relayed subnets: get a device in VLAN 400 and confirm it received a VLAN-400-scope address with the correct gateway (proves `giaddr` works).
+- Check for rogue DHCP: sniff for unanswered `OFFER`s from unknown servers.
+
+## Related systems
+
+- [OSI seven-layer model](../osi-seven-layer-model) — DHCP lives at the boundary of layers 2/3
+- [TCP/IP and TLS](../tcp-ip-and-tls) — the addressing DHCP configures
+- [Network routing and BGP](../network-routing-and-bgp) — the gateways and subnets DHCP hands out8:["$","$L1a",null,{"source":"$1b"}]
+9:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","cloud-networking-and-hybrid-connectivity",{"href":"/systems/cloud-networking-and-hybrid-connectivity","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Cloud networking and hybrid connectivity"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"VPC/VNet peering, transit hubs, private endpoints, and the VPN/Direct-Connect/ExpressRoute exits that tie the cloud to your office."}]]}],["$","$L2","osi-seven-layer-model",{"href":"/systems/osi-seven-layer-model","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"OSI seven-layer model"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The reference model that names every step between an app and the wire: physical, data link, network, transport, session, presentation, application — and where your real protocols live."}]]}],["$","$L2","sase",{"href":"/systems/sase","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"SASE and SSE"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Secure Access Service Edge: SD-WAN plus cloud-native security (SWG, CASB, ZTNA, FWaaS) delivered as a global cloud service from nearby Points of Presence."}]]}]]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+c:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+d:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+e:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+11:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"DHCP and IP address management · System Reference"}],["$","meta","1",{"name":"description","content":"The DORA dance that gives every device its address: how DHCP servers lease IPs, hand out default gateway and DNS, and keep networks stable when hardware is ephemeral."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"network,cloud,architecture,network-engineer,cloud-engineer,developer,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/dhcp-ip-addressing/"}],["$","meta","8",{"property":"og:title","content":"DHCP and IP address management · System Reference"}],["$","meta","9",{"property":"og:description","content":"The DORA dance that gives every device its address: how DHCP servers lease IPs, hand out default gateway and DNS, and keep networks stable when hardware is ephemeral."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/dhcp-ip-addressing/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"DHCP and IP address management · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The DORA dance that gives every device its address: how DHCP servers lease IPs, hand out default gateway and DNS, and keep networks stable when hardware is ephemeral."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L21","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+19:true
+1e:null
+10:300
+10:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+f:"$undefined"

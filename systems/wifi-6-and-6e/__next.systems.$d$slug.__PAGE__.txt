@@ -1,0 +1,113 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+11:X
+16:X
+16:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Wi-Fi 6 and 6E\",\"description\":\"802.11ax made Wi-Fi parallel: OFDMA, MU-MIMO, Target Wake Time, and the 6 GHz bonanza of 6E — how a crowded network gets faster instead of slower.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/wifi-6-and-6e\",\"inLanguage\":\"en\",\"keywords\":\"network, wifi, performance, network-engineer, endpoint-device-engineer, enterprise-architect, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"network\"},{\"@type\":\"Thing\",\"name\":\"wifi\"},{\"@type\":\"Thing\",\"name\":\"performance\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wi-Fi 6 and 6E\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/wifi-6-and-6e\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Wi-Fi 6 and 6E"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Wi-Fi 6 and 6E"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"802.11ax made Wi-Fi parallel: OFDMA, MU-MIMO, Target Wake Time, and the 6 GHz bonanza of 6E — how a crowded network gets faster instead of slower."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","network-engineer",{"href":"/jobs/network-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Network Engineer icon","children":[["$","circle",null,{"cx":12,"cy":4.5,"r":2.5}],["$","circle",null,{"cx":5,"cy":18,"r":2.5}],["$","circle",null,{"cx":19,"cy":18,"r":2.5}],["$","path",null,{"d":"M10.7 6.5 6.7 15.7M13.3 6.5l4 9.2"}],["$","line",null,{"x1":7.5,"y1":18,"x2":16.5,"y2":18}]]}],"Network Engineer"]}],["$","$L2","endpoint-device-engineer",{"href":"/jobs/endpoint-device-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Endpoint Device Engineer icon","children":[["$","path",null,{"d":"M5 4.5h14A1.5 1.5 0 0 1 20.5 6v10a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 16V6A1.5 1.5 0 0 1 5 4.5Z"}],"$L3"]}],"Endpoint Device Engineer"]}],"$L4","$L5"],["$L6","$L7","$L8"]]}]]}],"$L9","$La"]}],["$Lb","$Lc","$Ld","$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$11","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$11","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1d:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+22:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+23:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+24:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","path",null,{"d":"m2 19.5 4-1.5h12l4 1.5"}]
+4:["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}]
+5:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+6:["$","$L2","network",{"href":"/tags/network","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","network"]}]
+7:["$","$L2","wifi",{"href":"/tags/wifi","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-emerald-50 text-emerald-700 ring-emerald-200","children":["#","wifi"]}]
+8:["$","$L2","performance",{"href":"/tags/performance","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","performance"]}]
+1c:T13ef,
+## What this system is
+
+Wi-Fi 6 (802.11ax) is the first standard written for **dense, crowded networks** rather than fatter megabytes. Wi-Fi 5 was "make one client fast." Wi-Fi 6 is "make 50 clients tolerable" — which is why the headline features are OFDMA, MU-MIMO, and Target Wake Time, not raw Mbps.
+
+Wi-Fi 6E adds the **6 GHz band**, an entirely new, uncrowded set of channels that only 6E-and-newer devices can use. It's the same protocol on new spectrum — the win is *exclusivity*, not just the protocol.
+
+```mermaid
+flowchart LR
+  AP["Wi-Fi 6 AP<br/>OFDMA + MU-MIMO"] -- "MU-MIMO spatial" --> C1["Client 1<br/>low packet"]
+  AP -- "OFDMA RU" --> C2["Client 2<br/>streaming"]
+  AP -- "small RU" --> C3["Client 3<br/>sensor"]
+  C1 -- uplink --> CH["One frame, shared by<br/>resource units (OFDMA)"]
+  C2 -- uplink --> CH
+  C3 -- uplink --> CH
+  CH -- "fewer waits" --> OK["All served in parallel"]
+```
+
+```mermaid
+flowchart LR
+  AP[Wi-Fi 6 AP] -->|OFDMA: one frame split into resource units| C1[Client 1 small packet]
+  AP -->|OFDMA: resource unit| C2[Client 2 streaming]
+  AP -->|OFDMA: tiny resource unit| C3[Client 3 sensor]
+  AP -->|MU-MIMO: 8 spatial streams| C4[Multiple antennas at once]
+```
+
+## What actually changed with Wi-Fi 6
+
+| Feature | What it does | The pain it fixes |
+| --- | --- | --- |
+| **OFDMA** | Splits one frame into resource units, serving several clients simultaneously | "low-data clients hog the medium" — back-to-back small packets become one parallel burst |
+| **MU-MIMO (8 streams)** | Transmits to several clients on separate spatial streams at once | Wi-Fi 5 did downlink MU-MIMO poorly; Wi-Fi 6 makes it real and adds uplink |
+| **Target Wake Time (TWT)** | Devices tell the AP when they'll wake; AP schedules sleep | **Battery life** — IoT and low-power devices stop polling endlessly |
+| **BSS coloring** | Frames from crowding APs get a "color" and are ignored instead of causing backoff | The "dense apartment Wi-Fi" slowdown — repeaters among neighbors stop screaming |
+| **1024-QAM** | More bits per symbol at high SNR | Bling for fast, close, clean links |
+
+The counterintuitive truth: Wi-Fi 6 doesn't make a single laptop feel 2x faster on a quiet network. It makes 30 laptops not-crawl on a busy one. If you're alone on a channel, Wi-Fi 5 with wide channel is still very fast; Wi-Fi 6 pays off where the network is *populated*.
+
+## Why 6 GHz (6E) is the real story
+
+```mermaid
+flowchart TB
+  OLD[2.4 + 5 GHz<br/>crowded, shared with legacy] --> NOW[6 GHz
+  ]
+  NOW --> A[Only 6E+ devices can join]
+  NOW --> B[Many wide, clean 80/160 MHz channels]
+  NOW --> C[No DFS radar weathership timeouts]
+  NOW --> D[Same Wi-Fi 6 protocol, new spectrum]
+  NOW --> Q[The highway is empty again]
+```
+
+The decisive changes: **new clients only** (the band forces capability), **no DFS** (no radar-detection pauses), wide 80/160 MHz channels without fighting neighbors for them, and 6E mandates WPA3 — no legacy-weakness mode. If you're upgrading a fleet, 6E gives the *same* Wi-Fi 6 efficiency plus a private highway. Wi-Fi 7 (works on the same 6 GHz) pushes throughput higher with even wider channels and multi-link, but 6E is where the practical leap lives in 2026.
+
+## Wi-Fi 6 realities in deployment
+
+- **Backhaul still matters**: an AP fed by a 100 Mb/s Ethernet port delivering 1 Gb/s wireless is just a bottleneck on a stick. Plan port speed = peak wireless, not wireless speed.
+- **Clients must be Wi-Fi 6 capable to benefit**: mixed fleets get only the improvement that the *oldest* client can use in that exchange (per-BSS-wide effects like BSS coloring and OFDMA help everyone, per-client features require new clients).
+- **RF design is still RF design**: no protocol fixes a dead spot. Coverage survey, antenna placement, and channel planning are still the prerequisites — 6E just removes the neighbors-your-neighbors problem.
+- **Monitor with the right metric**: look at *airtime utilization* and *retry rate*, not RSSI. A noisy airtime-90% AP is worse than a "slower" clean one.
+
+## Tester checklist
+
+- Compare AP throughput with a single Wi-Fi 6 client vs a device on Wi-Fi 5 mixed and explain the delta (expected: modest for one, big for many).
+- Load the AP: hit it with 30-50 clients doing small IoT-style frames and confirm OFDMA keeps latency/airtime low (that's the design goal, not peak Mbps).
+- Enable TWT on a low-power device and confirm battery drain drops measurably.
+- If you have a 6 GHz-capable client, move it to 6 GHz and verify it leaves 2.4/5 GHz devices (and legacy 5 GHz DFS waits) alone.
+- Verify BSS coloring actually kicks in on a dense apartment test: two APs on the same channel with clients should hurt less than pre-6.
+
+## Related systems
+
+- [Wi-Fi radio fundamentals](../wi-fi-radio-fundamentals) — the shared-medium physics this builds on
+- [Wi-Fi mesh networking](../wifi-mesh-networking) — how Wi-Fi 6 scales to many APs
+- [Network routing and BGP](../network-routing-and-bgp) — the wired path these APs ride on top of
+- [TCP/IP and TLS](../tcp-ip-and-tls) — the transport the wireless frames carry9:["$","$L1b",null,{"source":"$1c"}]
+a:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","wifi-mesh-networking",{"href":"/systems/wifi-mesh-networking","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Wi-Fi mesh networking"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Many access points, one seamless network: mesh topology, wired vs wireless backhaul, roaming and 802.11r/k/v, and when mesh beats (and loses to) wired APs."}]]}],["$","$L2","wi-fi-radio-fundamentals",{"href":"/systems/wi-fi-radio-fundamentals","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Wi-Fi radio fundamentals"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"How Wi-Fi actually works: 2.4/5/6 GHz bands, channels and coexistence, CSMA/CA half-duplex, MIMO, RSSI/SNR, and WPA security — the physics behind 'why is my Wi-Fi slow'."}]]}],["$","$L2","sase",{"href":"/systems/sase","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"SASE and SSE"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Secure Access Service Edge: SD-WAN plus cloud-native security (SWG, CASB, ZTNA, FWaaS) delivered as a global cloud service from nearby Points of Presence."}]]}]]}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+c:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+d:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+e:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+f:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+12:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Wi-Fi 6 and 6E · System Reference"}],["$","meta","1",{"name":"description","content":"802.11ax made Wi-Fi parallel: OFDMA, MU-MIMO, Target Wake Time, and the 6 GHz bonanza of 6E — how a crowded network gets faster instead of slower."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"network,wifi,performance,network-engineer,endpoint-device-engineer,enterprise-architect,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/wifi-6-and-6e/"}],["$","meta","8",{"property":"og:title","content":"Wi-Fi 6 and 6E · System Reference"}],["$","meta","9",{"property":"og:description","content":"802.11ax made Wi-Fi parallel: OFDMA, MU-MIMO, Target Wake Time, and the 6 GHz bonanza of 6E — how a crowded network gets faster instead of slower."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/wifi-6-and-6e/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Wi-Fi 6 and 6E · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"802.11ax made Wi-Fi parallel: OFDMA, MU-MIMO, Target Wake Time, and the 6 GHz bonanza of 6E — how a crowded network gets faster instead of slower."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L22","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+1a:true
+1f:null
+11:300
+11:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+10:"$undefined"

@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"MCP and A2A protocols\",\"description\":\"Model Context Protocol for agent-to-tool, Agent2Agent for agent-to-agent: discovery, message flow, task lifecycle, and how the two interoperability layers compose.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/mcp-and-a2a-protocols\",\"inLanguage\":\"en\",\"keywords\":\"ai, api, integration, architecture, developer, backend, solution-architect, security-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"ai\"},{\"@type\":\"Thing\",\"name\":\"api\"},{\"@type\":\"Thing\",\"name\":\"integration\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"MCP and A2A protocols\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/mcp-and-a2a-protocols\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"MCP and A2A protocols"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"MCP and A2A protocols"}],["$","span",null,{"className":"mt-2 inline-block rounded-full bg-emerald-100 px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-emerald-700 ring-1 ring-inset ring-emerald-200 dark:bg-emerald-900/40 dark:text-emerald-300 dark:ring-emerald-800","children":"Framework"}],["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Model Context Protocol for agent-to-tool, Agent2Agent for agent-to-agent: discovery, message flow, task lifecycle, and how the two interoperability layers compose."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":"$L3"}],"Backend"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]
+4:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+5:["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}]
+6:["$","$L2","ai",{"href":"/tags/ai","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","ai"]}]
+7:["$","$L2","api",{"href":"/tags/api","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","api"]}]
+8:["$","$L2","integration",{"href":"/tags/integration","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","integration"]}]
+9:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1d:T1b3f,
+## What this system is
+
+Two open protocols standardize how AI systems attach to the world, and they are complementary rather than competing:
+
+- **MCP** (Model Context Protocol, Anthropic → open spec) is the *USB-C of AI*: an agent connects once and can use any tool, data source, or API exposed through a standard server — without per-integration glue.
+- **A2A** (Agent2Agent, Google → Linux Foundation) is the *email of agents*: independent agents discover each other, delegate work, and exchange results as peers, across frameworks and companies.
+
+MCP is how an agent *touches tools and data*. A2A is how an agent *partners with other agents*. A real stack uses both: your agent calls MCP servers for its own tools while delegating to remote agents over A2A.
+
+```mermaid
+flowchart TB
+  subgraph Agent["Your agent"]
+    Host[Host - model and session]
+    MCPC[MCP client]
+    A2AC[A2A client]
+  end
+  MCPC -->|JSON-RPC - stdio or HTTP| S1[MCP servers - tools and resources]
+  A2AC -->|agent card + tasks| S2[Remote agents - A2A servers]
+  Host --> MCPC
+  Host --> A2AC
+```
+
+## MCP: agent-to-tool
+
+Three roles: the **host** (your AI application — it owns the model and the conversation), **clients** (one per server connection), and **servers** (each exposes **tools** for actions, **resources** for data, and **prompts** for reusable templates). The data layer is **JSON-RPC 2.0**; the transport is **stdio** for local processes or **streamable HTTP** (Server-Sent Events for streaming) for remote servers, authenticated with OAuth.
+
+```mermaid
+sequenceDiagram
+  participant H as Host
+  participant C as MCP client
+  participant S as MCP server
+  H->>C: start session
+  C->>S: initialize with capabilities
+  S-->>C: supported capabilities
+  C->>S: tools/list
+  S-->>C: tool schemas
+  C->>S: tools/call
+  S-->>C: result
+  C-->>H: context for the model
+```
+
+Security is built into the shape: the **host is the enforcement point**. Capability negotiation decides what each side supports; servers are isolated from each other and cannot read the full conversation. This is also where the well-known failure modes live — every tool is an attack surface, so the host must gate calls with consent and permission checks, not the model.
+
+## A2A: agent-to-agent
+
+A2A treats agents as opaque peers. Four concepts do the work:
+
+| Concept | What it is |
+| --- | --- |
+| **Agent Card** | A JSON discovery document at `/.well-known/agent-card.json`: identity, description, skills, endpoint, and auth requirements |
+| **Task** | A stateful unit of work: `submitted → working → input-required → completed / failed / canceled` |
+| **Message** | One turn of a conversation, carrying **parts** (text, file, or structured data) |
+| **Artifact** | A deliverable produced by a task, also composed of parts, streamable incrementally |
+
+```mermaid
+sequenceDiagram
+  participant A as A2A client agent
+  participant R as A2A remote agent
+  A->>R: GET /.well-known/agent-card.json
+  R-->>A: capabilities and endpoint
+  A->>R: send message with task
+  R-->>A: task submitted
+  R-->>A: working with streaming updates
+  R-->>A: artifact updates
+  R-->>A: task completed
+```
+
+`input-required` is the mechanism for a remote agent to ask for clarification mid-task, which is what makes long-running delegation interactive. Tasks can be polled, subscribed to over SSE, or pushed to a webhook when they outlive a connection. The primary binding is **JSON-RPC 2.0 over HTTPS**, with gRPC and REST as alternates — deliberately boring plumbing.
+
+## The two layers, compared
+
+| | MCP | A2A |
+| --- | --- | --- |
+| Relationship | Client-server: an agent *uses* a server | Peer: agents *delegate* to agents |
+| Unit of work | Tool call / resource read | Task with a lifecycle |
+| Discovery | Capability negotiation during initialize | Agent Card at a well-known URL |
+| Transport | stdio, streamable HTTP | JSON-RPC over HTTPS, gRPC, SSE, webhooks |
+| Authentication | OAuth for remote HTTP | OAuth 2.0 |
+| Data exchanged | Tool arguments and structured results | Messages and artifacts with typed parts |
+| Trust | Servers stay isolated from the conversation | Remote agents are untrusted peers |
+
+If MCP is "how an agent uses a capability", A2A is "how agents partner on a task". An MCP server is reachable *inside* an agent's world; an A2A remote lives outside it, behind an agent card.
+
+## How they compose
+
+```mermaid
+flowchart LR
+    U[User task] -- task --> AG[Your agent - host + model]
+    AG -- context --> MC[MCP client]
+    MC -- tool calls --> MS[MCP servers - tools and data]
+    AG -- delegate --> AC[A2A client]
+    AC -- task + artifacts --> RS[Remote agent - card + tasks]
+```
+
+The rule of thumb: **expose capabilities as MCP servers, front agent pairs with A2A cards.** A support agent might use MCP against the ticket system internally, then delegate an order-status lookup over A2A to a billing agent on the other side of a company boundary.
+
+## Cross-boundary security notes
+
+- **MCP**: the host gates every tool call — a compromised or prompt-injected server must not reach tools the user didn't consent to. Verify tool schemas before they influence execution.
+- **A2A**: remote agents are *untrusted peers*. Validate the agent card, authenticate with OAuth, and route delegated work — especially anything that cascades back into your MCP tools — through the user's permission scope, not a broad service account.
+- **Supply chain**: capability metadata (tool definitions, agent cards) is attacker-influenceable; treat changes as config and review them.
+
+## Tester checklist
+
+- **MCP flow**: stand up a mock server and verify `initialize` → `tools/list` → `tools/call`, including streaming over streamable HTTP.
+- **Isolation**: confirm one MCP server cannot read another server's context or the full conversation.
+- **A2A lifecycle**: exercise `submitted → working → completed` plus `failed` and `canceled`, and confirm terminal states end any stream.
+- **Resilience**: kill a task mid-run and reconnect — `get`/subscription must recover state without losing artifacts.
+- **input-required**: a remote agent asking for clarification mid-task must surface to the user and resume the same task.
+- **Auth**: reject calls to remote MCP/HTTP endpoints and A2A remotes without valid credentials.
+- **Cross-layer scope**: a task delegated over A2A must not let the remote agent invoke MCP tools beyond the requesting user's permissions.
+
+## Related systems
+
+- [LLM agents and workflows](../llm-agents-and-workflows) — the agent loops these protocols wire up
+- [LLM RAG pipeline](../llm-rag-pipeline) — a retrieval engine commonly exposed as an MCP resource
+- [OAuth 2.0 and OpenID Connect](../oauth2-openid-connect) — the auth layer both protocols lean on
+- [Workload identity and mTLS](../workload-identity-and-mtls) — machine-to-machine trust for remote servers
+- [API request lifecycle](../api-request-lifecycle) — the JSON-RPC/HTTP machinery underneatha:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","llm-agents-and-workflows",{"href":"/systems/llm-agents-and-workflows","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"LLM agents and workflows"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Agent loops, tool calling, memory, and guardrails: the orchestration patterns that turn a single LLM call into a multi-step workflow."}]]}],["$","$L2","pub-sub-event-streaming",{"href":"/systems/pub-sub-event-streaming","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Pub/Sub and event streaming"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"From one publisher to many consumers: topics, partitions, consumer groups, and why at-least-once delivery means your handler must be idempotent."}]]}],["$","$L2","llm-rag-pipeline",{"href":"/systems/llm-rag-pipeline","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"LLM RAG pipeline"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Retrieval-augmented generation: embedding, vector search, and how a prompt gets grounded in your own data instead of the model’s memory."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"MCP and A2A protocols · System Reference"}],["$","meta","1",{"name":"description","content":"Model Context Protocol for agent-to-tool, Agent2Agent for agent-to-agent: discovery, message flow, task lifecycle, and how the two interoperability layers compose."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"ai,api,integration,architecture,developer,backend,solution-architect,security-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/mcp-and-a2a-protocols/"}],["$","meta","8",{"property":"og:title","content":"MCP and A2A protocols · System Reference"}],["$","meta","9",{"property":"og:description","content":"Model Context Protocol for agent-to-tool, Agent2Agent for agent-to-agent: discovery, message flow, task lifecycle, and how the two interoperability layers compose."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/mcp-and-a2a-protocols/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"MCP and A2A protocols · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Model Context Protocol for agent-to-tool, Agent2Agent for agent-to-agent: discovery, message flow, task lifecycle, and how the two interoperability layers compose."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

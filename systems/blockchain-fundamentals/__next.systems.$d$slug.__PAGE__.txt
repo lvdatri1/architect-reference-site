@@ -1,0 +1,127 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+15:X
+1a:X
+1a:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Blockchain Fundamentals\",\"description\":\"Distributed ledgers, cryptographic hashes, consensus mechanisms, and immutability — the primitives that let mutually distrusting nodes share state without a central authority.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/blockchain-fundamentals\",\"inLanguage\":\"en\",\"keywords\":\"blockchain, decentralization, distributed-systems, cryptography, ledger, immutability, developer, solution-architect, security-architect, cloud-engineer, enterprise-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"blockchain\"},{\"@type\":\"Thing\",\"name\":\"decentralization\"},{\"@type\":\"Thing\",\"name\":\"distributed-systems\"},{\"@type\":\"Thing\",\"name\":\"cryptography\"},{\"@type\":\"Thing\",\"name\":\"ledger\"},{\"@type\":\"Thing\",\"name\":\"immutability\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blockchain Fundamentals\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/blockchain-fundamentals\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Blockchain Fundamentals"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Blockchain Fundamentals"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Distributed ledgers, cryptographic hashes, consensus mechanisms, and immutability — the primitives that let mutually distrusting nodes share state without a central authority."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":"$L3"}],"Solution Architect"]}],"$L4","$L5","$L6"],["$L7","$L8","$L9","$La","$Lb","$Lc"]]}]]}],"$Ld","$Le"]}],["$Lf","$L10","$L11","$L12"],"$L13"]}],"isPartial":"$@14","staleTime":"$15","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$15","varyParams":null},{"rsc":"$L18","isPartial":"$@19","staleTime":"$15","varyParams":"$1a"},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$15","varyParams":"$1a"}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+22:"$Sreact.suspense"
+24:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+25:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+26:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+27:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+28:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]
+4:["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}]
+5:["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}]
+6:["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}]
+7:["$","$L2","blockchain",{"href":"/tags/blockchain","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-orange-50 text-orange-700 ring-orange-200","children":["#","blockchain"]}]
+8:["$","$L2","decentralization",{"href":"/tags/decentralization","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","decentralization"]}]
+9:["$","$L2","distributed-systems",{"href":"/tags/distributed-systems","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","distributed-systems"]}]
+a:["$","$L2","cryptography",{"href":"/tags/cryptography","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","cryptography"]}]
+b:["$","$L2","ledger",{"href":"/tags/ledger","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-sky-50 text-sky-700 ring-sky-200","children":["#","ledger"]}]
+c:["$","$L2","immutability",{"href":"/tags/immutability","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","immutability"]}]
+20:T1ad3,
+## What this system is
+
+A **blockchain** is a distributed, append-only ledger of records — *blocks* — chained together by cryptographic hashes. Instead of one trusted database that everyone reads, a blockchain is replicated across many **nodes** that do not trust each other. Each block bundles a set of transactions, a timestamp, and a hash of the *previous* block. That pointer is what binds the chain together: change anything in an old block and its hash no longer matches, invalidating every block built on top of it (see [Secrets, certificates and PKI](../secrets-certificates-and-pki) for the hashing primitives underneath).
+
+Because no single party owns history, nobody can quietly rewrite it. The consequence is a shared state machine that stays consistent without a bank, broker, or cloud account being the referee.
+
+```mermaid
+flowchart LR
+    B1[Block N<br/>tx T1..T3<br/>hash of Block N-1] --> B2[Block N+1<br/>tx T4..T6<br/>hash of Block N]
+    B2 --> B3[Block N+2<br/>tx T7..T9<br/>hash of Block N+1]
+    B3 --> B4[Block N+3 ...]
+```
+
+## What problem it replaces
+
+| Trust model | Without blockchain | With blockchain |
+| --- | --- | --- |
+| Authoritative data | A central party (bank, app, government) is trusted to store the truth | Truth is the longest hash-linked chain, agreed by the network |
+| Auditing | Relies on that party's logs, which they could edit | Every node holds the same append-only history |
+| Failure domain | A central outage or compromise takes the system down | Nodes join and leave; the ledger survives as long as replicas exist |
+| Settlement | Counterparty risk — I must trust the other side will pay | A transaction only lands if the network agrees it is valid |
+| Threat model | Insider can alter records and erase traces | Altering one replica is detected by every other replica |
+
+This buys a specific kind of assurance: **integrity and provenance of records among parties that do not trust each other**, at the cost of throughput, latency, and privacy compared to a normal database. Blockchain is rarely the answer for "I just need a fast database" — that is what [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) is for.
+
+## Blocks and hashing
+
+- **Block**: a batch of transactions plus a header. The header includes the previous block hash, a timestamp, a nonce/attested state, and often a Merkle root that commits to the transaction list in one digest.
+- **Merkle tree**: transactions are hashed pairwise up to a single root, so a node can prove "this transaction is in this block" by showing only a small hash path, not the whole block.
+- **Append-only**: blocks are added by consensus; nobody can insert one in the middle without recomputing every hash after it, which would be detected.
+- **Fork**: when two blocks are mined at the same height, the chain briefly splits. Nodes adopt the branch with the most accumulated proof of work or stake — the *longest/heaviest* chain wins and the other branch is orphaned.
+
+## Consensus: how nodes agree
+
+| Mechanism | Idea | Cost | Used by |
+| --- | --- | --- | --- |
+| Proof of Work (PoW) | Pay real compute to propose a block; the first solver wins | Energy and hardware | Bitcoin, (historically) Ethereum |
+| Proof of Stake (PoS) | Lock up tokens as stake; validators are selected and can be slashed for cheating | Capital, not energy | Ethereum after "the Merge" |
+| PBFT / leader-based BFT | Nodes vote in rounds; tolerates up to ~1/3 malicious replicas | Small, permissioned networks | Enterprise/government ledgers |
+| DAG-based (IOTA, Hedera) | No linear chain; transactions confirm each other as a directed acyclic graph | Fast, no miners | IoT micro-payments, supply chain |
+
+For private networks (permissioned), PBFT-style consensus is usually the right fit because every member is known. For public networks, PoW/PoS are designed to work even when membership is open and adversarial.
+
+## What a node does
+
+```mermaid
+flowchart LR
+    CLIENT["Client<br/>sends a transaction"] -->|sign + submit| MEMPOOL["Mem pool<br/>transaction waits"]
+    MEMPOOL -->|pick transactions| VALIDATOR["Validator / miner<br/>proposes a block"]
+    VALIDATOR -->|proposed block| BROADCAST["Full nodes<br/>verify + gossip block"]
+    BROADCAST -->|every node stores| LEDGER["Appended to ledger<br/>immutable history"]
+```
+
+## When blockchain makes sense
+
+- **Multi-party reconciliation** — several organizations must agree on one shared record and none will let the others hold it (supply chain, trade finance).
+- **Provenance and audit trails** — a tamper-evident log is worth more than raw performance.
+- **Open, permissionless networks** — anyone can join and no single operator can freeze or censor.
+- **Tokenization and settlement** — native digital assets and programmatic payments with an existing trust problem.
+
+Avoid it when the real requirement is confidentiality (a blockchain's history is public), or high throughput, or "we just trust our own database anyway" — in those cases a normal database plus [Change data capture](../change-data-capture) and [Monitoring and observability](../monitoring-and-observability) is better.
+
+## Tester checklist
+
+- Verify immutability: create a chain, tamper with an early block's transaction, and confirm subsequent blocks' hash pointers break.
+- Test fork resolution: simulate two conflicting blocks at the same height and confirm the network converges on one chain.
+- Confirm a transaction is only final after the required confirmations, not when it first appears in the mempool.
+- Check that a malformed or unsigned transaction is rejected by full nodes before it can enter a block.
+- Validate node recovery: a node that was offline can resync and reproduce the exact same chain state.
+- Exercise consensus edge cases: an empty block, a double-spend attempt, and a block exceeding size/gas limits.
+
+## Related systems
+
+- [Secrets, certificates and PKI](../secrets-certificates-and-pki) — the cryptographic foundations (hash functions, PKI) every chain is built on
+- [Zero Trust architecture](../zero-trust-architecture) — how identity works when there is no central "inside"
+- [Data governance and catalog](../data-governance-and-catalog) — contrasting governed central catalogs with decentralized ledgers
+
+## Deep dives
+
+- [Smart contracts and decentralized apps](../smart-contracts-and-decentralized-apps) — the programmable layer living on top of the ledger
+- [Decentralized identity and verifiable credentials](../decentralized-identity-and-verifiable-credentials) — using the ledger as an issuer of trust, not accounts
+- [Data pipelines (ETL/ELT)](../data-pipelines-etl-elt) — how blockchain data is extracted and normalized for analytics
+- [Secrets, certificates and PKI](../secrets-certificates-and-pki) — key custody, wallets, and cryptographic identityd:["$","$L1f",null,{"source":"$20"}]
+e:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","decentralized-identity-and-verifiable-credentials",{"href":"/systems/decentralized-identity-and-verifiable-credentials","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Decentralized Identity and Verifiable Credentials"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Self-sovereign identity: Decentralized Identifiers (DIDs), verifiable credentials, and the issuer-holder-verifier triangle replacing centralized account databases."}]]}],["$","$L2","smart-contracts-and-decentralized-apps",{"href":"/systems/smart-contracts-and-decentralized-apps","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Smart Contracts and Decentralized Apps"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Smart contracts, wallets, tokens, and dApp frontends — how programmable logic and self-custody put application state on an open, incentive-aligned blockchain."}]]}],["$","$L2","quantum-computing-fundamentals",{"href":"/systems/quantum-computing-fundamentals","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Quantum computing fundamentals"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Qubits, superposition, entanglement, gates, and error correction — what quantum computers actually compute, where they beat classical hardware, and what the architecture looks like today."}]]}]]}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+10:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+11:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+12:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+13:["$","$L21",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+16:["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L25",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Blockchain Fundamentals · System Reference"}],["$","meta","1",{"name":"description","content":"Distributed ledgers, cryptographic hashes, consensus mechanisms, and immutability — the primitives that let mutually distrusting nodes share state without a central authority."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"blockchain,decentralization,distributed-systems,cryptography,ledger,immutability,developer,solution-architect,security-architect,cloud-engineer,enterprise-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/blockchain-fundamentals/"}],["$","meta","8",{"property":"og:title","content":"Blockchain Fundamentals · System Reference"}],["$","meta","9",{"property":"og:description","content":"Distributed ledgers, cryptographic hashes, consensus mechanisms, and immutability — the primitives that let mutually distrusting nodes share state without a central authority."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/blockchain-fundamentals/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Blockchain Fundamentals · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Distributed ledgers, cryptographic hashes, consensus mechanisms, and immutability — the primitives that let mutually distrusting nodes share state without a central authority."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L26","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+18:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+1b:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+1e:true
+23:null
+15:300
+15:C
+1d:0
+17:"$undefined"
+19:"$undefined"
+1c:"$undefined"
+14:"$undefined"

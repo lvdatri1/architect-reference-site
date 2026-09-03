@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"HTTP authentication and Basic auth\",\"description\":\"How the Authorization header actually works: Basic auth's username:password encoding, WWW-Authenticate challenges, digest, API keys, and bearer tokens — and when each is (or is not) safe.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/http-authentication-basic-auth\",\"inLanguage\":\"en\",\"keywords\":\"security, api, architecture, developer, backend, tester, security-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"api\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"HTTP authentication and Basic auth\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/http-authentication-basic-auth\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"HTTP authentication and Basic auth"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"HTTP authentication and Basic auth"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"How the Authorization header actually works: Basic auth's username:password encoding, WWW-Authenticate challenges, digest, API keys, and bearer tokens — and when each is (or is not) safe."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],"$L3","$L4"]}],"Backend"]}],"$L5","$L6"],["$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}]
+4:["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]
+5:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+6:["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}]
+7:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+8:["$","$L2","api",{"href":"/tags/api","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","api"]}]
+9:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1d:T15ab,
+## What this system is
+
+HTTP authentication is the **`Authorization` request header** (plus the `WWW-Authenticate` response header that tells you *how* to authenticate). The header carries a **scheme** and scheme-specific credentials: `Basic`, `Bearer`, `Digest`, or a custom scheme. It is the oldest, simplest layer of "who may access this endpoint" — and the one most often misused.
+
+```mermaid
+flowchart LR
+  CL[Client] -->|attach header| RQ[GET /api with Authorization header]
+  RQ -->|dispatch| CH{Server parses scheme}
+  CH -->|valid| OK[200 - allowed]
+  CH -->|missing or invalid| DENY[401 + WWW-Authenticate]
+```
+
+```mermaid
+flowchart LR
+  C[Client] -->|Authorization: Basic dXNlcjpwYXNz| S[Server]
+  S --> V{Decode + verify?}
+  V -->|yes| OK[200 OK]
+  V -->|no / absent| CH[401 + WWW-Authenticate: Basic realm=...]
+```
+
+## Basic auth, honestly explained
+
+```mermaid
+flowchart LR
+  U[username:password] --> B1[base64 encode] --> H1[dXNlcjpwYXNz]
+  H1 --> H2[Authorization: Basic dXNlcjpwYXNz]
+  H2 --> S[Server decodes and compares]
+```
+
+Basic auth is one line: **`Authorization: Basic <base64(username:password)>`**. The credentials are `base64` encoded, **not encrypted** — anyone who sees the header sees the password (base64 is trivially reversible). Three rules decide whether it's acceptable:
+
+1. **Only over TLS** — over plain HTTP, the header *is* the password broadcast to the network.
+2. **Only for low-stakes or system-to-system** credentials — a shared API key with narrow scope, never a human's master password.
+3. **Never against a database of user passwords** — compare against a hash (and rate-limit to survive brute force).
+
+The classic failure: "it's behind HTTPS so base64 is fine" — then an operator pulls the header into a log, a proxy, or an error message, and the credential leaks in plaintext where the TLS never protected it.
+
+## The `WWW-Authenticate` dance
+
+```mermaid
+sequenceDiagram
+  participant C as Client
+  participant S as Server
+
+  C->>S: GET /private (no auth)
+  S-->>C: 401 + WWW-Authenticate: Basic realm="Admin"
+  C->>S: GET /private + Authorization: Basic ...
+  S-->>C: 200 OK (or 403 if not allowed)
+```
+
+When auth is missing/invalid, the server answers **`401`** with a **`WWW-Authenticate`** header naming the scheme (and often a `realm` describing what's protected). The client then *retries with credentials*. That's why you'll see two requests in the network tab for a Basic-protected page.
+
+## Basic vs Digest vs Bearer vs API keys
+
+| Scheme | How it works | Use it for | Danger |
+| --- | --- | --- | --- |
+| **Basic** | `base64(user:pass)` | TLS-only, low-stakes, simple | Credential in every header; replayable if leaked |
+| **Digest** | Hash of user:pass + nonce | Legacy, still-plaintext apps | Weak hash; rarely worth it today |
+| **Bearer** | An opaque token from an issuer | Tokens you already hold (OAuth/JWT) | Whoever holds the token is you — no password involved |
+| **API key** | A shared secret, often `X-API-Key` | System-to-system, scoped | Same leak problem as Basic; also logged |
+| **mTLS** | Certificate on the connection | Machine-to-machine, high-trust | Complex to roll out; strongest tie to the wire |
+
+**Bearer and API keys are the modern defaults** for machine APIs precisely because they don't carry a *password* — a leaked token is revocable and (ideally) short-lived, whereas a leaked Basic pair is the user's real login. The recurring refrain in every auth review: "this is a credential, treat it like one."
+
+## Reading the header: what a tester looks for
+
+```mermaid
+flowchart TB
+  H[Authorization header seen?] --> A{Over HTTPS only?}
+  A -->|no| B[FAIL - credential in cleartext]
+  A -->|yes| C{What scheme?}
+  C -->|Basic| D[Is it base64 user-pass? rate-limited? non-human?]
+  C -->|Bearer / API key| E[Expiry? revocation? scope limited?]
+  C -->|something custom| F[Is the scheme well-defined and not invented crypto?]
+```
+
+- Is the header **ever logged** (proxy, gateway, app logs)? One `req.headers` dumped to logs = credential leak.
+- Does the server check **over** the header only, or also **caches** a response keyed by the credential (a cached 200 shared across users)?
+- Is there **rate limiting / lockout** on failures? A Basic endpoint without it is a brute-force treadmill.
+- Are credentials **revocable and rotated**? A static API key from 2019 with access to prod is an incident waiting.
+
+## Tester checklist
+
+- Confirm every Basic/Bearer API you expose **refuses** plaintext HTTP (redirect to HTTPS, or reject entirely) — the header must never travel unencrypted.
+- Attempt auth with the base64 decoded and sent wrong: expect `401` with `WWW-Authenticate`, not `200` or `403`-with-data.
+- Check that failed attempts are rate-limited/locked and that logs do **not** contain the full `Authorization` header.
+- Verify a leaked-token scenario end to end: revoke a key/token and confirm in-flight and new requests fail (not just "stale cache").
+- Distinguish 401 vs 403: unauthenticated = 401 + challenge; authenticated-but-forbidden = 403. Mixing them up hides bugs and leaks resource existence.
+
+## Related systems
+
+- [OAuth grant types](../oauth-grant-types) — where Bearer tokens come from instead of Basic credentials
+- [OAuth 2.0 and OpenID Connect](../oauth2-openid-connect) — the full token lifecycle Basic has nothing to do with
+- [Authentication vs authorization](../authentication-vs-authorization) — authn (this) vs authz (the next step)
+- [JWT tokens](../jwt-tokens) — what a modern bearer token often containsa:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","owasp-top-10",{"href":"/systems/owasp-top-10","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"The OWASP Top 10"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The ten riskiest web-application security weaknesses, the attacks that trigger them, and the fixes that stop them before a pentest finds them."}]]}],["$","$L2","authentication-vs-authorization",{"href":"/systems/authentication-vs-authorization","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Authentication vs authorization"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The two questions every request must answer — who are you, and what are you allowed to do — and why conflating them is a classic breach."}]]}],["$","$L2","oauth2-openid-connect",{"href":"/systems/oauth2-openid-connect","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"OAuth 2.0 and OpenID Connect"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The authorization code flow with PKCE, explained as a conversation between a browser, the app, and an identity provider."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"HTTP authentication and Basic auth · System Reference"}],["$","meta","1",{"name":"description","content":"How the Authorization header actually works: Basic auth's username:password encoding, WWW-Authenticate challenges, digest, API keys, and bearer tokens — and when each is (or is not) safe."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"security,api,architecture,developer,backend,tester,security-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/http-authentication-basic-auth/"}],["$","meta","8",{"property":"og:title","content":"HTTP authentication and Basic auth · System Reference"}],["$","meta","9",{"property":"og:description","content":"How the Authorization header actually works: Basic auth's username:password encoding, WWW-Authenticate challenges, digest, API keys, and bearer tokens — and when each is (or is not) safe."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/http-authentication-basic-auth/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"HTTP authentication and Basic auth · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"How the Authorization header actually works: Basic auth's username:password encoding, WWW-Authenticate challenges, digest, API keys, and bearer tokens — and when each is (or is not) safe."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

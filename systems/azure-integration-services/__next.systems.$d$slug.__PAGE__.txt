@@ -1,0 +1,165 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+13:X
+18:X
+18:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Azure integration services\",\"description\":\"Service Bus, Event Grid, Logic Apps, Event Hubs, and the API Management front door — the toolkit that connects Azure workloads to each other and to the rest of the enterprise.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/azure-integration-services\",\"inLanguage\":\"en\",\"keywords\":\"integration, cloud, azure, architecture, event-driven, solution-architect, enterprise-architect, backend, devops-engineer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"integration\"},{\"@type\":\"Thing\",\"name\":\"cloud\"},{\"@type\":\"Thing\",\"name\":\"azure\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"event-driven\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Azure integration services\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/azure-integration-services\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Azure integration services"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Azure integration services"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Service Bus, Event Grid, Logic Apps, Event Hubs, and the API Management front door — the toolkit that connects Azure workloads to each other and to the rest of the enterprise."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":"$L3"}],"Enterprise Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9","$La"]]}]]}],"$Lb","$Lc"]}],["$Ld","$Le","$Lf","$L10"],"$L11"]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$13","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$13","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$13","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+24:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+25:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+26:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]
+4:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+5:["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}]
+6:["$","$L2","integration",{"href":"/tags/integration","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","integration"]}]
+7:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+8:["$","$L2","azure",{"href":"/tags/azure","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-emerald-50 text-emerald-700 ring-emerald-200","children":["#","azure"]}]
+9:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+a:["$","$L2","event-driven",{"href":"/tags/event-driven","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","event-driven"]}]
+1e:T1cfc,
+## What this system is
+
+Azure's integration story is a toolkit, not a product: **Service Bus** (enterprise messaging), **Event Grid** (event routing between Azure services), **Event Hubs** (high-throughput stream ingestion), **Logic Apps** (no/low-code orchestration glue), plus **API Management** as the front door. There is no "right" single service — each solves a different delivery-semantics problem, and real systems use several at once.
+
+```mermaid
+flowchart LR
+  Src[SaaS / line-of-business apps] -->|events| EG[Event Grid]
+  Src -->|rare ever| A[Azure functions]
+  A -->|messages| SB[Service Bus]
+  Comp[Other Azure services] -->|telemetry / events| EH[Event Hubs]
+  LOG[Logic Apps - orchestration] --> SB
+  LOG --> EG
+  APIM[API Management] --> Functions[Functions / App Service]
+```
+
+## The four services, and when each wins
+
+| Service | Delivery model | Best for |
+| --- | --- | --- |
+| **Service Bus** | Ordered queues + topics, at-least-once, TTL, DLQ | Enterprise work queues, durable decoupling, competing consumers |
+| **Event Grid** | Pulses events to subscribers, auto-retry, dead-letter | Connecting Azure resources ("blob created → trigger function"), fan-out |
+| **Event Hubs** | Massive throughput, partition-keyed, no per-message ack | Telemetry, click-streams, anything with very high event volume |
+| **Logic Apps** | Orchestration engine (low-code) | Workflows across systems, human approvals, no-code glue |
+
+The selector rule: **a system that must process a message reliably later = Service Bus; an event Azure itself should react to = Event Grid; a firehose of telemetry = Event Hubs; a multi-step workflow = Logic Apps.** They compose — it's common to receive on Service Bus, route decisions through Logic Apps, and publish results onto Event Grid.
+
+## Service Bus: the durable work horse
+
+```mermaid
+sequenceDiagram
+  participant P as Producer
+  participant Q as Service Bus queue
+  participant C1 as Consumer 1
+  participant C2 as Consumer 2
+  participant DLQ as Dead-letter queue
+
+  P->>Q: send message (+ properties, TTL)
+  Q->>C1: "lock" the message
+  Q->>C2: competing consumer - one gets it
+  C1-->>Q: ack (complete) OR
+  C1-->>Q: abandon (redeliver) OR
+  C1-->>Q: dead-letter (poison)
+  Q->>DLQ: messages past max-delivery / TTL
+```
+
+- **Queues & topics**: a queue has one logical consumer pool (competing consumers share work); a topic fans out to many subscriptions, each with its own durable copy.
+- **Locking** gives exactly-once-ish *processing*: a consumer gets an exclusive lock, must `complete()` within the lock duration, or the message is retried — never duplicated-in-flight, but at-least-once overall, so handlers stay idempotent.
+- **Settle one way**: `complete` (done), `abandon` (redeliver), `defer` (park to peek later), or **dead-letter** for poison messages — the DLQ is where bad payloads go instead of poisoning the queue forever.
+- **Ordering caveat**: queues/topics give ordering only per the `session`/partition key you set; safest for meaningful order is a **sessionful** queue where each session id is processed serially.
+
+## Event Grid: the reactive router
+
+```mermaid
+flowchart LR
+  subgraph Sources
+    S1[Blob storage - new blob]
+    S2[Container registry - image push]
+    S3[Resource group events]
+    S4[Custom topics - your apps]
+  end
+  S1 --> EG[Event Grid topic]
+  S2 --> EG
+  S3 --> EG
+  S4 --> EG
+  EG --> D1[Function - process]
+  EG --> D2[Logic App - workflow]
+  EG --> D3[Service Bus - re-queue]
+  EG --> H[Event Hubs - land in stream]
+```
+
+The defining trait of Event Grid: it **routes, not stores**. Events are small facts ("a blob appeared"), delivered to matching subscribers with retries and a dead-letter sink, but there's no per-message-audit log like Service Bus. It's the fastest path between Azure resources — trivial to wire `blobCreated → Functions` with no code in the middle.
+
+## Event Hubs: the firehose
+
+Event Hubs is a **streaming ingestion bus**: it mirrors Kafka's partition/offset model so that high-volume producers land events quickly and consumers (Functions, Spark, AKS) read at their own pace. Order is guaranteed per `PartitionKey`. It is not for workload queues (no per-message ack like Service Bus) and not for routing (that's Event Grid) — it's the place *before* processing, where millions of events/sec arrive and get persisted briefly.
+
+## Logic Apps: orchestration without app code
+
+```mermaid
+flowchart TB
+  T[Trigger - HTTP / schedule / Service Bus] --> C[Condition on the payload]
+  C -- yes --> A[Call an API - e.g. ERP, CRM]
+  A --> H[Human approval - the workflow pauses]
+  H -- approved --> N[Notify + write result]
+  H -- rejected --> R[Handle rejection path]
+  C -- no --> S[Skip / log]
+```
+
+Logic Apps is **control flow, not compute**: it sequences steps (calls, approvals, transforms), persists state, handles retries, and shows you the whole workflow visually. When a process is "send invoice → get finance approval → update ERP → email the submitter", that's a Logic App — because encoding it in a service would be glue, not value.
+
+## Putting it together: a reference shape
+
+```mermaid
+flowchart LR
+  User[User action] --> APIM[API Management - auth, rate limit]
+  APIM --> FA[Function App - validate + enqueue]
+  FA -->|message| SB[Service Bus - durable queue]
+  SB --> W[Worker - Function - process]
+  W -->|outcome event| EG[Event Grid]
+  EG --> Notify[Notify service]
+  EG --> LOGC[Logic App - follow-up workflow]
+```
+
+For most integration-first estates the shape is remarkably consistent: **APIM at the front, Service Bus for durable work, Functions as workers, Event Grid to fan results out, Event Hubs only when there's a true firehose, Logic Apps for the human-step workflows.**
+
+## Tester checklist
+
+- **Delivery semantics drill**: kill a consumer mid-message; verify the message is redelivered (at-least-once) and that the handler's idempotency dedupes the duplicate.
+- **Poison message**: send a bad payload repeatedly; confirm it dead-letters, and that the DLQ is inspected and drained on a schedule.
+- **Session/order**: with a sessionful queue, insert out-of-order and verify each session id processes serially.
+- **Fan-out**: publish one topic message; confirm every subscription received its own durable copy.
+- **Event Grid retry**: fail a subscriber endpoint and verify retries + dead-letter sink, and check `deliveryCount`/diagnostics logs.
+- **Lock expiry**: set a short lock, process slowly, and confirm `complete()` on an expired lock surfaces as a duplicate/retry the consumer must tolerate.
+
+## Related systems
+
+- [API gateway caching](../api-gateway-caching) and [Azure API Management (APIM)](../azure-api-management-apim) — the front door the integration stack sits behind
+- [Message queue delivery](../message-queue-delivery) — the pattern Service Bus implements
+- [Pub/Sub and event streaming](../pub-sub-event-streaming) — the model Event Grid and Event Hubs both embody
+- [Serverless computing and functions](../serverless-computing-and-functions) — the workers that consume from Service Bus and Event Grid
+- [Integration patterns](../integration-patterns) — the five families; every Azure service maps to one
+- [File transfer and object storage](../file-transfer-and-object-storage) — Service Bus's file-based rival for legacy exchange
+- [API request lifecycle](../api-request-lifecycle) — where APIM fits in the full chainb:["$","$L1d",null,{"source":"$1e"}]
+c:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","azure-api-management-apim",{"href":"/systems/azure-api-management-apim","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Azure API Management (APIM)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"APIM's anatomy — gateway, publisher portal, developer portal, subscriptions, policies, and identity — and the request path every request takes through it."}]]}],["$","$L2","azure-core-services",{"href":"/systems/azure-core-services","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Azure core services"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Resource groups, subnets/VNet, VMs, App Service, Functions, Storage, SQL Database — the map of core Azure services and how an app composes them."}]]}],["$","$L2","asyncapi",{"href":"/systems/asyncapi","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"AsyncAPI"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}]]}]]}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+e:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+f:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+10:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+11:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+14:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Azure integration services · System Reference"}],["$","meta","1",{"name":"description","content":"Service Bus, Event Grid, Logic Apps, Event Hubs, and the API Management front door — the toolkit that connects Azure workloads to each other and to the rest of the enterprise."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"integration,cloud,azure,architecture,event-driven,solution-architect,enterprise-architect,backend,devops-engineer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/azure-integration-services/"}],["$","meta","8",{"property":"og:title","content":"Azure integration services · System Reference"}],["$","meta","9",{"property":"og:description","content":"Service Bus, Event Grid, Logic Apps, Event Hubs, and the API Management front door — the toolkit that connects Azure workloads to each other and to the rest of the enterprise."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/azure-integration-services/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Azure integration services · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Service Bus, Event Grid, Logic Apps, Event Hubs, and the API Management front door — the toolkit that connects Azure workloads to each other and to the rest of the enterprise."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L24","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+1c:true
+21:null
+13:300
+13:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+12:"$undefined"

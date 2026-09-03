@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"MuleSoft Anypoint Platform\",\"description\":\"MuleSoft's anatomy as enterprise iPaaS — the Mule runtime, Anypoint Studio, connectors, API Manager, and how it becomes the integration layer for a hybrid estate.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/mulesoft-anypoint-platform\",\"inLanguage\":\"en\",\"keywords\":\"integration, api, middleware, enterprise-architecture, solution-architect, enterprise-architect, backend, cloud-engineer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"integration\"},{\"@type\":\"Thing\",\"name\":\"api\"},{\"@type\":\"Thing\",\"name\":\"middleware\"},{\"@type\":\"Thing\",\"name\":\"enterprise-architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"MuleSoft Anypoint Platform\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/mulesoft-anypoint-platform\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"MuleSoft Anypoint Platform"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"MuleSoft Anypoint Platform"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"MuleSoft's anatomy as enterprise iPaaS — the Mule runtime, Anypoint Studio, connectors, API Manager, and how it becomes the integration layer for a hybrid estate."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":"$L3"}],"Enterprise Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]
+4:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+5:["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}]
+6:["$","$L2","integration",{"href":"/tags/integration","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","integration"]}]
+7:["$","$L2","api",{"href":"/tags/api","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","api"]}]
+8:["$","$L2","middleware",{"href":"/tags/middleware","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","middleware"]}]
+9:["$","$L2","enterprise-architecture",{"href":"/tags/enterprise-architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","enterprise-architecture"]}]
+1d:T1c72,
+## What this system is
+
+MuleSoft (Anypoint Platform) is the flagship **iPaaS**: it provides the runtime (Mule), the design tooling (Anypoint Studio), a catalog of pre-built connectors, and API management around the same flows. Its positioning is "any integration, any end" — the flagship use is stitching SaaS (Salesforce, SAP, Workday, NetSuite) to each other and to on-prem systems through a single governed integration layer instead of point-to-point spaghetti.
+
+```mermaid
+flowchart LR
+  subgraph Sources
+    S1[SaaS - Salesforce, SAP, NetSuite]
+    S2[On-prem - DB, files, mainframe]
+    S3[Custom APIs + events]
+  end
+  Sources --> Runtime[Mule runtime<br/>- cloud + on-prem]
+  Runtime --> D[(API Manager - policies, keys, governing)]
+  D --> T[Downstream target APIs]
+  Studio[Anypoint Studio - design] --> Runtime
+```
+
+## The pieces that matter
+
+| Piece | What it is | The mental model |
+| --- | --- | --- |
+| **Mule runtime engine** | The execution runtime: an API, a flow, its own OSGi-ish app | "A Mule app = a deployable integration unit" |
+| **Anypoint Studio** | The Eclipse-based design IDE (drag-and-drop flow editor) | "Draw the flow, deploy it" |
+| **Connectors** | Pre-built adapters: Salesforce, SAP, JDBC, HTTP, messaging | "Tiles, not coding the wire protocol" |
+| **API Manager** | Policy + key + version management for exposed APIs | "The governance face your consumers touch" |
+| **CloudHub** | MuleSoft's managed hosting for Mule apps | "Run it without running your own runtime fleet" |
+| **Anypoint Exchange** | The shared hub of connectors, templates, and APIs | "The org-wide library" |
+
+The mental model: **a flow is a chain of message processors** — a listener receives an event, transformers map the payload, connectors call endpoints, and the result flows onward. Every flow is inside a Mule app, and the app is what gets deployed to CloudHub or to your own runtime.
+
+## Anatomy of a Mule flow
+
+```mermaid
+sequenceDiagram
+  participant L as Listener - HTTP / queue / timer
+  participant T as Transform (DataWeave)
+  participant C as Connector call - Salesforce / SAP
+  participant E as Error handling
+
+  L->>T: incoming payload (XML / JSON / CSV)
+  T->>C: map shape + fields (DataWeave)
+  C->>C: perform the API call
+  alt success
+    C-->>L: respond / write to queue
+  else failure
+    C-->>E: retry / DLQ / log + alert
+  end
+```
+
+- **Listeners** trigger the flow: HTTP/HTTPS, JMS, file polling, timers, or message queues.
+- **DataWeave** is MuleSoft's expression + transformation language — the thing you spend most design time in, mapping an XML invoice into a Salesforce JSON opportunity.
+- **Error handling** is scoped per flow: on-error-propagate, retries, and a dead-letter pattern keep a bad message from killing the pipeline.
+- **Every flow tracks**: MuleSoft has baked-in logging, metrics, and runtime health per app — "why did it fail" gets a traceable answer without you building observability.
+
+## API-led connectivity: the MuleSoft doctrine
+
+```mermaid
+flowchart TB
+  subgraph Exp["Experience APIs"]
+    EX1[Mobile / portal API]
+    EX2[Partner API]
+  end
+  subgraph Proc["Process APIs"]
+    PR1[Order orchestration]
+    PR2[Customer sync]
+  end
+  subgraph Sys["System APIs"]
+    SYS1[Salesforce canonical]
+    SYS2[SAP canonical]
+  end
+  Ex[Experience layer] --> Pr[Process layer] --> Sy[System layer]
+```
+
+MuleSoft's flagship architecture is **API-led connectivity**: integration APIs are organized in three layers — *system* (wraps a backend with a stable contract), *process* (orchestrates business workflows across systems), *experience* (shapes data for a specific consumer). The value proposition: a consumer changes once instead of touching every wiring. The pragmatic caution: three layers for tiny estates is enterprise theater — run the layers you actually have consumers for.
+
+## MuleSoft vs the alternatives
+
+| Decision | When MuleSoft wins | When it doesn't |
+| --- | --- | --- |
+| Estate | Many SaaS + on-prem, "any to any", big-enterprise | Small team, few integrations — a lighter iPaaS or webhooks suffice |
+| Governance | You need API policies/catalog org-wide | You need nothing but point connections |
+| Cloud | Hybrid-focused, heavy connector catalog | Single-cloud-only shop — Azure integration / OIC may be cheaper and native |
+| Developer fit | GUI-first, "integration without deep coding" | Strong backend engineers who'd rather code with strong SDKs |
+
+The honest framing: MuleSoft is expensive and enterprise-flavoured, and it earns that cost in **governance and breadth** — one governed layer for Salesforce, SAP, mainframe, and cloud. If your estate is smaller or cloud-native-uniform, [Azure integration services](../azure-integration-services) or [Oracle Integration Cloud](../oracle-integration-cloud) (for Oracle-centric) fit better. MuleSoft's user mains in a Salesforce-heavy world because of the deep Salesforce connector and the Exchange templates.
+
+## The failure modes that plague iPaaS projects
+
+- **Spaghetti reborn**: a MuleSoft integration per point-connection instead of per business capability — the hub grows but so does the tangle.
+- **Re-inventing the backend**: flows that embed business rules that belong in the service behind the API.
+- **Untested connectors**: assuming the "Salesforce upsert" connector handles fields you actually send — connectors still need real payload tests.
+- **Runtime sprawl**: every developer shipping their own CloudHub environment until cost and governance explode.
+- **Ignoring idempotency and ordering**: at-least-once over JMS or retries means duplicate delivery silently creates duplicate orders.
+
+## Tester checklist
+
+- **Flow trigger drill**: call the listener endpoint(s) — HTTP, queue, file-drop — and confirm each path tracks and completes.
+- **Transformation fidelity**: run an XML→JSON DataWeave map with dates, decimals, nulls, and arrays; confirm no drift and no silent loss.
+- **Retry/DLQ behavior**: force the downstream connector to fail, let it retry with backoff, then confirm the failing message dead-letters and is visible with its trace ID.
+- **Policy gate**: expose an API through API Manager and confirm an unauthenticated / over-rate call is rejected by the policy before the flow runs.
+- **Idempotency**: deliver the same message twice and confirm no duplicate order is created downstream.
+- **Runtime health**: check the app's logs/metrics for a failed run — the answer "why" must be findable without scraping.
+
+## Related systems
+
+- [Integration patterns](../integration-patterns) — the five families every Mule flow implements
+- [Azure integration services](../azure-integration-services) — the comparable managed stack when your estate is Azure-centric
+- [Oracle Integration Cloud (OIC)](../oracle-integration-cloud) — the comparable platform for an Oracle-centric estate
+- [Webhook integrations](../webhook-integrations) — the lighter, no-iPaaS alternative for point connections
+- [Salesforce CRM](../salesforce-crm) — the flagship SaaS MuleSoft integrates with
+- [API gateway caching](../api-gateway-caching) — the caching/API policy concerns that API Manager also owns
+- [Mainframe computing](../mainframe-computing) — the legacy endpoint MuleSoft's "any to any" badge is abouta:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","oracle-integration-cloud",{"href":"/systems/oracle-integration-cloud","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Oracle Integration Cloud (OIC)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"OIC's anatomy — integrations, connections, FBDI/file flows, Process Automation, and the VBCS note — and how it connects an Oracle SaaS estate to the rest of the enterprise."}]]}],["$","$L2","integration-patterns",{"href":"/systems/integration-patterns","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Integration patterns"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The five classic ways to connect systems — file transfer, shared database, RPC, messaging, and shared events — and how to pick between them."}]]}],["$","$L2","mcp-and-a2a-protocols",{"href":"/systems/mcp-and-a2a-protocols","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"MCP and A2A protocols"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Model Context Protocol for agent-to-tool, Agent2Agent for agent-to-agent: discovery, message flow, task lifecycle, and how the two interoperability layers compose."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"MuleSoft Anypoint Platform · System Reference"}],["$","meta","1",{"name":"description","content":"MuleSoft's anatomy as enterprise iPaaS — the Mule runtime, Anypoint Studio, connectors, API Manager, and how it becomes the integration layer for a hybrid estate."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"integration,api,middleware,enterprise-architecture,solution-architect,enterprise-architect,backend,cloud-engineer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/mulesoft-anypoint-platform/"}],["$","meta","8",{"property":"og:title","content":"MuleSoft Anypoint Platform · System Reference"}],["$","meta","9",{"property":"og:description","content":"MuleSoft's anatomy as enterprise iPaaS — the Mule runtime, Anypoint Studio, connectors, API Manager, and how it becomes the integration layer for a hybrid estate."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/mulesoft-anypoint-platform/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"MuleSoft Anypoint Platform · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"MuleSoft's anatomy as enterprise iPaaS — the Mule runtime, Anypoint Studio, connectors, API Manager, and how it becomes the integration layer for a hybrid estate."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

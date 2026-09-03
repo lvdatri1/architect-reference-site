@@ -1,0 +1,160 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Value chain and Porter analysis\",\"description\":\"Porter's value chain — primary and support activities — as the map of where margin and differentiation actually come from, and how it guides outsourcing, capability, and technology decisions.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/value-chain-and-porter-analysis\",\"inLanguage\":\"en\",\"keywords\":\"enterprise-architecture, strategy, business-process, industry, enterprise-architect, solution-architect, cloud-engineer, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"enterprise-architecture\"},{\"@type\":\"Thing\",\"name\":\"strategy\"},{\"@type\":\"Thing\",\"name\":\"business-process\"},{\"@type\":\"Thing\",\"name\":\"industry\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Value chain and Porter analysis\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/value-chain-and-porter-analysis\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Value chain and Porter analysis"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Value chain and Porter analysis"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Porter's value chain — primary and support activities — as the map of where margin and differentiation actually come from, and how it guides outsourcing, capability, and technology decisions."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Solution Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}]
+4:["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}]
+5:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+6:["$","$L2","enterprise-architecture",{"href":"/tags/enterprise-architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","enterprise-architecture"]}]
+7:["$","$L2","strategy",{"href":"/tags/strategy","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","strategy"]}]
+8:["$","$L2","business-process",{"href":"/tags/business-process","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","business-process"]}]
+9:["$","$L2","industry",{"href":"/tags/industry","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","industry"]}]
+1d:T2303,
+## What this system is
+
+Michael Porter's **value chain** is a way of seeing a company as a chain of activities, each of which either *adds value* the customer will pay for or *doesn't*. The whole is compared to competitors via **Porter's five forces** (rivalry, threat of entrants, buyer power, supplier power, substitute threat), and the strategy that follows is "win by doing a set of activities *differently* than rivals, not by doing the same activities marginally better." Where [supply chain management](../supply-chain-management) is the operational chain of *things*, the value chain is the analytical chain of *activities and margins*.
+
+```mermaid
+flowchart LR
+  subgraph Primary["Primary activities"]
+    IL[Inbound logistics] --> OP[Operations]
+    OP --> OL[Outbound logistics]
+    OL --> MS[Marketing & sales]
+    MS --> SV[Service]
+  end
+  subgraph Support["Support activities"]
+    FI[Firm infrastructure]
+    HR[Human resources]
+    TD[Technology development]
+    PR[Procurement]
+  end
+```
+
+## Primary vs support activities
+
+| Activity | What it is | Example |
+| --- | --- | --- |
+| **Inbound logistics** | Receiving, storing, handling inputs | Raw material receiving, inventory control |
+| **Operations** | Transforming inputs into products | Assembly, fabrication, testing, a banking platform |
+| **Outbound logistics** | Distributing the finished product | Warehousing, order delivery, fulfillment |
+| **Marketing & sales** | Making customers want and buy | Brand, pricing, channels, selling |
+| **Service** | Supporting the product after sale | Support desk, maintenance, returns |
+| **Firm infrastructure** | General management, finance, legal | Executive leadership, planning, compliance |
+| **Human resources** | Hiring, training, compensation | Recruiting, people systems |
+| **Technology development** | Know-how and technology across the chain | R&D, IT systems, engineering |
+| **Procurement** | Sourcing inputs (not the inputs themselves) | Purchasing function across activities |
+
+The analytical habit: for **every** activity ask *does this add value the customer pays for, or is it support?* Activities that do neither are cost with no return — the candidates for outsourcing, automation, or removal.
+
+## The margin view
+
+```mermaid
+flowchart LR
+  C[Costs across all activities] --> M[Margin = price - costs]
+  V[Value / differentiation the customer perceives] --> M
+```
+
+The chain's whole point is **margin**: every activity adds cost, and only some add value the customer perceives. Two strategies flow from this:
+
+- **Cost leadership** — optimize the chain so your total cost beats rivals at the same price. Cost is decided across the *whole chain*, not one activity: a company with a slightly more expensive factory but dramatically cheaper logistics can still lead on cost.
+- **Differentiation** — make specific activities (design, service, brand, the platform's developer experience) better than rivals so customers pay a premium. Differentiation lives in specific activities, not "being good overall."
+
+The architecture translation: when you map value to systems, **cost-leadership estates are built to minimize operational cost** (consolidate, standardize, outsource the commodity, automate support); **differentiation estates invest heaviest in the differentiated activities' systems** (a best-in-class e-commerce platform, a proprietary analytics capability), even if the surrounding support systems stay generic.
+
+## Five forces: what shapes the value you can keep
+
+```mermaid
+flowchart TB
+  NE[New entrants] -->|threat| RA[Industry rivalry]
+  BU[Buyer power] -->|pressure| RA
+  SU[Supplier power] -->|pressure| RA
+  SU[Substitutes] -->|threat| RA
+  RA --> P[Profit pool in the industry]
+```
+
+Porter's companion idea: your ability to *keep* margin is set by the structure around the chain, not just your own activities. Strong supplier power (few suppliers, switching costs) squeezes your cost side; strong buyer power squeezes your price side; entrants and substitutes cap what you can charge. The five forces explain why two identical chains in different industries have very different margins — the airline chain is structurally thin, the chip chain structurally fat.
+
+## Value chain vs supply chain vs business model
+
+| Frame | Unit | Asks | Answers |
+| --- | --- | --- | --- |
+| **Value chain** (Porter) | Activities | Which activities create value and margin? | Where to differentiate, outsource, invest |
+| **Supply chain** (SCM) | Materials & flow | How does stuff flow plan→source→make→deliver? | How to run the flow with accuracy and speed |
+| **Business model** | Economic logic | How is money made? | What's the revenue/cost engine and who pays |
+| **Business process** (BPM) | Process steps | Who does what in what order? | How to model, automate, and govern work |
+
+The value chain is the **strategy layer**: it says *which activities we must be best at*. The [supply chain](../supply-chain-management) and the [business processes](../business-process-modeling-and-management) are the *operation layers* that then implement those activities. When a value chain says "service is our differentiator," the estate responds with a service platform, not a cheaper factory system.
+
+## Outsourcing and make-vs-buy, by activity
+
+```mermaid
+flowchart TD
+  Act{Which activity?} --> Core{Core / differentiated?}
+  Core -->|yes - strategic| Keep[Own and invest]
+  Core -->|no - support or commodity| Out[Outsource / buy / automate]
+  Core -->|margin check| M{Adds value customer pays for?}
+  M -->|yes| Keep
+  M -->|no| Out
+```
+
+The value chain turns make-vs-buy from a hunch into a checklist: an activity is a candidate for outsourcing when it is (a) **support rather than primary**, (b) **a commodity anyone can do** (IT support, payroll, logistics for many firms), or (c) **a support activity where an external specialist is better and cheaper**. It is a candidate for in-house investment when it is core to differentiation — because outsourcing a differentiator outsources the reason customers choose you.
+
+| Activity | Typical treatment | Why |
+| --- | --- | --- |
+| Payroll, IT helpdesk | Outsource | Support, commodity, scale external specialists |
+| Manufacturing (many brands) | Outsource (contract manufacturing) | Not the differentiator; capital-light wins |
+| Customer experience / brand | Own | Directly differentiates |
+| Core platform / data | Own | The proprietary advantage |
+
+## The architectural questions
+
+- **Where is the profit pool in your chain?** Map the estate's investment budget against the activities that earn margin — the mismatch is where technology spend is being wasted.
+- **Which activities differentiate?** Those systems get the best-in-class treatment; everything else can be commodity, cloud, or off-the-shelf.
+- **What do you actually outsource?** Every outsourced activity becomes an integration problem: data crosses a company boundary, so the [integration patterns](../integration-patterns) apply, and a contract (SLA, API, data share) replaces an internal handshake.
+- **Is your support stack cheap?** Cost-leadership firms keep support systems lean and standardized; gold-plating support activities is the quiet margin leak.
+
+## Tester checklist
+
+- Map a real business to the nine activities and score each: primary vs support, core vs commodity, value-added vs pure cost — the map should identify at least one outsourcing candidate and one must-own activity.
+- For an outsourcing candidate, enumerate the estate impact: which data crosses the boundary, what integration (patterns, SLAs, APIs) must be built to replace the internal handshake.
+- Verify the differentiator is funded: is the *differentiated* activity's system budget larger than a *support* activity's, or has gold-plating crept into the commodity side?
+- Price the chain: sum the activity costs and confirm the margin claim — an activity that costs more than the value it adds is a candidate to cut, automate, or outsource.
+- Stress the five forces: pick one force (e.g., supplier power) and identify what the estate must build (multi-source tooling, switching options) to reduce that pressure.
+
+## Related systems
+
+- [Supply chain management](../supply-chain-management) — the operational chain the value chain's strategy layer directs
+- [Vertical vs horizontal integration](../vertical-vs-horizontal-integration) — the growth moves that change which activities the company owns
+- [Business process modeling and management](../business-process-modeling-and-management) — how the chain's activities become modeled, governed processes
+- [Enterprise resource planning (ERP)](../enterprise-resource-planning) — the backbone running most primary activities
+- [Procurement (source-to-pay)](../procurement-source-to-pay) — the purchasing activity that appears across the chain
+- [Integration patterns](../integration-patterns) — how outsourced and adjacent activities connect back ina:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","vertical-vs-horizontal-integration",{"href":"/systems/vertical-vs-horizontal-integration","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Vertical vs horizontal integration"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The two growth strategies — owning more of the value chain versus owning more of the market — and when businesses buy up, down, or sideways."}]]}],["$","$L2","cloud-computing-fundamentals",{"href":"/systems/cloud-computing-fundamentals","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Cloud computing fundamentals"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Regions, availability zones, service models, the shared responsibility model, and designing for durability without writing a line of purchased iron."}]]}],["$","$L2","cmdb-and-configuration-management",{"href":"/systems/cmdb-and-configuration-management","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"CMDB and configuration management"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"What a CMDB actually is — the CIs, relationships, and attributes that model your estate — and why most fail for cultural reasons before technical ones."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Value chain and Porter analysis · System Reference"}],["$","meta","1",{"name":"description","content":"Porter's value chain — primary and support activities — as the map of where margin and differentiation actually come from, and how it guides outsourcing, capability, and technology decisions."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"enterprise-architecture,strategy,business-process,industry,enterprise-architect,solution-architect,cloud-engineer,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/value-chain-and-porter-analysis/"}],["$","meta","8",{"property":"og:title","content":"Value chain and Porter analysis · System Reference"}],["$","meta","9",{"property":"og:description","content":"Porter's value chain — primary and support activities — as the map of where margin and differentiation actually come from, and how it guides outsourcing, capability, and technology decisions."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/value-chain-and-porter-analysis/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Value chain and Porter analysis · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Porter's value chain — primary and support activities — as the map of where margin and differentiation actually come from, and how it guides outsourcing, capability, and technology decisions."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

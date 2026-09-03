@@ -1,0 +1,110 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Change data capture (CDC)\",\"description\":\"Publishing your database writes as events without touching application code — reading the transaction log and streaming every insert, update, and delete.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/change-data-capture\",\"inLanguage\":\"en\",\"keywords\":\"integration, database, architecture, backend, solution-architect, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"integration\"},{\"@type\":\"Thing\",\"name\":\"database\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Change data capture (CDC)\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/change-data-capture\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Change data capture (CDC)"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Change data capture (CDC)"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Publishing your database writes as events without touching application code — reading the transaction log and streaming every insert, update, and delete."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Tester"]}]],["$L4","$L5","$L6"]]}]]}],"$L7","$L8"]}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1b:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+20:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+21:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+22:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}]
+4:["$","$L2","integration",{"href":"/tags/integration","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","integration"]}]
+5:["$","$L2","database",{"href":"/tags/database","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","database"]}]
+6:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1a:Te95,
+## What this system is
+
+Change data capture (CDC) turns the **database's own write-ahead log** into an event stream. Instead of the application remembering to emit events on every write (and getting it wrong when it forgets), a CDC connector reads the binary log / WAL and publishes each committed change. Debezium is the reference open-source implementation; every cloud vendor has a managed cousin.
+
+```mermaid
+flowchart LR
+  App[Application] -->|INSERT / UPDATE| DB[Source DB<br/>transaction log]
+  DB -->|read WAL| CDC[CDC connector<br/>Debezium / cloud]
+  CDC -->|publish change| T[Events topic<br/>db.customers]
+  T -->|consume → re-index| S[Search index]
+  T -->|consume → load| WH[Data lake / warehouse]
+```
+
+```mermaid
+flowchart LR
+  App[Application] -->|INSERT / UPDATE / DELETE| DB[(Source DB<br/>postgres / mysql)]
+  DB -->|transaction log / binlog / WAL| CDC[CDC connector<br/>Debezium / cloud CDC]
+  CDC --> T[events topic<br/>db.customers]
+  T --> S[Search index]
+  T --> C[Cache warm-up]
+  T --> L[Data lake / warehouse]
+  T --> N[Notifications]
+```
+
+## How a change becomes an event
+
+```mermaid
+sequenceDiagram
+  participant App as Application
+  participant DB as PostgreSQL
+  participant CDC as Debezium
+  participant T as Kafka topic
+
+  App->>DB: UPDATE customers SET city='Oslo' WHERE id=7
+  DB->>DB: write row image + LSN to WAL
+  CDC->>DB: rewind binlog from last LSN
+  DB-->>CDC: change record (id, before{Oslo}, after{Oslo})
+  CDC->>T: publish "U" record, partition by PK
+  S->>T: consume and re-index customer 7
+```
+
+A single **Kafka Connect** pipeline can fan out one database change to a search index, a cache, a warehouse, and downstream systems — no dual-write, no missing events, no application-level publish.
+
+## Outbox vs CDC
+
+| | Dual-write (app emits event) | Outbox pattern | CDC |
+| --- | --- | --- | --- |
+| How events get created | App publishes after write | App writes event row in the *same* DB transaction; relay publishes | Connector reads the DB log |
+| Consistency risk | Event and write can split (crash between) | Atomic — safe | Atomic — safe |
+| Requires app changes | Requires it at every write | One insert per event | **None** |
+| Catalog of changes | Only what you chose to emit | Only what you chose to emit | **Everything**, including schema events |
+| Best for | Thin events, custom semantics | Reliable business events | Bulk sync, search/cache/analytics targets |
+
+## Where CDC hurts
+
+- **Schema changes** become events (`ALTER TABLE` is in the log) — consumers wired to the old shape break until they migrate.
+- **Initial snapshot + continuous** mode is where bugs hide: the boundary between "backfill everything" and "only-delts" is easy to get wrong (miss rows, or duplicate).
+- Order is per-table (by PK in the log); deleting is represented by a "before, no after" tombstone.
+- **DDL-heavy or high-write databases** produce enormous logs; you are paying to stream every write, even ones nobody consumes.
+
+## Tester checklist
+
+- Restart the connector mid-stream and confirm exactly-to-exactly-connection (no missing, no duplicated rows) via LSN/offset replay.
+- Suspend the source DB for hours — confirm lag is bounded and recoverable rather than data loss.
+- Verify tombstones (hard deletes) propagate as deletes to the target, not as stale copies.
+- Test `ALTER TABLE` exposure: consumers must tolerate or visibly fail, not silently corrupt.
+
+## Related systems
+
+- [Pub/Sub and event streaming](../pub-sub-event-streaming) — where CDC's events land
+- [Message queue delivery](../message-queue-delivery) — delivery semantics the downstream queue enforces
+- [Integration patterns](../integration-patterns) — where CDC sits in the integration landscape7:["$","$L19",null,{"source":"$1a"}]
+8:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","llm-rag-pipeline",{"href":"/systems/llm-rag-pipeline","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"LLM RAG pipeline"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Retrieval-augmented generation: embedding, vector search, and how a prompt gets grounded in your own data instead of the model’s memory."}]]}],["$","$L2","azure-integration-services",{"href":"/systems/azure-integration-services","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Azure integration services"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Service Bus, Event Grid, Logic Apps, Event Hubs, and the API Management front door — the toolkit that connects Azure workloads to each other and to the rest of the enterprise."}]]}],["$","$L2","data-modeling-star-schemas",{"href":"/systems/data-modeling-star-schemas","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Data modeling and star schemas"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Facts, dimensions, and the star schema: how the same operational data gets modeled twice — once to transact, once to analyze — and the normalization trade-offs data architects own."}]]}]]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+a:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+b:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+c:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+d:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+10:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Change data capture (CDC) · System Reference"}],["$","meta","1",{"name":"description","content":"Publishing your database writes as events without touching application code — reading the transaction log and streaming every insert, update, and delete."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"integration,database,architecture,backend,solution-architect,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/change-data-capture/"}],["$","meta","8",{"property":"og:title","content":"Change data capture (CDC) · System Reference"}],["$","meta","9",{"property":"og:description","content":"Publishing your database writes as events without touching application code — reading the transaction log and streaming every insert, update, and delete."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/change-data-capture/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Change data capture (CDC) · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Publishing your database writes as events without touching application code — reading the transaction log and streaming every insert, update, and delete."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L20","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+18:true
+1d:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

@@ -1,0 +1,170 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+15:X
+1a:X
+1a:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Salesforce CRM\",\"description\":\"'Salesforce' is a platform, not a box: objects, the metadata/config split, flows, Apex, and the integration doors — and where it fits in a CRM vs ServiceNow vs ERP estate.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/salesforce-crm\",\"inLanguage\":\"en\",\"keywords\":\"crm, saas, sales, integration, no-code, solution-architect, enterprise-architect, backend, developer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"crm\"},{\"@type\":\"Thing\",\"name\":\"saas\"},{\"@type\":\"Thing\",\"name\":\"sales\"},{\"@type\":\"Thing\",\"name\":\"integration\"},{\"@type\":\"Thing\",\"name\":\"no-code\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Salesforce CRM\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/salesforce-crm\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Salesforce CRM"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Salesforce CRM"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"'Salesforce' is a platform, not a box: objects, the metadata/config split, flows, Apex, and the integration doors — and where it fits in a CRM vs ServiceNow vs ERP estate."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],"$L3","$L4","$L5"]}],"Enterprise Architect"]}],"$L6","$L7"],["$L8","$L9","$La","$Lb","$Lc"]]}]]}],"$Ld","$Le"]}],["$Lf","$L10","$L11","$L12"],"$L13"]}],"isPartial":"$@14","staleTime":"$15","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$15","varyParams":null},{"rsc":"$L18","isPartial":"$@19","staleTime":"$15","varyParams":"$1a"},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$15","varyParams":"$1a"}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+22:"$Sreact.suspense"
+24:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+25:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+26:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+27:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+28:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}]
+4:["$","path",null,{"d":"M9 21v-4h6v4"}]
+5:["$","path",null,{"d":"M9 10V9m-2 1h4"}]
+6:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+7:["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}]
+8:["$","$L2","crm",{"href":"/tags/crm","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","crm"]}]
+9:["$","$L2","saas",{"href":"/tags/saas","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","saas"]}]
+a:["$","$L2","sales",{"href":"/tags/sales","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-orange-50 text-orange-700 ring-orange-200","children":["#","sales"]}]
+b:["$","$L2","integration",{"href":"/tags/integration","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","integration"]}]
+c:["$","$L2","no-code",{"href":"/tags/no-code","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-sky-50 text-sky-700 ring-sky-200","children":["#","no-code"]}]
+20:T1f36,
+## What this system is
+
+Salesforce is the dominant **CRM platform** — but the phrase hides a bigger fact: "Salesforce" is a development platform wearing a CRM hat. The mental model that makes everything click is **metadata, not code**: almost every customization is configuration stored as metadata (objects, fields, page layouts, flows, permission sets), and a tiny amount is real code (Apex, a Java-like language). "Building in Salesforce" means pushing metadata to an org — which is why it integrates, reviews, and *releases* differently from a codebase.
+
+```mermaid
+flowchart LR
+  subgraph Org["Sales org"]
+    LF[Leads] --> O[Opportunities]
+    O --> C[Contracts - via CPQ]
+    A[Accounts - the company view]
+    CT[Contacts - people within accounts]
+    CSE[Service cloud - cases]
+    MK[Marketing cloud - journeys]
+  end
+  subgraph Platform["The platform"]
+    MET[Metadata - objects, fields, flows]
+    FL[Flows - automation]
+    AP[Apex - the edge cases]
+    UI[Lightning UI + app builder]
+  end
+  Org --> Platform
+```
+
+## The data model: Salesforce's five core objects, minimally
+
+| Object | The row meaning | The question it answers |
+| --- | --- | --- |
+| `Account` | A company (or household/org) | "Which companies do we touch?" |
+| `Contact` | A person **inside** an account | "Who is the human on the account?" |
+| `Lead` | An unqualified prospect not yet an account/contact | "Who might become a customer?" |
+| `Opportunity` | A potential sale with stage, amount, close date | "What is the pipeline?" |
+| `Case` | A support record (Service Cloud) | "What are customers asking?" |
+
+Every enterprise adds its **own objects** (custom objects + custom fields on those five) — `InsurancePolicy__c`, `LoanApplication__c` — which is what makes Salesforce universal: it is a CRM core with an extensible schema. The `__c` suffix is the tell: names ending `__c` are custom, names without it are platform objects. That distinction governs every "whose data is this?" argument.
+
+## Config vs code: the two-speed model
+
+```mermaid
+flowchart LR
+  subgraph Config["Configuration (no deploy - switch on in the org)"]
+    OBJ[Create objects + fields]
+    LAY[Page layouts + Lightning app builder]
+    FL[Flows - automation]
+    PERM[Permission sets - who sees what]
+  end
+  subgraph Code["Code (a real release pipeline)"]
+    AP[Apex]
+    TR[Triggers]
+    VF[LWC / Lightning Web Components]
+    SOAP[API integrations]
+  end
+  Trust{Where does the change live?} --> Config
+  Trust --> Code
+```
+
+The classic governance failure: **an admin clicks a field into existence, but a developer needed it, and now a production page breaks for a segment.** Salesforce's answer exists in the platform — change sets, sandboxes, and a proper metadata release via SFDX/adopting their DevOps tooling — but the *culture* of "config is change" has to be adopted too, because a config change is a production change even when it has no deployment pipeline.
+
+## Flows and Apex: automation decisions
+
+| Approach | What it is | Reach for when |
+| --- | --- | --- |
+| **Flow** | Point-and-click declarative automation (no-code) | Classic business rules: field updates, email, record creation, approvals, screen steps |
+| **Formula fields** | On-the-fly calculated values | Simple derived data, no side effects |
+| **Apex** | The Java-like language | Real computation, integration to external systems, Batch/DML-heavy jobs, anything flows can't express |
+| **Triggers** | Apex fire on record save | Side effects beyond what `after update` flows cover — with governor limits in mind |
+
+The default posture that survives contact with production: **flows first, Apex only when flows hit their limits.** Flows are inspectable, admin-maintainable, and safer; Apex is faster and more powerful but becomes technical debt when overused and is subject to **governor limits** (how many SOQL queries, DML statements, and heap per request) that force batch-aware design at scale.
+
+```mermaid
+sequenceDiagram
+  participant U as User / system
+  participant F as Flow (declarative)
+  participant A as Apex (when needed)
+  participant DB as Salesforce DB
+
+  U->>F: record saved / button clicked
+  F->>F: update fields, send email, route
+  alt complex or external
+    F->>A: invoke Apex (bulk-safe)
+    A->>DB: SOQL + DML within governor limits
+  end
+```
+
+## Integration: how the rest of the world reaches in
+
+```mermaid
+flowchart LR
+  ERP[ERP / finance - invoices, orders] -->|REST / SOAP API| SF[Salesforce]
+  SF -->|outbound webhook| M[Middleware - OIC / Azure integration / Mule]
+  M --> O[Other SaaS + data warehouse]
+  BI[BI tools] -->|Analytics API| SF
+  PY[Other code] --> R[REST - consumer key + secret]
+  R --> SF
+```
+
+- **REST/SOAP APIs** are first-class: every object + custom object is exposable, authenticated with a connected app (consumer key + secret). This is how an ERP pushes orders and how a warehouse pulls the pipeline.
+- **Outbound integrations** usually travel through middleware (OIC, Azure integration services, MuleSoft) rather than letting every tool talk directly — the same front-door lesson as API Management.
+- **The special Salesforce gotcha is data fallout**: because the schema is deeply configurable, an integration that "just syncs opportunities" must handle custom fields, picklist values, and record types or it mis-maps data to the wrong picklist — test with a real shape.
+
+## Salesforce vs ServiceNow vs CRM
+
+| Judgment | Salesforce | ServiceNow | When you choose the other |
+| --- | --- | --- | --- |
+| Core purpose | Customer-facing (sales, marketing, service to customers) | Employee-facing service management | Not customer revenue — ServiceNow for internal ops |
+| Data model | Sales + your objects | IT/ESM tables + CMDB | You're tracking assets, not pipeline |
+| Automation | Flows + Apex | Flow designer + platform forms | Either works; pick the vendor's ecosystem |
+| Fit signal | Pre-sales → revenue → support | Incident → change → asset | Division of labor: you may run both, integrated |
+
+They overlap more than vendors admit — both are low-code record platforms with workflow engines and a "native, buy-vendors-call-it" integration story. The practical split is **customers vs employees**: [CRM systems](../crm-systems) is customer real; [ServiceNow ESM](../servicenow-esm) is employee-service real. Enterprises commonly run *both*, connected through the middleware of their choice.
+
+## Tester checklist
+
+- **Object drill**: create an Account → Contact → Opportunity and verify the relationship links and required-field rules actually fire.
+- **Flow behavior**: a Flow-triggered field update must run on create *and* update, with the right order, and must not fire twice when the record is re-saved.
+- **Governor limits**: a bulk Apex job inserting 500 records must complete within SOQL/DML limits or throw a catchable exception — not an empty silent skip.
+- **Picklist fidelity**: an integration posting a picklist value must fail loudly (or map) on a mismatched value, not silently save blank.
+- **API auth**: a connected-app REST call with the wrong secret must 401 cleanly, and a valid one must respect the org's permission sets (not just "API enabled").
+- **Deploy parity**: a sandbox-tested configuration change must behave identically when released to production via the metadata release path.
+
+## Related systems
+
+- [CRM systems](../crm-systems) — the category and decision framework Salesforce sits inside
+- [ServiceNow ESM](../servicenow-esm) — the employee-facing sibling platform it gets integrated with
+- [Oracle Integration Cloud (OIC)](../oracle-integration-cloud) and [Azure integration services](../azure-integration-services) — the middleware that connects Salesforce to ERP
+- [Enterprise resource planning (ERP)](../enterprise-resource-planning) — the back-office systems Salesforce syncs orders and invoices with
+- [Webhook integrations](../webhook-integrations) — the push pattern for outbound Salesforce eventsd:["$","$L1f",null,{"source":"$20"}]
+e:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","crm-systems",{"href":"/systems/crm-systems","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"CRM systems"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Lead-to-cash: the front office that owns the customer record, pipeline, and service — and hands the won deal to the ERP."}]]}],["$","$L2","ecommerce-platform-architecture",{"href":"/systems/ecommerce-platform-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"E-commerce platform architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Storefront to store room: catalog, cart, checkout, payments, order management, fulfillment, and the returns loop — and where the money lands in the ERP."}]]}],["$","$L2","azure-integration-services",{"href":"/systems/azure-integration-services","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Azure integration services"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Service Bus, Event Grid, Logic Apps, Event Hubs, and the API Management front door — the toolkit that connects Azure workloads to each other and to the rest of the enterprise."}]]}]]}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+10:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+11:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+12:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+13:["$","$L21",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+16:["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L25",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Salesforce CRM · System Reference"}],["$","meta","1",{"name":"description","content":"'Salesforce' is a platform, not a box: objects, the metadata/config split, flows, Apex, and the integration doors — and where it fits in a CRM vs ServiceNow vs ERP estate."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"crm,saas,sales,integration,no-code,solution-architect,enterprise-architect,backend,developer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/salesforce-crm/"}],["$","meta","8",{"property":"og:title","content":"Salesforce CRM · System Reference"}],["$","meta","9",{"property":"og:description","content":"'Salesforce' is a platform, not a box: objects, the metadata/config split, flows, Apex, and the integration doors — and where it fits in a CRM vs ServiceNow vs ERP estate."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/salesforce-crm/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Salesforce CRM · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"'Salesforce' is a platform, not a box: objects, the metadata/config split, flows, Apex, and the integration doors — and where it fits in a CRM vs ServiceNow vs ERP estate."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L26","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+18:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+1b:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+1e:true
+23:null
+15:300
+15:C
+1d:0
+17:"$undefined"
+19:"$undefined"
+1c:"$undefined"
+14:"$undefined"

@@ -1,0 +1,173 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Vertical vs horizontal integration\",\"description\":\"The two growth strategies — owning more of the value chain versus owning more of the market — and when businesses buy up, down, or sideways.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/vertical-vs-horizontal-integration\",\"inLanguage\":\"en\",\"keywords\":\"enterprise-architecture, strategy, business-process, industry, enterprise-architect, solution-architect, cloud-engineer, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"enterprise-architecture\"},{\"@type\":\"Thing\",\"name\":\"strategy\"},{\"@type\":\"Thing\",\"name\":\"business-process\"},{\"@type\":\"Thing\",\"name\":\"industry\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Vertical vs horizontal integration\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/vertical-vs-horizontal-integration\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Vertical vs horizontal integration"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Vertical vs horizontal integration"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The two growth strategies — owning more of the value chain versus owning more of the market — and when businesses buy up, down, or sideways."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":"$L3"}],"Solution Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]
+4:["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}]
+5:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+6:["$","$L2","enterprise-architecture",{"href":"/tags/enterprise-architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","enterprise-architecture"]}]
+7:["$","$L2","strategy",{"href":"/tags/strategy","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","strategy"]}]
+8:["$","$L2","business-process",{"href":"/tags/business-process","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","business-process"]}]
+9:["$","$L2","industry",{"href":"/tags/industry","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","industry"]}]
+1d:T251a,
+## What this system is
+
+"Integration" in the business sense is different from the [integration patterns](../integration-patterns) that connect systems. Here it answers the strategy question: **which pieces of the value chain does the company own?** **Vertical integration** grows by owning more stages of a single chain — a carmaker also smelting its own steel, or manufacturing its own batteries. **Horizontal integration** grows by owning more of the *same stage* — a carmaker buying other carmakers, or an airline buying competitors. Both are growth theses about where value (and margin) sits, not software.
+
+```mermaid
+flowchart TD
+  subgraph Chain["The value chain - raw material to customer"]
+    RAW[Raw materials]
+    MK[Manufacture]
+    DIST[Distribution / logistics]
+    RTL[Retail / customer]
+  end
+  subgraph V["Vertical integration = own more of the chain"]
+    RAW --> MK
+    MK --> DIST
+    DIST --> RTL
+  end
+  subgraph H["Horizontal integration = own more of one step"]
+    C1[Competitor A]
+    C2[Competitor B]
+    C3[Competitor C]
+  end
+  V ~~~ H
+```
+
+## The value chain, as architecture sees it
+
+| Stage | Example companies operating there | What consolidating here buys |
+| --- | --- | --- |
+| Raw materials | Miners, growers, chemical suppliers | Price/cost certainty, supply security |
+| Components & manufacturing | Assembly, fabrication, OEMs | Control of cost, quality, production timing |
+| Distribution & logistics | Freight, warehousing, 3PLs | Delivery control, margin capture, speed |
+| Retail & customer | Storefronts, e-commerce, marketplaces | Direct customer relationships, data, margin |
+
+The architect's job is to ask "where does the value chain run through *our* systems, and which adjacent stages should it run through too?" — because every integration move lands on the enterprise estate as a new supply chain, a new ERP/SCM footprint, or a new sales/platform system to graft on.
+
+## Vertical integration: backward and forward
+
+```mermaid
+flowchart LR
+  subgraph Backward["Backward - upstream"]
+    SUPP[Supplier<br/>- we acquire this]
+  end
+  subgraph Firm["The firm"]
+    MK[Manufacture<br/>our existing stage]
+  end
+  subgraph Forward["Forward - downstream"]
+    RTL[Retail channel<br/>- we acquire this]
+  end
+  SUPP --> MK
+  MK --> RTL
+```
+
+- **Backward integration** buys the *upstream* stage — the inputs. Why: raw-material cost swings, supplier bottlenecks, quality control, or a supplier earning too much margin.
+- **Forward integration** buys the *downstream* stage — distribution or the customer. Why: capture the retail margin, control the customer experience, own the data and the relationship.
+- **Full vertical integration** owns stages both directions (a retailer that also makes its products, a manufacturer that also runs its own logistics and stores).
+
+The decisive trade: vertical integration converts an **arms-length market transaction into an internal one**. That removes a negotiation and a margin, but it also removes *price signal* and *specialist competition* — the internal mine is never benchmarked against outside mines, and inefficiency quietly moves up the chain. The value-chain economist's view: you want to own the stage where the **profit pool** is deepest, and outsource the stages where everybody can do it.
+
+## Horizontal integration: scale at one stage
+
+```mermaid
+flowchart LR
+  A[Airline A] --> Merge[One larger airline]
+  B[Airline B] --> Merge
+  C[Airline C] --> Merge
+  Merge --> Scale[Bigger network, fewer rivals, pricing power]
+```
+
+Horizontal integration is the classic **M&A growth play**: buy a competitor (or merge) to gain scale *at your own stage*. The logic:
+
+- **Economies of scale** — fixed costs (factories, fleets, R&D, a banking platform) spread over more volume, driving unit cost down.
+- **Market power** — fewer competitors means greater pricing power; anti-trust regulators are precisely the check here.
+- **Network effects** — a bigger network/service/base is worth more per user (delivery coverage, flight routes, banking customers).
+- **Cost synergy** — overlapping functions (two HQs, two ERPs, two IT estates) collapse into one.
+
+The horizontal failure mode is the amalgamation problem: merging two companies into one **platform** is brutally harder than merging two balance sheets. Two different ERPs, two customer systems, two IT towers must become one — and the "synergies" evaporate if integration of systems costs more and takes longer than the savings.
+
+## Make vs buy: the decision that generates both
+
+```mermaid
+flowchart TD
+  Q[Should we own this stage?] --> A{Core to our differentiation?}
+  A -->|yes - strategic| OWN[Integrate - vertically or via capability build]
+  A -->|no - commodity| OUT[Buy / outsource - keep it arms-length]
+  A -->|uncertain| TEST[Enough volume + margin to justify?]
+  TEST -->|yes| OWN
+  TEST -->|no| OUT
+```
+
+| Consideration | Favors owning (integrate) | Favors buying (outsource) |
+| --- | --- | --- |
+| Where is the margin? | The deepest profit pool, consistent quality | A thin-margin commodity, many suppliers |
+| Strategic importance | Core capability, differentiation, IP | Table stakes anyone can do |
+| Dependency risk | Supplier can bottleneck you | You can always switch, benchmark, or 3-bid |
+| Capital & focus | You have capital and attention to spare | Capital is better deployed at your own stage |
+| Tech intensity | Proprietary advantage (manufacturing tech, data) | Rapidly changing niche owned by specialists |
+
+## The enterprise estate angle
+
+Whatever the strategy, integration lands as **integration work** your estate must absorb:
+
+- **Backward integration** extends the [supply chain](../supply-chain-management): new suppliers feed new procurement flows, inventory moves up the chain, and your ERP's purchasing/master-data footprint grows.
+- **Forward integration** extends the customer surface: new sales channels, a new [CRM](../salesforce-crm) or POS to onboard, order-to-cash flows to wire.
+- **Horizontal integration** is the hardest systems case: **two estates become one** — two ERPs, two customer systems, two payrolls have to run as one. That is a migration program of its own (the classic "all synergies are on the balance sheet, all costs are in the join"), and the enterprise-architecture work that keeps both sides running through it is where deals typically win or lose.
+
+The architect's honest summary for leadership: the *strategy* is the easy 10%. The 90% is proving that two organizations' systems, data models, and processes can actually be joined — and that's the [enterprise architecture](../business-process-modeling-and-management) conversation.
+
+## The classic mistakes
+
+- **Integrating for margin that isn't there** — buying the mine *because* the supplier's margin looked fat, then discovering the margin was the supplier's reward for competence the owner can't replicate (governed by the make-vs-buy test).
+- **Confusing the two axes** — "horizontal integration for synergy" when the real upside was vertical position; or buying volume at a stage where scale buys nothing (costs are already mostly variable).
+- **Ignoring the amalgamation cost** — the deal banks synergy, but two different ERPs, tax systems, and payrolls take years and enormous spend to unify; the synergy often lands as one massive program of [integration patterns](../integration-patterns) work, not a margin line.
+- **Anti-trust blindness** — horizontal moves reach regulator scrutiny; vertical moves can too when they foreclose competitors (e.g., owning both the platform and the stores who rival your merchants).
+- **Doing strategy without the estate** — signing a vertical acquisition, then discovering the company can't run a supplier relationship across three SCM systems; the strategy must be bought *with* the roadmap to absorb it.
+
+## Tester checklist
+
+- Given a strategy announcement, lay out the concrete estate impact: which new systems, which [ERP](../enterprise-resource-planning) scope, which new [processes](../business-process-modeling-and-management) — the strategy is only real where it shows up in the roadmap.
+- Map the new value chain onto the existing [supply chain](../supply-chain-management) model: which stage is now internal, what data crosses the new boundary.
+- For a horizontal deal: inventory the system estates on each side and find the overlapping capabilities (two ERPs, two CRMs) — those are the amalgamation work list.
+- Verify the make-vs-buy decision holds for a real component: does the "own" case still hold once capital, tech intensity, and switching cost are priced in?
+- Check the profit-pool logic: the stage you integrate must be where margin actually accumulates; test the assumption against the numbers, not the narrative.
+
+## Related systems
+
+- [Supply chain management](../supply-chain-management) — the chain that vertical integration lengthens
+- [Enterprise resource planning (ERP)](../enterprise-resource-planning) — the backbone that must absorb both directions of integration
+- [Procurement (source-to-pay)](../procurement-source-to-pay) — the flows that backward integration multiplies
+- [Salesforce CRM](../salesforce-crm) — the customer surface forward integration adds
+- [Business process modeling and management](../business-process-modeling-and-management) — how integrated processes get mapped and governed
+- [Integration patterns](../integration-patterns) — the systems-level machinery that makes integration reala:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","value-chain-and-porter-analysis",{"href":"/systems/value-chain-and-porter-analysis","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Value chain and Porter analysis"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Porter's value chain — primary and support activities — as the map of where margin and differentiation actually come from, and how it guides outsourcing, capability, and technology decisions."}]]}],["$","$L2","cloud-computing-fundamentals",{"href":"/systems/cloud-computing-fundamentals","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Cloud computing fundamentals"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Regions, availability zones, service models, the shared responsibility model, and designing for durability without writing a line of purchased iron."}]]}],["$","$L2","cmdb-and-configuration-management",{"href":"/systems/cmdb-and-configuration-management","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"CMDB and configuration management"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"What a CMDB actually is — the CIs, relationships, and attributes that model your estate — and why most fail for cultural reasons before technical ones."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Vertical vs horizontal integration · System Reference"}],["$","meta","1",{"name":"description","content":"The two growth strategies — owning more of the value chain versus owning more of the market — and when businesses buy up, down, or sideways."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"enterprise-architecture,strategy,business-process,industry,enterprise-architect,solution-architect,cloud-engineer,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/vertical-vs-horizontal-integration/"}],["$","meta","8",{"property":"og:title","content":"Vertical vs horizontal integration · System Reference"}],["$","meta","9",{"property":"og:description","content":"The two growth strategies — owning more of the value chain versus owning more of the market — and when businesses buy up, down, or sideways."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/vertical-vs-horizontal-integration/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Vertical vs horizontal integration · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The two growth strategies — owning more of the value chain versus owning more of the market — and when businesses buy up, down, or sideways."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

@@ -1,0 +1,193 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+16:X
+1b:X
+1b:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Horizontal vs vertical scaling\",\"description\":\"The two scaling axes, what each actually buys you, the way each axis fails, and the decision rules for choosing — plus where statelessness and load distribution fit.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/horizontal-vs-vertical-scaling\",\"inLanguage\":\"en\",\"keywords\":\"architecture, scaling, performance, cloud, solution-architect, backend, cloud-engineer, devops-engineer, data-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"scaling\"},{\"@type\":\"Thing\",\"name\":\"performance\"},{\"@type\":\"Thing\",\"name\":\"cloud\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Horizontal vs vertical scaling\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/horizontal-vs-vertical-scaling\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Horizontal vs vertical scaling"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Horizontal vs vertical scaling"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The two scaling axes, what each actually buys you, the way each axis fails, and the decision rules for choosing — plus where statelessness and load distribution fit."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":["$L3","$L4","$L5","$L6"]}],"Backend"]}],"$L7","$L8","$L9"],["$La","$Lb","$Lc","$Ld"]]}]]}],"$Le","$Lf"]}],["$L10","$L11","$L12","$L13"],"$L14"]}],"isPartial":"$@15","staleTime":"$16","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$16","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$16","varyParams":"$1b"},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$16","varyParams":"$1b"}],"isUpgradeableISRFallback":false,"a":"$@1e","rootVaryParams":null,"needsRuntimeRequest":"$@1f"}
+20:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+23:"$Sreact.suspense"
+25:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+26:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+27:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+28:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+29:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}]
+4:["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}]
+5:["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}]
+6:["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]
+7:["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}]
+8:["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}]
+9:["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}]
+a:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+b:["$","$L2","scaling",{"href":"/tags/scaling","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-rose-50 text-rose-700 ring-rose-200","children":["#","scaling"]}]
+c:["$","$L2","performance",{"href":"/tags/performance","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","performance"]}]
+d:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+21:T2bdb,
+## What this system is
+
+Scaling is the answer to "we have more work than one machine can do," and there are exactly two directions to grow in. **Vertical scaling (scale up)** makes the machine bigger: more CPU, more RAM, faster disks. **Horizontal scaling (scale out)** adds more machines. Nothing else — auto-scaling, replicas, sharding, partitioning — is a separate option; it's an implementation of one of these two axes. The art is that the two axes are *not interchangeable*: they buy different properties, fail differently, and constrain your architecture differently.
+
+```mermaid
+flowchart LR
+  subgraph Vertical["Scale up - one bigger box"]
+    V1[Server<br/>2 vCPU / 4 GB]
+    V2[Server<br/>16 vCPU / 64 GB]
+  end
+  subgraph Horizontal["Scale out - more boxes"]
+    H1[Server A]
+    H2[Server B]
+    H3[Server C]
+  end
+  V1 --> V2
+  H1 --> LB[Load balancer]
+  H2 --> LB
+  H3 --> LB
+```
+
+## The two axes
+
+| Axis | What you do | What it buys | Where it typically breaks |
+| --- | --- | --- | --- |
+| **Vertical** | Bigger machine (vCPU, RAM, disk, GPU) | Simpler ops: one box, one app | Hardware limit: you can't buy bigger; a single point of failure; downtime for resize |
+| **Horizontal** | More machines behind a balancer | Elasticity: add/remove as load changes; survive a node dying | State: each node must be interchangeable, so shared state must live elsewhere |
+
+The one-sentence summary: **vertical is the easy win until it stops being possible; horizontal is the durable win but only if your app is built to allow it.** Almost every scaling story is "scale vertically first because it's free, then be forced horizontal because horizontal requires architecture."
+
+## Vertical scaling: when it's the right answer
+
+```mermaid
+flowchart TD
+  Q{One instance today?} -->|yes| V1{Have headroom on the machine?}
+  V1 -->|yes| UP[Resize - cheapest, simplest]
+  V1 -->|no| V2{Is the load mostly CPU/RAM bounded?}
+  V2 -->|yes, fits one box| UP
+  V2 -->|no - know it'll grow past any box| HOR[Plan horizontal now]
+```
+
+Vertical is the pragmatic first move in real life: it takes minutes, needs no code change, and fixes 80% of "it's slow" for a while. It is the *correct* long-term answer specifically when:
+
+- **The workload is itself single-threaded or single-aware** — a Postgres service that needs one big shared buffer, an OLTP database, a monolithic app with in-memory session state.
+- **The data can't be partitioned** — a queue with strict global ordering, or an analytic query that must see the whole dataset (this is why some databases stay vertical: horizontal = distributed = consensus and joins across nodes).
+- **The environment caps you** — you run on hardware you own, in a colo, or under licensing/legacy constraints.
+- **The load is finite and predictable** — a report that runs for an hour on Friday; you size one machine for peak and ignore elasticity.
+
+The costs: vertical resizing usually means **downtime** to reboot into the bigger shape, a **hard ceiling** (the cloud's largest shape, the vendor's biggest box), and **one point of failure** — when that machine dies, everything dies. It also tends to be *more expensive* than horizontal per unit of capacity once you pass a few nodes.
+
+## Horizontal scaling: the laws you must satisfy
+
+```mermaid
+flowchart LR
+  U[Users] --> LB[Load balancer<br/>round robin / least conn]
+  LB --> W1[Worker 1 - stateless]
+  LB --> W2[Worker 2 - stateless]
+  LB --> W3[Worker 3 - stateless]
+  W1 --> S[(Shared state<br/>DB / cache / queue)]
+  W2 --> S
+  W3 --> S
+```
+
+Horizontal scaling is a *contract* your application must sign, and it has three clauses:
+
+1. **Statelessness**: any request can land on any node. Whatever a node needed to remember lives outside it — in a shared database, cache, object store, or queue. If each request is independent and the app doesn't care which node runs it, you can add a node and instantly absorb more load.
+2. **A shared-state home**: the "memory" moves elsewhere (DB, Redis, Kafka, blob storage). That store — not your app — becomes the real scaling burden. Horizontal scale-out usually just moves the bottleneck onto the database.
+3. **A distribution layer**: something decides which node handles which request — a load balancer for services, a partition/partition-key for queues and event streams, a shard key for data. If distribution is wrong (all traffic to one node, all messages to one partition), you have N nodes but one node's worth of capacity.
+
+The payoff is real: **elasticity** (scale down at night, up at peak), **failure isolation** (one node dies, others keep serving), and **no hard ceiling**. The price is real too: you now run a distributed system, and distributed systems fail in new ways (partial failures, retries, idempotency, ordering caveats) even though they look like a simple cluster.
+
+## Stateless vs stateful: the axis that decides for you
+
+| Workload | Natural axis | Why |
+| --- | --- | --- |
+| Web tier, API server, worker that is fed by a queue | **Horizontal** — trivially | Pure compute, zero shared memory, just add pods |
+| OLTP database (single logical DB) | **Vertical first**, then read replicas / sharding | Horizontal requires splitting truth or accepting distributed consistency |
+| Message queue with strict global order | **Vertical** (or single-partition) | One partition = one node processes serially |
+| Event stream with partition keys | **Horizontal** — per partition | Each partition is independent; scale by adding partitions |
+| In-memory cache | **Horizontal** with proper key sharding | A cache that must hold the whole dataset fits one big node better |
+
+The mistake to avoid is assuming the horizontal label applies uniformly: **your stateless web tier can scale to a hundred copies, but the database behind it still scales vertical-first.** "Horizontal scaling" of a system almost always means: web/worker tiers scale out freely, and the data tier gets a harder, slower scaling story of its own.
+
+## Scaling the data tier: replicas, shards, partitions
+
+```mermaid
+flowchart TB
+  subgraph Replicas["Read replicas - scale READs"]
+    W[R/W primary] --> R1[Read replica]
+    W --> R2[Read replica]
+  end
+  subgraph Shards["Sharding - scale WRITEs + reads by key"]
+    S1[Shard 0 - users 0-50k]
+    S2[Shard 1 - users 50k-100k]
+    S3[Shard 2 - users 100k+]
+  end
+```
+
+- **Read replicas** scale *reads* (queries) by fanning them to copies — but writes still go to one primary. Read-heavy systems get enormous horizontal benefit this way with little architecture change (async replication may lag, so "read your own write" needs care).
+- **Sharding** splits data across nodes by a key (user_id, tenant, region), scaling both reads *and* writes. The costs appear immediately: joins now cross servers, transactions become per-shard, and a hot key (one celebrity account) can unbalance a shard. Sharding is the "last resort that works" for data — do everything elastic first, shard only when you've proven the key distribution.
+- **Queues and event streams** scale horizontally via partitions: each partition is an independent ordered lane, and throughput = partitions × per-partition rate. Ordering is preserved only within a partition — global ordering is the one thing horizontal cannot give you.
+
+## Auto-scaling: vertical and horizontal automation
+
+- **Horizontal auto-scaling** (the default in K8s, cloud VMAS, serverless): add/remove instances based on a metric (CPU, queue depth, request rate). It's the *elastic* promise of the cloud — you pay for what you need — but it only helps if your app is horizontally scalable, and it lags reality: your metric reflects the load *of a minute ago*, so sharp spikes outrun it unless you scale on leading indicators (queue depth, ingress rate) rather than trailing ones (CPU).
+- **Vertical auto-scaling** exists too, but is slower and usually needs a restart to apply, which is why it's rarer — a DB that can grow its RAM limits in place is the nicer case, but don't count on zero-downtime for arbitrary workloads.
+
+The rule: **automate horizontal scaling on your stateless tiers aggressively; treat data-tier scaling as a manual, deliberate, high-consequence step.**
+
+## The decision, condensed
+
+```mermaid
+flowchart TD
+  Start[Work per unit exceeds one node?] --> S1{Is state shared?}
+  S1 -->|no - stateless| H[Scale horizontally - the easy win]
+  S1 -->|yes - stateful| S2{Can the state be partitioned/ replicated?}
+  S2 -->|read-heavy| REP[Read replicas]
+  S2 -->|key is clean| SHARD[Shard by key]
+  S2 -->|no - one logical whole| V[Scale vertically - buy the biggest box]
+```
+
+| Situation | Reach for |
+| --- | --- |
+| Web/API/worker tier getting hot | Horizontal (stateless), auto-scale |
+| A single OLTP database nearing limits | Vertical first; add read replicas for reads; shard only as last resort |
+| Queue or event stream behind on throughput | Horizontal, more partitions — but lose global ordering |
+| Workload that fits one big machine, predictable peak | Vertical, size for peak |
+| Cache that must hold the entire dataset | Vertical (or horizontal with a good hash ring) |
+
+## Tester checklist
+
+- **Vertical resize**: change the machine/compute shape and confirm the new resources are actually seen by the app (ulimit, heap, conn pool) and workloads benefit — a resize that doesn't change the app's configured limits buys nothing.
+- **Horizontal add/remove**: hot-add a node and confirm new traffic actually flows to it (session stickiness off, health check passing) and it drains cleanly when removed.
+- **Statelessness probe**: bounce one node mid-traffic and confirm zero requests fail — if requests in flight to that node fail, you have in-memory state that violates the contract.
+- **Shared-state validity**: after scale-out, confirm the DB/cache/queue the nodes now share is real — faked by per-node caches that went gold after the first request.
+- **Distribution check**: with N nodes, confirm load is actually spread with no hot node drawing all traffic (or one hot partition starving the rest).
+- **Auto-scale reality**: induce a spike and confirm instances add fast enough (leading-indicator scaling) and remove after the load drops, without thrash.
+
+## Related systems
+
+- [Cloud computing fundamentals](../cloud-computing-fundamentals) — the resource vocabulary vertical/horizontal both operate on
+- [DNS and load balancing](../dns-and-load-balancing) — the distribution layer horizontal scaling depends on
+- [Kubernetes and container orchestration](../kubernetes-and-container-orchestration) — where horizontal scaling becomes a platform feature
+- [Message queue delivery](../message-queue-delivery) — the queue that gives you horizontal workers with ordering caveats
+- [Pub/Sub and event streaming](../pub-sub-event-streaming) — partition-based horizontal throughput for events
+- [Database indexing](../database-indexing) — the data-tier levers before you resort to sharding
+- [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) — where the analytic side scales (compute, not writes)
+- [Monitoring and observability](../monitoring-and-observability) — the metrics that drive safe auto-scalinge:["$","$L20",null,{"source":"$21"}]
+f:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","cpu-gpu-and-silicon-choices",{"href":"/systems/cpu-gpu-and-silicon-choices","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"CPU and GPU, ARM and x86"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Why CPUs win on latency and GPUs on throughput, why ARM is eating the data center, and how to match the right silicon to the workload."}]]}],["$","$L2","oracle-cloud-infrastructure",{"href":"/systems/oracle-cloud-infrastructure","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Oracle Cloud Infrastructure (OCI)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The Oracle cloud map: compartments, VCN, compute/Exadata, Autonomous Database, OCI Object Storage, and IAM — and how Oracle database fits natively in OCI unlike anywhere else."}]]}],["$","$L2","oracle-database-ecosystem",{"href":"/systems/oracle-database-ecosystem","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Oracle database ecosystem"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Past the PL/SQL myth: Oracle database's real architecture — redo logs, undo segments, the buffer cache, RAC, and Data Guard — and why 'it's just a database' is never true in practice."}]]}]]}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+11:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+12:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+13:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+14:["$","$L22",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+17:["$","$1","h",{"children":[null,["$","$L25",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L26",null,{"children":["$","$23",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Horizontal vs vertical scaling · System Reference"}],["$","meta","1",{"name":"description","content":"The two scaling axes, what each actually buys you, the way each axis fails, and the decision rules for choosing — plus where statelessness and load distribution fit."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"architecture,scaling,performance,cloud,solution-architect,backend,cloud-engineer,devops-engineer,data-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/horizontal-vs-vertical-scaling/"}],["$","meta","8",{"property":"og:title","content":"Horizontal vs vertical scaling · System Reference"}],["$","meta","9",{"property":"og:description","content":"The two scaling axes, what each actually buys you, the way each axis fails, and the decision rules for choosing — plus where statelessness and load distribution fit."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/horizontal-vs-vertical-scaling/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Horizontal vs vertical scaling · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The two scaling axes, what each actually buys you, the way each axis fails, and the decision rules for choosing — plus where statelessness and load distribution fit."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L27","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+19:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+1c:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+1f:true
+24:null
+16:300
+16:C
+1e:0
+18:"$undefined"
+1a:"$undefined"
+1d:"$undefined"
+15:"$undefined"

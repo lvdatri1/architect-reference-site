@@ -1,0 +1,124 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"TCP/IP and TLS\",\"description\":\"The five layers that carry your bytes, the three-way handshake, TCP vs UDP, and how TLS seals the transport.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/tcp-ip-and-tls\",\"inLanguage\":\"en\",\"keywords\":\"network, architecture, security, developer, backend, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"network\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"security\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"TCP/IP and TLS\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/tcp-ip-and-tls\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"TCP/IP and TLS"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"TCP/IP and TLS"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The five layers that carry your bytes, the three-way handshake, TCP vs UDP, and how TLS seals the transport."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}],["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Tester"]}]],["$L4","$L5","$L6"]]}]]}],"$L7","$L8"]}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1b:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+20:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+21:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+22:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}]
+4:["$","$L2","network",{"href":"/tags/network","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","network"]}]
+5:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+6:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+1a:Te82,
+## What this system is
+
+TCP/IP is the plumbing under everything you ship. Every HTTP request, database connection, stream, and SSH session is a TCP socket riding over IP. Understanding the layers is how you read a `traceroute`, diagnose `connection refused`, and reason about why that packet arrived late.
+
+```mermaid
+flowchart LR
+  C[Client app] -->|GET /users| A[Application layer]
+  A -->|wrap with TCP header| T[Transport - TCP segment]
+  T -->|SYN to SYN-ACK to ACK| I[Internet - IP packet]
+  I -->|route hop-by-hop| L[Link - Ethernet frame]
+  L -->|deliver frame| S[Server socket on 443]
+```
+
+```mermaid
+flowchart TB
+  A[Application layer] -->|HTTP / TLS / DNS| B[Transport layer]
+  B -->|TCP segments or UDP datagrams| C[Internet layer]
+  C -->|IP packets with source/dest address| D[Link layer]
+  D -->|Ethernet frames on the wire| E[Physical medium]
+```
+
+## The stack, top to bottom
+
+| Layer | Unit | What carries | Your cast of characters |
+| --- | --- | --- | --- |
+| Application | Message | Protocols like HTTP, DNS, TLS | NGINX, curl, browsers |
+| Transport | Segment / datagram | Ports, reliability, ordering | TCP, UDP |
+| Internet | Packet | IP addressing, hop-by-hop routing | IP, ICMP, routing tables |
+| Link | Frame | MAC addressing on a local net | Ethernet, Wi-Fi |
+| Physical | Bits | Signal on copper/fibre/radio | NICs, switches |
+
+Each layer **wraps** the one above — the classic encapsulation dance:
+
+```mermaid
+flowchart LR
+  App[GET /users] --> Transport[TCP header + GET]
+  Transport --> Internet[IP header + TCP header + GET]
+  Internet --> Link[Ethernet header + IP + TCP + GET + CRC]
+```
+
+## The three-way handshake
+
+```mermaid
+sequenceDiagram
+  participant C as Client (port 44300)
+  participant S as Server (:443)
+
+  C->>S: SYN (seq=x)
+  S->>C: SYN-ACK (seq=y, ack=x+1)
+  C->>S: ACK (ack=y+1) — connection established
+  C->>S: request bytes…
+```
+
+Once open, TCP gives you **ordered, reliable, retransmitted** delivery — but each byte is burdened with ACKs, congestion control, and head-of-line blocking.
+
+## TCP vs UDP
+
+| | TCP | UDP |
+| --- | --- | --- |
+| Reliability | Guaranteed, retransmitted | Fire-and-forget |
+| Ordering | Ordered stream | None |
+| Connection | Static handshake, connection state | Connectionless |
+| Latency tax | Handshake + ACK flow control | Minimal — no state |
+| Use cases | HTTP, SQL, SSH, file transfer | DNS, VoIP, video, game position, QUIC's base |
+
+## TLS on top of TCP
+
+TLS sits *between* transport and application. Same TCP socket, but the bytes are sealed: the handshake exchanges keys, then every record is encrypted + authenticated. That handshake is why your first request to a cold TLS endpoint feels slow — two TCP round-trips of handshake, then 2+ TLS round-trips, before the first HTTP byte.
+
+```mermaid
+flowchart LR
+  TLS[Application + TLS<br/>records encrypted/authenticated] --> TCP[TCP segments] --> IP[IP packets]
+```
+
+## Tester checklist
+
+- Reproduce a slow response: is it app latency or TCP? Packet loss is the cause of retransmits — see it in `tcpdump`.
+- Confirm `TIME_WAIT`/`CLOSE_WAIT` states: a leak of `CLOSE_WAIT` connections is a server that isn't finishing sockets.
+- Verify every service you expose only listens on the ports+interfaces you intend (`ss -ltnp`).
+- Check TLS: certificate validity, supported ciphers, and that the private key stays server-side.
+
+## Related systems
+
+- [API request lifecycle](../api-request-lifecycle) — what runs *above* this stack for a frontend
+- [Authentication vs authorization](../authentication-vs-authorization) — TLS encrypts; it is not an access control
+- [Zero trust architecture](../zero-trust-architecture) — micro-segments that layer on top of IP/L47:["$","$L19",null,{"source":"$1a"}]
+8:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","owasp-top-10",{"href":"/systems/owasp-top-10","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"The OWASP Top 10"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The ten riskiest web-application security weaknesses, the attacks that trigger them, and the fixes that stop them before a pentest finds them."}]]}],["$","$L2","authentication-vs-authorization",{"href":"/systems/authentication-vs-authorization","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Authentication vs authorization"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The two questions every request must answer — who are you, and what are you allowed to do — and why conflating them is a classic breach."}]]}],["$","$L2","http-authentication-basic-auth",{"href":"/systems/http-authentication-basic-auth","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"HTTP authentication and Basic auth"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"How the Authorization header actually works: Basic auth's username:password encoding, WWW-Authenticate challenges, digest, API keys, and bearer tokens — and when each is (or is not) safe."}]]}]]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+a:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+b:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+c:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+d:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+10:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"TCP/IP and TLS · System Reference"}],["$","meta","1",{"name":"description","content":"The five layers that carry your bytes, the three-way handshake, TCP vs UDP, and how TLS seals the transport."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"network,architecture,security,developer,backend,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/tcp-ip-and-tls/"}],["$","meta","8",{"property":"og:title","content":"TCP/IP and TLS · System Reference"}],["$","meta","9",{"property":"og:description","content":"The five layers that carry your bytes, the three-way handshake, TCP vs UDP, and how TLS seals the transport."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/tcp-ip-and-tls/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"TCP/IP and TLS · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The five layers that carry your bytes, the three-way handshake, TCP vs UDP, and how TLS seals the transport."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L20","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+18:true
+1d:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

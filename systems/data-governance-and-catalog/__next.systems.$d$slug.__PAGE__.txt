@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+11:X
+16:X
+16:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Data governance and catalog\",\"description\":\"Owners, lineage, and one agreed definition per metric: the catalog, access rules, and quality checks that turn a pile of data into something the business can trust and reuse.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/data-governance-and-catalog\",\"inLanguage\":\"en\",\"keywords\":\"database, architecture, security, data-architect, enterprise-architect, security-architect, solution-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"database\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"security\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Data governance and catalog\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/data-governance-and-catalog\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Data governance and catalog"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Data governance and catalog"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Owners, lineage, and one agreed definition per metric: the catalog, access rules, and quality checks that turn a pile of data into something the business can trust and reuse."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":"$L3"}],"Enterprise Architect"]}],"$L4","$L5"],["$L6","$L7","$L8"]]}]]}],"$L9","$La"]}],["$Lb","$Lc","$Ld","$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$11","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$11","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1d:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+22:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+23:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+24:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]
+4:["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}]
+5:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+6:["$","$L2","database",{"href":"/tags/database","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","database"]}]
+7:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+8:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+1c:T176a,
+## What this system is
+
+Data governance is the **answer to "whose data is this, what does it mean, who may use it, and is it true?"** — enforced by a data catalog (inventory + metadata), ownership (every data set has a human answerable for it), access rules (who may see what), and quality checks (does the data match its claims). Without it, every analytics team independently builds "the real revenue" and nobody agrees on what the number means.
+
+```mermaid
+flowchart LR
+  P[Data producers<br/>systems + pipelines] -->|register| C[Data catalog<br/>metadata + lineage]
+  C -->|assign steward| O[Owners<br/>one answerable human per set]
+  C -->|expose rules| A[Access control<br/>roles + policies]
+  C -->|monitor| Q[Quality checks<br/>freshness + accuracy]
+  A -->|grant| CON[Consumers<br/>BI, ML, reporting]
+  Q -->|trust| CON
+  CON -->|discover + feedback| C
+```
+
+```mermaid
+flowchart LR
+  P[Producer] -->|register + document| C[Catalog]
+  C --> O[Owner / steward assigned]
+  C --> A[Access policies per role]
+  C --> Q[Quality + freshness monitors]
+  O --> CON[Consumer trusts + uses]
+  A --> CON
+  Q --> CON
+```
+
+## The four pillars
+
+| Pillar | The question it answers | What it looks like in practice |
+| --- | --- | --- |
+| **Catalog** | What data exists, where, and what does it mean? | Searchable inventory: tables, columns, descriptions, tags, owner |
+| **Ownership** | Who is answerable for this data? | A named owner/steward per data set, reviewable and on-call for it |
+| **Access** | Who may read/modify it, and why? | Role-based permissions, PII classification, approval flows |
+| **Quality** | Is it current, complete, and correct? | Freshness, row-count, and validity checks with alerts |
+
+## Ownership: one human per data set
+
+```mermaid
+flowchart TB
+  DS[Data set: sales_orders] --> O1[Owner: the business lead]
+  DS --> O2[Steward: the data engineer who knows the pipes]
+  DS --> O3[Consumer: BI team]
+  O2 --> Q[Owns: accuracy, freshness, definition of each metric]
+```
+
+"Governance" collapses into a single enforceable rule: **every data set has one named owner**, and that owner signs off on its definition, quality, and who may access it. The failure mode to avoid is an **orphan data set** — created three years ago by a team that left, trusted by nobody, cached everywhere. Orphan data is how "the real number" starts having five versions.
+
+## The catalog is the nervous system
+
+```mermaid
+flowchart TB
+  C[Catalog entry] --> M1[Metadata: owner, description, tags, PII flags]
+  C --> M2[Lineage: upstream sources → this table → downstream reports]
+  C --> M3[Quality: last refreshed, row count, check status]
+  C --> M4[Access: who has what, pending requests]
+  D[Discover: analysts search the catalog before building] --> C
+```
+
+The catalog turns "where is the customer data?" from a tribal-knowledge question into a search. **Lineage** (this table comes from `orders` via pipeline `p1`, feeds report `r2`) is what makes impact assessment possible: "if we change this column, what breaks?" Without lineage, every schema change is a roll of the dice against every report nobody can find.
+
+## Access and classification: the security spine
+
+- **Classify first, gate second**: mark PII (personal data), sensitive, and public at the catalog level; access rules and masking attach to the classification, not to ad-hoc roles.
+- **Row/column-level security** for the sensitive columns: a consumer can read `customers` but *not* `customers.email` — masking at the catalog/engine layer, not "just don't select it."
+- **The least-privilege audit**: the recurring finding is a BI group with a warehouse-wide "analyst" role that quietly reads PII they don't need. Access follows a *purpose*, granted on request, reviewed.
+
+```mermaid
+flowchart LR
+  R[Request access] --> C{Is the purpose approved?}
+  C -->|yes| G[Grant scoped role]
+  C -->|no| D[Deny + record]
+  G --> M{Need to see PII?}
+  M -->|no| MASK[Masked view]
+  M -->|yes| PII[Explicit, justified, logged]
+```
+
+## Quality checks: the trust contract
+
+| Check | Catches |
+| --- | --- |
+| Freshness | "Last loaded 3 days ago" — the report is stale and nobody knows |
+| Row-count / volume | Pipeline silently stopped or partially loaded |
+| Null/validity rate | A column that's suddenly 80% null is a broken transform |
+| Duplicate-key check | Double-counted fact rows |
+| Definition agreement | Two dashboards disagreeing on the same metric |
+
+**One definition per metric** is the governance hill to die on: `revenue` is either defined (same SQL, same grain, same timezone, certified in the catalog) or it isn't a metric at all. The technical trick that makes this stick is **metrics as governed artifacts** (a shared metrics/SQL layer), not copied formula snippets in each dashboard.
+
+## Tester checklist
+
+- Pick a data set in the catalog and verify it has: an owner, a description, quality checks, and lineage to both its source and its consumers. If any are missing, that's the governance gap.
+- Try to access a PII column with a role that has no justification: it must be masked or denied, not simply "not mentioned."
+- Find two dashboards that show the "same" metric and confirm they read the *same* certified definition (or surface the disagreement).
+- Kill a source pipeline and confirm the freshness monitor alerts within the SLA — not after someone asks why the report is wrong.
+- Verify lineage impact: identify what downstream reports would break if a column is renamed, and confirm the catalog tells you that list before the change.
+
+## Related systems
+
+- [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) — the systems governance governs
+- [Data pipelines (ETL/ELT)](../data-pipelines-etl-elt) — the pipes whose health the quality checks watch
+- [RBAC and authorization](../rbac-and-authorization) — the access model behind the catalog's grants
+- [Data modeling and star schemas](../data-modeling-star-schemas) — the models that need a certified owner9:["$","$L1b",null,{"source":"$1c"}]
+a:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","zero-trust-architecture",{"href":"/systems/zero-trust-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Zero Trust architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Never trust, always verify — identity-aware, micro-segmented networks that assume breach instead of defending a perimeter."}]]}],["$","$L2","data-warehouse-lakehouse-architecture",{"href":"/systems/data-warehouse-lakehouse-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Data warehouse and lakehouse architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Warehouse vs data lake vs lakehouse: where curated, governed, analytical data lives, how they differ on storage and schema, and the decisions that make one the right home for your data."}]]}],["$","$L2","defense-in-depth",{"href":"/systems/defense-in-depth","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Defense in depth"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Layered security controls — people, process, technology — designed so that a breach at any single layer never hands the attacker the whole system."}]]}]]}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+c:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+d:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+e:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+f:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+12:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Data governance and catalog · System Reference"}],["$","meta","1",{"name":"description","content":"Owners, lineage, and one agreed definition per metric: the catalog, access rules, and quality checks that turn a pile of data into something the business can trust and reuse."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"database,architecture,security,data-architect,enterprise-architect,security-architect,solution-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/data-governance-and-catalog/"}],["$","meta","8",{"property":"og:title","content":"Data governance and catalog · System Reference"}],["$","meta","9",{"property":"og:description","content":"Owners, lineage, and one agreed definition per metric: the catalog, access rules, and quality checks that turn a pile of data into something the business can trust and reuse."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/data-governance-and-catalog/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Data governance and catalog · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Owners, lineage, and one agreed definition per metric: the catalog, access rules, and quality checks that turn a pile of data into something the business can trust and reuse."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L22","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+1a:true
+1f:null
+11:300
+11:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+10:"$undefined"

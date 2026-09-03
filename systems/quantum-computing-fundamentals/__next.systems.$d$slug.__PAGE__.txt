@@ -1,0 +1,116 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+13:X
+18:X
+18:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Quantum computing fundamentals\",\"description\":\"Qubits, superposition, entanglement, gates, and error correction — what quantum computers actually compute, where they beat classical hardware, and what the architecture looks like today.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/quantum-computing-fundamentals\",\"inLanguage\":\"en\",\"keywords\":\"quantum, computing, cryptography, architecture, emerging, solution-architect, enterprise-architect, developer, security-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"quantum\"},{\"@type\":\"Thing\",\"name\":\"computing\"},{\"@type\":\"Thing\",\"name\":\"cryptography\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"emerging\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Quantum computing fundamentals\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/quantum-computing-fundamentals\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Quantum computing fundamentals"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Quantum computing fundamentals"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Qubits, superposition, entanglement, gates, and error correction — what quantum computers actually compute, where they beat classical hardware, and what the architecture looks like today."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":"$L3"}],"Enterprise Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9","$La"]]}]]}],"$Lb","$Lc"]}],["$Ld","$Le","$Lf","$L10"],"$L11"]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$13","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$13","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$13","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+24:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+25:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+26:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]
+4:["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}]
+5:["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}]
+6:["$","$L2","quantum",{"href":"/tags/quantum","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","quantum"]}]
+7:["$","$L2","computing",{"href":"/tags/computing","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","computing"]}]
+8:["$","$L2","cryptography",{"href":"/tags/cryptography","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","cryptography"]}]
+9:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+a:["$","$L2","emerging",{"href":"/tags/emerging","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-orange-50 text-orange-700 ring-orange-200","children":["#","emerging"]}]
+1e:T176c,
+## What this system is
+
+A **quantum computer** computes with **qubits** instead of bits. Where a classical bit is 0 or 1, a qubit is a *superposition* — a probability mixture of 0 and 1 — and two or more qubits can be **entangled**, meaning their states are correlated in ways that have no classical analog. Programs are written as **quantum circuits**: qubits prepared, gates applied, then **measured** back into classical bits.
+
+That is the entire physics, and the hard part is that measurement *destroys the state*: you do not "read" intermediate answers, you run a quantum circuit many times and collect the statistical *distributions* of the outputs. The famous victories (Shor for factoring, Grover for search) exist because those distributions concentrate disproportionately on the right answer with exponentially fewer operations than any classical algorithm.
+
+```mermaid
+flowchart LR
+    Q[Qubits - superposition + entanglement] --> C[Quantum circuit - gates]
+    C --> M[Measure - collapse to bits]
+    M --> R[Run N times - distribution]
+    R --> D[Extract answer statistically]
+    Q --> E[Error correction - protects qubits]
+```
+
+## Thinking in quantum instead of bits
+
+| Classical bit | Qubit |
+| --- | --- |
+| Always 0 or 1 | Superposition — a probability over both |
+| Many bits = one state of the register | N qubits = 2^N amplitudes in a single state vector |
+| Read the answer directly | Measuring collapses the state; you sample the distribution |
+| Programs are IF/ELSE | Programs are unitary gates — reversible, no "assignments" |
+| Errors are rare and local | Qubits decohere easily; error correction consumes massive overhead |
+
+The mental model for an architect: a quantum program is **not a faster version of a loop** — it is a *different calculus* that only wins on specific problems (factoring, optimization heuristics, quantum chemistry, some simulations). For everything else, a classical box is still better and cheaper.
+
+## The stack today
+
+```mermaid
+flowchart LR
+    USER["Problem<br/>optimization, chemistry, search"] -->|formulate| ALG["Quantum algorithm<br/>Shor, Grover, VQE, QAOA"]
+    ALG -->|circuit| CIR["Circuit compiler<br/>optimizes + maps to hardware"]
+    CIR -->|run| HW["Quantum hardware<br/>superconducting / trapped-ion / photonic"]
+    CIR -->|map to gate set| CLASS["Classical control + error correction"]
+    CLASS -->|compile to gates| HW
+    HW -->|qubits measured| OUT["Statistical result<br/>hybrid classical post-processing"]
+```
+
+The real architectures are **hybrid**: a classical machine prepares and reads the quantum processor, error-corrects it, and post-processes the samples. Nobody runs a whole business on qubits; the practical pattern today is the quantum processor as an accelerator for a narrow, mathematically hard subroutine called from a classical workflow.
+
+## Where quantum genuinely wins
+
+| Problem domain | Quantum advantage | Classical fallback |
+| --- | --- | --- |
+| Factoring large integers (Shor) | Exponential speedup — the basis of [post-quantum crypto](../secrets-certificates-and-pki) fears | RSA/ECC breaks as qubit count grows; hence **PQ crypto migration** |
+| Unstructured search (Grover) | Quadratic speedup — square root of classical steps | Rarely decides the world; quadratic is no free lunch |
+| Quantum chemistry / materials | Natural fit — electrons *are* quantum | Best classical approximations only |
+| Combinatorial optimization (QAOA/VQE) | Useful heuristics, but no proven speedup over classical heuristics today | Validates against classical solvers |
+
+The honest scoreboard: **the "quantum advantage" is proven for very few problems, and almost all current machines are narrow, error-prone, and (post-error-correction) slow.** Practical enterprises should plan for *two* realities: keep optimizing classically now, and prepare for the crypto threat (harvest-decrypt: encrypted-now, decrypted-later).
+
+## Tester checklist
+
+- Superposition sanity: a 1-qubit circuit in a balanced superposition returns ~50/50 over many shots, within statistical tolerance — not all 0s or all 1s.
+- Gate determinism: the same circuit returns the same distribution when run repeatedly on the same simulator/hardware device within noise budget.
+- Measurement collapse: reading a qubit once yields a definite 0 or 1, and re-running masks the state — no "peeking" between gates.
+- Error-correction cost: confirm the physical-to-logical qubit overhead and the resulting latency on real hardware versus simulator.
+- Hybrid integration: a classical workflow calls the quantum library, parses the returned distribution, and reaches the documented decision path — with a classical fallback when the provider is down.
+- Crypto migration planning: inventory which systems depend on RSA/ECC and the harvest-decrypt exposure they carry for the [post-quantum shift](../secrets-certificates-and-pki).
+- Noise accounting: results are reported with shot counts and error/readout metrics, and the analysis accounts for those error rates before drawing conclusions.
+
+## Related systems
+
+- [Secrets, certificates and PKI](../secrets-certificates-and-pki) — the crypto stack Shor threatens and the PQ migration that follows
+- [Cloud computing fundamentals](../cloud-computing-fundamentals) — where quantum-as-a-service sits in the provider catalog
+- [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) — where hybrid quantum output lands for analysis
+
+## Deep dives
+
+- [LLM agents and workflows](../llm-agents-and-workflows) — classical AI/optimization that will keep using classical compute for years
+- [Monitoring and observability](../monitoring-and-observability) — observing a hybrid classical-quantum pipeline
+- [Zero Trust architecture](../zero-trust-architecture) — the security posture that outlives the quantum transition
+- [Oracle database ecosystem](../oracle-database-ecosystem) — a reminder that classical data systems remain dominant for decadesb:["$","$L1d",null,{"source":"$1e"}]
+c:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","blockchain-fundamentals",{"href":"/systems/blockchain-fundamentals","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Blockchain Fundamentals"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Distributed ledgers, cryptographic hashes, consensus mechanisms, and immutability — the primitives that let mutually distrusting nodes share state without a central authority."}]]}],["$","$L2","decentralized-identity-and-verifiable-credentials",{"href":"/systems/decentralized-identity-and-verifiable-credentials","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Decentralized Identity and Verifiable Credentials"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Self-sovereign identity: Decentralized Identifiers (DIDs), verifiable credentials, and the issuer-holder-verifier triangle replacing centralized account databases."}]]}],["$","$L2","asyncapi",{"href":"/systems/asyncapi","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"AsyncAPI"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}]]}]]}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+e:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+f:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+10:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+11:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+14:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Quantum computing fundamentals · System Reference"}],["$","meta","1",{"name":"description","content":"Qubits, superposition, entanglement, gates, and error correction — what quantum computers actually compute, where they beat classical hardware, and what the architecture looks like today."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"quantum,computing,cryptography,architecture,emerging,solution-architect,enterprise-architect,developer,security-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/quantum-computing-fundamentals/"}],["$","meta","8",{"property":"og:title","content":"Quantum computing fundamentals · System Reference"}],["$","meta","9",{"property":"og:description","content":"Qubits, superposition, entanglement, gates, and error correction — what quantum computers actually compute, where they beat classical hardware, and what the architecture looks like today."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/quantum-computing-fundamentals/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Quantum computing fundamentals · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Qubits, superposition, entanglement, gates, and error correction — what quantum computers actually compute, where they beat classical hardware, and what the architecture looks like today."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L24","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+1c:true
+21:null
+13:300
+13:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+12:"$undefined"

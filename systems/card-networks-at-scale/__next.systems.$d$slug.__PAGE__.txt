@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+14:X
+19:X
+19:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Card networks at scale\",\"description\":\"How Visa and Mastercard process tens of thousands of transactions per second: the switch, ISO 8583, authorization latency budgets, clearing and settlement at volume.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/card-networks-at-scale\",\"inLanguage\":\"en\",\"keywords\":\"payments, cards, architecture, scalability, finance, solution-architect, enterprise-architect, backend, data-architect, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"payments\"},{\"@type\":\"Thing\",\"name\":\"cards\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"scalability\"},{\"@type\":\"Thing\",\"name\":\"finance\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Card networks at scale\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/card-networks-at-scale\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Card networks at scale"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Card networks at scale"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"How Visa and Mastercard process tens of thousands of transactions per second: the switch, ISO 8583, authorization latency budgets, clearing and settlement at volume."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":"$L3"}],"Enterprise Architect"]}],"$L4","$L5","$L6"],["$L7","$L8","$L9","$La","$Lb"]]}]]}],"$Lc","$Ld"]}],["$Le","$Lf","$L10","$L11"],"$L12"]}],"isPartial":"$@13","staleTime":"$14","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$14","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$14","varyParams":"$19"},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$14","varyParams":"$19"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+24:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+25:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+26:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+27:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]
+4:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+5:["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}]
+6:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+7:["$","$L2","payments",{"href":"/tags/payments","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-rose-50 text-rose-700 ring-rose-200","children":["#","payments"]}]
+8:["$","$L2","cards",{"href":"/tags/cards","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cards"]}]
+9:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+a:["$","$L2","scalability",{"href":"/tags/scalability","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-rose-50 text-rose-700 ring-rose-200","children":["#","scalability"]}]
+b:["$","$L2","finance",{"href":"/tags/finance","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","finance"]}]
+1f:T19bc,
+## What this system is
+
+A **card network** (Visa, Mastercard, and the card schemes) is a message switch, an interchange, and a settlement house in one. Each **card transaction touches four parties** — the cardholder, the merchant, the merchant's **acquirer** bank, and the cardholder's **issuer** bank — and the network stands in the middle of every one of them. The scale the industry quotes ("billions a day") comes from something more interesting than hardware: the network is a *nearly stateless protocol with ruthless budgets*.
+
+```mermaid
+flowchart LR
+    H[Cardholder - POS / e-commerce] --> M[Merchant / POS terminal]
+    M --> AQ[Acquirer bank]
+    AQ --> N[Network switch - Visa / Mastercard]
+    N --> IS[Issuer bank]
+    IS --> R[(Risk + account systems)]
+    N -.-> CLEAR[Clearing + settlement]
+```
+
+## Why fast: the authorization budget
+
+A card payment at the terminal is a **real-time authorization**: the merchant asks "is this good?", and the answer must come back in a second or two — not minutes. The network's job is to move that request from acquirer to issuer, get a decision, and return it. Because the request is small, idempotent by reference, and largely stateless at the switch, the network is built like a high-performance message bus, not a giant database.
+
+| Constraint | Number that drives the design |
+| --- | --- |
+| Authorization latency budget | ~2 seconds round trip, network included |
+| Transaction size | A few hundred bytes per ISO 8583 message |
+| Peak rate (global schemes) | Tens of thousands of authorizations per second |
+| Failure cost | A workflow-dependent mix of false decline (lost sale) or false approve (fraud) |
+
+## Anatomy of an authorization
+
+```mermaid
+sequenceDiagram
+    participant TERM as "POS terminal"
+    participant AQ as "Acquirer"
+    participant SW as "Network switch"
+    participant IS as "Issuer"
+    TERM->>AQ: auth request
+    AQ->>SW: BIN lookup
+    SW->>IS: forward
+    IS-->>SW: approve / decline
+    SW-->>TERM: reply to terminal
+```
+
+## The switch's design secrets
+
+- **Routing is a lookup, not a query**: the network routes by **BIN/IIN** (the first 6–8 digits of the card number) to the issuer's endpoint. It is a precomputed routing table, updated on an issuer bulletin — no per-transaction database lookup for *where* to send.
+- **Stateless in the middle**: the switch does not store the account; it carries the message and returns the answer. State lives at the issuer. Losing a switch node loses nothing recoverable — the design point that makes the network horizontally scalable and cheap to run at any peak.
+- **Timeout and fallback**: if an issuer doesn't answer within its SLA, the network may **stand-in authorizes** — accepting within issuer-defined limits — or route via a redundant path. That fallback is how commerce keeps moving even when a bank hiccups.
+- **Idempotency and reference numbers**: each authorization carries a unique retrieval reference, so a retried message settles exactly once. This is the same once-only pattern as [Message queue delivery](../message-queue-delivery), pressed into a sub-second protocol.
+- **Concurrency without locks**: money is only *reserved* at authorization (a hold) and only *moved* later. Because the switch never touches balances, throughput scales by adding nodes, not by optimizing a single database.
+
+## Volume: clearing and settlement in batch
+
+Authorizations are hot and synchronous; **clearing** (the actual transfer messages) runs in **batches** after the fact. The merchant's terminal captures at end-of-day or per-transaction, the network *nets* and *descends* summaries between each acquirer-issuer pair, and settlement moves the net amounts — exactly the [netting idea from payments clearing](../payments-clearing-and-settlement), applied across thousands of banks at once.
+
+This separation is the single biggest scaling lever: the real-time path is narrow and fast, while the volume path is a batch processing system with reconciliation. Both are necessary; neither can do the other's job.
+
+## How the scale is actually measured
+
+The "million per second" headline is a **peak throughput headline about the whole ecosystem**, not a single request's path. What is genuinely true:
+
+| Layer | Where the volume lands |
+| --- | --- |
+| Terminal to acquirer | Massive parallelism, country-scale |
+| Acquirer to switch | The switch's high-volume ingress |
+| Switch to issuer | Fanned out by BIN routing; issued APIs are the real cost |
+| The ledger behind it | Held by issuer/acquirer banks, not the network |
+
+For an architect building their own high-volume system, the transferable lessons are: **narrow the hot path, make the middle stateless, route by precomputed keys, reserve-then-settle instead of locking, and put the volume on a batch side-channel.**
+
+## Tester checklist
+
+- Routing: a card with a given BIN reaches its intended issuer, and a BIN-table update takes effect without restarting the switch.
+- Timeout: an issuer that exceeds its SLA triggers the configured stand-in or fallback path, and the decision is recorded with the reason.
+- Idempotency: re-sending an identical authorization reference is answered identically and does not double-hold funds.
+- Latency budget: under synthetic load, a normally-routed authorization completes inside the round-trip SLA.
+- Partition tolerance: a switch node failure does not lose in-flight authorizations or corrupt routing state.
+- Settlement math: a day of captures nets per acquirer-issuer pair to zero at the aggregate, tieing to the [reconciliation feed](../payments-clearing-and-settlement).
+- Decline vs authorize: the fraud/limit decision from the issuer is returned verbatim to the terminal code the merchant's systems parse.
+
+## Related systems
+
+- [Payments, clearing, and settlement](../payments-clearing-and-settlement) — the rails and netting these messages ride
+- [E-commerce platform architecture](../ecommerce-platform-architecture) — authorization-vs-capture in the store
+- [Core banking systems](../core-banking-systems) — the issuer ledger that holds the cardholder account
+
+## Deep dives
+
+- [Banking risk, fraud, and AML controls](../banking-risk-fraud-and-aml) — the real-time scoring on the issuer's side
+- [Message queue delivery](../message-queue-delivery) — once-only, at-least-once delivery at the switch
+- [Integration patterns](../integration-patterns) — how acquirers and issuers plug into the scheme
+- [Monitoring and observability](../monitoring-and-observability) — latency and throughput telemetry of the authorization pathc:["$","$L1e",null,{"source":"$1f"}]
+d:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","core-banking-systems",{"href":"/systems/core-banking-systems","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Core banking systems"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The account-and-ledger backbone of a bank: who owns what money, how a transaction moves it, double-entry posting, and the difference between real-time and overnight processing."}]]}],["$","$L2","payments-clearing-and-settlement",{"href":"/systems/payments-clearing-and-settlement","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Payments, clearing, and settlement"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The rails that move money between banks: payment schemes, clearing house mechanics, netting, settlement risk, and ISO 20022 messages."}]]}],["$","$L2","asyncapi",{"href":"/systems/asyncapi","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"AsyncAPI"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}]]}]]}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+10:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+11:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+12:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+15:["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L24",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Card networks at scale · System Reference"}],["$","meta","1",{"name":"description","content":"How Visa and Mastercard process tens of thousands of transactions per second: the switch, ISO 8583, authorization latency budgets, clearing and settlement at volume."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"payments,cards,architecture,scalability,finance,solution-architect,enterprise-architect,backend,data-architect,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/card-networks-at-scale/"}],["$","meta","8",{"property":"og:title","content":"Card networks at scale · System Reference"}],["$","meta","9",{"property":"og:description","content":"How Visa and Mastercard process tens of thousands of transactions per second: the switch, ISO 8583, authorization latency budgets, clearing and settlement at volume."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/card-networks-at-scale/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Card networks at scale · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"How Visa and Mastercard process tens of thousands of transactions per second: the switch, ISO 8583, authorization latency budgets, clearing and settlement at volume."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L25","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+17:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1a:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1d:true
+22:null
+14:300
+14:C
+1c:0
+16:"$undefined"
+18:"$undefined"
+1b:"$undefined"
+13:"$undefined"

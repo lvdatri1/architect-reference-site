@@ -1,0 +1,101 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+10:X
+15:X
+15:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Secrets, certificates and PKI\",\"description\":\"The crypto backbone of every identity: CA hierarchy, cert lifecycle, rotation, vaults, HSMs, and why short-lived beats long-lived.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/secrets-certificates-and-pki\",\"inLanguage\":\"en\",\"keywords\":\"security, identity, network, zero-trust, backend, security-architect, network-engineer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"identity\"},{\"@type\":\"Thing\",\"name\":\"network\"},{\"@type\":\"Thing\",\"name\":\"zero-trust\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Secrets, certificates and PKI\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/secrets-certificates-and-pki\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Secrets, certificates and PKI"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Secrets, certificates and PKI"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The crypto backbone of every identity: CA hierarchy, cert lifecycle, rotation, vaults, HSMs, and why short-lived beats long-lived."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}],["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}],["$","$L2","network-engineer",{"href":"/jobs/network-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Network Engineer"]}]],["$L4","$L5","$L6","$L7"]]}]]}],"$L8","$L9"]}],["$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":"$@f","staleTime":"$10","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$10","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$10","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$10","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1c:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+21:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+22:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+23:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Network Engineer icon","children":[["$","circle",null,{"cx":12,"cy":4.5,"r":2.5}],["$","circle",null,{"cx":5,"cy":18,"r":2.5}],["$","circle",null,{"cx":19,"cy":18,"r":2.5}],["$","path",null,{"d":"M10.7 6.5 6.7 15.7M13.3 6.5l4 9.2"}],["$","line",null,{"x1":7.5,"y1":18,"x2":16.5,"y2":18}]]}]
+4:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+5:["$","$L2","identity",{"href":"/tags/identity","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","identity"]}]
+6:["$","$L2","network",{"href":"/tags/network","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","network"]}]
+7:["$","$L2","zero-trust",{"href":"/tags/zero-trust","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","zero-trust"]}]
+1b:Te2d,
+## What this system is
+
+Every identity in the enterprise — user tokens, TLS, mTLS, code signing, SSH — leans on two trust primitives: **certificates** (who can prove identity; backed by a CA hierarchy = PKI) and **secrets** (keys/tokens/passwords that unlock access). Zero Trust turns both into the same idea: *short-lived, automatically rotated, central-managed* — never hand-written, never hard-coded, never long-lived.
+
+```mermaid
+flowchart TB
+  Root[Root CA - offline, highest trust] --> Inter[Intermediate CA]
+  Inter --> Leaf1[Site certs - *.example.com]
+  Inter --> Leaf2[mTLS / workload SVIDs]
+  Inter --> Leaf3[Code-signing / SSH signed keys]
+  Root --> HSM[HSM stores CA keys - cannot be copied]
+  Leaf1 --> Chain[Browser / client validates chain]
+```
+
+## The certificate lifecycle
+
+```mermaid
+flowchart LR
+  Issue[Cerify via ACME / RA] --> Deploy[Deploy to endpoints]
+  Deploy --> Monitor[Monitor expiry + usage]
+  Monitor -->|~90% lifetime| Renew[Automated renewal]
+  Renew --> Issue
+  Monitor -->|compromise detected| Revoke[Revoke + CRL / OCSP]
+```
+
+The modern rules are boring on purpose:
+1. **Short lifetimes** (90 days is legacy-long; hours-to-days for workload identities) shrink the blast radius of a stolen cert.
+2. **Automation everywhere** — ACME/SPIRE-style issuance means nothing is issued by hand, signed by hand, renewed by hand.
+3. **Revocation actually propagates** — CRL/OCSP when CA is compromised; for short-lived certs you often *wait out* expiry instead of relying on revocation.
+
+## Vaults: static vs dynamic secrets
+
+| | Static secret | Dynamic / short-lived |
+| --- | --- | --- |
+| Example | Long-lived API key | Per-task DB credentials, one-time tokens |
+| Lifetime | Years by accident | Seconds-to-minutes by construction |
+| Rotation | Sometimes, painful | Automatic, constant |
+| Leakage cost | Full access until rotated | Expires before it matters |
+| Vault role | Store + access control | Generate on demand, lease with TTL |
+
+**Vault-style systems** (HashiCorp Vault, cloud secret managers) do both: central storage + a **lease model** where services pull credentials for a window and they die after. The hard part is teaching every app to *fetch, not hard-code*.
+
+## The failure modes that still hurt
+
+- **Hard-coded secrets** shipped in images/CI logs — the leak that outlives two "rotations."
+- **Long-lived root material** used for work (it should be offline behind an HSM).
+- **Certificate expiry** on the one internal endpoint the outage-call answered with "it expired" — solved by monitoring + automation, not reminders.
+- **A single trust root in software**: a CA key inside a binary the server ship accidentally contains. HSM containment or a strict split is non-negotiable.
+
+## Tester checklist
+
+- Pull a dynamic DB credential from the vault and confirm it expires on its lease even if the app forgets to release it.
+- Rotate a TLS leaf cert mid-traffic and confirm zero-downtime drop-in (automated path, not manual).
+- Compromise drill: a stolen short-lived credential must grant *bounded* time, and an HSM-bound CA key must be uncopyable.
+- Audit for hard-coded secrets with a repo scan and prove the CI gate blocks them.
+
+## Related systems
+
+- [Zero Trust architecture](../zero-trust-architecture) — why identities are short-lived machines, not names in a file
+- [Workload identity and mTLS](../workload-identity-and-mtls) — certificates *as* workload identity
+- [Identity and access management](../identity-and-access-management) — the humans this crypto validates
+- [TCP/IP and TLS](../tcp-ip-and-tls) — the transport every cert ultimately protects8:["$","$L1a",null,{"source":"$1b"}]
+9:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","sase",{"href":"/systems/sase","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"SASE and SSE"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Secure Access Service Edge: SD-WAN plus cloud-native security (SWG, CASB, ZTNA, FWaaS) delivered as a global cloud service from nearby Points of Presence."}]]}],["$","$L2","identity-and-access-management",{"href":"/systems/identity-and-access-management","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Identity and access management (IAM)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Users and machines as first-class identities: directories, SSO and federation, the identity lifecycle, and RBAC vs ABAC."}]]}],["$","$L2","rbac-and-authorization",{"href":"/systems/rbac-and-authorization","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Role-based access control (RBAC)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Users get roles, roles get permissions, roles get handed out by managers not engineers — and access reviews keep the picture honest."}]]}]]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+c:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+d:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+e:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+11:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Secrets, certificates and PKI · System Reference"}],["$","meta","1",{"name":"description","content":"The crypto backbone of every identity: CA hierarchy, cert lifecycle, rotation, vaults, HSMs, and why short-lived beats long-lived."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"security,identity,network,zero-trust,backend,security-architect,network-engineer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/secrets-certificates-and-pki/"}],["$","meta","8",{"property":"og:title","content":"Secrets, certificates and PKI · System Reference"}],["$","meta","9",{"property":"og:description","content":"The crypto backbone of every identity: CA hierarchy, cert lifecycle, rotation, vaults, HSMs, and why short-lived beats long-lived."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/secrets-certificates-and-pki/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Secrets, certificates and PKI · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The crypto backbone of every identity: CA hierarchy, cert lifecycle, rotation, vaults, HSMs, and why short-lived beats long-lived."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L21","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+19:true
+1e:null
+10:300
+10:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+f:"$undefined"

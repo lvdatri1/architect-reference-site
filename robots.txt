@@ -1,0 +1,39 @@
+User-Agent: *
+Allow: /
+
+User-Agent: Googlebot
+User-Agent: Bingbot
+User-Agent: DuckDuckBot
+User-Agent: DuckDuckBot-Favicons-Bot
+User-Agent: DuckDuckBot-Image
+User-Agent: Slurp
+User-Agent: YandexBot
+User-Agent: Applebot
+User-Agent: archive.org_bot
+Allow: /
+
+User-Agent: GPTBot
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: ClaudeBot
+User-Agent: Claude-Web
+User-Agent: anthropic-ai
+User-Agent: PerplexityBot
+User-Agent: Google-Extended
+User-Agent: Amazonbot
+User-Agent: Applebot-Extended
+User-Agent: Bytespider
+User-Agent: CCBot
+User-Agent: cohere-ai
+User-Agent: cohere-training-data-crawler
+User-Agent: Meta-ExternalAgent
+User-Agent: YouBot
+User-Agent: Ai2Bot
+User-Agent: ai2bot-dolma
+User-Agent: MozBot
+User-Agent: omgili
+User-Agent: omgilibot
+Allow: /
+
+Host: https://lvdatri1.github.io/architect-reference-site
+Sitemap: https://lvdatri1.github.io/architect-reference-site/sitemap.xml

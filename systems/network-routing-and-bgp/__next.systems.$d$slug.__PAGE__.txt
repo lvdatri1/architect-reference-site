@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+e:X
+13:X
+13:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Network routing and BGP\",\"description\":\"How a packet finds its way across the internet: routing tables, longest-prefix-match, OSPF inside your network, and BGP between autonomous systems.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/network-routing-and-bgp\",\"inLanguage\":\"en\",\"keywords\":\"network, architecture, backend, enterprise-architect, solution-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"network\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Network routing and BGP\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/network-routing-and-bgp\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Network routing and BGP"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Network routing and BGP"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"How a packet finds its way across the internet: routing tables, longest-prefix-match, OSPF inside your network, and BGP between autonomous systems."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Solution Architect"]}]],["$L4","$L5"]]}]]}],"$L6","$L7"]}],["$L8","$L9","$La","$Lb"],"$Lc"]}],"isPartial":"$@d","staleTime":"$e","varyParams":null},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$e","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$e","varyParams":"$13"},{"rsc":"$L14","isPartial":"$@15","staleTime":"$e","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+18:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1a:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+1f:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+20:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+21:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}]
+4:["$","$L2","network",{"href":"/tags/network","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","network"]}]
+5:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+19:Tf35,
+## What this system is
+
+Routing is how a byte for `8.8.8.8` leaves your server, crosses several companies' networks, and arrives at Google's. Every router keeps a **routing table**; on arrival it looks up the destination, matches the **longest prefix**, and forwards on. The difficult part is *populating* those tables at internet scale — that is BGP's job.
+
+```mermaid
+flowchart LR
+  SV[Your server] -->|forward| ED[Your edge router - routing table]
+  ED -->|longest prefix match| TR[ISP / transit AS]
+  TR -->|BGP best path - AS path| DA[Destination AS]
+  DA -->|local delivery| TG[8.8.8.8]
+```
+
+```mermaid
+flowchart LR
+  S[Your server] --> R1[Your core router]
+  R1 --> R2[ISP A router]
+  R2 --> R3[Transit network]
+  R3 --> R4[ISP B router]
+  R4 --> D[8.8.8.8 — Google]
+```
+
+## Longest prefix match
+
+Routers don't know the whole path — only the next hop. A table entry `10.0.0.0/16 → via 10.0.0.1` and `10.0.2.0/24 → via 10.0.0.9` both match `10.0.2.55`; the **/24 (longest) wins**. This is how a default route (`0.0.0.0/0`) coexists with precise prefixes.
+
+| Routing type | Scope | Who builds the table | Convergence speed |
+| --- | --- | --- | --- |
+| Static routes | Your edge, small DCs | You, by hand | Instant (but manual to fix) |
+| OSPF (IGP) | Inside one AS / enterprise | Routers exchange link state | Fast (seconds), scales to ~hundreds |
+| EIGRP/RIP | Cisco shops / tiny nets | Router metrics | Medium |
+| BGP (EGP) | Between autonomous systems | Peers advertise prefixes | Minutes — engineered, not eager |
+
+## BGP: the internet's glue
+
+The internet is thousands of **autonomous systems (ASes)** — companies with an AS number and their own routing domain. BGP lets each AS tell its neighbors "I can reach `1.2.3.0/24` (via me)". Every router independently picks the best path by AS-path length, then policy, then tie-breakers.
+
+```mermaid
+sequenceDiagram
+  participant A as AS64512 (your edge router)
+  participant B as ISP peer AS15169
+
+  A->>B: TCP handshake + OPEN (hold timer)
+  B-->>A: UPDATE: network 8.8.8.0/24, ASPATH [15169]
+  A->>A: install route, pick best path (AS path + policy)
+  loop every 60s
+    A->>B: KEEPALIVE
+  end
+  Note over A,B: session dies → route withdrawn → slow world until convergence
+```
+
+## Why routing breaks (skills worth keeping)
+
+- **Blackholes**: a route advertised but silently dropping traffic — the classic failure when a path dies but BGP doesn't know.
+- **Slow convergence**: BGP is *policy-first, speed-later*; a session flap at a tier-1 ISP can take minutes, and every dependency waits.
+- **Prefix hijacking**: mis-advertised prefixes route traffic to the wrong AS (BGP has no built-in auth; [RPKI / MANRS](../zero-trust-architecture) tries to fix that).
+- **AS-path prepending** trick: adding your own AS twice just to *downgrade* a path in someone's selection — traffic engineering by lying politely.
+
+## Tester checklist
+
+- Walk a real path with `traceroute`/`mtr` when users report latency — identify which hops add the ms.
+- Verify failover: disable the primary uplink and confirm traffic shifts to the backup within your expected SLAs (seconds? minutes?).
+- Use a looking glass (e.g. RouteViews, your upstream's LG) to confirm your prefixes are announced and not being suppressed.
+- Confirm your static routes fall back correctly when an interface flaps — a static route to a dead next-hop *forwards into the void* unless you track reachability.
+
+## Related systems
+
+- [TCP/IP and TLS](../tcp-ip-and-tls) — the packet and segment this routing carries
+- [Zero trust architecture](../zero-trust-architecture) — routing is reachability; authorization still needs ZT layers
+- [SD-WAN and edge connectivity](../sd-wan-and-edge-connectivity) — how enterprise branches steer over these paths
+- [DNS and load balancing](../dns-and-load-balancing) — the address resolution that precedes the first hop6:["$","$L18",null,{"source":"$19"}]
+7:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","sd-wan-and-edge-connectivity",{"href":"/systems/sd-wan-and-edge-connectivity","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"SD-WAN and edge connectivity"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Connecting branch offices to the cloud: MPLS vs VPN vs SD-WAN, overlay tunneling, and application-aware path steering."}]]}],["$","$L2","defense-in-depth",{"href":"/systems/defense-in-depth","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Defense in depth"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Layered security controls — people, process, technology — designed so that a breach at any single layer never hands the attacker the whole system."}]]}],["$","$L2","dns-and-load-balancing",{"href":"/systems/dns-and-load-balancing","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"DNS and load balancing"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"From typing a name to opening a connection: recursive resolution, caching and TTLs, then L4 vs L7 load balancing with health checks."}]]}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+a:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+b:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+c:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+f:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1e",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Network routing and BGP · System Reference"}],["$","meta","1",{"name":"description","content":"How a packet finds its way across the internet: routing tables, longest-prefix-match, OSPF inside your network, and BGP between autonomous systems."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"network,architecture,backend,enterprise-architect,solution-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/network-routing-and-bgp/"}],["$","meta","8",{"property":"og:title","content":"Network routing and BGP · System Reference"}],["$","meta","9",{"property":"og:description","content":"How a packet finds its way across the internet: routing tables, longest-prefix-match, OSPF inside your network, and BGP between autonomous systems."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/network-routing-and-bgp/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Network routing and BGP · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"How a packet finds its way across the internet: routing tables, longest-prefix-match, OSPF inside your network, and BGP between autonomous systems."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L1f","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+11:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+14:["$","$1","c",{"children":[null,["$","$L20",null,{"parallelRouterKey":"children","template":["$","$L21",null,{}]}]]}]
+17:true
+1c:null
+e:300
+e:C
+16:0
+10:"$undefined"
+12:"$undefined"
+15:"$undefined"
+d:"$undefined"

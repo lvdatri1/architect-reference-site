@@ -1,0 +1,134 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Government identity: PIV/CAC and NIST 800-63\",\"description\":\"Federal identity done right: PIV and CAC cards, FICAM architecture, NIST 800-63 identity assurance levels (IAL/AAL), and how agencies, contractors, and citizens get verified once and federate everywhere.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/government-identity-piv-ficam\",\"inLanguage\":\"en\",\"keywords\":\"identity, federal, security, zero-trust, compliance, security-architect, solution-architect, enterprise-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"identity\"},{\"@type\":\"Thing\",\"name\":\"federal\"},{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"zero-trust\"},{\"@type\":\"Thing\",\"name\":\"compliance\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Government identity: PIV/CAC and NIST 800-63\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/government-identity-piv-ficam\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Government identity: PIV/CAC and NIST 800-63"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Government identity: PIV/CAC and NIST 800-63"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Federal identity done right: PIV and CAC cards, FICAM architecture, NIST 800-63 identity assurance levels (IAL/AAL), and how agencies, contractors, and citizens get verified once and federate everywhere."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Solution Architect"]}],"$L4"],["$L5","$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}]
+4:["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}]
+5:["$","$L2","identity",{"href":"/tags/identity","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","identity"]}]
+6:["$","$L2","federal",{"href":"/tags/federal","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-sky-50 text-sky-700 ring-sky-200","children":["#","federal"]}]
+7:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+8:["$","$L2","zero-trust",{"href":"/tags/zero-trust","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","zero-trust"]}]
+9:["$","$L2","compliance",{"href":"/tags/compliance","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-rose-50 text-rose-700 ring-rose-200","children":["#","compliance"]}]
+1d:T1974,
+## What this system is
+
+Government identity is the **identity backbone under every federal control family (IA/AC)**: employees and contractors prove who they are with a **PIV card** (Personal Identity Verification, FIPS 201) or, for the Department of Defense, a **CAC** — a smart card holding a certificate whose private key never leaves the card. The **FICAM** (Federal Identity, Credential, and Access Management) architecture is how those credentials federate across agencies, and **NIST SP 800-63** is the ladder that says *how much* assurance a citizen-facing transaction needs.
+
+```mermaid
+flowchart LR
+    U[User - employee, contractor, citizen] --> C[Credential - PIV / CAC / account]
+    C --> P[Identity provider<br/>FICAM trusted flow]
+    P --> F[Federation - SAML / OIDC]
+    F --> A[Federal applications]
+    A --> P
+```
+
+## The three reassurance levels (NIST 800-63)
+
+SP 800-63 separates *how sure you are* into three axes. Getting these backwards is the classic federal identity mistake:
+
+| Level | Axis | What it asks | Example |
+| --- | --- | --- | --- |
+| **IAL** | Identity assurance | How strongly was the *person* proven to exist? | (L1) self-asserted, (L2) docs, (L3) biometric-in-person |
+| **AAL** | Authenticator assurance | How strongly are they authenticated *now*? | (L1) password, (L2) PLUS a second factor, (L3) hardware crypto |
+| **FAL** | Federation assurance | How much trust does the federation pass along? | (L1) minimal, (L2) signed assertions, (L3) identity binding |
+
+The rule that animates everything: **a transaction's risk sets the required level.** Renewing a library card online is IAL1/AAL1; a veteran reading their own medical record or a small business accessing benefits is IAL2/AAL2; a classified-grade authenticator is AAL3 hardware. When someone says "you need 800-63 up-leveled authentication", they mean push AAL, sometimes IAL — and each step costs real user friction and infrastructure.
+
+## The credential lifecycle (the PIV card)
+
+```mermaid
+flowchart TB
+    R[Identity proofing - in person] --> a{Sponsored<br/>by agency}
+    a --> C[Issue - PIV/CAC provisioned]
+    C --> U[Use - authentication at every door]
+    U --> M[Maintain - renew, update certs]
+    M --> L[Revoke - lost, departed, CA fired]
+    L --> D[Terminate - card destroyed, access killed]
+```
+
+## The architecture pattern
+
+```mermaid
+sequenceDiagram
+    participant U as Employee / contractor - PIV or CAC
+    participant I as Identity proofing - FIPS 201 enrollment
+    participant CA as Certificate authority - issues PIV certs
+    participant P as FICAM identity provider
+    participant F as Federation - SAML / OIDC trust chain
+    participant A as Agency application
+    U->>I: prove identity
+    I->>CA: enroll
+    CA-->>U: card issued
+    U->>P: authenticate
+    P->>F: assert identity
+    F->>A: SSO session
+```
+
+Every hop exists to preserve one property: **proofing happens once, at high assurance; authentication happens everywhere, cheaply, via a federation of trust** — the same principle as [Enterprise SSO](../single-sign-on-sso) applied to multiple independent agencies.
+
+## The pro se / citizen side (eID and login.gov-style)
+
+For citizens there is no employer-issued card, so the trust anchors are different: a **federated login broker** (USAGov login / login.gov) verifies the citizen once at IAL2 (document checks now, biometric where risk demands) and issues a reusable authenticator that agencies accept via federation. The key concepts there:
+
+- **Federation broker, not a database of everything**: it asserts identity + assurance level; each agency still applies its own authorization on top ([RBAC, policy, least privilege](../rbac-and-authorization)).
+- **AAL can float**: an agency can accept AAL1 for read-only and demand AAL2 before a write action — keep login cheaper on low-risk reads.
+- **Consent & transparency**: the citizen sees exactly what attribute is being shared — government identity is also a [verifiable-credential story](../decentralized-identity-and-verifiable-credentials) in another hat.
+
+## When this shows up in architecture
+
+- **Access control (AC/IA) controls in an ATO**: RMF's IA family basically assumes PIV/CAC for employees and 800-63 levels for citizens — [FedRAMP](../fedramp-nist-rmf) assessments check how cleanly you inherit and consume that.
+- **Agency shared services**: FICAM says agencies should consume one shared IdP rather than each building its own credential store.
+- **Contractor onboarding**: the same PIV chain covers employees *and* contractors — which for security is why offboarding ([joiner-mover-leaver](../joiner-mover-leaver)) is a compliance event, not just an HR one.
+
+## Tester checklist
+
+- PIV/CAC auth: a PIV card logs in without the private key ever leaving the card (verify by checking no client key extraction is even possible).
+- Assurance float: the same citizen is authenticated at AAL1 for read and stepped up to AAL2 before a write/action, and the app honors the declared AAL.
+- Federation break: a revoked PIV/citizen account is denied at the application within the revocation SLA across every federated partner.
+- Zero proofing reuse: a citizen ID verified at a broker has no hidden path to impersonate a separate real-world identity without going through IAL2 again.
+- Evidence of level: audit records show the IAL/AAL/FAL used per transaction so a 800-63 assertion is retraceable to a dated decision.
+- Cross-agency SSO: one PIV login reaches multiple agency apps through the federation chain with no re-password prompts.
+
+## Related systems
+
+- [FedRAMP and NIST RMF](../fedramp-nist-rmf) — the compliance frame these IA/AC controls satisfy
+- [Identity and access management](../identity-and-access-management) — the enterprise IAM this plugs into
+- [Single sign-on (SSO)](../single-sign-on-sso) — the same once-auth-everywhere pattern at agency scale
+- [RBAC and authorization](../rbac-and-authorization) — what rides on top of the identity assertion
+
+## Deep dives
+
+- [Secrets, certificates and PKI](../secrets-certificates-and-pki) — the certificate and smart-card mechanics behind PIV
+- [Decentralized identity and verifiable credentials](../decentralized-identity-and-verifiable-credentials) — the citizen credential story, modern right
+- [Joiner, mover, leaver](../joiner-mover-leaver) — the lifecycle that makes revocation a control, not a chore
+- [Zero Trust architecture](../zero-trust-architecture) — identity as the perimeter every federal app assumesa:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","fedramp-nist-rmf",{"href":"/systems/fedramp-nist-rmf","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"FedRAMP and NIST Risk Management Framework"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"How government systems get authority to operate: the NIST RMF lifecycle, SP 800-53 control families and impact levels, FedRAMP for cloud services, and the ATO decision."}]]}],["$","$L2","conditional-access-and-policy-engines",{"href":"/systems/conditional-access-and-policy-engines","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Conditional access and policy engines"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The PDP/PEP decision loop, the signals that feed it, per-request vs continuous evaluation, and just-in-time privilege."}]]}],["$","$L2","sase",{"href":"/systems/sase","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"SASE and SSE"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Secure Access Service Edge: SD-WAN plus cloud-native security (SWG, CASB, ZTNA, FWaaS) delivered as a global cloud service from nearby Points of Presence."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Government identity: PIV/CAC and NIST 800-63 · System Reference"}],["$","meta","1",{"name":"description","content":"Federal identity done right: PIV and CAC cards, FICAM architecture, NIST 800-63 identity assurance levels (IAL/AAL), and how agencies, contractors, and citizens get verified once and federate everywhere."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"identity,federal,security,zero-trust,compliance,security-architect,solution-architect,enterprise-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/government-identity-piv-ficam/"}],["$","meta","8",{"property":"og:title","content":"Government identity: PIV/CAC and NIST 800-63 · System Reference"}],["$","meta","9",{"property":"og:description","content":"Federal identity done right: PIV and CAC cards, FICAM architecture, NIST 800-63 identity assurance levels (IAL/AAL), and how agencies, contractors, and citizens get verified once and federate everywhere."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/government-identity-piv-ficam/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Government identity: PIV/CAC and NIST 800-63 · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Federal identity done right: PIV and CAC cards, FICAM architecture, NIST 800-63 identity assurance levels (IAL/AAL), and how agencies, contractors, and citizens get verified once and federate everywhere."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

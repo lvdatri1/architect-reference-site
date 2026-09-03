@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Defense in depth\",\"description\":\"Layered security controls — people, process, technology — designed so that a breach at any single layer never hands the attacker the whole system.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/defense-in-depth\",\"inLanguage\":\"en\",\"keywords\":\"security, architecture, network, zero-trust, security-architect, enterprise-architect, solution-architect, devops-engineer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"network\"},{\"@type\":\"Thing\",\"name\":\"zero-trust\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Defense in depth\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/defense-in-depth\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Defense in depth"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Defense in depth"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Layered security controls — people, process, technology — designed so that a breach at any single layer never hands the attacker the whole system."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],"$L3"]}],"Enterprise Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","path",null,{"d":"M9 10V9m-2 1h4"}]
+4:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+5:["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}]
+6:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+7:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+8:["$","$L2","network",{"href":"/tags/network","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","network"]}]
+9:["$","$L2","zero-trust",{"href":"/tags/zero-trust","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","zero-trust"]}]
+1d:T1336,
+## What this system is
+
+Defense in depth is the strategy of building **many independent layers of control** so that defeating one does not defeat the system — the military idea of successive rings around the objective. One firewall, one password, or one antivirus is a *point defense*; defense in depth assumes any single control will eventually fail and therefore never lets a single failure equal total compromise.
+
+Each layer should also be *diverse* — different vendor, different mechanism, different owner — because identical layers fail for the same reason.
+
+```mermaid
+flowchart LR
+    P["Identity & policy"] --- N["Perimeter & network"]
+    N --- H["Host & endpoint"]
+    H --- A["Application"]
+    A --- D["Data"]
+    D --- P
+```
+
+An attacker entering at the network layer still has to defeat host, application, and data controls before the mission-critical asset — which is why each layer gets its own detection, not just prevention.
+
+## The layers
+
+| Layer | Examples | What it stops |
+| --- | --- | --- |
+| Physical | Guards, locks, security zones, hardware security modules | Physical tampering and theft |
+| Perimeter & network | Firewalls, segmentation, VPN/ZTA gateways, IDS/IPS, DNS filtering | Blind scanning and lateral spread |
+| Identity & access | SSO + MFA, conditional access, least privilege, JML | Credential abuse and insider access |
+| Host & endpoint | EDR, hardening, patch management, disk encryption, application allowlists | Malware execution and persistence |
+| Application | Input validation, WAF, secure code review, secrets scanning, rate limits | Injection and app-level exploits |
+| Data | Encryption at rest/in transit, tokenization, backup, DLP, access reviews | Stolen or exfiltrated data |
+
+The layers aren't a checklist to all boil down to tools — **people and process** are controls too (security awareness, incident response, change management), and they often fail *first*.
+
+## Parallel chains, not one fence
+
+Controls in depth are usually arranged in parallel so a failure in one chain doesn't drop the whole defense:
+
+```mermaid
+flowchart TB
+  ATT[Attacker] -->|attempt| PER[Network edge<br/>FW + IDS/IPS]
+  PER -->|network path| HST[Host<br/>EDR + hardening]
+  PER -->|bypasses?| IDN[Identity<br/>SSO + MFA]
+  HST -->|local access| APP[Application<br/>WAF + authz]
+  IDN -->|identity check| APP
+  APP -->|authorized only| DAT[Data<br/>encryption + ACLs]
+```
+
+## Defense in depth + Zero Trust
+
+Defense in depth and [Zero Trust](../zero-trust-architecture) are complementary, not competing:
+
+- **Zero Trust** answers *who and under what conditions* gets access, per request.
+- **Defense in depth** answers *what happens when access is somehow granted anyway* — the blast radius inside the network, host, and data.
+
+In practice: Zero Trust shrinks the perimeter to the identity; defense in depth makes sure a compromised identity still can't reach the crown jewels silently.
+
+## Principles that make it work
+
+1. **Assume failure** — design for the control that *will* be evaded, and detect it.
+2. **Diversity of mechanisms** — don't stack five logins and call it depth; vary vendors, protocols, and owners.
+3. **Detection for every prevention** — logging, alerting, and response at each layer, feeding a [SOC](../security-operations-center-soc).
+4. **Fail safe, deny by default** — when a control errors, it should deny, not allow.
+5. **Crown-jewel focus** — deepest layers protect the data that, if exfiltrated, ends the company.
+
+## Tester checklist
+
+- For each layer, enumerate what it prevents *and* what it lets through — verify the next layer catches the overflow.
+- Confirm controls have *different* failure modes: same vendor signature-based detection at two layers is one layer.
+- Check that a control failure trends toward *deny* (fail closed), not allow.
+- Verify detection layers actually produce usable alerts and that response is exercised (tabletop a breach).
+- Look for the classic gap: a control on paper but not enforced in the critical path (e.g., encryption configured but app plaintexts to another internal service).
+
+## Related systems
+
+- [Zero Trust architecture](../zero-trust-architecture) — the identity-focused perimeter that pairs with layered depth
+- [Threat modeling with STRIDE](../threat-modeling-stride) — find the threats each layer must counter
+- [OWASP Top 10](../owasp-top-10) — the application layer's threat roster
+
+## Deep dives
+
+- [Security Operations Center (SOC)](../security-operations-center-soc) — where layer detections converge
+- [Identity and access management](../identity-and-access-management) — the identity layer used by every other layer
+- [Secrets, certificates and PKI](../secrets-certificates-and-pki) — the crypto that authenticates the chain
+- [Cloud networking and hybrid connectivity](../cloud-networking-and-hybrid-connectivity) — network segmentation across the estatea:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","zero-trust-architecture",{"href":"/systems/zero-trust-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Zero Trust architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Never trust, always verify — identity-aware, micro-segmented networks that assume breach instead of defending a perimeter."}]]}],["$","$L2","sase",{"href":"/systems/sase","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"SASE and SSE"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Secure Access Service Edge: SD-WAN plus cloud-native security (SWG, CASB, ZTNA, FWaaS) delivered as a global cloud service from nearby Points of Presence."}]]}],["$","$L2","sd-wan-and-edge-connectivity",{"href":"/systems/sd-wan-and-edge-connectivity","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"SD-WAN and edge connectivity"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Connecting branch offices to the cloud: MPLS vs VPN vs SD-WAN, overlay tunneling, and application-aware path steering."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Defense in depth · System Reference"}],["$","meta","1",{"name":"description","content":"Layered security controls — people, process, technology — designed so that a breach at any single layer never hands the attacker the whole system."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"security,architecture,network,zero-trust,security-architect,enterprise-architect,solution-architect,devops-engineer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/defense-in-depth/"}],["$","meta","8",{"property":"og:title","content":"Defense in depth · System Reference"}],["$","meta","9",{"property":"og:description","content":"Layered security controls — people, process, technology — designed so that a breach at any single layer never hands the attacker the whole system."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/defense-in-depth/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Defense in depth · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Layered security controls — people, process, technology — designed so that a breach at any single layer never hands the attacker the whole system."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

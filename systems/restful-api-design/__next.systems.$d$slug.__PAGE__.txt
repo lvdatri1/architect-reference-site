@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+10:X
+15:X
+15:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"RESTful API design\",\"description\":\"Resources, verbs, and status codes done right: how to design URLs and semantics that stay consistent, versionable, and cacheable — and the versioning, pagination, and error-shape decisions that ship with them.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/restful-api-design\",\"inLanguage\":\"en\",\"keywords\":\"api, architecture, performance, developer, backend, frontend, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"api\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"performance\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"RESTful API design\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/restful-api-design\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"RESTful API design"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"RESTful API design"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Resources, verbs, and status codes done right: how to design URLs and semantics that stay consistent, versionable, and cacheable — and the versioning, pagination, and error-shape decisions that ship with them."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}],["$","$L2","frontend",{"href":"/jobs/frontend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Frontend"]}],"$L4"],["$L5","$L6","$L7"]]}]]}],"$L8","$L9"]}],["$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":"$@f","staleTime":"$10","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$10","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$10","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$10","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1c:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+21:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+22:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+23:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Frontend icon","children":[["$","path",null,{"d":"M3 5.5A2.5 2.5 0 0 1 5.5 3h13A2.5 2.5 0 0 1 21 5.5v13a2.5 2.5 0 0 1-2.5 2.5h-13A2.5 2.5 0 0 1 3 18.5v-13Z"}],["$","line",null,{"x1":3,"y1":8.5,"x2":21,"y2":8.5}],["$","line",null,{"x1":8,"y1":5.5,"x2":8,"y2":8.5}],["$","line",null,{"x1":12,"y1":5.5,"x2":12,"y2":8.5}]]}]
+4:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+5:["$","$L2","api",{"href":"/tags/api","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","api"]}]
+6:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+7:["$","$L2","performance",{"href":"/tags/performance","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","performance"]}]
+1b:T172c,
+## What this system is
+
+REST (Representational State Transfer) is a **style**, not a standard: the idea that your API is a set of **resources** (nouns) manipulated with a small set of **verbs** (HTTP methods), where each response carries enough to know what's next, and caching is an explicit part of the protocol. A well-designed REST API is boring in the best way — predictable, consistent, and learnable in an afternoon.
+
+```mermaid
+flowchart LR
+  C[Client] -->|HTTP verb + path| API[API<br/>resource model]
+  API -->|read| R1["GET /users/{id}"]
+  API -->|create| R2[POST /users]
+  API -->|partial update| R3["PATCH /users/{id}"]
+  R1 -->|200| Out[JSON + status code]
+  R2 -->|201| Out
+  R3 -->|200| Out
+```
+
+```mermaid
+flowchart LR
+  C[Client] -->|POST /users| S[Server]
+  S -->|201 + Location header| C
+  C -->|GET /users/42| S
+  S -->|200 JSON| C
+  C -->|PUT vs PATCH /users/42| S
+  S -->|200 / 204| C
+```
+
+## Resources and verbs: the core contract
+
+| Method | Semantics | Idempotent? | Typical status |
+| --- | --- | --- | --- |
+| `GET` | Read a resource or collection | Yes | 200 |
+| `POST` | Create a new resource (or trigger an action) | No | 201 + `Location` |
+| `PUT` | Replace a resource fully | Yes | 200 / 204 |
+| `PATCH` | Partial update — send only changed fields | No | 200 / 204 |
+| `DELETE` | Remove a resource | Yes | 204 |
+
+Rules that prevent most design drift:
+
+- **URLs are nouns, never verbs.** `POST /users/{id}/send` is a smell; a verb usually hides a missing resource (maybe `POST /users/{id}/email-verifications` is what you meant).
+- **Plural collections, singular items**: `GET /users`, `GET /users/{id}`. Consistency beats cleverness.
+- **Nested only for true sub-resources**: `GET /users/{id}/orders` — but a *link* (`/orders?userId=42`) is often more flexible and avoids deep nesting.
+- **Idempotency matters for retries**: POST isn't idempotent, so either make creation keyed by the client (`Idempotency-Key` header) or document that double-POST double-creates.
+- **PUT vs PATCH**: PUT replaces the whole entity (missing fields = cleared); PATCH merges only what you send. Confusing them is a data-loss bug.
+
+## Status codes: the shared vocabulary
+
+```mermaid
+flowchart LR
+  Req[Request] --> A{2xx?}
+  A -->|2xx| Ok[Success - proceed]
+  A -->|3xx| R[Redirect - follow Location]
+  A -->|4xx| C[Client error - fix the request]
+  A -->|5xx| S[Server error - retry with backoff]
+```
+
+| Range | Meaning | Examples you'll actually use |
+| --- | --- | --- |
+| 200-299 | Success | 200 OK, 201 Created, 204 No Content, 202 Accepted |
+| 300-399 | Redirect | 304 Not Modified (caching!), 301/308 |
+| 400-499 | Client fault | 400 Bad Request, 401 Unauthorized, 403 Forbidden, 404, 409 Conflict, 422 Unprocessable |
+| 500-599 | Server fault | 500, 502/504 behind a gateway |
+
+The distinctions that win arguments: **401 vs 403** (not authenticated vs not allowed), **404 vs 403** (not found vs hidden — hide resource existence from unauthorized users), **409** (state conflict: version mismatch, duplicate) vs **422** (validation failed but the resource *could* be valid with different input).
+
+## Versioning, pagination, and errors: decisions you make once
+
+```mermaid
+flowchart LR
+  Q[Versioning choices] --> A1[URL: /v2/users]
+  Q --> A2[Header: Accept: application/vnd.api+json;version=2]
+  Q --> A3[Query param: ?api-version=2]
+  A1 --> R1[Clear, cacheable, copy-and-paste friendly]
+  A2 --> R2[Cleaner URLs, invisible in logs]
+  A3 --> R3[Simple but muddies your cache key]
+```
+
+- **Version your URL** (`/v2/...`) unless you have a strong reason not to — it's the only option where the version is visible everywhere, including CDN cache keys. **Deprecate, don't break**: a 410 Gone with a `Deprecation` header beats silently changing semantics.
+- **Pagination**: cursor-based (`?cursor=...`) is the modern default for big lists (stable across inserts); page-based (`?page=2&limit=50`) is simpler but shifts as new rows arrive. Always return metadata about the page in the response, and a stable order.
+- **Errors are data, not strings**: a consistent shape (`{ "error": { "code", "message", "details", "request_id" } }`) so clients can switch on `code`, show the `message`, and give you the `request_id` to debug.
+
+```mermaid
+flowchart LR
+  P[GET /users?limit=50] --> P1[page 1 + next cursor]
+  P1 --> P2[page 2 + next cursor]
+  P2 --> P3[page 3 - no next cursor]
+```
+
+## Caching: REST's forgotten superpower
+
+- `GET` responses are **cacheable by design** — set `Cache-Control` and `ETag`, and let the [edge cache](../api-gateway-caching) do its job.
+- Never cache `POST`/`PUT`/`DELETE` bodies, and mark user-specific data `Cache-Control: private`.
+- **`304 Not Modified`** with `If-None-Match` is how you turn "recheck every 5 minutes" into almost-free polling.
+
+## Tester checklist
+
+- Verify verbs do what they say: `PUT` clears absent fields, `PATCH` doesn't; double-check idempotency by replaying a `PUT`/`DELETE` with the same payload.
+- Confirm the error contract: every 4xx has the same shape, a machine-readable `code`, and a correlating `request_id`.
+- Test status-code intent: 401 when unauthenticated, 403 when unauthorized, 404 for a nonexistent id, and — importantly — that unauthorized access to an existing id looks identical to a 404.
+- Validate pagination stability: insert rows between page fetches and confirm cursor pagination doesn't skip or duplicate (page-based will).
+- Confirm caching: `GET` responses carry `Cache-Control`/`ETag`, and a conditional re-request returns `304`.
+
+## Related systems
+
+- [API request lifecycle](../api-request-lifecycle) — the chain a REST call travels
+- [GraphQL APIs](../graphql-apis) — the same job with a different query model
+- [API gateway caching](../api-gateway-caching) — the cache layer REST is designed for
+- [Authentication vs authorization](../authentication-vs-authorization) — who the 401/403 actually talk about8:["$","$L1a",null,{"source":"$1b"}]
+9:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","api-gateway-caching",{"href":"/systems/api-gateway-caching","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"API gateway caching"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Cache-control headers, stale-while-revalidate, and cache keys — use the interactive diagram to poke at where a response can be served from."}]]}],["$","$L2","graphql-apis",{"href":"/systems/graphql-apis","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"GraphQL APIs"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"One endpoint, your exact data shape: how GraphQL's schema, resolvers, and queries change the API contract — and the pagination, batching, and caching trade-offs they bring."}]]}],["$","$L2","api-request-lifecycle",{"href":"/systems/api-request-lifecycle","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"API request lifecycle"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Follow one HTTP request as it crosses the gateway, application, cache, and database — and trace how the response finds its way back."}]]}]]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+c:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+d:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+e:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+11:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"RESTful API design · System Reference"}],["$","meta","1",{"name":"description","content":"Resources, verbs, and status codes done right: how to design URLs and semantics that stay consistent, versionable, and cacheable — and the versioning, pagination, and error-shape decisions that ship with them."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"api,architecture,performance,developer,backend,frontend,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/restful-api-design/"}],["$","meta","8",{"property":"og:title","content":"RESTful API design · System Reference"}],["$","meta","9",{"property":"og:description","content":"Resources, verbs, and status codes done right: how to design URLs and semantics that stay consistent, versionable, and cacheable — and the versioning, pagination, and error-shape decisions that ship with them."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/restful-api-design/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"RESTful API design · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Resources, verbs, and status codes done right: how to design URLs and semantics that stay consistent, versionable, and cacheable — and the versioning, pagination, and error-shape decisions that ship with them."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L21","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+19:true
+1e:null
+10:300
+10:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+f:"$undefined"

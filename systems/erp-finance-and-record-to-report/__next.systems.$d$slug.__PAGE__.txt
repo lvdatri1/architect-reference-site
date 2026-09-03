@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+13:X
+18:X
+18:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"ERP finance and record-to-report\",\"description\":\"The finance heart of the ERP: general ledger, AP/AR, inventory valuation, period close, and how every operational transaction becomes a journal entry and a report.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/erp-finance-and-record-to-report\",\"inLanguage\":\"en\",\"keywords\":\"erp, finance, accounting, reporting, workflow, enterprise-architect, solution-architect, data-architect, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"erp\"},{\"@type\":\"Thing\",\"name\":\"finance\"},{\"@type\":\"Thing\",\"name\":\"accounting\"},{\"@type\":\"Thing\",\"name\":\"reporting\"},{\"@type\":\"Thing\",\"name\":\"workflow\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ERP finance and record-to-report\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/erp-finance-and-record-to-report\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"ERP finance and record-to-report"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"ERP finance and record-to-report"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The finance heart of the ERP: general ledger, AP/AR, inventory valuation, period close, and how every operational transaction becomes a journal entry and a report."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":"$L3"}],"Solution Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9","$La"]]}]]}],"$Lb","$Lc"]}],["$Ld","$Le","$Lf","$L10"],"$L11"]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$13","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$13","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$13","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+24:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+25:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+26:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]
+4:["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}]
+5:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+6:["$","$L2","erp",{"href":"/tags/erp","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","erp"]}]
+7:["$","$L2","finance",{"href":"/tags/finance","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","finance"]}]
+8:["$","$L2","accounting",{"href":"/tags/accounting","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-rose-50 text-rose-700 ring-rose-200","children":["#","accounting"]}]
+9:["$","$L2","reporting",{"href":"/tags/reporting","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","reporting"]}]
+a:["$","$L2","workflow",{"href":"/tags/workflow","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","workflow"]}]
+1e:T15ba,
+## What this system is
+
+**Record-to-report (R2R)** is the ERP chain that turns business events into financial statements. Every operational post — a sale, a purchase, a shipment, a payment, a return — eventually becomes a **journal entry** against the **general ledger (GL)**. Finance modules live downstream of everything: [order-to-cash](../enterprise-resource-planning) feeds revenue, source-to-pay feeds liabilities, and inventory movements feed COGS (cost of goods sold).
+
+The GL is deliberately simple: accounts, debits and credits, a period (month), and a ledger. The sophistication is in what *writes* to it. When an architect says "ERP finance", they mostly mean the plumbing that keeps every upstream module's postings balanced and reconcilable.
+
+```mermaid
+flowchart LR
+    OT[Order-to-cash<br/>revenue + AR] --> GL[General ledger]
+    SP[Source-to-pay<br/>liabilities + AP] --> GL
+    PM[Plan-to-produce<br/>inventory + COGS] --> GL
+    HR[Hire-to-retire<br/>payroll + accruals] --> GL
+    GL --> P[Period close<br/>adjustments + consolidation]
+    P --> R[Financial reports<br/>P&L, balance sheet, cash flow]
+```
+
+## The double-entry discipline
+
+Every posting is a **balanced** set of debits and credits, grouped by account, department, project, and profit center. A single goods receipt touches several dims, so the finance module's job is to keep the *slices* (accounting view) consistent with the *totals* (the ledger view). Where this breaks is the eternal arguments about **valuation**:
+
+| Method | What it costs when | Surprise |
+| --- | --- | --- |
+| Standard costing | A planned unit cost; differences record as variances | Variances pile up when prices drift |
+| Moving average | Every receipt re-averages the unit cost | Fine until an audit wants exact layers |
+| FIFO / LIFO | Costs attach to specific receipt layers | Order of layers becomes the tax shape |
+
+The choice matters to the GL but is mostly invisible to operations — except at **period close**, when the variance accounts must be cleared and explained.
+
+## A whole chain landing in one entry
+
+```mermaid
+flowchart LR
+  Event["Business event<br/>ship goods / pay invoice"] -->|debit side| Dr["Dr: COGS / AP<br/>Dr: asset or expense"]
+  Event -->|credit side| Cr["Cr: inventory / AR<br/>Cr: revenue / liability"]
+  Dr -->|sum to zero| GL["GL posting<br/>balancing, dated, referenced"]
+  Cr -->|sum to zero| GL
+  GL -->|post| Book["Ledger + subledgers<br/>AR, AP, assets"]
+  Book -->|close + report| Rep["Period close + reports"]
+```
+
+## Period close, the monthly ritual
+
+Close has four jobs, in this order — and each one either passes or blocks the month:
+
+1. **Reconcile subledgers to GL** — AR and AP balances match the top-level accounts; mismatches halt the close.
+2. **Run valuations and adjustments** — inventory valuation, accruals, depreciation, currency revaluation.
+3. **Freeze and post** — lock prior periods; post only to the open period.
+4. **Report and consolidate** — P&L, balance sheet, cash flow, for each entity and the group.
+
+The metric that matters is **time-to-close**: a modern ERP posts continuously so the close is confirmation, not catch-up. If your close still needs a week of spreadsheets, the subledgers and the GL have silently diverged all month.
+
+## The reconciliation truth
+
+The GL is the last word for reporting, and it will only ever be as accurate as the feeds that reach it. The classic failure is the **settlement loop**: the payment gateway clears money in batches, the [e-commerce platform](../ecommerce-platform-architecture) records orders, and the ERP posts revenue — and the three never tie out line-by-line. The finance architecture that survives an audit automates three-way matching on *every* posting, not just the big ones.
+
+## Tester checklist
+
+- Balancing: introduce a malformed feed (an unbalanced or missing dimension posting) and confirm it is rejected, never split silently into the GL.
+- Subledger to GL: run the reconciliation for a month with known AP/AR transactions — zero unexplained difference.
+- Valuation switch: recalculate COGS under standard and moving-average for the same inventory, and confirm the GL variance accounts carry the difference explainably.
+- Close order: attempt to post to a closed period and confirm it is blocked; post an adjustment to the open period and confirm the prior period's reports are unchanged.
+- Feed integrity: guarantee even delivery of every source-systems feed (retry, dedupe, idempotency) so a re-sent posting cannot double-count.
+- Report drill-down: every report figure bisects to journal entries, source documents, and original events.
+
+## Related systems
+
+- [ERP systems](../enterprise-resource-planning) — the suite this finance core sits inside
+- [E-commerce platform architecture](../ecommerce-platform-architecture) — the revenue/settlement loop that feeds the GL
+- [Procurement (source-to-pay)](../procurement-source-to-pay) — the AP side of the ledger
+- [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) — analytics on top of the ledger
+
+## Deep dives
+
+- [Business process modeling and management](../business-process-modeling-and-management) — modeling the R2R process end-to-end
+- [Integration patterns](../integration-patterns) — the reliable feeds into the finance modules
+- [Monitoring and observability](../monitoring-and-observability) — watching the close and the feeds
+- [Data governance and catalog](../data-governance-and-catalog) — the chart of accounts as governed reference datab:["$","$L1d",null,{"source":"$1e"}]
+c:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","enterprise-resource-planning",{"href":"/systems/enterprise-resource-planning","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"ERP systems"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Order-to-cash, source-to-pay, plan-to-produce: the integrated module core behind SAP, Oracle, and Dynamics — and where the suite ends and the ecosystem begins."}]]}],["$","$L2","procurement-source-to-pay",{"href":"/systems/procurement-source-to-pay","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Procurement (source-to-pay)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Requisition, purchase order, goods receipt, invoice, 3-way match: the source-to-pay chain and where spend turns into a controlled financial process."}]]}],["$","$L2","tenancy-management-systems",{"href":"/systems/tenancy-management-systems","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Tenancy management systems"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Lease, rent, deposit, move-in, renewal, vacate: the contract-and-cash side of renting — where a unit becomes an income stream."}]]}]]}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+e:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+f:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+10:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+11:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+14:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ERP finance and record-to-report · System Reference"}],["$","meta","1",{"name":"description","content":"The finance heart of the ERP: general ledger, AP/AR, inventory valuation, period close, and how every operational transaction becomes a journal entry and a report."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"erp,finance,accounting,reporting,workflow,enterprise-architect,solution-architect,data-architect,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/erp-finance-and-record-to-report/"}],["$","meta","8",{"property":"og:title","content":"ERP finance and record-to-report · System Reference"}],["$","meta","9",{"property":"og:description","content":"The finance heart of the ERP: general ledger, AP/AR, inventory valuation, period close, and how every operational transaction becomes a journal entry and a report."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/erp-finance-and-record-to-report/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"ERP finance and record-to-report · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The finance heart of the ERP: general ledger, AP/AR, inventory valuation, period close, and how every operational transaction becomes a journal entry and a report."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L24","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+1c:true
+21:null
+13:300
+13:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+12:"$undefined"

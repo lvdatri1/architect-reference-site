@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+11:X
+16:X
+16:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Server-side rendering internals\",\"description\":\"Inside the SSR pipeline — route resolve, data load, render, stream, hydrate — plus cache headers, CDN edges, and what separates it from an SPA shell.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/server-side-rendering-internals\",\"inLanguage\":\"en\",\"keywords\":\"web, performance, architecture, developer, backend, frontend, solution-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"web\"},{\"@type\":\"Thing\",\"name\":\"performance\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Server-side rendering internals\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/server-side-rendering-internals\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Server-side rendering internals"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Server-side rendering internals"}],["$","span",null,{"className":"mt-2 inline-block rounded-full bg-emerald-100 px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-emerald-700 ring-1 ring-inset ring-emerald-200 dark:bg-emerald-900/40 dark:text-emerald-300 dark:ring-emerald-800","children":"Framework"}],["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Inside the SSR pipeline — route resolve, data load, render, stream, hydrate — plus cache headers, CDN edges, and what separates it from an SPA shell."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":"$L3"}],"Backend"]}],"$L4","$L5"],["$L6","$L7","$L8"]]}]]}],"$L9","$La"]}],["$Lb","$Lc","$Ld","$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$11","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$11","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1d:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+22:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+23:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+24:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]
+4:["$","$L2","frontend",{"href":"/jobs/frontend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Frontend icon","children":[["$","path",null,{"d":"M3 5.5A2.5 2.5 0 0 1 5.5 3h13A2.5 2.5 0 0 1 21 5.5v13a2.5 2.5 0 0 1-2.5 2.5h-13A2.5 2.5 0 0 1 3 18.5v-13Z"}],["$","line",null,{"x1":3,"y1":8.5,"x2":21,"y2":8.5}],["$","line",null,{"x1":8,"y1":5.5,"x2":8,"y2":8.5}],["$","line",null,{"x1":12,"y1":5.5,"x2":12,"y2":8.5}]]}],"Frontend"]}]
+5:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+6:["$","$L2","web",{"href":"/tags/web","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","web"]}]
+7:["$","$L2","performance",{"href":"/tags/performance","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","performance"]}]
+8:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1c:T198c,
+## What this system is
+
+Server-side rendering is not a framework checkbox — it is a **pipeline**. A browser request is a query into a machine that resolves the route, loads data, walks the component tree, and emits HTML as a byte stream; the client then layers interactivity on top through **hydration**. Understand where the pipeline is slow and you understand every SSR performance story. Understand what it does *not* do — there is still a JS bundle to fetch — and you understand why SSR is not "the end of SPAs".
+
+```mermaid
+flowchart LR
+  Req[Request] --> Resolve[Resolve route]
+  Resolve --> Load[Load data on server]
+  Load --> Render[Render component tree to HTML]
+  Render --> Stream[Stream HTML + data]
+  Stream --> Client[Browser parses HTML]
+  Client --> Hydrate[Hydration - attach handlers and state]
+  Hydrate --> Done[Interactive page]
+```
+
+## The pipeline, step by step
+
+| Stage | What happens | Cost you pay |
+| --- | --- | --- |
+| Route resolve | Server maps the URL to a component/preload entry | Library dispatch, negligible |
+| Data load | Server-side fetching (DB, APIs) *before* HTML exists | **The dominant latency for dynamic pages** |
+| Render | Component tree executes to a static HTML string | CPU work on the server |
+| Stream | HTML flushes progressively; shell paints first | Chunked transfer, edge buffering |
+| Hydrate | JS re-attaches state and event handlers to existing DOM | Bundle download + parse on the client |
+| Settle | Event handlers active; page truly interactive | Framework reconciliation |
+
+The trap: "$ quickly because it is server-rendered". Server HTML is **inert** — it has no state and no event handlers until shipped JS hydrates it. First byte can be fast while time-to-interactive still waits on the client bundle. SSR moved work from the browser to the server; hydration keeps some of it right where it was.
+
+## SPA shell vs server HTML
+
+| | SPA / CSR | SSR |
+| --- | --- | --- |
+| First request returns | Empty `<div id="root">` + many `<script>` tags | Full HTML with content, plus scripts |
+| Data for the page | Fetched client-side after mount (spinner) | In the HTML payload, already rendered |
+| No-JS / crawler | Blank shell | Content visible |
+| Route changes | Client router swaps views, no full reload | Full round trip (unless client router is layered on) |
+| Worst latency | Bundle parse + fetch waterfall | Server data load + bundle parse |
+
+The mix — **client-side transitions on top of server-rendered HTML** — is literally the modern full-stack framework play: SSR the first paint, then replace the document with client-routed views so navigation never reloads.
+
+## Hydration and its failure modes
+
+```mermaid
+flowchart TB
+  Server[Server HTML] --> Match{Client-side render matches?}
+  Match -->|Yes - reuse DOM nodes| OK[Hydrate in place - fast]
+  Match -->|No - hydration mismatch| Warn(Console mismatch warning) --> Rerender[Framework discards and re-renders on client]
+  Rerender --> Flicker[Flash of wrong content + wasted work]
+```
+
+A hydration mismatch is a debug canary: dates in the server's timezone, random values, `localStorage` reads, browser-width-dependent UI. Every mismatch means the framework throws away server work and re-renders on the client — the opposite of what SSR was for. Alternatives to full hydration: **partial hydration** (hydrate only islands), **resumability** (serialize the full app state, skip the replay of render work), and **streaming with selective hydration**.
+
+## Streaming: the shell-vs-data split
+
+Streaming SSR flushes the static frame of the page the instant it renders, while slow data-loading sections stream in on placeholder plates (React Suspense-style). TTFB drops to near-static speed; TTI only waits on the data the user actually needs. The cost: the response is a **chunked stream**, so downstream caches must flush headers correctly and you cannot simply store the whole response.
+
+## Caching and the CDN edge
+
+Per-request SSR is the expensive mode — the origin re-renders on every hit. Caching turns a dynamic page into a static asset:
+
+```mermaid
+flowchart LR
+  Origin[Origin server renders] --> H{Cache headers}
+  H -->|Cache-Control: max-age, stale-while-revalidate| Edge[CDN edge cache near user]
+  Edge --> Blade[Cached HTML to every user]
+  Edge -->|Expired, background refresh| Origin
+  H -->|no-store / private| Direct[Per-user response, no caching]
+```
+
+- **Public/short TTL** — pages that change rarely (blog posts, marketing) become edge-served static assets.
+- **stale-while-revalidate** — serve the cached copy instantly, refill in the background; users never see a cache stampede.
+- **no-store** — anything personalized (dashboards, checkout) must reach the origin every time; this is where SSR and SPA costs converge.
+- **Edge rendering** — move the render itself to a CDN function (edge runtime) so the origin only supplies data; cuts round-trips for global audiences.
+
+## The request → happy path
+
+```mermaid
+flowchart LR
+  Req[Request] -->|GET + route| Load[Server<br/>resolve + load data]
+  Load -->|data ready| Render[Server render HTML]
+  Load -->|streaming partial| Stream[Stream HTML + data]
+  Render -->|full HTML| Paint[First paint<br/>inert HTML]
+  Stream -->|script tags| Hydrate[Hydration JS bundle]
+  Paint -->|TTI after parse| Ready[Interactive page]
+  Hydrate -->|attach handlers| Ready
+```
+
+## Tester checklist
+
+- Measure TTFB and TTI **separately**; SSR pages with a heavy bundle look fast on TTFB and lie on TTI.
+- Render in a no-JS/crawler profile: content must be in the initial HTML, not injected after a fetch.
+- Grep the browser console for hydration mismatch warnings — every one is discarded server work.
+- Verify streaming reaches first paint before the slowest data plate resolves, and that the response is a proper chunked stream.
+- Check cache headers on a personalized route: `no-store` must prevent an edge cache from serving another user's dashboard.
+- Load-test the origin with a cold cache to confirm `stale-while-revalidate` avoids a wall-of-render stampede.
+
+## Related systems
+
+- [Frontend frameworks and rendering](../frontend-frameworks-and-rendering) — where the rendering models sit in the bigger picture
+- [Full-stack frameworks](../fullstack-frameworks) — the frameworks that ship this pipeline out of the box
+- [Backend web frameworks](../backend-web-frameworks) — the server machinery doing the render work
+- [API gateway caching](../api-gateway-caching) — the caching layer that turns SSR pages into edge assets9:["$","$L1b",null,{"source":"$1c"}]
+a:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","fullstack-frameworks",{"href":"/systems/fullstack-frameworks","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Full-stack frameworks"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Next.js, Nuxt, SvelteKit, Remix: server components, loaders, and actions — one codebase that renders on the server and hydrates on the client."}]]}],["$","$L2","api-gateway-caching",{"href":"/systems/api-gateway-caching","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"API gateway caching"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Cache-control headers, stale-while-revalidate, and cache keys — use the interactive diagram to poke at where a response can be served from."}]]}],["$","$L2","data-modeling-star-schemas",{"href":"/systems/data-modeling-star-schemas","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Data modeling and star schemas"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Facts, dimensions, and the star schema: how the same operational data gets modeled twice — once to transact, once to analyze — and the normalization trade-offs data architects own."}]]}]]}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+c:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+d:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+e:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+f:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+12:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Server-side rendering internals · System Reference"}],["$","meta","1",{"name":"description","content":"Inside the SSR pipeline — route resolve, data load, render, stream, hydrate — plus cache headers, CDN edges, and what separates it from an SPA shell."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"web,performance,architecture,developer,backend,frontend,solution-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/server-side-rendering-internals/"}],["$","meta","8",{"property":"og:title","content":"Server-side rendering internals · System Reference"}],["$","meta","9",{"property":"og:description","content":"Inside the SSR pipeline — route resolve, data load, render, stream, hydrate — plus cache headers, CDN edges, and what separates it from an SPA shell."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/server-side-rendering-internals/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Server-side rendering internals · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Inside the SSR pipeline — route resolve, data load, render, stream, hydrate — plus cache headers, CDN edges, and what separates it from an SPA shell."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L22","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+1a:true
+1f:null
+11:300
+11:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+10:"$undefined"

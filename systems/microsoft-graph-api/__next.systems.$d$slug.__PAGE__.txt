@@ -1,0 +1,145 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+11:X
+16:X
+16:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Microsoft Graph API\",\"description\":\"One API for all of Microsoft 365: users, mail, drives, Teams, Intune — the unified Graph model, delegated vs app-only auth, and the paging and throttling rules you live by.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/microsoft-graph-api\",\"inLanguage\":\"en\",\"keywords\":\"api, cloud, identity, architecture, developer, backend, enterprise-architect, security-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"api\"},{\"@type\":\"Thing\",\"name\":\"cloud\"},{\"@type\":\"Thing\",\"name\":\"identity\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Microsoft Graph API\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/microsoft-graph-api\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Microsoft Graph API"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Microsoft Graph API"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"One API for all of Microsoft 365: users, mail, drives, Teams, Intune — the unified Graph model, delegated vs app-only auth, and the paging and throttling rules you live by."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Enterprise Architect"]}],"$L4"],["$L5","$L6","$L7","$L8"]]}]]}],"$L9","$La"]}],["$Lb","$Lc","$Ld","$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$11","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$11","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1d:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+22:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+23:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+24:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}]
+4:["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}]
+5:["$","$L2","api",{"href":"/tags/api","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","api"]}]
+6:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+7:["$","$L2","identity",{"href":"/tags/identity","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","identity"]}]
+8:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1c:T16fe,
+## What this system is
+
+Microsoft Graph is the **single API for Microsoft 365**: instead of a separate API for Exchange, OneDrive, Teams, SharePoint, Entra ID, and Intune, everything hangs off one service rooted at `https://graph.microsoft.com`. Company data — users, mail, files, chats, devices, groups — is a graph of **entities** with **relationships** you traverse with REST verbs (or GraphQL-style select lists).
+
+```mermaid
+flowchart LR
+  App[Your app<br/>Graph SDK] -->|get token| Auth[OAuth 2.0 / MSAL<br/>delegated or app-only]
+  Auth -->|Bearer token| G[Microsoft Graph<br/>graph.microsoft.com]
+  G -->|delegated| Users[Users / Groups<br/>Entra ID]
+  G -->|delegated| Mail[Mail / Calendar<br/>Exchange Online]
+  G -->|app-only| Files[OneDrive / SharePoint]
+  G -->|app-only| Teams[Teams / Chats]
+```
+
+```mermaid
+flowchart LR
+  App[Your app] -->|Authorization header: Bearer token| G[Microsoft Graph]
+  G --> U[Users, Groups]
+  G --> M[Mail, Calendar]
+  G --> D[Drive items]
+  G --> T[Teams, Chats]
+  G --> K[Devices - Intune]
+```
+
+## The model: entities and relationships
+
+```mermaid
+flowchart LR
+  U[user] -->|memberOf| G1[group - member/owner]
+  U -->|manager| U2[user]
+  U -->|messages| M1[message]
+  U -->|drive| D1[drive]
+  G1 -->|has| D2[drive - SharePoint site]
+  G1 -->|joinable via| T1[team]
+
+```
+
+The Graph is a **true graph**: navigate relationships in either direction (`GET /me`, `GET /me/directReports`, `GET /groups/{id}/members`). Key entry points:
+
+| Resource | How you reach it |
+| --- | --- |
+| Me / users | `GET /me`, `GET /users/{id}`, `GET /users?$filter=...` |
+| Groups | `GET /groups`, `GET /groups/{id}/members` |
+| Mail | `GET /me/messages?$top=10`, `POST /me/sendMail` |
+| Calendar | `GET /me/events`, booking resources |
+| Drives/files | `GET /me/drive/root/children`, SharePoint sites & lists |
+| Teams/chats | `GET /me/chats`, `POST /chats/{id}/messages` |
+| Devices (Intune) | `GET /deviceManagement/managedDevices` |
+
+The `$select`, `$filter`, `$expand`, `$top`, `$orderby`, and `$skip` **OData query options** are the whole game: they control what comes back, so you fetch exactly what you need instead of dumping a whole entity.
+
+## Delegated vs application (app-only) auth
+
+```mermaid
+flowchart TB
+  T[Which token?] --> Q{Signed-in user involved?}
+  Q -->|yes - act on the user's behalf| D[Delegated]
+  Q -->|no - background service| A[Application-only]
+  D --> D1[Scopes: Mail.Read, Files.ReadWrite<br/>user consented, acts as the user]
+  A --> A1[Roles: app with granted permissions<br/>tenant-admin consent, acts as the app]
+```
+
+- **Delegated**: the app acts *as* a signed-in user, with **scopes** (like `Mail.Read`) that the user (or tenant admin) consents to. The token represents user + app.
+- **Application-only**: no user — the app has tenant-level **roles** (e.g. admin-granted `Mail.Read` for the whole org). This is the dangerous one: an app-only token reaches *everything* its app-level permissions allow, no individual user in the loop.
+
+The recurring incident: an app registered with **Application permissions** when it only needed **Delegated** — one bad consent and a background job can read every mailbox. Least privilege means choosing the *narrowest* model that does the job.
+
+## The API mechanics: tokens, throttling, pagination
+
+```mermaid
+flowchart LR
+  A[Request] --> T{Limit hit?}
+  T -->|yes, 429 + Retry-After| R[Backoff + retry]
+  T -->|no| P{Nothing more?}
+  P -->|partial| C[Follow @odata.nextLink]
+  P -->|complete| D[Done - respect Retry-After]
+```
+
+- **Auth**: always a **Bearer token from MSAL/OAuth 2.0** — never the user's password. Tokens are short-lived; refresh before expiry.
+- **Pagination**: Graph returns **`@odata.nextLink`** — follow it for the next page. Don't re-run the same query; don't assume a single response is the whole set.
+- **Throttling**: Graph has rate limits (hit `429` with a `Retry-After`). The contract: **fetch less, cache more, and honor backoff** — a hammering batch app gets slowed by design, and retrying too fast makes it worse.
+- **Batch**: `$batch` lets you combine up to 20 requests into one — the answered prayer for chatty apps that would otherwise pad a round-trip per call.
+
+## The mistakes repeatedly remembered
+
+- Using app-only permissions for a workflow that acts on a single user's behalf — every mailbox becomes readable.
+- Ignoring pagination and paginating *by hand* — a 10k-row migration that assumed one response is a classic.
+- No throttling handling: re-firing instantly on `429` triggers the very backoff the API is enforcing.
+- Storing a user's password to "log in and sync mail" instead of using delegated auth properly.
+- Treating `GET /me` as "any user": with app-only auth, `/me` doesn't exist as a personal context — you must target `/users/{id}`.
+
+## Tester checklist
+
+- Confirm delegated vs app-only: a background job must *not* have scopes it can't use, and an app-only token must not be able to read `GET /me`.
+- Hit a paginated endpoint and verify you follow `@odata.nextLink` end-to-end (all pages collected, none skipped).
+- Hammer a throttled endpoint and verify your client honors `Retry-After` instead of spinning.
+- Test least privilege: a `Mail.Read`-only app cannot write or read other data types; add the minimal scope and confirm a forbidden call returns the expected error.
+- Batch-test: combine 20 small calls into one `$batch` and confirm it saves round-trips without breaking errors.
+
+## Related systems
+
+- [OAuth 2.0 and OpenID Connect](../oauth2-openid-connect) — the token flow Graph's Bearer header rides on
+- [Single sign-on (SSO)](../single-sign-on-sso) — Entra ID identity is the base of `/me`
+- [RBAC and authorization](../rbac-and-authorization) — the app-only roles and scopes in action
+- [Scim identity provisioning](../scim-identity-provisioning) — how this graph feeds user lifecycle9:["$","$L1b",null,{"source":"$1c"}]
+a:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","azure-api-management-apim",{"href":"/systems/azure-api-management-apim","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Azure API Management (APIM)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"APIM's anatomy — gateway, publisher portal, developer portal, subscriptions, policies, and identity — and the request path every request takes through it."}]]}],["$","$L2","serverless-computing-and-functions",{"href":"/systems/serverless-computing-and-functions","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Serverless computing and functions"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Lambda, Azure Functions, and the event-driven model — cold starts, fan-out, orchestration, idempotency, and when serverless is - and isn't - the right call."}]]}],["$","$L2","asyncapi",{"href":"/systems/asyncapi","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"AsyncAPI"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}]]}]]}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+c:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+d:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+e:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+f:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+12:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Microsoft Graph API · System Reference"}],["$","meta","1",{"name":"description","content":"One API for all of Microsoft 365: users, mail, drives, Teams, Intune — the unified Graph model, delegated vs app-only auth, and the paging and throttling rules you live by."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"api,cloud,identity,architecture,developer,backend,enterprise-architect,security-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/microsoft-graph-api/"}],["$","meta","8",{"property":"og:title","content":"Microsoft Graph API · System Reference"}],["$","meta","9",{"property":"og:description","content":"One API for all of Microsoft 365: users, mail, drives, Teams, Intune — the unified Graph model, delegated vs app-only auth, and the paging and throttling rules you live by."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/microsoft-graph-api/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Microsoft Graph API · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"One API for all of Microsoft 365: users, mail, drives, Teams, Intune — the unified Graph model, delegated vs app-only auth, and the paging and throttling rules you live by."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L22","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+1a:true
+1f:null
+11:300
+11:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+10:"$undefined"

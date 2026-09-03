@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Computer vision pipelines\",\"description\":\"How images become labels: ingestion, preprocessing, detection, classification, and the hardware and latency realities of production vision systems.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/computer-vision-pipelines\",\"inLanguage\":\"en\",\"keywords\":\"ai, architecture, data, pipeline, developer, backend, tester, solution-architect, data-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"ai\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"data\"},{\"@type\":\"Thing\",\"name\":\"pipeline\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Computer vision pipelines\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/computer-vision-pipelines\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Computer vision pipelines"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Computer vision pipelines"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"How images become labels: ingestion, preprocessing, detection, classification, and the hardware and latency realities of production vision systems."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}],["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Tester"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}]
+4:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+5:["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}]
+6:["$","$L2","ai",{"href":"/tags/ai","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","ai"]}]
+7:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+8:["$","$L2","data",{"href":"/tags/data","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","data"]}]
+9:["$","$L2","pipeline",{"href":"/tags/pipeline","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-orange-50 text-orange-700 ring-orange-200","children":["#","pipeline"]}]
+1d:T16f5,
+## What this system is
+
+Computer vision turns pixels into decisions. A camera produces frames; your system must locate objects (**detection**), describe them (**classification**), track them across time (**tracking**), and often do it fast and close to the source. The model is the star, but four things decide whether a vision pipeline survives production: **data plumbing**, **preprocessing**, **model-serving**, and **the hardware** you run it on.
+
+```mermaid
+flowchart LR
+  S[Camera / source] -->|frames| A[Acquire]
+  A -->|decode + stabilize| P[Preprocess]
+  P -->|resize + normalize| M[Model inference]
+  M -->|boxes + classes + scores| R[Post-process]
+  R -->|filter + dedupe| D[Decide & act]
+  D -->|annotations| S1[(Event store)]
+```
+
+## Ingestion: streams, not files
+
+```mermaid
+sequenceDiagram
+  participant C as Camera
+  participant P as Stream hub
+  participant W as Worker pool
+  participant S as Storage
+  C->>P: continuous frames (RTSP/WebRTC)
+  P->>W: frames to workers
+  W-->>P: {object, confidence, location}
+  W->>S: annotated frame (sampled)
+```
+
+- **Frame rate vs value**: 30 fps of raw video burns bandwidth and GPU for little gain. Most pipelines sample — 1–5 fps for people counting, event-triggered capture for alerts.
+- **Stream middleware** (Kafka, Kinesis, MQTT) buffers and fans frames out so a slow model never forces a dropped camera.
+- **Sampled persistence**: store all detections (small JSON), store a *fraction* of full frames (they're huge and rarely needed later).
+
+## Preprocessing: small, cheap, and consistent
+
+```mermaid
+flowchart TB
+  I[Raw frame - e.g. 3840x2160] --> D[Decode to RGB]
+  D --> R[Resize to model input - e.g. 640x640]
+  R --> N[Normalize + color space]
+  N --> P[Pack into tensor]
+  P --> M[Inference]
+```
+
+Three rules that matter more than any model trick:
+
+- **Match training preprocessing exactly** — resize method, mean normalization, channel order (BGR vs RGB) all quietly destroy accuracy if mismatched.
+- **Do it before the model, off the critical path** — decode/resize with hardware acceleration (GPU/DSP, or codecs), never in Python loops.
+- **Resize is a trade, not a detail** — smaller input = faster, but small objects disappear. Match input resolution to the smallest object you must detect.
+
+## Detection vs classification
+
+```mermaid
+flowchart LR
+  subgraph Detect["Object detection"]
+    D1[Frame] --> D2[Bounding boxes<br/>+ class + confidence]
+  end
+  subgraph Classify["Classification"]
+    C1[Single image] --> C2[One label<br/>e.g. defect / no defect]
+  end
+  subgraph Seg["Segmentation"]
+    S1[Image] --> S2[Every pixel gets a class]
+  end
+```
+
+Pick the cheapest tool that answers the question:
+
+- **Classification** answers *"which one?"* — a single image in, one label out. Cheapest, fastest, best accuracy per compute.
+- **Detection** answers *"where and what?"* — boxes, needed when objects are among clutter or multiple.
+- **Segmentation** answers *"exactly which pixels?"* — expensive; use only when pixel-level boundaries matter (medical imaging, autonomous driving).
+
+## Model serving: the latency stack
+
+```mermaid
+sequenceDiagram
+  participant A as Application
+  participant S as Served model (Triton / OpenVINO / TensorRT)
+  participant G as GPU pool
+  A->>S: batch of frames
+  S->>G: batched inference
+  G-->>S: boxes + scores
+  S-->>A: structured results
+```
+
+- **Batch, don't stream one-by-one**: GPUs are throughput machines; group frames (even 4–8) to amortize fixed overhead.
+- **Serve next to the data**: edge deployment (Jetson, edge GPU appliance in the factory/office) beats round-tripping frames to cloud — the latency and bandwidth math usually decides it: cloud for batch, edge for real-time.
+- **Post-process off the model**: NMS (non-max suppression) to collapse overlapping boxes, confidence thresholds, and class filtering run cheaply in CPU code — don't pay GPU for them.
+
+## The hardware reality
+
+| Where it runs | Typical stack | When |
+| --- | --- | --- |
+| On-device / edge | CPU + DSP/NPU, INT8 quantized model | Real-time, privacy, offline |
+| On-prem GPU | TensorRT/Optimized engine box | Sustained high fps, no cloud egress |
+| Cloud | GPU instances, auto-scaled | Bursty, batch analysis, elastic cost |
+
+Quantization (FP32 → INT8) is the classic lever: ~4× throughput for a small accuracy dip. Combined with pruning and distillation it is how models the size of a small LLM end up running on a $50 camera module.
+
+## Tester checklist
+
+- **Data mismatch**: feed preprocessed frames and raw frames to the same model assert accuracy is the same — preprocessing must not be the silent accuracy killer.
+- **Corner cases**: occluded objects, low light, mirrored images, and frames with the same object partially cut off at frame edges.
+- **Determinism**: two runs over identical inputs should produce identical outputs (watch floating-point variance across batch sizes).
+- **Latency SLO**: measure end-to-end p95 under load, not the model's reported single-inference time — queueing and batching dominate.
+- **Drift**: the live distribution (lighting, angles, season) drifts from training data; sample new detections periodically and compare confidence distributions.
+
+## Related systems
+
+- [LLM agents and workflows](../llm-agents-and-workflows) — vision models feed a multimodal agent the same way RAG feeds it text
+- [LLM RAG pipeline](../llm-rag-pipeline) — vector search on image embeddings uses the same retrieval stack
+- [Data pipelines ETL/ELT](../data-pipelines-etl-elt) — vision annotations land in the same warehouse as every other signal
+- [Kubernetes and container orchestration](../kubernetes-and-container-orchestration) — how GPU inference pods get scheduled and scaled
+- [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) — where detection events become reporting tablesa:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","llm-agents-and-workflows",{"href":"/systems/llm-agents-and-workflows","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"LLM agents and workflows"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Agent loops, tool calling, memory, and guardrails: the orchestration patterns that turn a single LLM call into a multi-step workflow."}]]}],["$","$L2","llm-rag-pipeline",{"href":"/systems/llm-rag-pipeline","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"LLM RAG pipeline"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Retrieval-augmented generation: embedding, vector search, and how a prompt gets grounded in your own data instead of the model’s memory."}]]}],["$","$L2","mcp-and-a2a-protocols",{"href":"/systems/mcp-and-a2a-protocols","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"MCP and A2A protocols"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Model Context Protocol for agent-to-tool, Agent2Agent for agent-to-agent: discovery, message flow, task lifecycle, and how the two interoperability layers compose."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Computer vision pipelines · System Reference"}],["$","meta","1",{"name":"description","content":"How images become labels: ingestion, preprocessing, detection, classification, and the hardware and latency realities of production vision systems."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"ai,architecture,data,pipeline,developer,backend,tester,solution-architect,data-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/computer-vision-pipelines/"}],["$","meta","8",{"property":"og:title","content":"Computer vision pipelines · System Reference"}],["$","meta","9",{"property":"og:description","content":"How images become labels: ingestion, preprocessing, detection, classification, and the hardware and latency realities of production vision systems."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/computer-vision-pipelines/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Computer vision pipelines · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"How images become labels: ingestion, preprocessing, detection, classification, and the hardware and latency realities of production vision systems."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

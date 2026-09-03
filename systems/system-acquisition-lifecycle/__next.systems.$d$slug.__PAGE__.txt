@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+12:X
+17:X
+17:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"System acquisition lifecycle\",\"description\":\"From an unmet business need to a retired system: analyze requirements, weigh build-vs-buy, select software, implement, operate, and retire — with the decision gates and exit criteria that make each step reversible.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/system-acquisition-lifecycle\",\"inLanguage\":\"en\",\"keywords\":\"lifecycle, acquisition, governance, process, enterprise-architect, solution-architect, developer, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"lifecycle\"},{\"@type\":\"Thing\",\"name\":\"acquisition\"},{\"@type\":\"Thing\",\"name\":\"governance\"},{\"@type\":\"Thing\",\"name\":\"process\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"System acquisition lifecycle\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/system-acquisition-lifecycle\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"System acquisition lifecycle"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"System acquisition lifecycle"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"From an unmet business need to a retired system: analyze requirements, weigh build-vs-buy, select software, implement, operate, and retire — with the decision gates and exit criteria that make each step reversible."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":"$L3"}],"Solution Architect"]}],"$L4","$L5"],["$L6","$L7","$L8","$L9"]]}]]}],"$La","$Lb"]}],["$Lc","$Ld","$Le","$Lf"],"$L10"]}],"isPartial":"$@11","staleTime":"$12","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$12","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$12","varyParams":"$17"},{"rsc":"$L18","isPartial":"$@19","staleTime":"$12","varyParams":"$17"}],"isUpgradeableISRFallback":false,"a":"$@1a","rootVaryParams":null,"needsRuntimeRequest":"$@1b"}
+1c:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+23:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+24:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+25:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]
+4:["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}]
+5:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+6:["$","$L2","lifecycle",{"href":"/tags/lifecycle","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","lifecycle"]}]
+7:["$","$L2","acquisition",{"href":"/tags/acquisition","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-rose-50 text-rose-700 ring-rose-200","children":["#","acquisition"]}]
+8:["$","$L2","governance",{"href":"/tags/governance","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-orange-50 text-orange-700 ring-orange-200","children":["#","governance"]}]
+9:["$","$L2","process",{"href":"/tags/process","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","process"]}]
+1d:T1c05,
+## What this system is
+
+Adding a new system to an organization is a **lifecycle with decision gates**, not a procurement event. It runs from *"we have a business need and no system for it"* through selection, implementation, and years of operation, to an eventual retirement that must not orphan the data. The whole chain is a single question repeated at each gate: **what must be true before we spend the next level of money and commitment?**
+
+```mermaid
+flowchart LR
+  R[Analyze requirements] --> S[Select option - build vs buy]
+  S --> C[Choose software / solution]
+  C --> I[Implement - deploy + migrate]
+  I --> O[Operate - maintain + evolve]
+  O --> T[Retire - extract + decommission]
+  T -.->|lessons| R
+```
+
+Each arrow is a gate. The lifecycle succeeds when every gate is crossed on *evidence* — a documented requirement, a scored option, a signed contract, a successful go-live, a clean exit — and fails when a phase is skipped on momentum.
+
+## The five phases and their gates
+
+| Phase | What you do | Artifact / decision | Exit gate |
+| --- | --- | --- | --- |
+| **1 · Analyze requirements** | Understand the real need, not the assumed solution | Requirements spec, success criteria, stakeholders | Every requirement is testable and has an owner |
+| **2 · Select option** | Decide build vs buy vs extend vs outsource | Options analysis, recommendation | The rejected options are documented *and why* |
+| **3 · Choose software** | Evaluate vendors/solutions against the spec | Shortlist, scored RFP, contract | Selection is scored against the spec, not the demo |
+| **4 · Implement** | Configure, integrate, migrate data, train | Cutover plan, go-live record | Data migrated + verified; users trained; rollback defined |
+| **5 · Operate** | Run, support, upgrade, evolve | SLAs, release cadence, roadmap | The system is owned, measured, and improveable |
+| **6 · Retire** | Extract data, stop spend, decommission | Data extract, decommission plan | Nothing still depends on it; data is preserved or disposed |
+
+The lifecycle's dirty secret: **phase 6 is usually the one nobody planned**, so data gets stranded, integrations keep pointing at dead systems, and the "new system" spend never actually ends.
+
+## Analyze requirements — the phase that decides everything
+
+```mermaid
+flowchart LR
+  Need[Business need] -->|baseline| Current[As-is - what exists today]
+  Need -->|who + why| Stake[Stakeholders + pain]
+  Current -->|gaps| Spec[Requirements spec]
+  Stake -->|wants + constraints| Spec
+  Spec -->|prioritize| Mapped[Must / should / could]
+  Mapped -->|agree scope + budget| Criteria[Success criteria + cost budget]
+```
+
+The trap here is **skipping to the solution**. Requirements analysis must describe the *need* ("orders take 3 days to approve") before anyone names a product. And every requirement needs a **must / should / could** weight and a **cost ceiling** — because the selection phase will otherwise be decided by the shiniest demo, not the spec.
+
+## Select option: build vs buy vs extend
+
+| Option | Pick when | Hidden cost to budget |
+| --- | --- | --- |
+| **Buy / SaaS** | Need is common, market is mature | Integration, data migration, vendor lock-in |
+| **Build custom** | Need is a differentiator, no fit | Long lifecycle, you own the bugs and roadmap |
+| **Extend existing** | Adjacent system already holds the data | Technical debt, coupling to the legacy core |
+| **Outsource / BPO** | Execution is not a core capability | Governance, hand-off quality, exit penalties |
+
+The honest rule: **buy when the process is commodity, build when it is strategy.** And an option "analysis" that never seriously scored the other three options is a memo, not a gate.
+
+## Choose software: the scored selection
+
+A defensible selection scores candidates against the **requirements spec** — functional fit, integration effort, total cost of ownership, vendor viability, security posture — before any demo impressions. The pattern that saves organizations:
+
+1. **Shortlist** from the spec, not from brand awareness.
+2. **Scored RFP** — every candidate answers the same questions, weighted to must/should/could.
+3. **Proof of concept** — the top candidate proves the riskiest integration against *your* data, not a scripted demo.
+4. **Negotiate + contract** — lock the scored commitments (uptime, support SLA, migration help, exit data rights) into the contract.
+
+**Demo theater** is the number-one selection killer: a polished demo hides the gaps the scored spec would have caught.
+
+## Implement: configure, migrate, cut over
+
+```mermaid
+flowchart LR
+  C[Configure + integrate] --> M[Migrate data]
+  M --> V[Verify - reconcile + smoke test]
+  V --> T[Train + communications]
+  T --> G[Go-live cutover]
+  G --> R[Rollback - rehearsed, not hoped]
+  G --> L[Live support + hypercare]
+```
+
+Implementation converts the signed contract into a running system. The three things that break it:
+
+- **Data migration treated as a copy job** — it is a reconciliation project; the old system and the new must agree on counts and totals before go-live.
+- **Training as an afterthought** — a system the users don't trust gets bypassed by shadow spreadsheets.
+- **Rollback as a hope** — the cutover plan must name the exact condition under which you *will* roll back, and prove it was rehearsed.
+
+## Operate, then retire
+
+- **Operate** — the system lives inside [ITIL change and release management](../itil-change-and-release-management) and [DevOps delivery loop](../devops-delivery-loop): owned, measured, upgraded, and improved on a roadmap. A system with no owner is already retired in spirit.
+- **Retire** — the end game: extract all data in a usable, documented format, confirm nothing still depends on the system (integrations, reports, people), decommission the infrastructure, and stop the spend. A good exit is part of the contract from day one — **you cannot extract data the vendor won't release** unless it was negotiated.
+
+## Tester checklist
+
+- Requirements traceability: follow one must-have requirement from spec → selection score → contract → acceptance test → live.
+- Selection evidence: audit the RFP scores and confirm the winning candidate actually outscored, not just out-demoed.
+- Migration reconcile: run the parallel count/total check and find the discrepancies *before* cutover, not after.
+- Rollback drill: execute the rehearsed rollback and confirm the old system and its data are actually intact.
+- Exit drill: produce the data-extract and dependency inventory as if retiring today — if it can't be done, the contract is failing.
+
+## Related systems
+
+- [Software development lifecycle (SDLC)](../software-development-lifecycle) — the build-side lifecycle this wraps around
+- [Business process modeling and management](../business-process-modeling-and-management) — the process requirements the new system must carry
+- [ITIL change and release management](../itil-change-and-release-management) — the operate-phase governance every cutover lands in
+- [Enterprise resource planning](../enterprise-resource-planning) — the typical big acquisition, with its data-migration and retirement weighta:["$","$L1c",null,{"source":"$1d"}]
+b:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","software-development-lifecycle",{"href":"/systems/software-development-lifecycle","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Software development lifecycle (SDLC)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"From a vague ask to a running system: the phases — requirements, analysis, design, build, test, deploy, operate — with the entry/exit criteria and artifacts each phase must produce before the next is allowed to start."}]]}],["$","$L2","grants-management-life-cycle",{"href":"/systems/grants-management-life-cycle","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Grants management life-cycle"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The full life of an award: opportunity announcement, application, merit review, award, performance reporting, drawdown, and closeout — with the compliance obligations unique to federal and state funding."}]]}],["$","$L2","decentralized-identity-and-verifiable-credentials",{"href":"/systems/decentralized-identity-and-verifiable-credentials","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Decentralized Identity and Verifiable Credentials"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Self-sovereign identity: Decentralized Identifiers (DIDs), verifiable credentials, and the issuer-holder-verifier triangle replacing centralized account databases."}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+d:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+e:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+f:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+10:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+13:["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"System acquisition lifecycle · System Reference"}],["$","meta","1",{"name":"description","content":"From an unmet business need to a retired system: analyze requirements, weigh build-vs-buy, select software, implement, operate, and retire — with the decision gates and exit criteria that make each step reversible."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"lifecycle,acquisition,governance,process,enterprise-architect,solution-architect,developer,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/system-acquisition-lifecycle/"}],["$","meta","8",{"property":"og:title","content":"System acquisition lifecycle · System Reference"}],["$","meta","9",{"property":"og:description","content":"From an unmet business need to a retired system: analyze requirements, weigh build-vs-buy, select software, implement, operate, and retire — with the decision gates and exit criteria that make each step reversible."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/system-acquisition-lifecycle/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"System acquisition lifecycle · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"From an unmet business need to a retired system: analyze requirements, weigh build-vs-buy, select software, implement, operate, and retire — with the decision gates and exit criteria that make each step reversible."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L23","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+18:["$","$1","c",{"children":[null,["$","$L24",null,{"parallelRouterKey":"children","template":["$","$L25",null,{}]}]]}]
+1b:true
+20:null
+12:300
+12:C
+1a:0
+14:"$undefined"
+16:"$undefined"
+19:"$undefined"
+11:"$undefined"

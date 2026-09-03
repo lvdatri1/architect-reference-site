@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+14:X
+19:X
+19:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Oracle database ecosystem\",\"description\":\"Past the PL/SQL myth: Oracle database's real architecture — redo logs, undo segments, the buffer cache, RAC, and Data Guard — and why 'it's just a database' is never true in practice.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/oracle-database-ecosystem\",\"inLanguage\":\"en\",\"keywords\":\"database, architecture, cloud, data-architect, backend, cloud-engineer, solution-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"database\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"cloud\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Oracle database ecosystem\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/oracle-database-ecosystem\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Oracle database ecosystem"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Oracle database ecosystem"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Past the PL/SQL myth: Oracle database's real architecture — redo logs, undo segments, the buffer cache, RAC, and Data Guard — and why 'it's just a database' is never true in practice."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":["$L3","$L4","$L5","$L6"]}],"Backend"]}],"$L7","$L8"],["$L9","$La","$Lb"]]}]]}],"$Lc","$Ld"]}],["$Le","$Lf","$L10","$L11"],"$L12"]}],"isPartial":"$@13","staleTime":"$14","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$14","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$14","varyParams":"$19"},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$14","varyParams":"$19"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+24:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+25:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+26:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+27:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}]
+4:["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}]
+5:["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}]
+6:["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]
+7:["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}]
+8:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+9:["$","$L2","database",{"href":"/tags/database","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","database"]}]
+a:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+b:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+1f:T18e2,
+## What this system is
+
+The Oracle database is the workhorse of enterprises that predate the cloud era — and a surprising number that don't. It's a relational database, but the real Oracle is not the SQL you write; it's the **architecture** underneath it. When a DBA says "redo," "undo," "RAC," or "Data Guard," they're describing the machinery that makes a single database a *system* you can run, recover, scale, and fail over.
+
+```mermaid
+flowchart LR
+  APP[Application<br/>SQL via JDBC / OCI] -->|SQL| SGA[SGA: shared pool<br/>buffer cache]
+  SGA -->|parse + execute| BG[Background procs<br/>LGWR, DBWR, CKPT]
+  BG -->|dirty blocks| DATA[Datafiles]
+  BG -->|LGWR: log force| REDO[Redo log groups]
+  SGA -->|read-consistency + rollback| UNDO[Undo tablespace]
+```
+
+```mermaid
+flowchart LR
+  App[App - JDBC / OCI / SQL*Plus] --> SGA[SGA<br/>shared pool + buffer cache]
+  SGA --> LGWR[LGWR - log writer]
+  SGA --> DBWR[DBWR - database writer]
+  LGWR --> REDO[(Redo log groups<br/>ARCH goes to archive logs)]
+  DBWR --> DATA[(Datafiles + undo tablespace)]
+  DATA --> CKPT[Checkpoint - sync points]
+```
+
+## The architecture that makes Oracle Oracle
+
+| Moving part | What it does | Why you'll hear it in the room |
+| --- | --- | --- |
+| **SGA** | Shared memory: parse cache, buffer cache, redo buffer | "Tune the buffer cache" = most of Oracle performance talk |
+| **Redo log** | Append-only journal of every change, written *by LGWR before commit returns* | "Redo too small" / "log switch storm" — commit latency is redo latency |
+| **Undo** | Old copies of rows for read-consistency + rollback | "ORA-01555 snapshot too old" kills long-running readers |
+| **Checkpoint** | Progress marker tying disk writes to redo | Crash recovery replays redo from the last checkpoint |
+| **Datafiles** | The actual on-disk tables/indices (in tablespaces) | "Tablespace full" — a full datafile fails every insert |
+| **PGA** | Per-session memory for sorts/hashes | Sort-to-disk = where big queries slow down |
+
+**Commits are redo-bound, not datafile-bound.** When you `COMMIT`, Oracle guarantees the redo (not the data) reached disk — the datafile write happens later, batched by DBWR. That's the single idea that explains both Oracle's speed and its recovery behavior: it can always *replay* what redo recorded.
+
+## Read consistency: undo is the time machine
+
+```mermaid
+sequenceDiagram
+  participant U as Session A (updater)
+  participant S as Session B (long reader)
+  participant DB as Oracle
+
+  U->>DB: UPDATE row X (new value)
+  DB->>DB: keep old value in undo
+  S->>DB: SELECT row X
+  DB->>DB: use undo to serve pre-update version
+  DB->>S: consistent snapshot, no locks needed
+```
+
+A long-running `SELECT` sees a **consistent snapshot**, not "whatever's on disk right now." Oracle builds that snapshot from current data + undo. This is why a big report doesn't block writers, and why "snapshot too old" appears when undo gets overwritten (usually an undo tablespace or retention setting).
+
+## RAC: one database, many instances
+
+```mermaid
+flowchart LR
+  Client[App / connection pool] --> L1[Instance 1 - node A]
+  Client --> L2[Instance 2 - node B]
+  Client --> L3[Instance 3 - node C]
+  L1 --> CF[Cluster - shared cache / interconnect]
+  L2 --> CF
+  L3 --> CF
+  CF --> ST[(Shared storage - ASM / SAN)]
+```
+
+Oracle Real Application Clusters (RAC) runs **multiple instances against one shared database** on shared storage. The payoff is high availability (a node dies, the others keep serving) and scale (more instances = more CPU/memory). The catch: it's shared-storage architecture, so everything funnels through the shared disk — and performance depends on the interconnect and on avoiding cross-instance traffic on hot blocks.
+
+**Standby is a different animal —** that's **Data Guard**:
+
+```mermaid
+flowchart LR
+  P[Primary database] -->|redo shipped live| DB[Data Guard:<br/>physical / logical standby]
+  DB -->|apply, near real-time| S[(Standby database)]
+  FAIL[Primary outage] -->|switchover / failover| DB
+```
+
+Data Guard keeps a **standby database** current by shipping redo and applying it. Physical standby = identical block-for-block copy (good for recovery + read-only reporting); logical standby = re-applied SQL (read/write ready but coverage varies). RAC and Data Guard are complementary: RAC covers instance/node loss inside one cluster; Data Guard covers database *site* loss and is half of every DR story.
+
+## The parts people forget
+
+- **Tablespaces ≠ schemas.** A tablespace is physical (datafiles on disk); a schema/user is logical. "Put the table in a big tablespace" and "give the app its own schema" are different actions.
+- **PL/SQL is compiled, not interpreted.** Stored procedures run in the DB; calling one from the app avoids shipping SQL text but couples your logic to Oracle.
+- **NLS/Oracle dates.** `TO_DATE`/`TO_CHAR` with explicit format masks; date arithmetic is in days. The classic "dates off by one" is an NLS format mismatch, not a timezone bug.
+- **Licensing is the real constraint.** Enterprise Edition features (RAC, Data Guard, partitioning, compression) are separately licensed. Architecture decisions are often *licensing* conversations first.
+
+## Tester checklist
+
+- Force a kill (-9) on a session mid-transaction and confirm other readers are unaffected (relying on undo, not locks).
+- Watch a `COMMIT` return while LGWR is deliberately delayed — understand why commit is redo-bound, and what `COMMIT NOWAIT` changes.
+- Trigger a checkpoint and confirm recovery replays only from the last checkpoint, not from the beginning.
+- Create a runaway long-running `SELECT` and update rows underneath it; confirm the reader sees a consistent snapshot and -- if undo overrites -- you get ORA-01555.
+- For RAC: kill one instance and confirm the service stays up; for Data Guard: do a switchover and a real failover and time it.
+
+## Related systems
+
+- [Database indexing](../database-indexing) — the B-tree and table scans that run inside these datafiles
+- [Cloud computing fundamentals](../cloud-computing-fundamentals) — where Oracle database lives in the shared-responsibility world
+- [Oracle Cloud Infrastructure](../oracle-cloud-infrastructure) — running and managing Oracle database with the rest of the stack
+- [Change data capture](../change-data-capture) — how the redo/archive log becomes a streaming sourcec:["$","$L1e",null,{"source":"$1f"}]
+d:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","oracle-cloud-infrastructure",{"href":"/systems/oracle-cloud-infrastructure","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Oracle Cloud Infrastructure (OCI)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The Oracle cloud map: compartments, VCN, compute/Exadata, Autonomous Database, OCI Object Storage, and IAM — and how Oracle database fits natively in OCI unlike anywhere else."}]]}],["$","$L2","data-warehouse-lakehouse-architecture",{"href":"/systems/data-warehouse-lakehouse-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Data warehouse and lakehouse architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Warehouse vs data lake vs lakehouse: where curated, governed, analytical data lives, how they differ on storage and schema, and the decisions that make one the right home for your data."}]]}],["$","$L2","horizontal-vs-vertical-scaling",{"href":"/systems/horizontal-vs-vertical-scaling","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Horizontal vs vertical scaling"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The two scaling axes, what each actually buys you, the way each axis fails, and the decision rules for choosing — plus where statelessness and load distribution fit."}]]}]]}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+10:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+11:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+12:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+15:["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L24",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Oracle database ecosystem · System Reference"}],["$","meta","1",{"name":"description","content":"Past the PL/SQL myth: Oracle database's real architecture — redo logs, undo segments, the buffer cache, RAC, and Data Guard — and why 'it's just a database' is never true in practice."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"database,architecture,cloud,data-architect,backend,cloud-engineer,solution-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/oracle-database-ecosystem/"}],["$","meta","8",{"property":"og:title","content":"Oracle database ecosystem · System Reference"}],["$","meta","9",{"property":"og:description","content":"Past the PL/SQL myth: Oracle database's real architecture — redo logs, undo segments, the buffer cache, RAC, and Data Guard — and why 'it's just a database' is never true in practice."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/oracle-database-ecosystem/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Oracle database ecosystem · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Past the PL/SQL myth: Oracle database's real architecture — redo logs, undo segments, the buffer cache, RAC, and Data Guard — and why 'it's just a database' is never true in practice."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L25","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+17:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1a:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1d:true
+22:null
+14:300
+14:C
+1c:0
+16:"$undefined"
+18:"$undefined"
+1b:"$undefined"
+13:"$undefined"

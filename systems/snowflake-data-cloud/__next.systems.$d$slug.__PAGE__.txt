@@ -1,0 +1,141 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+14:X
+19:X
+19:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Snowflake data cloud\",\"description\":\"Snowflake's architecture — separation of compute and storage, virtual warehouses, cloning, and time travel — and where it fits in a warehouse-vs-lakehouse decision.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/snowflake-data-cloud\",\"inLanguage\":\"en\",\"keywords\":\"database, cloud, data-warehouse, big-data, data-architect, solution-architect, cloud-engineer, devops-engineer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"database\"},{\"@type\":\"Thing\",\"name\":\"cloud\"},{\"@type\":\"Thing\",\"name\":\"data-warehouse\"},{\"@type\":\"Thing\",\"name\":\"big-data\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Snowflake data cloud\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/snowflake-data-cloud\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Snowflake data cloud"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Snowflake data cloud"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Snowflake's architecture — separation of compute and storage, virtual warehouses, cloning, and time travel — and where it fits in a warehouse-vs-lakehouse decision."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":["$L3","$L4","$L5"]}],"Solution Architect"]}],"$L6","$L7"],["$L8","$L9","$La","$Lb"]]}]]}],"$Lc","$Ld"]}],["$Le","$Lf","$L10","$L11"],"$L12"]}],"isPartial":"$@13","staleTime":"$14","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$14","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$14","varyParams":"$19"},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$14","varyParams":"$19"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+24:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+25:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+26:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+27:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}]
+4:["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}]
+5:["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]
+6:["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}]
+7:["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}]
+8:["$","$L2","database",{"href":"/tags/database","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","database"]}]
+9:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+a:["$","$L2","data-warehouse",{"href":"/tags/data-warehouse","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","data-warehouse"]}]
+b:["$","$L2","big-data",{"href":"/tags/big-data","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-emerald-50 text-emerald-700 ring-emerald-200","children":["#","big-data"]}]
+1f:T1c6e,
+## What this system is
+
+Snowflake is a **managed cloud data warehouse** whose defining trick is *separation of compute from storage*. Storage (your data in object storage) and compute (virtual warehouses that actually run queries) are independent: you can have many compute clusters reading the same storage, scale each up and down on its own, and pay only for the compute you run. That one architectural decision drives everything else about Snowflake — instant scale, no DataOps lock-in, and a "concurrency without contention" story.
+
+```mermaid
+flowchart TB
+  subgraph Store["Storage layer - object store (shared)"]
+    D1[(Tables + micro-partitions)]
+  end
+  subgraph Compute["Compute layer - 'virtual warehouses'"]
+    VW1[VW - BI / ad-hoc]
+    VW2[VW - ETL / load]
+    VW3[VW - ML / heavy scans]
+  end
+  C[Cloud account] --> VW1
+  C --> VW2
+  C --> VW3
+  VW1 --> D1
+  VW2 --> D1
+  VW3 --> D1
+```
+
+## The three layers
+
+| Layer | What it is | The mental model |
+| --- | --- | --- |
+| **Storage** | Columnar files, micro-partitioned, compressed, in object storage | "Your data in a cheap, shared bucket" |
+| **Compute (virtual warehouses)** | Independent clusters you size, pause, auto-scale | "Rent CPU as you query; nothing is 'your' server" |
+| **Services** | Metadata, catalog, security, transactions, cloning | "The brain that coordinates the other two" |
+
+The consequence worth internalizing: a warehouse is **not** a thing you size like an old RDBMS. You (or the BI tool) spin transient compute up and down per workload, using `XS→4XL` warehouses, and Snowflake separately charges for storage *and* compute. Oversizing a warehouse that idles = money burned; under-sizing = slow queries. Right-sizing is a live, iterative budget exercise.
+
+## Micro-partitions, cloning, time travel
+
+- **Micro-partitions** are small immutable columnar chunks (50–500 MB) with embedded metadata. Queries prune to only the partitions their filters need — which is why Snowflake scans less than a naive "read the whole table" warehouse. There is **no manual indexing or tuning**: the engine decides partitioning from the data. The result is the *absence* of the DBA's partitioning job — one of Snowflake's core appeals.
+- **Zero-copy cloning** creates a copy of a table/schema/database *instantly*, sharing the underlying storage until you write — the classic "clone prod to QA without copying gigabytes" move, and the foundation of safe dev/test.
+- **Time travel** lets you query a table *as of* minutes to days ago (CTAS backup, point-in-time recovery from a bad update) independent of the storage bill — standard retention is configurable, and it's the safety net behind "we can always undo."
+
+```mermaid
+flowchart LR
+  S[Tables - micro-partitions] -->|clone| S2[Clone - shares storage, cheap, instant]
+  S -->|time travel| T1[Query as of N minutes ago]
+  S -->|query| VW{Your virtual warehouse}
+  VW -->|prune by metadata| S
+```
+
+## Concurrency and the "no lock contention" design
+
+```mermaid
+sequenceDiagram
+  participant U1 as Warehouse (ETL load)
+  participant U2 as Warehouse (BI query)
+  participant S as Same table
+
+  U1->>S: INSERT - new micro-partitions
+  U2->>S: SELECT - old snapshot (time-travel consistent)
+  U1->>S: commit transaction
+  U2-->>S: next query sees the new data
+```
+
+Because the data is immutable and micro-partitions are versioned, a long-running load and a query *don't block each other* — readers keep reading consistent snapshots while writers append new partitions. The locking noise that dominates classic warehouses ("kill the query, the table is locked") mostly disappears. The catch that remains: **cost concurrency** — many concurrent heavy warehouses are possible but bill concurrently, so auto-suspend/auto-resume and scaling policies are your spend control.
+
+## Snowflake vs the warehouse/lakehouse field
+
+| Decision | Snowflake is strong | Prefer instead |
+| --- | --- | --- |
+| Who wants it | "Warehouse but cloud-native and low-ops; SQL as the interface" | A data lake / open table formats (Delta/Iceberg) for lake-first raw exploration |
+| Storage economics | Managed columnar, pay per scan | Object storage cost for *everything* raw |
+| Openness | Proprietary engine; fine if you accept managed | Open-file (lakehouse) if you need engine-agnostic control |
+| Fit | Enterprise warehouse, BI, governed SQL | Cheesy minimal ops, a generic cloud stack |
+
+The practical note: Snowflake is a **managed warehouse**, not a lake — it competes with the "warehouse" side of [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture). Organizations that want lake storage cost with warehouse governance often run Snowflake *alongside* a lake (landing in Parquet/Delta, curated into Snowflake) rather than choosing one. Snowflake's modern offering (Iceberg tables) narrows that gap, but the mental model difference stands: managed-engine vs open-format.
+
+## The failure modes a data architect owns
+
+- **Un-governed auto-scale**: virtual warehouses left running 24/7 with no auto-suspend become a surprise compute bill.
+- **Paying for storage to do nothing**: no clustering or purge policy; huge account drift (Snowflake storage is cheap *to* a point — dead copies accumulate).
+- **Treating it like a full lake**: trying to store every raw form of every thing in Snowflake when a lake is the cheaper landing zone.
+- **Trusting "no tuning" too far**: micro-partitions prune well for naturally-sorted/filtered workloads; genuinely orderless heavy scans still scan.
+- **Security slip**: inadequate masking/roles — Snowflake's governance is powerful but is only as strong as the roles you define.
+
+## Tester checklist
+
+- **Clone drill**: `CREATE TABLE ... CLONE` a large table and verify instant availability + shared storage cost; write to the clone and confirm the original is untouched.
+- **Time travel**: run a destructive `UPDATE`/`DELETE`, then `UNDROP`/`AT(TIMESTAMP)` and confirm the old data is recoverable within the configured retention.
+- **Compute isolation**: run a load on VW-A while querying the same table on VW-B — confirm no lock and no cross-warehouse contention.
+- **Pruning**: put a WHERE on a selective column and confirm the query *acts* on fewer micro-partitions (see query profile), not a full table scan.
+- **Auto-suspend**: set low auto-suspend, run a query, idle, and confirm the warehouse suspends and the compute bill stops ticking.
+- **Role/masking**: a nongranted role cannot read a masked column; verify access control is enforced, not cosmetic.
+
+## Related systems
+
+- [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) — where the warehouse-vs-lakehouse decision lives
+- [Data pipelines (ETL/ELT)](../data-pipelines-etl-elt) — how data reaches (and leaves) Snowflake
+- [Data governance and catalog](../data-governance-and-catalog) — the roles, lineage, and masking Snowflake enforces
+- [Data modeling and star schemas](../data-modeling-star-schemas) — the shapes curated Snowflake tables should take
+- [Change data capture](../change-data-capture) — the streaming path into a warehouse like Snowflake
+- [Oracle database ecosystem](../oracle-database-ecosystem) — the managed-Oracle contrast for a database-platform decisionc:["$","$L1e",null,{"source":"$1f"}]
+d:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","data-warehouse-lakehouse-architecture",{"href":"/systems/data-warehouse-lakehouse-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Data warehouse and lakehouse architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Warehouse vs data lake vs lakehouse: where curated, governed, analytical data lives, how they differ on storage and schema, and the decisions that make one the right home for your data."}]]}],["$","$L2","oracle-cloud-infrastructure",{"href":"/systems/oracle-cloud-infrastructure","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Oracle Cloud Infrastructure (OCI)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The Oracle cloud map: compartments, VCN, compute/Exadata, Autonomous Database, OCI Object Storage, and IAM — and how Oracle database fits natively in OCI unlike anywhere else."}]]}],["$","$L2","oracle-database-ecosystem",{"href":"/systems/oracle-database-ecosystem","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Oracle database ecosystem"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Past the PL/SQL myth: Oracle database's real architecture — redo logs, undo segments, the buffer cache, RAC, and Data Guard — and why 'it's just a database' is never true in practice."}]]}]]}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+10:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+11:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+12:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+15:["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L24",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Snowflake data cloud · System Reference"}],["$","meta","1",{"name":"description","content":"Snowflake's architecture — separation of compute and storage, virtual warehouses, cloning, and time travel — and where it fits in a warehouse-vs-lakehouse decision."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"database,cloud,data-warehouse,big-data,data-architect,solution-architect,cloud-engineer,devops-engineer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/snowflake-data-cloud/"}],["$","meta","8",{"property":"og:title","content":"Snowflake data cloud · System Reference"}],["$","meta","9",{"property":"og:description","content":"Snowflake's architecture — separation of compute and storage, virtual warehouses, cloning, and time travel — and where it fits in a warehouse-vs-lakehouse decision."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/snowflake-data-cloud/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Snowflake data cloud · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Snowflake's architecture — separation of compute and storage, virtual warehouses, cloning, and time travel — and where it fits in a warehouse-vs-lakehouse decision."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L25","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+17:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1a:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1d:true
+22:null
+14:300
+14:C
+1c:0
+16:"$undefined"
+18:"$undefined"
+1b:"$undefined"
+13:"$undefined"

@@ -1,0 +1,126 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+14:X
+19:X
+19:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Mainframe computing\",\"description\":\"The mainframe that still runs the world's money: z/OS architecture, batch versus online CICS, COBOL, JCL, and the strangler strategy for modernizing without switching it off.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/mainframe-computing\",\"inLanguage\":\"en\",\"keywords\":\"mainframe, legacy, zos, modernization, architecture, solution-architect, enterprise-architect, backend, data-architect, devops-engineer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"mainframe\"},{\"@type\":\"Thing\",\"name\":\"legacy\"},{\"@type\":\"Thing\",\"name\":\"zos\"},{\"@type\":\"Thing\",\"name\":\"modernization\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mainframe computing\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/mainframe-computing\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Mainframe computing"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Mainframe computing"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The mainframe that still runs the world's money: z/OS architecture, batch versus online CICS, COBOL, JCL, and the strangler strategy for modernizing without switching it off."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":"$L3"}],"Enterprise Architect"]}],"$L4","$L5","$L6"],["$L7","$L8","$L9","$La","$Lb"]]}]]}],"$Lc","$Ld"]}],["$Le","$Lf","$L10","$L11"],"$L12"]}],"isPartial":"$@13","staleTime":"$14","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$14","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$14","varyParams":"$19"},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$14","varyParams":"$19"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+24:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+25:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+26:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+27:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]
+4:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+5:["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]}],"Data Architect"]}]
+6:["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}]
+7:["$","$L2","mainframe",{"href":"/tags/mainframe","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","mainframe"]}]
+8:["$","$L2","legacy",{"href":"/tags/legacy","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","legacy"]}]
+9:["$","$L2","zos",{"href":"/tags/zos","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","zos"]}]
+a:["$","$L2","modernization",{"href":"/tags/modernization","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-sky-50 text-sky-700 ring-sky-200","children":["#","modernization"]}]
+b:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1f:T1a1d,
+## What this system is
+
+A **mainframe** (IBM System z is the surviving member of the family) is a massive, purpose-built transactional computer that has quietly run central banking, insurance, airlines, social security, and customs systems for decades. It does not look like a server rack: it is a single, hardened machine with dedicated I/O channels, a hypervisor that runs Linux and z/OS instances side by side, and an operating system — **z/OS** — whose design (address space, data sets, batch, security) predates everything modern by forty years.
+
+Its superpower is **deterministic throughput under heavy, mixed, concurrent transactions**. A mainframe routinely pairs the speed and reliability of a big distributed system with a *single* reconciliation point: one machine, one consistent view, no eventual consistency, no network partition. That is why banking records still live here — and why the fastest mainframe applications outperform distributed clones while the outage history is scandalously good.
+
+```mermaid
+flowchart LR
+    USERS[Online users - CICS transactions] --> ZOS[z/OS - one operating system]
+    BATCH[Batch jobs - JCL, night runs] --> ZOS
+    ZOS --> DBZ2[Db2 for z/OS - shared data]
+    ZOS --> VSAM[VSAM files - legacy data store]
+    ZOS --> CICSP[CICS transaction server]
+    ZOS --> RACF[Security - RACF, access lists]
+```
+
+## The two computings: online and batch
+
+| Mode | Technology | Character |
+| --- | --- | --- |
+| **Online (CICS)** | Transaction server fronting DB2; each request is a short, atomic **transaction** | Sub-second, high concurrency, thousands of transactions per second |
+| **Batch (JCL)** | COBOL programs driven by Job Control Language, run at night | Huge file/DB sweeps, end-of-day runs, statements, settlements |
+| **Coupling** | z/OS workloads exchange via shared data + messaging (MQ) | Strong consistency between the two modes |
+
+The *batch window* is the existential constraint: banking day ends, the batch must finish before the new day opens. Adding transaction volume shrinks the window; shrinking the window is where modernization pressure comes from — and why mainframe teams are obsessed with **parallel batch, restartability, and checkpoints**.
+
+## The mainframe stack, top to bottom
+
+```mermaid
+flowchart TB
+    TX["Customers / channels<br/>ATMs, web, cards"] -->|request| CICS["CICS transaction server<br/>maps request to transaction"]
+    CICS -->|dispatch| COBOL["COBOL programs<br/>business logic"]
+    JCL["Batch - JCL jobs<br/>nightly runs"] -->|night batch| COBOL
+    COBOL -->|SQL / I/O| DB2["Db2 / VSAM<br/>the shared data"]
+    DB2 -->|z/OS + RACF grant/deny| Z["z/OS + RACF<br/>security + integrity"]
+```
+
+The practical truth for an architect: a modern mainframe these days is really a **hybrid z/OS + Linux box** — modern cloud layers (Linux, containers via the hypervisor) sit beside the z/OS core, and the replatforming strategy leans on that split rather than cutting to zero.
+
+## Why it survived — and when it makes sense
+
+| Mainframe strength | What it still buys |
+| --- | --- |
+| Single consistent ledger | No distributed-systems reconciliation burden for money |
+| Massive concurrent I/O | Thousands of transactions per second on one machine |
+| Deterministic reliability | Failure rates legacy teams trust and regulators know |
+| Data completeness | The whole bank in one Db2/VSAM estate — no dark data shards |
+
+Keep a mainframe when the core is transactionally critical and the cost of moving is higher than the cost of keeping (upgrades, licensed software, skilled staff). Modernize when the *batch window* or the *integration surface* has become the bottleneck that no amount of in-place tuning fixes.
+
+## The strangler, done right
+
+Modernizing a mainframe is a **strangler transformation**: new capabilities live in modern services that talk to the mainframe by API; the legacy transaction stays the source of truth until the day it can be cut over. The pattern:
+
+1. **Publish the core** — expose the CICS/COBOL transactions as APIs (COBOL via CICS Web Services / z/OS Connect), so new front-ends call it not directly but through a service.
+2. **Move one capability at a time** — take order fulfillment, or statement generation, off the mainframe into a new service that reads via API and writes back to Db2.
+3. **Replicate and compare** — run old and new side by side, compare results, then flip.
+4. **Grow the Linux side** — the z/OS core shrinks; the Linux/container partitions and an off-mainframe data replica grow, until the last z/OS workload cuts to the new estate.
+
+The two non-negotiables: **never break the daily batch window during a cutover**, and **keep the single-ledger property** — if you move the ledger off mainframe, you accept the distributed reconciliation you were avoiding all along.
+
+## Tester checklist
+
+- Online atomicity: a CICS transaction must commit or roll back fully — verify an injected failure mid-transaction leaves the Db2 state exactly as before.
+- Batch restartability: kill a batch job mid-run; restart must resume from the last checkpoint, not redo the whole window.
+- Window discipline: the batch completes inside the fixed night window at padded volume; a new online transaction during batch must not corrupt the shared data.
+- Data integrity: Db2/VSAM totals reconcile with downstream (settlements, statements) exactly — one ledger, no drift.
+- Security: RACF access is denied/explicitly granted as configured; a request through the API gateway is still subject to RACF rules, not bypassed.
+- Strangler parity: old and new services produce identical outputs during parallel run; the flip is reversible.
+- Cutover safety: the first day after a capability moves off the mainframe, the batch window still closes on time with the new estate.
+
+## Related systems
+
+- [Core banking systems](../core-banking-systems) — the domain a bank mainframe actually runs
+- [Database indexing](../database-indexing) and [data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) — what Db2/VSAM look like next to modern data stores
+- [CI/CD pipelines](../ci-cd-pipelines) — shipping to a modernized hybrid without breaking batch
+
+## Deep dives
+
+- [ERP finance and record-to-report](../erp-finance-and-record-to-report) — the ledger side of mainframe records-to-report
+- [Message queue delivery](../message-queue-delivery) — MQ bridging the z/OS core and modern services
+- [DevOps delivery loop](../devops-delivery-loop) — bringing delivery discipline to mainframe releases
+- [Monitoring and observability](../monitoring-and-observability) — observing a mainframe alongside the distributed estatec:["$","$L1e",null,{"source":"$1f"}]
+d:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","asyncapi",{"href":"/systems/asyncapi","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"AsyncAPI"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}]]}],["$","$L2","card-networks-at-scale",{"href":"/systems/card-networks-at-scale","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Card networks at scale"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"How Visa and Mastercard process tens of thousands of transactions per second: the switch, ISO 8583, authorization latency budgets, clearing and settlement at volume."}]]}],["$","$L2","core-banking-systems",{"href":"/systems/core-banking-systems","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Core banking systems"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The account-and-ledger backbone of a bank: who owns what money, how a transaction moves it, double-entry posting, and the difference between real-time and overnight processing."}]]}]]}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+10:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+11:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+12:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+15:["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L24",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mainframe computing · System Reference"}],["$","meta","1",{"name":"description","content":"The mainframe that still runs the world's money: z/OS architecture, batch versus online CICS, COBOL, JCL, and the strangler strategy for modernizing without switching it off."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"mainframe,legacy,zos,modernization,architecture,solution-architect,enterprise-architect,backend,data-architect,devops-engineer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/mainframe-computing/"}],["$","meta","8",{"property":"og:title","content":"Mainframe computing · System Reference"}],["$","meta","9",{"property":"og:description","content":"The mainframe that still runs the world's money: z/OS architecture, batch versus online CICS, COBOL, JCL, and the strangler strategy for modernizing without switching it off."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/mainframe-computing/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Mainframe computing · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The mainframe that still runs the world's money: z/OS architecture, batch versus online CICS, COBOL, JCL, and the strangler strategy for modernizing without switching it off."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L25","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+17:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1a:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1d:true
+22:null
+14:300
+14:C
+1c:0
+16:"$undefined"
+18:"$undefined"
+1b:"$undefined"
+13:"$undefined"

@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"DevOps delivery loop\",\"description\":\"The closed loop from ticket to running code to feedback: where git, Jira, and CI/CD meet, and the metrics that prove it works.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/devops-delivery-loop\",\"inLanguage\":\"en\",\"keywords\":\"devops, workflow, architecture, devops-engineer, enterprise-architect, solution-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"devops\"},{\"@type\":\"Thing\",\"name\":\"workflow\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"DevOps delivery loop\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/devops-delivery-loop\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"DevOps delivery loop"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"DevOps delivery loop"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The closed loop from ticket to running code to feedback: where git, Jira, and CI/CD meet, and the metrics that prove it works."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}],["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Solution Architect"]}]],["$L4","$L5","$L6"]]}]]}],"$L7","$L8"]}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1b:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+20:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+21:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+22:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}]
+4:["$","$L2","devops",{"href":"/tags/devops","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-sky-50 text-sky-700 ring-sky-200","children":["#","devops"]}]
+5:["$","$L2","workflow",{"href":"/tags/workflow","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","workflow"]}]
+6:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1a:Te9d,
+## What this system is
+
+DevOps is not a tool — it's the **feedback loop**: an outcome is wanted (ticket), a change is made (git), proven (pipeline), shipped (release), observed (metrics/alerts), and the loop closes when the next ticket reflects what actually happened. Each guide in this module is one stage of the loop.
+
+```mermaid
+stateDiagram-v2
+  [*] --> Ticket
+  Ticket: Ticket - user needs X
+  Ticket --> Commit: the why
+  Commit: Commit + PR
+  Commit --> Pipeline: build + test
+  Pipeline: Pipeline - lint, test, deploy
+  Pipeline --> Release: ship
+  Release: Release to prod
+  Release --> Observe: is-it-fine
+  Observe: Observe - metrics and alerts
+  Observe --> Feedback: lessons
+  Feedback: Feedback - next requirement
+  Feedback --> Ticket: loop closes
+  Feedback --> [*]
+```
+
+```mermaid
+flowchart LR
+  T[Ticket: user needs X] --> C[Commit + PR]
+  C --> P[Pipeline: lint, test, build, deploy]
+  P --> R[Release to prod]
+  R --> O[Observe: logs, metrics, alerts]
+  O --> F[Feedback: what broke / what improved]
+  F --> T
+```
+
+## Who touches what, and where it lives
+
+| Artifact | Owned by | Lives in | The job |
+| --- | --- | --- | --- |
+| Requirement | Product/architect | Jira | The *why* |
+| Change | Dev | git branch + PR | The *what* |
+| Build | Pipeline | Artifact registry | The *proof* |
+| Runtime truth | DevOps/SRE | Observability stack | The *is-it-fine* |
+| Feedback | Everyone | Next ticket | The *loop* |
+
+The discipline is **immutability of each link**: the ticket says why, the commit says what shipped, the artifact matches the tested code, and the alarm links back to the deploy. Break any link and incidents become archaeology.
+
+## Deploy vs release, observability as a habit
+
+```mermaid
+flowchart TB
+  DEP["Deploy (code in prod)"] --> REL["Release (users see it)"]
+  REL --> OBS[Observe - dashboard + alerts + logs]
+  OBS -->|anomaly| ROL[Rollback fast / feature-flag OFF]
+  OBS -->|healthy| NEXT[Next ticket learns it]
+```
+
+The strongest teams separate **deploy** (dark, wrapped in features flags) from **release** (turning it on) — then observability, not speculation, drives the next step.
+
+## Metrics that tell the truth
+
+| Metric | Means | Trend that's good |
+| --- | --- | --- |
+| Lead time | From commit to production | Shrinking |
+| Deploy frequency | How often you ship | Growing (safely!) |
+| Change fail rate | % of changes that break prod | Low and stable |
+| MTTR | Mean time to restore | Shrinking |
+| Escaped defects | Bugs reaching users | Falling |
+
+Watch the **co-variances** — deploy frequency up *and* fail rate up is a curve to notice, not a badge. The DORA metrics are the standard vocabulary here.
+
+## Tester checklist
+
+- Pick one release and walk the full chain in reverse: alarm → deploy SHA → artifact → build job → committing PR → ticket. Any dead link is a gap to fix.
+- Confirm a prod rollback is a *practiced* flow: someone has done a canary-off/blue-green flip recently, not just "we could."
+- Check the observability story behind every alert: each alarm has a runbook that names the ticket/library that produced it.
+- Report the four DORA numbers for one month from your actual systems — where is the worst coefficient?
+
+## Related systems
+
+- [Git and version control](../git-and-version-control) — the change-making stage of the loop
+- [CI/CD pipelines](../ci-cd-pipelines) — the proving-plus-shipping stage
+- [Jira and agile delivery](../jira-and-agile-delivery) — the intent and feedback sides
+- [ITIL change and release management](../itil-change-and-release-management) — the governance layer that decides when the loop may touch production
+- [API gateway caching](../api-gateway-caching) — observability and caching at the edge of runtime truth7:["$","$L19",null,{"source":"$1a"}]
+8:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","business-process-modeling-and-management",{"href":"/systems/business-process-modeling-and-management","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Business process modeling and management"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"From process maps to running workflows: BPMN notation, process decomposition, the process lifecycle — model, automate, measure, improve — and where a process ends and a software system begins."}]]}],["$","$L2","disaster-recovery-and-backup",{"href":"/systems/disaster-recovery-and-backup","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Disaster recovery and backup"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"RTO, RPO, and the four DR strategies — backup/restore, pilot light, warm standby, active-active — plus the drills that make the plan true."}]]}],["$","$L2","jira-and-agile-delivery",{"href":"/systems/jira-and-agile-delivery","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Jira and agile delivery"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Epics, stories, tasks, bugs — the issue types and workflow states that turn roadmap intent into shipped, verified work."}]]}]]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+a:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+b:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+c:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+d:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+10:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"DevOps delivery loop · System Reference"}],["$","meta","1",{"name":"description","content":"The closed loop from ticket to running code to feedback: where git, Jira, and CI/CD meet, and the metrics that prove it works."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"devops,workflow,architecture,devops-engineer,enterprise-architect,solution-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/devops-delivery-loop/"}],["$","meta","8",{"property":"og:title","content":"DevOps delivery loop · System Reference"}],["$","meta","9",{"property":"og:description","content":"The closed loop from ticket to running code to feedback: where git, Jira, and CI/CD meet, and the metrics that prove it works."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/devops-delivery-loop/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"DevOps delivery loop · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The closed loop from ticket to running code to feedback: where git, Jira, and CI/CD meet, and the metrics that prove it works."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L20","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+18:true
+1d:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

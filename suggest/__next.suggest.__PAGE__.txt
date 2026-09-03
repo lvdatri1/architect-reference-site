@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[47257,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ClientPageRoot"]
+3:I[44864,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3i3gw_9qfhjl3.js"],"default"]
+6:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+c:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+d:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+f:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+10:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+a:X
+12:X
+12:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3i3gw_9qfhjl3.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"System Reference — How systems actually work — seen, not read."}],["$","meta","1",{"name":"description","content":"Visual, interactive references for architects, developers and testers: APIs, databases, identity, cloud, networking and more — explained with diagrams you can click, drag and study."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"system architecture,software architecture,architecture diagrams,visual learning,API design,database internals,identity and access,zero trust,cloud services,network engineering,DevOps,reference guides"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/"}],["$","meta","8",{"property":"og:title","content":"System Reference — How systems actually work — seen, not read."}],["$","meta","9",{"property":"og:description","content":"Visual, interactive references for architects, developers and testers: APIs, databases, identity, cloud, networking and more — explained with diagrams you can click, drag and study."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/"}],["$","meta","11",{"property":"og:site_name","content":"System Reference"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary"}],["$","meta","15",{"name":"twitter:title","content":"System Reference — How systems actually work — seen, not read."}],["$","meta","16",{"name":"twitter:description","content":"Visual, interactive references for architects, developers and testers: APIs, databases, identity, cloud, networking and more — explained with diagrams you can click, drag and study."}],["$","link","17",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","18",{"rel":"icon","href":"/globe.svg"}],["$","link","19",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$Ld","20",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@e","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]]}],"isPartial":"$@11","staleTime":"$a","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+14:true
+a:300
+a:C
+13:0
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"

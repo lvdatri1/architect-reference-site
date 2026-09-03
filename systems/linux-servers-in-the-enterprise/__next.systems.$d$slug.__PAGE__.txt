@@ -1,0 +1,110 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+10:X
+15:X
+15:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Linux servers in the enterprise\",\"description\":\"Fleet-scale server management: golden images, configuration as code, systemd, package ecosystems, and the patch cycle that keeps thousands of hosts honest.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/linux-servers-in-the-enterprise\",\"inLanguage\":\"en\",\"keywords\":\"linux, servers, security, backend, network-engineer, security-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"linux\"},{\"@type\":\"Thing\",\"name\":\"servers\"},{\"@type\":\"Thing\",\"name\":\"security\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Linux servers in the enterprise\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/linux-servers-in-the-enterprise\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Linux servers in the enterprise"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Linux servers in the enterprise"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Fleet-scale server management: golden images, configuration as code, systemd, package ecosystems, and the patch cycle that keeps thousands of hosts honest."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}],["$","$L2","network-engineer",{"href":"/jobs/network-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Network Engineer icon","children":[["$","circle",null,{"cx":12,"cy":4.5,"r":2.5}],["$","circle",null,{"cx":5,"cy":18,"r":2.5}],["$","circle",null,{"cx":19,"cy":18,"r":2.5}],["$","path",null,{"d":"M10.7 6.5 6.7 15.7M13.3 6.5l4 9.2"}],"$L3"]}],"Network Engineer"]}],"$L4"],["$L5","$L6","$L7"]]}]]}],"$L8","$L9"]}],["$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":"$@f","staleTime":"$10","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$10","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$10","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$10","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1c:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+21:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+22:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+23:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","line",null,{"x1":7.5,"y1":18,"x2":16.5,"y2":18}]
+4:["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}]
+5:["$","$L2","linux",{"href":"/tags/linux","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","linux"]}]
+6:["$","$L2","servers",{"href":"/tags/servers","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","servers"]}]
+7:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+1b:Td1d,
+## What this system is
+
+Linux powers nearly everything a corporation runs that isn't on a desktop — API servers, databases, CI runners, network appliances, cloud instances. "Managing Linux" at scale isn't SSHing into hosts; it's making hosts **interchangeable** so a crashed one disappears and a fresh one looks identical.
+
+```mermaid
+flowchart LR
+  G[Golden image / IaC] --> C[Configuration as code<br/>Ansible/Terraform/Puppet]
+  C --> H1[Server 01]
+  C --> H2[Server 02]
+  C --> H3[Server 03]
+  H1 --> P[Patch pipeline]
+  H2 --> P
+  H3 --> P
+  P --> I[(Monitoring / inventory)]
+```
+
+## The two mental models
+
+| Old way (pets) | New way (cattle / immutable) |
+| --- | --- |
+| SSH in, fix it live | Never patch a live server; build a new image |
+| Drift over months | Config is code, auditable in git, reproduced everywhere |
+| Hand-written playbooks | Idempotent, versioned, tested in CI |
+| Servers have names & moods | Servers have roles and are disposable |
+
+Most enterprises run a mix: stateful databases still demand care, stateless tiers are freely rotated. The rule that holds everywhere: **the source of truth is code, not a shell session.**
+
+## The pieces that matter
+
+```mermaid
+flowchart TB
+  subgraph Build["Build"]
+    A[Distro + minimal base] --> B[Golden image<br/>packer/containers]
+  end
+  subgraph Run["Run"]
+    C[systemd: service units, restarts, journald logs]
+    D[Config split: secrets from vault, not in files]
+    E[Hardening: CIS baseline, selinux/apparmor, minimal packages]
+  end
+  subgraph Keep["Keep current"]
+    F[Patch rings: canary → broad → prod]
+    G[Unattended security updates by policy, reboot coordination]
+  end
+  B --> C
+  C --> D
+  D --> E
+  E --> F
+  F --> G
+```
+
+## The patch cycle (the drumbeat that never stops)
+
+- Patch **rings** mirror Windows Autopatch: a canary host gets the update first; only on success does it roll to broad. A bad kernel in one ring doesn't take down production.
+- **Secrets** never ship in images or repos — pulled at boot from a vault/secret manager ([identity best practice](../authentication-vs-authorization)) with short-lived credentials.
+- **Reboots** are planned, drained, and verified — orchestrated, never chaotic.
+- Vulnerability triage is a *risk* calculation, not an all-or-nothing: you patch what's reachable first.
+
+## Tester checklist
+
+- Rebuild a host from the golden image and diff it against peers — drift should be ~zero or a documented exception.
+- Kill a stateless node mid-traffic and confirm orchestration reconstitutes it without user-visible impact.
+- Roll a deliberately bad package to the canary ring and verify the ring's monitors catch it *before* broad rollout.
+- Verify a fresh host cannot boot with secrets available in its filesystem (secrets come from the vault only).
+
+## Related systems
+
+- [Windows in the enterprise](../windows-in-the-enterprise) — same fleet principles, different OS
+- [Zero trust architecture](../zero-trust-architecture) — hosts are identities with short-lived credentials
+- [Authentication vs authorization](../authentication-vs-authorization) — every service gets a service identity
+- [API request lifecycle](../api-request-lifecycle) — what the servers are actually serving
+- [Dockerizing applications](../dockerizing-applications) — the container runtime that turns a host into a service platform8:["$","$L1a",null,{"source":"$1b"}]
+9:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","secrets-certificates-and-pki",{"href":"/systems/secrets-certificates-and-pki","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Secrets, certificates and PKI"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The crypto backbone of every identity: CA hierarchy, cert lifecycle, rotation, vaults, HSMs, and why short-lived beats long-lived."}]]}],["$","$L2","smtp-email-delivery",{"href":"/systems/smtp-email-delivery","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"SMTP and email delivery"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"How one email actually crosses the internet: submission, queue-and-forward over SMTP, MX records, and the SPF/DKIM/DMARC armor that decides deliverability."}]]}],["$","$L2","sase",{"href":"/systems/sase","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"SASE and SSE"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Secure Access Service Edge: SD-WAN plus cloud-native security (SWG, CASB, ZTNA, FWaaS) delivered as a global cloud service from nearby Points of Presence."}]]}]]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+c:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+d:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+e:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+11:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Linux servers in the enterprise · System Reference"}],["$","meta","1",{"name":"description","content":"Fleet-scale server management: golden images, configuration as code, systemd, package ecosystems, and the patch cycle that keeps thousands of hosts honest."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"linux,servers,security,backend,network-engineer,security-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/linux-servers-in-the-enterprise/"}],["$","meta","8",{"property":"og:title","content":"Linux servers in the enterprise · System Reference"}],["$","meta","9",{"property":"og:description","content":"Fleet-scale server management: golden images, configuration as code, systemd, package ecosystems, and the patch cycle that keeps thousands of hosts honest."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/linux-servers-in-the-enterprise/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Linux servers in the enterprise · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Fleet-scale server management: golden images, configuration as code, systemd, package ecosystems, and the patch cycle that keeps thousands of hosts honest."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L21","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+19:true
+1e:null
+10:300
+10:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+f:"$undefined"

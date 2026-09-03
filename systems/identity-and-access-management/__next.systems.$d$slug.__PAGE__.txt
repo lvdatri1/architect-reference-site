@@ -1,0 +1,119 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+13:X
+18:X
+18:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Identity and access management (IAM)\",\"description\":\"Users and machines as first-class identities: directories, SSO and federation, the identity lifecycle, and RBAC vs ABAC.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/identity-and-access-management\",\"inLanguage\":\"en\",\"keywords\":\"identity, security, enterprise-architecture, zero-trust, security-architect, enterprise-architect, backend\",\"about\":[{\"@type\":\"Thing\",\"name\":\"identity\"},{\"@type\":\"Thing\",\"name\":\"security\"},{\"@type\":\"Thing\",\"name\":\"enterprise-architecture\"},{\"@type\":\"Thing\",\"name\":\"zero-trust\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Identity and access management (IAM)\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/identity-and-access-management\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Identity and access management (IAM)"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Identity and access management (IAM)"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Users and machines as first-class identities: directories, SSO and federation, the identity lifecycle, and RBAC vs ABAC."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","security-architect",{"href":"/jobs/security-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Security Architect icon","children":["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}]}],"Security Architect"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],"$L3","$L4","$L5"]}],"Enterprise Architect"]}],"$L6"],["$L7","$L8","$L9","$La"]]}]]}],"$Lb","$Lc"]}],["$Ld","$Le","$Lf","$L10"],"$L11"]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$13","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$13","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$13","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+24:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+25:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+26:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}]
+4:["$","path",null,{"d":"M9 21v-4h6v4"}]
+5:["$","path",null,{"d":"M9 10V9m-2 1h4"}]
+6:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+7:["$","$L2","identity",{"href":"/tags/identity","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","identity"]}]
+8:["$","$L2","security",{"href":"/tags/security","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","security"]}]
+9:["$","$L2","enterprise-architecture",{"href":"/tags/enterprise-architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","enterprise-architecture"]}]
+a:["$","$L2","zero-trust",{"href":"/tags/zero-trust","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","zero-trust"]}]
+1e:Tff1,
+## What this system is
+
+Zero Trust starts with identity. IAM is the layer that answers permanently *"who is this?"* and *"what may they do?"* — for humans, service accounts, and workloads. If identity is wrong, every access decision built on top of it is wrong too. The four jobs of IAM: **prove** (sign-up/sign-in), **attribute** (roles/groups/claims), **issue** (tokens), and **revoke** (when access must end).
+
+```mermaid
+flowchart LR
+  U[User] -->|credentials / MFA| IdP[Identity provider<br/>directory + SSO]
+  IdP -->|assert identity| SSO[Single sign-on broker]
+  SSO --> App1[App A via OIDC/SAML]
+  SSO --> App2[App B via OIDC/SAML]
+  IdP -->|provision / deprovision| Dir[(Directory store<br/>Entra ID / Okta / corporate AD)]
+```
+
+## The sign-in flow behind "one password"
+
+```mermaid
+sequenceDiagram
+  participant U as User
+  participant App as App A
+  participant IdP as Corporate IdP
+  participant MFA as MFA / FIDO2
+
+  U->>App: wants to open reusable App A
+  App->>IdP: redirect + OIDC/SAML request
+  IdP->>U: login page
+  U->>MFA: passkey / code / number match
+  MFA-->>IdP: proof of second factor
+  IdP->>App: grant token + user claims
+  App->>IdP: validate token signature
+  App-->>U: session established
+```
+
+Federation means the *corporate* IdP owns the proof; each app trusts the same source. One revoke at the IdP immediately kills access everywhere — the property every ZT design depends on.
+
+## Lifecycle: where identity actually goes wrong
+
+| Phase | What you do | Typical failure |
+| --- | --- | --- |
+| Provision | Auto-create account on hire, from HR feed | Manual, slow, delayed |
+| Use | Groups from management/HR drive access | Groups drift, un-reviewed |
+| Change | Role change re-scopes groups | Old rights linger to "not break anything" |
+| Revoke | Offboard: disable IdP + kill sessions + deprovision | "Disabled but still licensed"; orphan service accounts |
+
+The **orphaned account** is the quiet disaster: a service account with admin rights nobody monitors. Lifecycle automation and periodic access reviews are the counter-measures.
+
+## RBAC vs ABAC (the authorization models)
+
+| | RBAC (roles) | ABAC (attributes) |
+| --- | --- | --- |
+| Decides by | "You are an admin" | attributes: user, device, time, location, data tag |
+| Pros | Simple, human-readable | Granular, context-sensitive |
+| Cons | Role explosion as you grow | Policy sprawl if not disciplined |
+| Fit | Small estates, clear job families | Zero Trust / conditional access at scale |
+
+Most enterprises run both: RBAC for coarse grants, ABAC/conditional access to narrow *when* they apply.
+
+## Tester checklist
+
+- Offboard a user: account disabled, sessions killed, and all app entitlements gone — verify *actual* revoke, not just "disabled".
+- Verify SSO reaches every app: no app quietly keeps its own credential store (shadow identity).
+- Replay an old JWT after revocation and confirm it's rejected (short token TTL + revocation callback).
+- Walk a role change: new group grants, old group removed — then review that nothing re-attaches via nested groups.
+
+## Related systems
+
+- [Zero Trust architecture](../zero-trust-architecture) — the umbrella every IAM decision plugs into
+- [Conditional access and policy engines](../conditional-access-and-policy-engines) — turning identity attributes into allow/deny
+- [OAuth 2.0 and OpenID Connect](../oauth2-openid-connect) — the tokens and flows IdPs speak
+- [Workload identity and mTLS](../workload-identity-and-mtls) — the machine side of identity
+
+## Deep dives
+
+- [Single sign-on (SSO)](../single-sign-on-sso) — the login half of identity
+- [Role-based access control (RBAC)](../rbac-and-authorization) — the authorization model that assigns what you may touch
+- [Privileged identity management (PIM)](../privileged-identity-management) — no standing admin, just-in-time privilege
+- [SCIM identity provisioning](../scim-identity-provisioning) — the provisioning half: accounts arrive and leave automatically
+- [Joiner-mover-leaver (JML)](../joiner-mover-leaver) — the lifecycle events that drive it allb:["$","$L1d",null,{"source":"$1e"}]
+c:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","microsoft-entra-id-architecture",{"href":"/systems/microsoft-entra-id-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Microsoft Entra ID architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The tenant, directory, identities, and trust boundaries of Entra ID (Azure AD) — plus external identities, B2B, B2C, and the tenant-separation decisions that keep real estates safe."}]]}],["$","$L2","rbac-and-authorization",{"href":"/systems/rbac-and-authorization","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Role-based access control (RBAC)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Users get roles, roles get permissions, roles get handed out by managers not engineers — and access reviews keep the picture honest."}]]}],["$","$L2","government-identity-piv-ficam",{"href":"/systems/government-identity-piv-ficam","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Government identity: PIV/CAC and NIST 800-63"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Federal identity done right: PIV and CAC cards, FICAM architecture, NIST 800-63 identity assurance levels (IAL/AAL), and how agencies, contractors, and citizens get verified once and federate everywhere."}]]}]]}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+e:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+f:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+10:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+11:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+14:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Identity and access management (IAM) · System Reference"}],["$","meta","1",{"name":"description","content":"Users and machines as first-class identities: directories, SSO and federation, the identity lifecycle, and RBAC vs ABAC."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"identity,security,enterprise-architecture,zero-trust,security-architect,enterprise-architect,backend"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/identity-and-access-management/"}],["$","meta","8",{"property":"og:title","content":"Identity and access management (IAM) · System Reference"}],["$","meta","9",{"property":"og:description","content":"Users and machines as first-class identities: directories, SSO and federation, the identity lifecycle, and RBAC vs ABAC."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/identity-and-access-management/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Identity and access management (IAM) · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Users and machines as first-class identities: directories, SSO and federation, the identity lifecycle, and RBAC vs ABAC."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L24","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+1c:true
+21:null
+13:300
+13:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+12:"$undefined"

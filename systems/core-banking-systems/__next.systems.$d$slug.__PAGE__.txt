@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+14:X
+19:X
+19:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Core banking systems\",\"description\":\"The account-and-ledger backbone of a bank: who owns what money, how a transaction moves it, double-entry posting, and the difference between real-time and overnight processing.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/core-banking-systems\",\"inLanguage\":\"en\",\"keywords\":\"banking, ledgers, finance, transaction-processing, architecture, solution-architect, data-architect, enterprise-architect, backend, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"banking\"},{\"@type\":\"Thing\",\"name\":\"ledgers\"},{\"@type\":\"Thing\",\"name\":\"finance\"},{\"@type\":\"Thing\",\"name\":\"transaction-processing\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Core banking systems\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/core-banking-systems\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Core banking systems"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Core banking systems"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"The account-and-ledger backbone of a bank: who owns what money, how a transaction moves it, double-entry posting, and the difference between real-time and overnight processing."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}],["$","$L2","data-architect",{"href":"/jobs/data-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Data Architect icon","children":"$L3"}],"Data Architect"]}],"$L4","$L5","$L6"],["$L7","$L8","$L9","$La","$Lb"]]}]]}],"$Lc","$Ld"]}],["$Le","$Lf","$L10","$L11"],"$L12"]}],"isPartial":"$@13","staleTime":"$14","varyParams":null},{"rsc":"$L15","isPartial":"$@16","staleTime":"$14","varyParams":null},{"rsc":"$L17","isPartial":"$@18","staleTime":"$14","varyParams":"$19"},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$14","varyParams":"$19"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+24:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+25:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+26:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+27:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:[["$","ellipse",null,{"cx":12,"cy":5.5,"rx":8,"ry":3}],["$","path",null,{"d":"M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"}],["$","path",null,{"d":"M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"}]]
+4:["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}]
+5:["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":[["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}],["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}],["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}],["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]]}],"Backend"]}]
+6:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+7:["$","$L2","banking",{"href":"/tags/banking","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-orange-50 text-orange-700 ring-orange-200","children":["#","banking"]}]
+8:["$","$L2","ledgers",{"href":"/tags/ledgers","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","ledgers"]}]
+9:["$","$L2","finance",{"href":"/tags/finance","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","finance"]}]
+a:["$","$L2","transaction-processing",{"href":"/tags/transaction-processing","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-amber-50 text-amber-700 ring-amber-200","children":["#","transaction-processing"]}]
+b:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1f:T170a,
+## What this system is
+
+A **core banking system** is the bank's double-entry ledger plus the applications that read and write it: account and product definitions, deposits and loans, customer identification, interest, fees, and statutory posting. "Core" means exactly what it sounds like — everything else in the bank (cards, payments, treasury, reporting, CRM) is a satellite that moves money *through* the core or reconciles against it.
+
+The core's job is brutal simplicity under pressure: for every transaction it must know **who has the money, how much, and what the ledger master says after the post**. A bank that cannot state its balances overnight is a bank in regulatory trouble by morning.
+
+```mermaid
+flowchart LR
+    CH[Channels - app, web, ATM, branch] --> G[Gateway / API]
+    G --> CORE[Core banking<br/>accounts, products, ledger]
+    CORE --> DB[(Account master<br/>+ GL ledger)]
+    CORE --> PMT[Payments hub - in/out]
+    CORE --> RISK[Risk, fraud, AML checks]
+    CORE --> REP[Regulatory + general ledger reporting]
+```
+
+## What makes it a ledger, not a CRUD app
+
+| Concept | Meaning in banking |
+| --- | --- |
+| Double-entry | Every post debits one account and credits another; the ledger always sums to zero |
+| Account vs GL | Customer accounts live in subledgers; the finance GL rolls them up — see [ERP finance record-to-report](../erp-finance-and-record-to-report) |
+| Posting strategy | Online (real-time, before you reply) vs batch (end-of-day, historically) |
+| Debits and credits | Money in is a credit to your account; money out is a debit — two views of the same posting |
+| Master files | Reusable product definitions (interest rules, limits) so accounts are just instances |
+| Transaction log | Every post is an immutable, numbered entry — the audit trail and the legal record |
+
+The identity of a transaction is the thing architects obsess over: a **transaction reference, a date and time, a value date, an account, an amount, and the balancing post**. Lose any of those and reconciliation breaks.
+
+## The money movement path
+
+```mermaid
+flowchart LR
+    CUSTOMER["Customer initiates<br/>transfer or payment"] -->|submit| SANITIZE["Validate + check<br/>limits, fraud, AML"]
+    SANITIZE -->|passes checks| DEBIT["Debit sender<br/>reserve / hold"]
+    DEBIT -->|atomic pair| CREDIT["Credit payee<br/>post, confirm"]
+    CREDIT -->|balance to zero| LEDGER["Ledger balancing entry"]
+    LEDGER -->|post + confirm| DONE["Settlement + confirmation<br/>to channels and reports"]
+```
+
+## Online vs batch — the two computings
+
+Traditionally, debit transactions posted **online** (the balance must drop the instant you pay) and credits were written at the **end of day**, because money arriving overnight needed reconciliation and interest to be computed. Modern cores post credit almost as fast, but the *design split* is still alive:
+
+- **Real-time posting**: funds move at the moment of the transaction; channel sees new balances instantly.
+- **Overnight processing**: interest, fees, statement runs, and statutory files happen in a batch window — the notorious "end of day", which is why banks still schedule *maintenance windows* around midnight.
+
+The strategic question for an architect is: **can our ledger post strictly, under high concurrency, while our batch still runs to a hard deadline?** The batch window is usually the bottleneck that forces separate read and write paths.
+
+## When this shows up in architecture
+
+- **Modernization**: replacing a 40-year-old core is a multi-year program; the usual path is strangler — new channel APIs in front, a payments hub beside it, and the legacy core as downstream ledger until the runway closes.
+- **Multi-entity**: group banks need a shared or federated ledger per legal entity, with consolidation for group reporting.
+- **Digital banking**: the mobile app must *feel* real-time even when the core is herd-batch — ledger reads from a read replica or an operational data store, writes still hit the iron core.
+
+## Tester checklist
+
+- Atomicity: send $100 from A to B with B's account temporarily frozen — confirm the pair either fully posts or fully rolls back, never half-applied.
+- Double-entry invariant: after a run of mixed deposits, withdrawals, fees, and reversals, the ledger sums to zero with no unexplained entries.
+- Idempotency: re-send an identical transaction reference twice — it must post once and return the same reference.
+- Concurrency: two payments emptying the same account cannot make the balance go negative past the agreed limit.
+- Value date: a transaction posted today with tomorrow's value date lands on the correct GL day, not the posting day.
+- Reversal: reversing a posted entry produces offsetting entries and restores the account and the GL to the pre-transaction state.
+- Batch deadline: the overnight run completes within the window even with a padded transaction volume.
+
+## Related systems
+
+- [ERP finance and record-to-report](../erp-finance-and-record-to-report) — the same double-entry discipline, enterprise edition
+- [Data warehouse and lakehouse architecture](../data-warehouse-lakehouse-architecture) — analytics on top of the ledger
+- [Identity and access management](../identity-and-access-management) — the identity layer every banking channel needs
+
+## Deep dives
+
+- [Payments, clearing, and settlement](../payments-clearing-and-settlement) — the rails that move money between banks
+- [Banking risk, fraud, and AML controls](../banking-risk-fraud-and-aml) — the checks wrapped around every post
+- [Message queue delivery](../message-queue-delivery) — how satellite systems receive posting events reliably
+- [Data pipelines (ETL/ELT)](../data-pipelines-etl-elt) — moving settlement and ledger data into reporting stores
+- [Secrets, certificates and PKI](../secrets-certificates-and-pki) — the keys protecting the money movement pathsc:["$","$L1e",null,{"source":"$1f"}]
+d:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","card-networks-at-scale",{"href":"/systems/card-networks-at-scale","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Card networks at scale"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"How Visa and Mastercard process tens of thousands of transactions per second: the switch, ISO 8583, authorization latency budgets, clearing and settlement at volume."}]]}],["$","$L2","payments-clearing-and-settlement",{"href":"/systems/payments-clearing-and-settlement","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Payments, clearing, and settlement"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The rails that move money between banks: payment schemes, clearing house mechanics, netting, settlement risk, and ISO 20022 messages."}]]}],["$","$L2","asyncapi",{"href":"/systems/asyncapi","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"AsyncAPI"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The OpenAPI equivalent for event-driven architectures: define message payloads, channels, protocols, and bindings so producers and consumers stay in sync — with code generation, documentation, and governance built in."}]]}]]}]]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+f:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+10:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+11:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+12:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+15:["$","$1","h",{"children":[null,["$","$L23",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L24",null,{"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Core banking systems · System Reference"}],["$","meta","1",{"name":"description","content":"The account-and-ledger backbone of a bank: who owns what money, how a transaction moves it, double-entry posting, and the difference between real-time and overnight processing."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"banking,ledgers,finance,transaction-processing,architecture,solution-architect,data-architect,enterprise-architect,backend,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/core-banking-systems/"}],["$","meta","8",{"property":"og:title","content":"Core banking systems · System Reference"}],["$","meta","9",{"property":"og:description","content":"The account-and-ledger backbone of a bank: who owns what money, how a transaction moves it, double-entry posting, and the difference between real-time and overnight processing."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/core-banking-systems/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Core banking systems · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"The account-and-ledger backbone of a bank: who owns what money, how a transaction moves it, double-entry posting, and the difference between real-time and overnight processing."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L25","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+17:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1a:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+1d:true
+22:null
+14:300
+14:C
+1c:0
+16:"$undefined"
+18:"$undefined"
+1b:"$undefined"
+13:"$undefined"

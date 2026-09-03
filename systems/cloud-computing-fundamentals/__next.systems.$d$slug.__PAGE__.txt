@@ -1,0 +1,127 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+10:X
+15:X
+15:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Cloud computing fundamentals\",\"description\":\"Regions, availability zones, service models, the shared responsibility model, and designing for durability without writing a line of purchased iron.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/cloud-computing-fundamentals\",\"inLanguage\":\"en\",\"keywords\":\"cloud, architecture, enterprise-architecture, cloud-engineer, enterprise-architect, solution-architect\",\"about\":[{\"@type\":\"Thing\",\"name\":\"cloud\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"enterprise-architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Cloud computing fundamentals\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/cloud-computing-fundamentals\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Cloud computing fundamentals"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Cloud computing fundamentals"}],["$","span",null,{"className":"mt-2 inline-block rounded-full bg-emerald-100 px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-emerald-700 ring-1 ring-inset ring-emerald-200 dark:bg-emerald-900/40 dark:text-emerald-300 dark:ring-emerald-800","children":"Framework"}],["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Regions, availability zones, service models, the shared responsibility model, and designing for durability without writing a line of purchased iron."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":["$L3","Enterprise Architect"]}],"$L4"],["$L5","$L6","$L7"]]}]]}],"$L8","$L9"]}],["$La","$Lb","$Lc","$Ld"],"$Le"]}],"isPartial":"$@f","staleTime":"$10","varyParams":null},{"rsc":"$L11","isPartial":"$@12","staleTime":"$10","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$10","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$10","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1c:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+21:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+22:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+23:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}]
+4:["$","$L2","solution-architect",{"href":"/jobs/solution-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Solution Architect icon","children":[["$","rect",null,{"x":3,"y":3,"width":18,"height":18,"rx":2}],["$","path",null,{"d":"M3 9h18M3 15h18M9 3v18"}],["$","line",null,{"x1":15,"y1":3,"x2":15,"y2":21}]]}],"Solution Architect"]}]
+5:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+6:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+7:["$","$L2","enterprise-architecture",{"href":"/tags/enterprise-architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-lime-50 text-lime-700 ring-lime-200","children":["#","enterprise-architecture"]}]
+1b:T1089,
+## What this system is
+
+The cloud is a managed utility: you rent compute, storage, and network at *region* scale instead of owning data centers. The core mental model — **regions + availability zones (AZs) + service models** — is identical across AWS and Azure even when the names differ.
+
+```mermaid
+flowchart LR
+  App[Your app<br/>deployed across AZs] -- compute --> AZA[Availability zone A]
+  App -- compute --> AZB[Availability zone B]
+  AZA -- primary writes --> DB1[(Managed DB - primary)]
+  AZB -- replica reads --> DB2[(Managed DB - standby)]
+  DB2 -- failover --> DB1
+  DB1 -- "RPO/RTO met" --> OK[Keeps serving<br/>one zone fails]
+```
+
+```mermaid
+flowchart TB
+  subgraph Region["Region: us-east-1 / East US"]
+    direction LR
+    AZ1[Availability zone A<br/>separate building]
+    AZ2[Availability zone B<br/>separate building]
+    AZ3[Availability zone C<br/>separate building]
+  end
+  App[Your app - deployed across 2+ AZs] --> AZ1
+  App --> AZ2
+```
+
+A **region** is a geographic cluster of 2-4+ **availability zones** — independent power, cooling, and fibre. A true cloud deployment tolerates losing one whole AZ and keeps serving. That is the single biggest resilience idea in cloud.
+
+## The three service models
+
+| | IaaS | PaaS | SaaS |
+| --- | --- | --- | --- |
+| You manage | App + some config | App | Nothing but usage |
+| AWS | EC2, VPC | RDS, Lambda, ECS | S3? no — SaaS is like Office 365 |
+| Azure | VMs, VNet | App Service, Functions | SaaS SKUs you consume |
+| Best for | Legacy lift, full control | Ship apps fast, minimal ops | Just-use it |
+
+Your job as a Cloud Engineer is mostly **choosing the model per workload**: databases on IaaS means patching MySQL yourself; on PaaS you get patching, backups, and failover for free — and pay accordingly.
+
+## Shared responsibility model
+
+```mermaid
+flowchart TB
+  subgraph Provider["Cloud provider (AWS / Azure)"]
+    A[Physical security, hardware, network]
+    B[Hypervisor, host patching, managed services]
+  end
+  subgraph You["Customer"]
+    C[Your data, access policies, applications]
+    D[Runtime config on IaaS, IAM, encryption keys]
+  end
+```
+
+The boundary moves depending on the service: with **IaaS** you own OS-to-top; with **PaaS/SaaS** the provider owns almost everything below your code — but *you always* own your data, your IAM, and your key material. "The cloud encrypted it" is never a substitute for your own encryption decisions.
+
+## Designing for failure
+
+```mermaid
+flowchart LR
+  L1[Load balancer across AZs] --> V1[App in AZ A]
+  L1 --> V2[App in AZ B]
+  DB[(Managed DB<br/>multi-AZ replica)]
+  DB -->|failover| DB2[(Standby AZ C)]
+  B2[(Backup policy<br/>RPO/RTO defined)]
+```
+
+Three numbers shape every design: **RPO** (how much data you can lose) and **RTO** (how fast you must be back) and **cost** (what you'll pay for both). Multi-AZ + automated failover shrinks RPO/RTO; backups are the safety net when both fail.
+
+## Cost levers (the art of not overspending)
+
+- **Right-size then autoscale**: most cloud bill statements are runaway idle VMs.
+- **Reserved/commitment plans** for steady load, **spot** for batch/fault-tolerant work.
+- **Storage tiers**: hot/cold/archive — put the audit logs in archive, not hot S3/Blob.
+- **Serverless** (Lambda/Functions) is often the cheapest for spiky workloads and the most expensive for sustained steady load.
+
+## Tester checklist
+
+- Kill/stop one AZ's instances (in a staging account) and verify the app re-serves from the remaining AZs within your RTO.
+- Restore from a backup into a scratch region and confirm RPO is at most your stated window.
+- Verify IAM/RBAC is least-privilege: no cloud-admin on daily users, no giant ALLOW on read buckets.
+- Watch a month of cost report: which two line items most exceed the forecast? Right-size them.
+
+## Related systems
+
+- [AWS core services](../aws-core-services) — the same fundamentals with AWS names
+- [Azure core services](../azure-core-services) — the same fundamentals with Azure names
+- [Cloud networking and hybrid connectivity](../cloud-networking-and-hybrid-connectivity) — how regions talk to each other and your office
+- [Zero Trust architecture](../zero-trust-architecture) — cloud identity and posture at scale8:["$","$L1a",null,{"source":"$1b"}]
+9:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","data-warehouse-lakehouse-architecture",{"href":"/systems/data-warehouse-lakehouse-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Data warehouse and lakehouse architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Warehouse vs data lake vs lakehouse: where curated, governed, analytical data lives, how they differ on storage and schema, and the decisions that make one the right home for your data."}]]}],["$","$L2","oracle-integration-cloud",{"href":"/systems/oracle-integration-cloud","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Oracle Integration Cloud (OIC)"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"OIC's anatomy — integrations, connections, FBDI/file flows, Process Automation, and the VBCS note — and how it connects an Oracle SaaS estate to the rest of the enterprise."}]]}],["$","$L2","togaf-framework",{"href":"/systems/togaf-framework","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"TOGAF and the ADM"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The Architecture Development Method: a repeatable 8-phase cycle for moving from architecture vision to implemented, governed change."}]]}]]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+b:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+c:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+d:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+e:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+11:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cloud computing fundamentals · System Reference"}],["$","meta","1",{"name":"description","content":"Regions, availability zones, service models, the shared responsibility model, and designing for durability without writing a line of purchased iron."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"cloud,architecture,enterprise-architecture,cloud-engineer,enterprise-architect,solution-architect"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/cloud-computing-fundamentals/"}],["$","meta","8",{"property":"og:title","content":"Cloud computing fundamentals · System Reference"}],["$","meta","9",{"property":"og:description","content":"Regions, availability zones, service models, the shared responsibility model, and designing for durability without writing a line of purchased iron."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/cloud-computing-fundamentals/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Cloud computing fundamentals · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Regions, availability zones, service models, the shared responsibility model, and designing for durability without writing a line of purchased iron."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L21","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L22",null,{"parallelRouterKey":"children","template":["$","$L23",null,{}]}]]}]
+19:true
+1e:null
+10:300
+10:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+f:"$undefined"

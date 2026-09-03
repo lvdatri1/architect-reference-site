@@ -1,0 +1,110 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+f:X
+14:X
+14:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Disaster recovery and backup\",\"description\":\"RTO, RPO, and the four DR strategies — backup/restore, pilot light, warm standby, active-active — plus the drills that make the plan true.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/disaster-recovery-and-backup\",\"inLanguage\":\"en\",\"keywords\":\"cloud, architecture, devops, cloud-engineer, enterprise-architect, devops-engineer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"cloud\"},{\"@type\":\"Thing\",\"name\":\"architecture\"},{\"@type\":\"Thing\",\"name\":\"devops\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Disaster recovery and backup\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/disaster-recovery-and-backup\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Disaster recovery and backup"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Disaster recovery and backup"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"RTO, RPO, and the four DR strategies — backup/restore, pilot light, warm standby, active-active — plus the drills that make the plan true."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","cloud-engineer",{"href":"/jobs/cloud-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Cloud Engineer icon","children":["$","path",null,{"d":"M17.5 19a4.5 4.5 0 1 0-.9-8.9 6 6 0 1 0-11.6 2.9A3.6 3.6 0 0 0 5 19h12.5Z"}]}],"Cloud Engineer"]}],["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}],"$L3"],["$L4","$L5","$L6"]]}]]}],"$L7","$L8"]}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"},{"rsc":"$L15","isPartial":"$@16","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@17","rootVaryParams":null,"needsRuntimeRequest":"$@18"}
+19:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1b:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+20:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+21:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+22:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","$L2","devops-engineer",{"href":"/jobs/devops-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"DevOps Engineer icon","children":[["$","path",null,{"d":"M3 3v5h5M21 21v-5h-5"}],["$","path",null,{"d":"M21 8a9 9 0 0 0-15.8-4L3 8M3 16a9 9 0 0 0 15.8 4L21 16"}]]}],"DevOps Engineer"]}]
+4:["$","$L2","cloud",{"href":"/tags/cloud","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","cloud"]}]
+5:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+6:["$","$L2","devops",{"href":"/tags/devops","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-sky-50 text-sky-700 ring-sky-200","children":["#","devops"]}]
+1a:Tff2,
+## What this system is
+
+**Backups** recover *loss* (a deleted table, a bad deploy). **Disaster recovery (DR)** recovers *re-availability* (a whole region, an entire service) — automation plus a plan that turns "the primary is gone" into "traffic keeps serving." Every DR architecture is a trade-off between cost and the two numbers that matter: **RPO** (how much data you can lose) and **RTO** (how long you can be down).
+
+```mermaid
+flowchart LR
+  Data[Data loss tolerance] --> RPO[RPO - minutes / hours / days]
+  Outage[Recovery speed needed] --> RTO[RTO - seconds / minutes / hours]
+  RPO --> Strategy[Choose DR strategy]
+  RTO --> Strategy
+  Strategy --> Cost[Cost it honestly - every level up the ladder is more expensive]
+```
+
+## The four strategies on the ladder
+
+```mermaid
+flowchart LR
+  subgraph Cheap["Cheap to run"]
+    A[Backup + restore] -->|hours| B[Pilot light - small always-on core]
+  end
+  subgraph Expensive["Expensive to run"]
+    subgraph Warm["Pilot light + scaled replicas"]
+      C[Warm standby - runs, not serving]
+      D[Multi-site active-active]
+    end
+  end
+  B --> C
+  C --> D
+```
+
+| Strategy | What exists on standby | RTO/RPO picture | Cost |
+| --- | --- | --- | --- |
+| Backup + restore | Only backups/snapshots | RTO hours, RPO depends on backup cadence | Lowest |
+| Pilot light | Tiniest core (DB replica, load balancer) running | RTO ~1hr, RPO minutes | Low |
+| Warm standby | Full copy running, not serving | RTO tens of minutes, RPO near-zero | Medium |
+| Multi-site active-active | Both sites serving live, traffic split | RTO ~seconds (failover), RPO zero | Highest |
+
+The classic error is skipping the ladder: jumping to "active-active!" as a slogan, then discovering no one knows the runbook and nobody tested the network cutover.
+
+## The DR flow (failover, practiced)
+
+```mermaid
+flowchart LR
+  Primary[Primary region] -->|cadenced backup| Backup[Backups - immutable]
+  Primary -->|sync / async replication| Replica[Replica / standby region]
+  Replica -->|promote on outage| Failover[Failover decision]
+  Backup -->|restore path| Failover
+  Runbook[Runbook + regular drills] -->|verified steps| Failover
+  Failover -->|validated in drill| Serve[RTO met - serving resumes]
+```
+
+## The truths that make a DR plan survive contact
+
+1. **Replication lag is data loss.** "Async replication to the second region" means an outage loses the last N minutes — if that's unacceptable, you need sync, and sync costs latency on every write.
+2. **RPO is not "backup schedule".** Snapshots protect *damage* (ransomware, bad deploy) — a restore from t-minus-3-hours is a loss of 3 hours. Different tools.
+3. **The plan is a lie until it's tested.** An untested failover runbook is a screenplay. Draft and tabletop it, then execute real drills (kill a region in staging first).
+4. **Backups belong off-path of the attackers.** Immutable/air-gapped, versioned, tested-for-restore — because the common destroy path is *inside* the compromised account.
+5. **Return is the second half.** Failover without a tested *failback* plan keeps you "temporarily in the new region" for years.
+
+## Tester checklist
+
+- Run a restore test: pick a random week-old backup and restore it into a scratch environment — it must actually work, not just "look complete."
+- Chaos drill: in staging, cut the primary region and run the runbook with a timer — stopwatch your RTO, measure the real RPO.
+- Verify backup immutability: a compromised admin account cannot delete snapshots/backup copies.
+- Practice failback: return traffic to the primary after recovery, within the same expectations as the forward failover.
+
+## Related systems
+
+- [Cloud computing fundamentals](../cloud-computing-fundamentals) — regions, AZs, and the RPO/RTO concepts this builds on
+- [Cloud landing zones](../cloud-landing-zones) — the foundation DR plans attach to
+- [CI/CD pipelines](../ci-cd-pipelines) — deployments and rollbacks operate on the same RPO/RTO clock
+- [Monitoring and observability](../monitoring-and-observability) — the telemetry that tells you failover happened7:["$","$L19",null,{"source":"$1a"}]
+8:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","monitoring-and-observability",{"href":"/systems/monitoring-and-observability","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Monitoring and observability"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Metrics, logs, and traces: the three pillars, SLOs and alerting, and how CloudWatch, Azure Monitor, Prometheus, and OpenTelemetry fit together."}]]}],["$","$L2","virtualization-and-hypervisors",{"href":"/systems/virtualization-and-hypervisors","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Virtualization and hypervisors"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"How VMs slice one physical host into many isolated machines: hypervisors, guest isolation, overcommit, and how virtualization differs from containers."}]]}],["$","$L2","kubernetes-and-container-orchestration",{"href":"/systems/kubernetes-and-container-orchestration","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Kubernetes and container orchestration"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The control plane and data plane of running containers at scale: pods, deployments, services, scheduling and self-healing, networking, storage, and when Kubernetes is the right (and wrong) answer."}]]}]]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+a:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+b:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+c:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+d:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+10:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Disaster recovery and backup · System Reference"}],["$","meta","1",{"name":"description","content":"RTO, RPO, and the four DR strategies — backup/restore, pilot light, warm standby, active-active — plus the drills that make the plan true."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"cloud,architecture,devops,cloud-engineer,enterprise-architect,devops-engineer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/disaster-recovery-and-backup/"}],["$","meta","8",{"property":"og:title","content":"Disaster recovery and backup · System Reference"}],["$","meta","9",{"property":"og:description","content":"RTO, RPO, and the four DR strategies — backup/restore, pilot light, warm standby, active-active — plus the drills that make the plan true."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/disaster-recovery-and-backup/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Disaster recovery and backup · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"RTO, RPO, and the four DR strategies — backup/restore, pilot light, warm standby, active-active — plus the drills that make the plan true."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L20","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+15:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+18:true
+1d:null
+f:300
+f:C
+17:0
+11:"$undefined"
+13:"$undefined"
+16:"$undefined"
+e:"$undefined"

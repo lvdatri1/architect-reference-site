@@ -1,0 +1,111 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+13:X
+18:X
+18:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Backend web frameworks\",\"description\":\"How a request flows through Express, NestJS, FastAPI, Spring Boot, Rails, and Django: routing, middleware, dependency injection, and sync vs async.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/backend-web-frameworks\",\"inLanguage\":\"en\",\"keywords\":\"web, backend, api, developer, backend, tester\",\"about\":[{\"@type\":\"Thing\",\"name\":\"web\"},{\"@type\":\"Thing\",\"name\":\"backend\"},{\"@type\":\"Thing\",\"name\":\"api\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Backend web frameworks\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/backend-web-frameworks\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Backend web frameworks"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Backend web frameworks"}],["$","span",null,{"className":"mt-2 inline-block rounded-full bg-emerald-100 px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-emerald-700 ring-1 ring-inset ring-emerald-200 dark:bg-emerald-900/40 dark:text-emerald-300 dark:ring-emerald-800","children":"Framework"}],["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"How a request flows through Express, NestJS, FastAPI, Spring Boot, Rails, and Django: routing, middleware, dependency injection, and sync vs async."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}],["$","$L2","backend",{"href":"/jobs/backend","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Backend icon","children":["$L3","$L4","$L5","$L6"]}],"Backend"]}],"$L7"],["$L8","$L9","$La"]]}]]}],"$Lb","$Lc"]}],["$Ld","$Le","$Lf","$L10"],"$L11"]}],"isPartial":"$@12","staleTime":"$13","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$13","varyParams":null},{"rsc":"$L16","isPartial":"$@17","staleTime":"$13","varyParams":"$18"},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$13","varyParams":"$18"}],"isUpgradeableISRFallback":false,"a":"$@1b","rootVaryParams":null,"needsRuntimeRequest":"$@1c"}
+1d:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1f:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+20:"$Sreact.suspense"
+22:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+23:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+24:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+25:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+26:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","rect",null,{"x":2,"y":2,"width":20,"height":8,"rx":2}]
+4:["$","rect",null,{"x":2,"y":14,"width":20,"height":8,"rx":2}]
+5:["$","line",null,{"x1":6,"y1":6,"x2":6.01,"y2":6}]
+6:["$","line",null,{"x1":6,"y1":18,"x2":6.01,"y2":18}]
+7:["$","$L2","tester",{"href":"/jobs/tester","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Tester icon","children":[["$","path",null,{"d":"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"}],["$","path",null,{"d":"m9 11.5 2 2 4-4.5"}]]}],"Tester"]}]
+8:["$","$L2","web",{"href":"/tags/web","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-fuchsia-50 text-fuchsia-700 ring-fuchsia-200","children":["#","web"]}]
+9:["$","$L2","backend",{"href":"/tags/backend","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","backend"]}]
+a:["$","$L2","api",{"href":"/tags/api","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-violet-50 text-violet-700 ring-violet-200","children":["#","api"]}]
+1e:Tf23,
+## What this system is
+
+A backend framework turns "here is an HTTP request" into "here is a behaved response" in a predictable way: **middleware** runs first, a **router** picks a handler, the **controller/service** does the work, and the response goes back out — with error handling, auth, and logging as layers in between.
+
+```mermaid
+flowchart LR
+  Req[HTTP request] --> MW[Middleware chain<br/>logging, auth, body parsing]
+  MW --> RT[Router matches path + method]
+  RT --> CT[Controller / handler]
+  CT --> SV[Service layer - business logic]
+  SV --> DB[(Database / external API)]
+  DB --> SV
+  SV --> CT
+  CT -->|JSON / HTML| Res[Response]
+  MW -->|error handler| Res
+```
+
+## A request through the framework
+
+```mermaid
+flowchart LR
+  Req[HTTP request] -->|enter chain| MW[Middleware<br/>auth, logs, parse]
+  MW -->|pass through| Router[Router<br/>method + path]
+  Router -->|invoke handler| Svc[Controller to service]
+  Svc -->|async IO| DB[(Database / IO)]
+  DB -->|build payload| Res[Serialized response]
+```
+
+## Framework vs library
+
+| | Library (Express, Fastify, Flask) | Framework (NestJS, Spring Boot, Rails, Django, ASP.NET Core) |
+| --- | --- | --- |
+| Who calls whom | Your code calls it per route | It provides a lifecycle; it calls you |
+| Structure | You decide folders/patterns | Conventions + scaffolding baked in |
+| Boilerplate | Minimal at first | More, but consistent across teams |
+| The trade-off | Freedom, drift between devs | Discipline, harder to bend |
+
+The classic first-project algorithm: **few endpoints + a small team → library; a product with many engineers → framework** — so the architecture isn't reinvented per feature.
+
+## The framework map
+
+| Framework | Language | Shape | Stands out for |
+| --- | --- | --- | --- |
+| Express / Fastify | Node.js | Minimal, middleware | APIs, microservices, start-ups of any size |
+| NestJS | Node.js (TS) | Opinionated, DI modules | Structure, decorators, testability |
+| FastAPI | Python | Async, type-driven | Fast iteration, auto OpenAPI docs |
+| Django / Rails | Python / Ruby | Batteries, MVC, admin | CRUD products fast; conventions |
+| Spring Boot | Java/Kotlin | Heavyweight, enterprise | Large orgs, strong typing, DI |
+| ASP.NET Core | C# | High-perf, structured | Windows orgs, high throughput |
+
+## Sync vs async (where the bugs live)
+
+- **Thread-per-request** (Spring/Rails with blocking DB drivers): each request holds a thread. Fine until your pool fills under a slow DB — then requests queue.
+- **Event-loop/async** (Node, Python `asyncio`, Kotlin coroutines): few threads multiplex many requests. Great for IO-bound work; dangerous if a handler blocks the loop with CPU work or a sync call.
+- The bug that bites either way: **blocking the wrong model** — a CPU loop on an async loop, or seconds-long work on a single thread pool.
+
+## Tester checklist
+
+- Verify the full pipeline fires for one request: middleware ran in order, route matched, service called once, response shaped right (inspect logs/body).
+- Confirm a middleware abort short-circuits the whole chain (auth rejection must not reach the controller or DB).
+- Test error handling: an exception in the service must produce the framework's standardized error body, not a raw stack trace.
+- Probe the blocking failure: hammer an endpoint that calls a slow service and confirm throughput degrades predictably (that's the async/latency signature).
+
+## Related systems
+
+- [API request lifecycle](../api-request-lifecycle) — the end-to-end path this framework lives inside
+- [Frontend frameworks and rendering](../frontend-frameworks-and-rendering) — the client that consumes these responses
+- [Webhook integrations](../webhook-integrations) — inbound push traffic your framework must handle idempotently
+- [Message queue delivery](../message-queue-delivery) — offloading work the request can't wait forb:["$","$L1d",null,{"source":"$1e"}]
+c:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","fullstack-frameworks",{"href":"/systems/fullstack-frameworks","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Full-stack frameworks"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Next.js, Nuxt, SvelteKit, Remix: server components, loaders, and actions — one codebase that renders on the server and hydrates on the client."}]]}],["$","$L2","api-request-lifecycle",{"href":"/systems/api-request-lifecycle","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"API request lifecycle"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Follow one HTTP request as it crosses the gateway, application, cache, and database — and trace how the response finds its way back."}]]}],["$","$L2","ecommerce-platform-architecture",{"href":"/systems/ecommerce-platform-architecture","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"E-commerce platform architecture"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"Storefront to store room: catalog, cart, checkout, payments, order management, fulfillment, and the returns loop — and where the money lands in the ERP."}]]}]]}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+e:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+f:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+10:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+11:["$","$L1f",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+14:["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Backend web frameworks · System Reference"}],["$","meta","1",{"name":"description","content":"How a request flows through Express, NestJS, FastAPI, Spring Boot, Rails, and Django: routing, middleware, dependency injection, and sync vs async."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"web,backend,api,developer,backend,tester"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/backend-web-frameworks/"}],["$","meta","8",{"property":"og:title","content":"Backend web frameworks · System Reference"}],["$","meta","9",{"property":"og:description","content":"How a request flows through Express, NestJS, FastAPI, Spring Boot, Rails, and Django: routing, middleware, dependency injection, and sync vs async."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/backend-web-frameworks/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Backend web frameworks · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"How a request flows through Express, NestJS, FastAPI, Spring Boot, Rails, and Django: routing, middleware, dependency injection, and sync vs async."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L24","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+19:["$","$1","c",{"children":[null,["$","$L25",null,{"parallelRouterKey":"children","template":["$","$L26",null,{}]}]]}]
+1c:true
+21:null
+13:300
+13:C
+1b:0
+15:"$undefined"
+17:"$undefined"
+1a:"$undefined"
+12:"$undefined"

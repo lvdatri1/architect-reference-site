@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[22016,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],""]
+11:X
+16:X
+16:C
+0:{"buildId":"qHT15VuPVHIcp0by_077e","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"headline\":\"Wi-Fi mesh networking\",\"description\":\"Many access points, one seamless network: mesh topology, wired vs wireless backhaul, roaming and 802.11r/k/v, and when mesh beats (and loses to) wired APs.\",\"url\":\"https://lvdatri1.github.io/architect-reference-site/systems/wifi-mesh-networking\",\"inLanguage\":\"en\",\"keywords\":\"network, wifi, architecture, network-engineer, endpoint-device-engineer, enterprise-architect, developer\",\"about\":[{\"@type\":\"Thing\",\"name\":\"network\"},{\"@type\":\"Thing\",\"name\":\"wifi\"},{\"@type\":\"Thing\",\"name\":\"architecture\"}],\"author\":{\"@type\":\"Organization\",\"name\":\"System Reference\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"System Reference\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://lvdatri1.github.io/architect-reference-site\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wi-Fi mesh networking\",\"item\":\"https://lvdatri1.github.io/architect-reference-site/systems/wifi-mesh-networking\"}]}"}}],["$","nav",null,{"className":"mb-6 text-sm text-slate-500 dark:text-slate-400","aria-label":"Breadcrumb","children":[["$","$L2",null,{"href":"/","className":"hover:text-indigo-600 dark:hover:text-indigo-400","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","span",null,{"className":"text-slate-700 dark:text-slate-300","children":"Wi-Fi mesh networking"}]]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-4xl","children":"Wi-Fi mesh networking"}],false,["$","p",null,{"className":"mt-3 text-lg leading-relaxed text-slate-600 dark:text-slate-300","children":"Many access points, one seamless network: mesh topology, wired vs wireless backhaul, roaming and 802.11r/k/v, and when mesh beats (and loses to) wired APs."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-1.5","children":[[["$","$L2","network-engineer",{"href":"/jobs/network-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Network Engineer icon","children":[["$","circle",null,{"cx":12,"cy":4.5,"r":2.5}],["$","circle",null,{"cx":5,"cy":18,"r":2.5}],["$","circle",null,{"cx":19,"cy":18,"r":2.5}],["$","path",null,{"d":"M10.7 6.5 6.7 15.7M13.3 6.5l4 9.2"}],["$","line",null,{"x1":7.5,"y1":18,"x2":16.5,"y2":18}]]}],"Network Engineer"]}],["$","$L2","endpoint-device-engineer",{"href":"/jobs/endpoint-device-engineer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Endpoint Device Engineer icon","children":[["$","path",null,{"d":"M5 4.5h14A1.5 1.5 0 0 1 20.5 6v10a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 16V6A1.5 1.5 0 0 1 5 4.5Z"}],"$L3"]}],"Endpoint Device Engineer"]}],"$L4","$L5"],["$L6","$L7","$L8"]]}]]}],"$L9","$La"]}],["$Lb","$Lc","$Ld","$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null},{"rsc":"$L14","isPartial":"$@15","staleTime":"$11","varyParams":"$16"},{"rsc":"$L17","isPartial":"$@18","staleTime":"$11","varyParams":"$16"}],"isUpgradeableISRFallback":false,"a":"$@19","rootVaryParams":null,"needsRuntimeRequest":"$@1a"}
+1b:I[35094,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js","/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js"],"MarkdownContent"]
+1d:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"ViewportBoundary"]
+21:I[97367,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"MetadataBoundary"]
+22:I[27201,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"IconMark"]
+23:I[39756,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+24:I[37457,["/architect-reference-site/_next/static/chunks/22fysa8pwj0vo.js"],"default"]
+:HL["/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","style"]
+3:["$","path",null,{"d":"m2 19.5 4-1.5h12l4 1.5"}]
+4:["$","$L2","enterprise-architect",{"href":"/jobs/enterprise-architect","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Enterprise Architect icon","children":[["$","line",null,{"x1":3,"y1":21,"x2":21,"y2":21}],["$","path",null,{"d":"M5 21V7l7-4 7 4v14"}],["$","path",null,{"d":"M9 21v-4h6v4"}],["$","path",null,{"d":"M9 10V9m-2 1h4"}]]}],"Enterprise Architect"]}]
+5:["$","$L2","developer",{"href":"/jobs/developer","className":"inline-flex items-center gap-1 rounded-full bg-indigo-50 px-2.5 py-0.5 text-xs font-medium text-indigo-700 ring-1 ring-inset ring-indigo-200 transition hover:bg-indigo-100 dark:bg-indigo-900/40 dark:text-indigo-300 dark:ring-indigo-800 dark:hover:bg-indigo-900/60","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","className":"h-3 w-3","role":"img","aria-label":"Developer icon","children":[["$","path",null,{"d":"m16 18 6-6-6-6"}],["$","path",null,{"d":"m8 6-6 6 6 6"}]]}],"Developer"]}]
+6:["$","$L2","network",{"href":"/tags/network","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-cyan-50 text-cyan-700 ring-cyan-200","children":["#","network"]}]
+7:["$","$L2","wifi",{"href":"/tags/wifi","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-emerald-50 text-emerald-700 ring-emerald-200","children":["#","wifi"]}]
+8:["$","$L2","architecture",{"href":"/tags/architecture","className":"inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset transition hover:brightness-95 bg-teal-50 text-teal-700 ring-teal-200","children":["#","architecture"]}]
+1c:T16f8,
+## What this system is
+
+A Wi-Fi mesh is a single logical network made of **many access points (APs)** that coordinate: one SSID, one shared config, and seamless roaming between them. The "mesh" word specifically means APs talk to each other — wired **or** wirelessly — to relay traffic and hand clients off. It's the fix for "big house / thick walls / one router in the corner."
+
+```mermaid
+flowchart TB
+  GW["Gateway / router"] -- Ethernet --> R["Root AP<br/>wired to gateway"]
+  R -- "wireless backhaul" --> S1["Satellite AP<br/>living"]
+  R -- "wireless backhaul" --> S2["Satellite AP<br/>office"]
+  S1 -- "relay hop" --> S3["Satellite AP<br/>upstairs"]
+  S2 -- "client connect" --> DEV["Roaming client"]
+```
+
+```mermaid
+flowchart TB
+  GW[Gateway] -->|wired| R[Root AP]
+  R -->|backhaul radio| S1[Satellite AP 1]
+  R -->|backhaul radio| S2[Satellite AP 2]
+  S1 --> S3[Satellite AP 3 - daisy chain]
+  S1 --> C1[Client]
+  S2 --> C2[Client]
+  S3 --> C3[Client]
+```
+
+## Mesh topology: the tree
+
+```mermaid
+flowchart LR
+  G[Gateway] --> R[Root]
+  R --> S1[Sat 1] --> S4[Sat 4]
+  R --> S2[Sat 2] --> S5[Sat 5]
+  R --> S3[Sat 3] --> S6[Sat 6]
+  C[Client] -.-> S4
+```
+
+A mesh is a **tree** rooted at the gateway. Each satellite connects to exactly one parent (the root or another satellite) and relays. The critical trade-off: every **wireless hop halves (or more) your throughput** — a satellite two hops away is roughly a third to a half the speed of the root AP. This is why "mesh is slow" usually means "someone put a satellite two wireless hops out instead of wiring one of them."
+
+## Backhaul: wired is the cheat code
+
+| Backhaul | Speed reality | Best for |
+| --- | --- | --- |
+| **Wired / Ethernet** | Every AP runs at full line rate — no hop tax | Enterprise, offices, anywhere you can pull cable |
+| **Dedicated radio** | A tri-band mesh uses a separate radio just for backhaul | Home/small office: good compromise |
+| **Shared radio (dual-band)** | Backhaul steals airtime from clients on the same band | Avoid if you can; daisy-chaining two hops is worst |
+
+The rule: **wire every AP you possibly can.** Ethernet backhaul isn't "cheating" — it's the same architecture as enterprise Wi-Fi, and it removes the halving tax entirely. A mesh is only worth the wireless-hop tax where cabling is impossible.
+
+## Roaming: how a client moves between APs
+
+```mermaid
+sequenceDiagram
+  participant C as Client
+  participant AP1 as AP 1
+  participant AP2 as AP 2
+  participant Ctl as Controller (or distributed)
+
+  C->>AP1: connected, RSSI fading
+  C->>AP1: RSSI drops below roam threshold
+  AP1->>Ctl: report weak signal
+  Ctl->>AP2: candidate AP ready
+  C->>AP2: 802.11r fast transition (FT) key exchange
+  C->>AP2: reassociate - short handoff
+  AP2->>C: served, session preserved
+```
+
+Three standards make roaming smooth:
+
+- **802.11r (FT)** — fast BSS transition: pre-shared keys so handoff skips the full re-authentication round-trip (the difference between a "blip" and a dropped call).
+- **802.11k (RM)** — radio resource measurement: APs give the client a list of nearby APs to scan, so it doesn't probe blindly.
+- **802.11v (BSS)** — AP-guided roaming: the network *tells* a sticky client "move to AP 2" instead of waiting for it to decide.
+
+**One SSID everywhere is non-negotiable.** Splitting "attic Wi-Fi" and "office Wi-Fi" into two SSIDs *forces* devices to reconnect and interrupt when moving. One SSID + the three standards above = a client walks through the house without dropping a video call.
+
+## Mesh vs wired APs: which one?
+
+```mermaid
+flowchart LR
+  Q[Can you pull a cable to each location?] -->|yes| W[Wired APs - better speed, simpler]
+  Q -->|no| M[Wireless mesh - fewer wires, hop tax]
+  M --> D{Multiple hops needed?}
+  D -->|1 hop, few APs| H[Great - home mesh]
+  D -->|2+ hops, dense| E[Consider powerline / MoCA / more root APs]
+```
+
+| | Wired APs (enterprise) | Wireless mesh |
+| --- | --- | --- |
+| Peak speed per AP | Full line rate | Halved per wireless hop |
+| Cost/complexity | Cabling + switch + controller | Self-organizing, plug-in |
+| Roaming | Controller-assisted (802.11k/v/r) | Often the same, built-in |
+| When to choose | Offices, anyone who can run cable | Homes, spaces cable can't reach |
+
+## The mistakes repeatedly remembered
+
+- Treating mesh as "more speed": adding satellites *without* wiring them adds coverage but can **reduce** per-client throughput once the wireless backhaul is the bottleneck.
+- Two SSIDs ("Upstairs" / "Downstairs") killing roaming: one network, one name, always.
+- Daisy-chaining three satellites and wondering why the far room is slow — backhaul hops compound.
+- Placing satellites adjacent instead of spaced across the coverage area, so the mesh keeps relaying between neighbors and never actually covers the dead zone.
+
+## Tester checklist
+
+- Roam while streaming a video call: confirm the call holds (802.11r/k/v active) and note the handoff gap.
+- Measure throughput at a satellite one hop away vs the root: expect roughly half — and use that number to decide whether wiring that AP is worth it.
+- Verify one-SSID behavior: move around the home and confirm the device stays on the same network name while switching APs.
+- Stress the backhaul: saturate a satellite's client with traffic and confirm the root AP isn't also stuck (if it is, backhaul is sharing airtime).
+- Check roaming stickiness: a client parked under one AP while a better AP is adjacent should get 802.11v guidance to move.
+
+## Related systems
+
+- [Wi-Fi radio fundamentals](../wi-fi-radio-fundamentals) — the physics every hop inherits
+- [Wi-Fi 6 and 6E](../wifi-6-and-6e) — the protocol that makes crowded mesh tolerable
+- [Network routing and BGP](../network-routing-and-bgp) — the wired routing the mesh plugs into
+- [TCP/IP and TLS](../tcp-ip-and-tls) — the transport sessions that must survive roaming9:["$","$L1b",null,{"source":"$1c"}]
+a:["$","section",null,{"className":"mt-14 border-t border-slate-200 pt-8 dark:border-slate-800","children":[["$","h2",null,{"className":"mb-4 text-lg font-bold text-slate-900 dark:text-white","children":"Related systems"}],["$","div",null,{"className":"grid gap-4 sm:grid-cols-3","children":[["$","$L2","wifi-6-and-6e",{"href":"/systems/wifi-6-and-6e","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Wi-Fi 6 and 6E"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"802.11ax made Wi-Fi parallel: OFDMA, MU-MIMO, Target Wake Time, and the 6 GHz bonanza of 6E — how a crowded network gets faster instead of slower."}]]}],["$","$L2","wi-fi-radio-fundamentals",{"href":"/systems/wi-fi-radio-fundamentals","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"Wi-Fi radio fundamentals"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"How Wi-Fi actually works: 2.4/5/6 GHz bands, channels and coexistence, CSMA/CA half-duplex, MIMO, RSSI/SNR, and WPA security — the physics behind 'why is my Wi-Fi slow'."}]]}],["$","$L2","dhcp-ip-addressing",{"href":"/systems/dhcp-ip-addressing","className":"group rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-slate-900 dark:hover:border-indigo-600","children":[["$","h3",null,{"className":"font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-white dark:group-hover:text-indigo-300","children":"DHCP and IP address management"}],["$","p",null,{"className":"mt-1 text-sm leading-relaxed text-slate-600 dark:text-slate-300 line-clamp-2","children":"The DORA dance that gives every device its address: how DHCP servers lease IPs, hand out default gateway and DNS, and keep networks stable when hardware is ephemeral."}]]}]]}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/architect-reference-site/_next/static/chunks/1ix59xuhq-q14.css","precedence":"next"}]
+c:["$","script","script-0",{"src":"/architect-reference-site/_next/static/chunks/3a78qjaamggso.js","async":true}]
+d:["$","script","script-1",{"src":"/architect-reference-site/_next/static/chunks/39bkzwb1-6ekv.js","async":true}]
+e:["$","script","script-2",{"src":"/architect-reference-site/_next/static/chunks/0j7pgqfag---a.js","async":true}]
+f:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+12:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Wi-Fi mesh networking · System Reference"}],["$","meta","1",{"name":"description","content":"Many access points, one seamless network: mesh topology, wired vs wireless backhaul, roaming and 802.11r/k/v, and when mesh beats (and loses to) wired APs."}],["$","link","2",{"rel":"author","href":"https://lvdatri1.github.io/architect-reference-site"}],["$","meta","3",{"name":"author","content":"System Reference"}],["$","meta","4",{"name":"keywords","content":"network,wifi,architecture,network-engineer,endpoint-device-engineer,enterprise-architect,developer"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"name":"googlebot","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://lvdatri1.github.io/architect-reference-site/systems/wifi-mesh-networking/"}],["$","meta","8",{"property":"og:title","content":"Wi-Fi mesh networking · System Reference"}],["$","meta","9",{"property":"og:description","content":"Many access points, one seamless network: mesh topology, wired vs wireless backhaul, roaming and 802.11r/k/v, and when mesh beats (and loses to) wired APs."}],["$","meta","10",{"property":"og:url","content":"https://lvdatri1.github.io/architect-reference-site/systems/wifi-mesh-networking/"}],["$","meta","11",{"property":"og:locale","content":"en_US"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"Wi-Fi mesh networking · System Reference"}],["$","meta","15",{"name":"twitter:description","content":"Many access points, one seamless network: mesh topology, wired vs wireless backhaul, roaming and 802.11r/k/v, and when mesh beats (and loses to) wired APs."}],["$","link","16",{"rel":"shortcut icon","href":"/globe.svg"}],["$","link","17",{"rel":"icon","href":"/globe.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/globe.svg"}],["$","$L22","19",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+17:["$","$1","c",{"children":[null,["$","$L23",null,{"parallelRouterKey":"children","template":["$","$L24",null,{}]}]]}]
+1a:true
+1f:null
+11:300
+11:C
+19:0
+13:"$undefined"
+15:"$undefined"
+18:"$undefined"
+10:"$undefined"
